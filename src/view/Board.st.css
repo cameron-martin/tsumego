@@ -1,0 +1,19 @@
+.root {
+  width: 50vw;
+  background-color: #deb887;
+}
+
+.columns {
+  display: flex;
+  height: 100%;
+}
+
+.column {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.cell {
+  flex: 1 1 0;
+}

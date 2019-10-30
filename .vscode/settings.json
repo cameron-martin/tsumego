@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
