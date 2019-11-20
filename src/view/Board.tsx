@@ -39,7 +39,7 @@ export default function Board(props: Props) {
                   key={j}
                   row={i}
                   column={j}
-                  state={props.game.getCell(i, j)}
+                  state={props.game.getCell([i, j])}
                   onClick={onCellClick}
                   top={j === 0}
                   bottom={j === props.game.boardSize - 1}

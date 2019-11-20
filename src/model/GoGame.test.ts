@@ -74,7 +74,36 @@ describe('move validation', () => {
     );
   });
 
-  test.todo('suicidal moves are not allowed');
+  test('suicidal moves are not allowed (new group)', () => {
+    let game = GoGame.create(9).playMoves([
+      { player: 'black', position: [0, 1] },
+      { player: 'white', position: 'pass' },
+      { player: 'black', position: [1, 0] },
+    ]);
+
+    expectMoveInvalid(
+      game,
+      { player: 'white', position: [0, 0] },
+      MoveValidationReason.Suicidal,
+    );
+  });
+
+  test('suicidal moves are not allowed (existing group)', () => {
+    let game = GoGame.create(9).playMoves([
+      { player: 'black', position: [0, 1] },
+      { player: 'white', position: [0, 0] },
+      { player: 'black', position: [1, 1] },
+      { player: 'white', position: 'pass' },
+      { player: 'black', position: [2, 0] },
+    ]);
+
+    expectMoveInvalid(
+      game,
+      { player: 'white', position: [1, 0] },
+      MoveValidationReason.Suicidal,
+    );
+  });
+
   test.todo('previous board states are forbidden (ko rule)');
 
   test.each([[-1, 0], [-1, -1], [10, 7]])(
@@ -94,7 +123,7 @@ test('the board starts out empty', () => {
 
   for (let i = 0; i < 9; i++) {
     for (let j = 0; j < 9; j++) {
-      expect(game.getCell(i, j)).toBe('empty');
+      expect(game.getCell([i, j])).toBe('empty');
     }
   }
 });
@@ -104,7 +133,7 @@ test('stones are on the board after being placed', () => {
 
   game = game.playMove({ player: 'black', position: [1, 1] });
 
-  expect(game.getCell(1, 1)).toBe('black');
+  expect(game.getCell([1, 1])).toBe('black');
 });
 
 test('it advances current player', () => {
