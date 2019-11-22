@@ -41,7 +41,20 @@ describe('ending the game', () => {
   });
 });
 
-test.todo('groups are captured when they have no liberties');
+test('groups are captured when they have no liberties', () => {
+  let game = GoGame.create(9);
+
+  game = game.playMoves([
+    { player: 'black', position: [0, 0] },
+    { player: 'white', position: [0, 1] },
+    { player: 'black', position: [5, 5] },
+    { player: 'white', position: [1, 0] },
+  ]);
+
+  expect(game.getCell([0, 0])).toBe('empty');
+  expect(game.capturedStones.white).toBe(1);
+  expect(game.capturedStones.black).toBe(0);
+});
 
 describe('move validation', () => {
   test('the first move must be by black', () => {

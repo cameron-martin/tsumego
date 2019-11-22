@@ -23,7 +23,7 @@ export interface GoMove {
   position: BoardPosition | 'pass';
 }
 
-const nextPlayer = { white: 'black', black: 'white' } as const;
+const otherPlayer = { white: 'black', black: 'white' } as const;
 
 export class GoGame {
   static create(boardSize: number) {
@@ -35,6 +35,10 @@ export class GoGame {
     public readonly ended = false,
     private readonly lastMove: GoMove | null = null,
     private readonly groupCollection = GroupCollection.create(boardSize),
+    public readonly capturedStones: { readonly [K in GoPlayer]: number } = {
+      white: 0,
+      black: 0,
+    },
   ) {}
 
   playMoves(moves: GoMove[]) {
@@ -54,14 +58,33 @@ export class GoGame {
       this.lastMove.position === 'pass';
 
     let groupCollection = this.groupCollection;
+    let capturedStones = this.capturedStones;
     if (move.position !== 'pass') {
-      groupCollection = groupCollection.addStone(
-        move.player,
-        this.getIndex(move.position),
-      );
+      let moveIndex = this.getIndex(move.position);
+
+      groupCollection = groupCollection.addStone(move.player, moveIndex);
+      const adjacentGroups = groupCollection.getAdjacentGroups(moveIndex);
+
+      adjacentGroups.forEach(group => {
+        if (groupCollection.getLibertiesOfGroup(group) === 0) {
+          groupCollection = groupCollection.removeGroup(group);
+          const capturingPlayer = otherPlayer[group.player];
+          capturedStones = {
+            ...capturedStones,
+            [capturingPlayer]:
+              capturedStones[capturingPlayer] + group.indicies.length,
+          };
+        }
+      });
     }
 
-    return new GoGame(this.boardSize, ended, move, groupCollection);
+    return new GoGame(
+      this.boardSize,
+      ended,
+      move,
+      groupCollection,
+      capturedStones,
+    );
   }
 
   validateMove(move: GoMove): MoveValidationReason | null {
@@ -88,7 +111,9 @@ export class GoGame {
         move.player,
         moveIndex,
       );
-      if (newGroupCollection.getLibertiesOfGroup(moveIndex) === 0) {
+      const newGroup = newGroupCollection.getGroupAtIndex(moveIndex)!;
+
+      if (newGroupCollection.getLibertiesOfGroup(newGroup) === 0) {
         return MoveValidationReason.Suicidal;
       }
     }
@@ -97,7 +122,7 @@ export class GoGame {
   }
 
   get currentPlayer() {
-    return nextPlayer[this.lastMove ? this.lastMove.player : 'white'];
+    return otherPlayer[this.lastMove ? this.lastMove.player : 'white'];
   }
 
   getCell(position: readonly [number, number]): CellState {
@@ -157,7 +182,7 @@ class GroupCollection {
     );
   }
 
-  private getAdjacentGroups(index: number) {
+  getAdjacentGroups(index: number) {
     return uniq(
       this.getAdjacentIndexes(index)
         .map(position => this.groupsByIndex.get(position))
@@ -188,16 +213,16 @@ class GroupCollection {
   /**
    * @returns the number of liberties or null if the group does not exist
    */
-  getLibertiesOfGroup(index: number): number | null {
-    const thisGroup = this.groupsByIndex.get(index);
-
-    if (!thisGroup) return null;
-
-    return thisGroup.indicies.reduce(
+  getLibertiesOfGroup(group: Group): number {
+    return group.indicies.reduce(
       (liberties, groupIndex) =>
         liberties + this.getLibertiesOfStone(groupIndex),
       0,
     );
+  }
+
+  getGroupAtIndex(index: number) {
+    return this.groupsByIndex.get(index);
   }
 
   private getLibertiesOfStone(index: number) {
@@ -209,6 +234,13 @@ class GroupCollection {
 
   get(index: number) {
     return this.groupsByIndex.get(index);
+  }
+
+  removeGroup(group: Group) {
+    return new GroupCollection(
+      this.boardSize,
+      this.groupsByIndex.removeAll(group.indicies),
+    );
   }
 }
 
