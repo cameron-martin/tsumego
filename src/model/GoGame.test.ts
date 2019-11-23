@@ -1,15 +1,16 @@
 import { GoGame, MoveValidationReason, GoMove, InvalidMove } from './GoGame';
+import { either } from 'fp-ts';
 
 function expectMoveInvalid(
   game: GoGame,
   move: GoMove,
   reason: MoveValidationReason,
 ) {
-  expect(game.validateMove(move)).toBe(reason);
+  expect(game.playMove(move)).toEqual(either.left(reason));
 
   let hasThrown = false;
   try {
-    game.playMove(move);
+    game.playValidMove(move);
   } catch (e) {
     hasThrown = true;
     expect(e).toBeInstanceOf(InvalidMove);
@@ -26,16 +27,16 @@ describe('ending the game', () => {
 
   test('when both players pass sequentially, the game ends', () => {
     let game = GoGame.create(9);
-    game = game.playMove({ player: 'black', position: 'pass' });
-    game = game.playMove({ player: 'white', position: 'pass' });
+    game = game.playValidMove({ player: 'black', position: 'pass' });
+    game = game.playValidMove({ player: 'white', position: 'pass' });
 
     expect(game).toHaveProperty('ended', true);
   });
 
   test('when both players do not pass sequentially, the game does not end', () => {
     let game = GoGame.create(9);
-    game = game.playMove({ player: 'black', position: 'pass' });
-    game = game.playMove({ player: 'white', position: [1, 1] });
+    game = game.playValidMove({ player: 'black', position: 'pass' });
+    game = game.playValidMove({ player: 'white', position: [1, 1] });
 
     expect(game).toHaveProperty('ended', false);
   });
@@ -44,7 +45,7 @@ describe('ending the game', () => {
 test('groups are captured when they have no liberties', () => {
   let game = GoGame.create(9);
 
-  game = game.playMoves([
+  game = game.playValidMoves([
     { player: 'black', position: [0, 0] },
     { player: 'white', position: [0, 1] },
     { player: 'black', position: [5, 5] },
@@ -54,6 +55,22 @@ test('groups are captured when they have no liberties', () => {
   expect(game.getCell([0, 0])).toBe('empty');
   expect(game.capturedStones.white).toBe(1);
   expect(game.capturedStones.black).toBe(0);
+});
+
+test('capturing is evaluated before suicide', () => {
+  let game = GoGame.create(9).playValidMoves([
+    { player: 'black', position: [5, 2] },
+    { player: 'white', position: [4, 2] },
+    { player: 'black', position: [4, 1] },
+    { player: 'white', position: [3, 1] },
+    { player: 'black', position: [4, 3] },
+    { player: 'white', position: [2, 2] },
+    { player: 'black', position: [5, 6] },
+    { player: 'white', position: [3, 3] },
+    { player: 'black', position: [3, 2] },
+  ]);
+
+  expect(game.getCell([4, 2])).toBe('empty');
 });
 
 describe('move validation', () => {
@@ -70,7 +87,7 @@ describe('move validation', () => {
 
     const move = { player: 'black', position: [1, 1] } as const;
 
-    game = game.playMove(move);
+    game = game.playValidMove(move);
 
     expectMoveInvalid(game, move, MoveValidationReason.OutOfTurn);
   });
@@ -78,7 +95,7 @@ describe('move validation', () => {
   test('cannot play in an occupied space', () => {
     let game = GoGame.create(9);
 
-    game = game.playMove({ player: 'black', position: [1, 1] });
+    game = game.playValidMove({ player: 'black', position: [1, 1] });
 
     expectMoveInvalid(
       game,
@@ -88,7 +105,7 @@ describe('move validation', () => {
   });
 
   test('suicidal moves are not allowed (new group)', () => {
-    let game = GoGame.create(9).playMoves([
+    let game = GoGame.create(9).playValidMoves([
       { player: 'black', position: [0, 1] },
       { player: 'white', position: 'pass' },
       { player: 'black', position: [1, 0] },
@@ -102,7 +119,7 @@ describe('move validation', () => {
   });
 
   test('suicidal moves are not allowed (existing group)', () => {
-    let game = GoGame.create(9).playMoves([
+    let game = GoGame.create(9).playValidMoves([
       { player: 'black', position: [0, 1] },
       { player: 'white', position: [0, 0] },
       { player: 'black', position: [1, 1] },
@@ -144,7 +161,7 @@ test('the board starts out empty', () => {
 test('stones are on the board after being placed', () => {
   let game = GoGame.create(9);
 
-  game = game.playMove({ player: 'black', position: [1, 1] });
+  game = game.playValidMove({ player: 'black', position: [1, 1] });
 
   expect(game.getCell([1, 1])).toBe('black');
 });
@@ -153,8 +170,8 @@ test('it advances current player', () => {
   let game = GoGame.create(9);
 
   expect(game.currentPlayer).toBe('black');
-  game = game.playMove({ player: 'black', position: [1, 1] });
+  game = game.playValidMove({ player: 'black', position: [1, 1] });
   expect(game.currentPlayer).toBe('white');
-  game = game.playMove({ player: 'white', position: [1, 2] });
+  game = game.playValidMove({ player: 'white', position: [1, 2] });
   expect(game.currentPlayer).toBe('black');
 });

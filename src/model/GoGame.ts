@@ -1,4 +1,5 @@
 import Immutable from 'immutable';
+import { either } from 'fp-ts';
 
 export type GoPlayer = 'black' | 'white';
 export type CellState = GoPlayer | 'empty';
@@ -41,15 +42,15 @@ export class GoGame {
     },
   ) {}
 
-  playMoves(moves: GoMove[]) {
-    return moves.reduce<GoGame>((game, move) => game.playMove(move), this);
+  playValidMoves(moves: GoMove[]) {
+    return moves.reduce<GoGame>((game, move) => game.playValidMove(move), this);
   }
 
-  playMove(move: GoMove): GoGame {
+  playMove(move: GoMove): either.Either<MoveValidationReason, GoGame> {
     const validationReason = this.validateMove(move);
 
     if (validationReason != null) {
-      throw new InvalidMove(validationReason);
+      return either.left(validationReason);
     }
 
     const ended =
@@ -63,9 +64,12 @@ export class GoGame {
       let moveIndex = this.getIndex(move.position);
 
       groupCollection = groupCollection.addStone(move.player, moveIndex);
-      const adjacentGroups = groupCollection.getAdjacentGroups(moveIndex);
+      const myGroup = groupCollection.getGroupAtIndex(moveIndex)!;
+      const otherAdjacentGroups = groupCollection
+        .getAdjacentGroups(moveIndex)
+        .filter(group => group !== myGroup);
 
-      adjacentGroups.forEach(group => {
+      otherAdjacentGroups.forEach(group => {
         if (groupCollection.getLibertiesOfGroup(group) === 0) {
           groupCollection = groupCollection.removeGroup(group);
           const capturingPlayer = otherPlayer[group.player];
@@ -76,18 +80,31 @@ export class GoGame {
           };
         }
       });
+      if (groupCollection.getLibertiesOfGroup(myGroup) === 0) {
+        return either.left(MoveValidationReason.Suicidal);
+      }
     }
 
-    return new GoGame(
-      this.boardSize,
-      ended,
-      move,
-      groupCollection,
-      capturedStones,
+    return either.right(
+      new GoGame(this.boardSize, ended, move, groupCollection, capturedStones),
     );
   }
 
-  validateMove(move: GoMove): MoveValidationReason | null {
+  /**
+   * Play a move that is known to be valid. Identical to `playMove`,
+   * but throws if the move is not valid.
+   */
+  playValidMove(move: GoMove) {
+    const result = this.playMove(move);
+
+    if (either.isLeft(result)) {
+      throw new InvalidMove(result.left);
+    }
+
+    return result.right;
+  }
+
+  private validateMove(move: GoMove): MoveValidationReason | null {
     if (this.currentPlayer !== move.player) {
       return MoveValidationReason.OutOfTurn;
     }
@@ -104,17 +121,6 @@ export class GoGame {
 
       if (this.getCell(move.position) !== 'empty') {
         return MoveValidationReason.SpaceOccupied;
-      }
-
-      const moveIndex = this.getIndex(move.position);
-      const newGroupCollection = this.groupCollection.addStone(
-        move.player,
-        moveIndex,
-      );
-      const newGroup = newGroupCollection.getGroupAtIndex(moveIndex)!;
-
-      if (newGroupCollection.getLibertiesOfGroup(newGroup) === 0) {
-        return MoveValidationReason.Suicidal;
       }
     }
 
