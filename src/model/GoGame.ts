@@ -1,5 +1,6 @@
 import Immutable from 'immutable';
 import { either } from 'fp-ts';
+import { countWhere, uniq } from './collections';
 
 export type GoPlayer = 'black' | 'white';
 export type CellState = GoPlayer | 'empty';
@@ -61,7 +62,7 @@ export class GoGame {
     let groupCollection = this.groupCollection;
     let capturedStones = this.capturedStones;
     if (move.position !== 'pass') {
-      let moveIndex = this.getIndex(move.position);
+      const moveIndex = this.getIndex(move.position);
 
       groupCollection = groupCollection.addStone(move.player, moveIndex);
       const myGroup = groupCollection.getGroupAtIndex(moveIndex)!;
@@ -249,8 +250,3 @@ class GroupCollection {
     );
   }
 }
-
-const uniq = <T>(arr: T[]) => Array.from(new Set(arr));
-
-const countWhere = <T>(arr: T[], predicate: (elem: T) => boolean) =>
-  arr.reduce((count, elem) => (predicate(elem) ? count + 1 : count), 0);

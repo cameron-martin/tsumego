@@ -1,5 +1,5 @@
 import { CellState } from '../model/GoGame';
-import React, { useCallback } from 'react';
+import React from 'react';
 import { classes, style } from './BoardCell.st.css';
 
 interface Props {

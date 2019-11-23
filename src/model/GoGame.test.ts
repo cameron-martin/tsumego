@@ -58,7 +58,7 @@ test('groups are captured when they have no liberties', () => {
 });
 
 test('capturing is evaluated before suicide', () => {
-  let game = GoGame.create(9).playValidMoves([
+  const game = GoGame.create(9).playValidMoves([
     { player: 'black', position: [5, 2] },
     { player: 'white', position: [4, 2] },
     { player: 'black', position: [4, 1] },
@@ -75,7 +75,7 @@ test('capturing is evaluated before suicide', () => {
 
 describe('move validation', () => {
   test('the first move must be by black', () => {
-    let game = GoGame.create(9);
+    const game = GoGame.create(9);
 
     const move = { player: 'white', position: [1, 1] } as const;
 
@@ -105,7 +105,7 @@ describe('move validation', () => {
   });
 
   test('suicidal moves are not allowed (new group)', () => {
-    let game = GoGame.create(9).playValidMoves([
+    const game = GoGame.create(9).playValidMoves([
       { player: 'black', position: [0, 1] },
       { player: 'white', position: 'pass' },
       { player: 'black', position: [1, 0] },
@@ -119,7 +119,7 @@ describe('move validation', () => {
   });
 
   test('suicidal moves are not allowed (existing group)', () => {
-    let game = GoGame.create(9).playValidMoves([
+    const game = GoGame.create(9).playValidMoves([
       { player: 'black', position: [0, 1] },
       { player: 'white', position: [0, 0] },
       { player: 'black', position: [1, 1] },
@@ -139,7 +139,7 @@ describe('move validation', () => {
   test.each([[-1, 0], [-1, -1], [10, 7]])(
     'cannot play off the board',
     (x, y) => {
-      let game = GoGame.create(9);
+      const game = GoGame.create(9);
 
       const move = { player: 'black', position: [x, y] } as const;
 
@@ -149,7 +149,7 @@ describe('move validation', () => {
 });
 
 test('the board starts out empty', () => {
-  let game = GoGame.create(9);
+  const game = GoGame.create(9);
 
   for (let i = 0; i < 9; i++) {
     for (let j = 0; j < 9; j++) {
