@@ -1,0 +1,64 @@
+(;
+AB[de][dp][pq][qd][ld][nb][nc][nd][od][pe][oe][qc][rb][pb][qa]
+AW[me][md][mc][of][pf][qe][re][po][dc][ob][oc][pc][pd]
+TR[de]
+C[White's response to Black's
+marked move?
+
+The upper right is the Kajiwara joseki.
+Probably 70% of pros would prefer Black's
+profit to White's influence, but as in
+this game, everything depends on the
+rest of the board.
+
+Source:
+    Go World #37, Autumn 1984, p. 41
+    Cho Chikun  vs.  Nieh Wei-p'ing]
+(;
+W[ee]
+C[Inferior.
+White doesn't make the most of the
+joseki in the upper right.
+
+The upper right edge is open, so
+White's play here, stressing territory
+at the top, is wrong.];
+B[ef];
+W[ed];
+B[dg];
+W[ff];
+B[fg];
+W[gg];
+B[fh];
+W[gh];
+B[fi];
+W[hj]
+LB[mb:a]
+C[White continues with his
+mis-direction in play with 11,
+which should be at A.
+
+After White 11, Black takes
+the key point at A.  With the
+upper right edge open, Black later
+easily invades and wins the game.]
+)
+    (;
+    W[dg]
+    C[Correct.
+
+This pincer works well with
+the White stones from the
+joseki in the upper right.];
+    B[fe];
+    W[fc];
+    B[he];
+    W[hc]
+    TR[mc][md][me]
+    C[Now the 3 marked White
+stones work well to
+separate the Black stones
+on the left and right.]
+    )
+)
+

@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cf][ci][cp][dq][gq][po][pn][qn][qj][oc][pf]
+AB[ck][cn][en][nq][pq][qp][qo][qd][qg][qf][fc][id][lc]
+C[Problem 158. White to play.  
+
+White's two stones in the upper right are floating without a base. How should White strengthen them ? ]
+(;W[qc]
+TR[qf][pf]
+
+TE[2]
+C[Correct Answer.  
+
+Since White exchanged the marked stones before attaching at 1, ... ]
+;B[rc]
+C[... Black is now forced to follow the joseki with 2 ... ]
+;W[pd];B[qe]
+C[... and 4. ]
+;W[qb]
+C[After descending to 5, White has made a base for her stones. All her groups are now safe. <= ]
+)
+(;W[db]
+LB[jq:A]
+C[Failure.  
+
+Territorially, White 1 and White A are big moves, but ... ]
+;B[qc]
+LB[db:1]
+C[... Black will descend at 2 and the two white stones are left floating in the center without a base. Before any other move, White 1 at 2 is absolutely essential. <= ]
+)
+)

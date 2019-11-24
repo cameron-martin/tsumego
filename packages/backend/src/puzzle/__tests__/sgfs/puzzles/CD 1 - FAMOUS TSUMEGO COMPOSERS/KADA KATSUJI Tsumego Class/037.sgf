@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[go][en][dm][cm][bm][am][an][ao][ap][aq][br][bs][fn][gp][fs][fr]AW[bq]
+[bo][bn][cn][dn][do][eo][ep][eq][er][ds][cr]C[B]N[037]AP[MultiGo:4.4.4]SZ[19]AB[fq]
+MULTIGOGM[0]
+
+(;C[黑进攻的第一手很容易，但是，不要低估白的抵抗。
+
+难度：B]N[审题])
+(;B[cp]C[黑1必然]N[正解];W[bp];B[cq]C[黑3也是必然];W[es]C[白4是抵抗的好手];B[cs]
+;W[dq];B[dr]C[劫杀正解。])
+(;B[cp]N[变化1];W[bp];B[cq];W[es];B[dq];W[cs];B[ar];W[dp]C[双活。])
+(;B[cp]N[变化2];W[bp];B[cq];W[dq]LB[ar:A]C[白4不好。白4走A位的变化类似。];B[es]
+;W[ar];B[as];W[dp];B[ar]C[白死。])
+(;B[cq]N[失败1];W[cp])
+(;B[es]N[失败2];W[cp]))

@@ -1,0 +1,29 @@
+(;
+GM[1]
+SZ[19]
+AW[ic][md][nc][od][mb]
+AB[dd][gc][lc][jb][oc][pc][qd][qf]
+LB[jb:1]
+C[Problem 36. White to play.  
+
+How does White respond to Black 1 ? ]
+(;W[kd]
+TE[2]
+C[Correct Answer.  
+
+White 1 is the only move. <= ]
+)
+(;W[ib]
+C[Failure.  
+
+Preventing Black from linking up with 1 fails. ]
+;B[jc];W[id];B[ke]
+LB[jc:2]
+C[Black plays 2 and 4 and the white stones on both sides come under siege. <= ]
+)
+(;W[jc]
+C[Failure. ]
+;B[kc];W[ib];B[ke]
+C[<= ]
+)
+)

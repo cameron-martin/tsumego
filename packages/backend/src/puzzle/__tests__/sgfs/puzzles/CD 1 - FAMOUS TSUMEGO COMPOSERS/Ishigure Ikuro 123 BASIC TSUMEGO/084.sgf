@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[oc][nc][mc][mb][ma][na][oa][pd][pe][qe]AW[nb][ob][pb][qb][pa][pc]
+[qd][rd]N[084]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;C[空间很小，变化有一些。本题考的是基本功。
+
+气紧是白棋的缺陷。]N[审题])
+(;B[rb]N[正解];W[sb]LB[ra:A][rc:B][sc:C]C[白2夹时，黑A则白B，白活；黑B则白C，双活。]
+;B[sc];W[ra];B[sa]C[劫杀正解。])
+(;B[rb]N[变化1];W[ra];B[rc];W[sc];B[sb];W[sd];B[se])
+(;B[rb]N[变化2];W[rc];B[sb];W[sc];B[ra])
+(;B[rc]N[失败];W[rb];B[sd];W[sb]))

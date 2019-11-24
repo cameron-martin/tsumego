@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[ne][me][le][ke][jd][jc][jb][ja][lc][pb][pc][oc]AW[kb][kc][kd][ld]
+[md][mc][nc][ob][oa]N[006]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;C[失败图很容易，这可以作为计算的出发点。
+
+观察棋形，白气非常紧。你的第一感也许就是正解。]
+N[审题])
+(;B[ma]N[正解];W[la];B[ka];W[lb];B[nb])
+(;B[ma]N[变化];W[lb];B[nb])
+(;B[ka]LB[lb:A][la:B]C[黑1冲时，白不能在A位或B位防守]N[失败1];W[ma]C[敌之要点即我之要点。
+
+白活。])
+(;B[pa]N[失败2];W[ma]))

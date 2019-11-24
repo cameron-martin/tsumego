@@ -1,0 +1,67 @@
+(;
+AB[pq][qp][qo][pj][pd][pe][pc][oc][ob][kd][dd][de][cf][bf][ef][ec][cc][cb][jp][co][do][cm]
+AW[cp][dq][ep][po][qn][qf][qd][qb][qc][pb][nc][dc][bc][cd][ce][be][df][dg][cg][bg][dm]
+C[White's response to the marked stone?
+
+Source:
+    "Go World", #31, Spring 1983, p. 25
+    Kobayashi Koichi  vs.  Hane Yasumasa, 7th Kisei Stage 2 Final
+    Iwata Tatsuaki commentary.]
+TR[cm]
+(;
+W[cl]
+C[Inferior.
+White tries to be too aggressive.];
+B[dl];
+W[em];
+B[ck];
+W[bl]
+(;
+B[bk]
+(;
+W[el];
+B[dk];
+W[cn];
+B[bm];
+W[bn];
+B[al];
+W[bo]
+C[And Black easily settles himself.]
+)
+    (;
+    W[bm];
+    B[cn];
+    W[dk];
+    B[el];
+    W[dj];
+    B[bn]
+    C[And Black is untroubled.]
+    )
+)
+    (;
+    B[bm]
+    C[Black could even block on this side.];
+    W[bk];
+    B[dk];
+    W[bj];
+    B[eo];
+    W[fp];
+    B[fo];
+    W[fl];
+    B[gp];
+    W[fj];
+    B[gq]
+    C[And Black is still able to look after his group.]
+    )
+)
+    (;
+    W[dl]
+    C[Correct.  White has to compromise here
+by sliding along the 3rd line.];
+    B[cl];
+    W[ck];
+    B[bk]
+    C[Black is still OK, but White is better off
+than in the other lines.]
+    )
+)

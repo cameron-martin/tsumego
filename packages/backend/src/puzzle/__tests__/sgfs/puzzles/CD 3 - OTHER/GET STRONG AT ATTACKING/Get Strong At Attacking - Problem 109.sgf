@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[cb][dc][eb][ed][jd][jc][kc][jf][qf][qk][qn][dq][eq][cp][cn][cj]
+AB[cc][cd][ce][kd][ld][lf][mc][qd][pd][qp][pq][jp][ch][ep][fp][fq]
+TR[jf]
+C[Problem 109. Black to play.  
+
+White has jumped into the center with the marked stone. What should Black do ? ]
+;B[qi]
+TE[2]
+C[Correct Answer.  
+
+Black is strong above and below, so he can invade White's thin position with 1. ]
+;W[ph];B[pi];W[nh];B[oi];W[oh];B[lh];W[ni]
+C[If White plays the sequence to 8, ... ]
+;B[pk]
+C[... Black leans on the white stone below with 9. Next ... ]
+;W[pl]
+TR[pk]
+C[... White answers the marked stone with 10. ]
+;B[ok];W[mj];B[ol];W[pm];B[rk];W[rl];B[qj];W[ql];B[ml];W[kj];B[ro];W[rj];B[ri];W[sk];B[oo];W[rn]
+C[When White plays 26, her stones are alive, but Black has built up a moyo at the bottom. ]
+;B[jg]
+C[After 27, White's stones are still insecure. <= ]
+)
+)

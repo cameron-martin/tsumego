@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pq][pr][qo][rn][qn]AW[qq][qp][ro][sp][rr]N[093]AP[MultiGo:4.4.4]
+SZ[19]AB[pp]MULTIGOGM[0]
+
+(;C[基本死活。
+
+难度：☆☆]N[审题])
+(;B[sn]C[黑1立下后，白棋就没法成活了]N[正解];W[qr];B[qs];W[rs];B[sr];W[sq];B[rp])
+(;B[sn]N[变化];W[sq];B[qr];W[rs];B[rp])
+(;B[rs]N[失败];W[rq];B[sr];W[qs]))

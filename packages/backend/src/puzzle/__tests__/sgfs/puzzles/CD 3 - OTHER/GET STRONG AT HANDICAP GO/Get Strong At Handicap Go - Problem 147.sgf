@@ -1,0 +1,31 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][ck][oh][pf][qf][lc][le]
+AB[dp][pd][cn][po][qq][pi][qe][nd]
+C[Problem 147. Black to play.  
+
+The black stones in the upper right corner are nearly engulfed by the white stones. What should Black do ? ]
+(;B[ob]
+LB[qc:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a move that you should remember. It is the best way for Black to secure the corner and eliminate all the bad aji of a white invasion at A. ]
+;W[oi]
+C[In response to White 2, ... ]
+;B[pk]
+C[... Black jumps lightly to 3. ]
+;W[oj]
+C[He then ignores White 4 and ... ]
+;B[ci]
+C[... invades the right side with 5. <= ]
+)
+(;B[mb]
+LB[qc:B][ob:A]
+C[Failure.  
+
+Black 1 is an aggressive move which puts pressure on the top, but in this position it is not appropriate because there is nothing to attack. More important, it doesn't secure the corner because the bad aji of White A and B remains. <= ]
+)
+)

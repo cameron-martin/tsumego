@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[lp][kq][jq][jr][ms][qr][rq][qp][pp][op][np]AW[ks][kr][lq][mq][nq]
+[ns][ps][pr][pq]C[83]N[83]AP[MultiGo:4.4.4]SZ[19]AB[mp]MULTIGOGM[0]
+
+(;TR[ns]C[第83题 没有劫争
+
+对白▲的靠，黑应如何进攻？乍一看是成劫争，请造成白不入子而无条件杀白。]
+N[审题])
+(;B[oq]C[黑1先冲是次序]N[正解];W[or];B[lr]LB[mr:A]C[黑3断，白死。白A位不入子。]
+;W[nr];B[js])
+(;B[nr]N[失败1];W[or];B[os];W[mr])
+(;B[lr]N[失败2];W[oq];B[nr];W[mr];B[os];W[or])
+(;B[lr]N[失败3];W[mr];B[oq];W[ls]))

@@ -1,0 +1,10 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[kc][rd][qm][pp]AW[mc][od][qd][re][pj]LB[rd:1]
+[re:2]C[Black to play. White has answered Black's probe at 1 by blocking at 2. How should Black continue?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[qc];W[pd];B[ob]
+(;W[pc];B[mb];W[lb];B[lc];W[nb];B[nc];W[ma];B[md];W[mb];B[pb];W[qb];B[rc];W[rb]
+;B[nd];W[oc];B[oe];W[pf];B[of];W[pg];B[og];W[ph]C[CORRECT Black sacrifices five stones to get thickness in sente.])
+(;W[nb];B[rb];W[sd];B[sc];W[rc]TR[sd]C[CORRECT Good ko for Black. If Black wins the ko, he gets to capture the marked stone reducing White's territory.])
+(;W[lc];B[rb];W[kd]C[CORRECT Black lives in the corner, while White makes thickness on the outside.]))
+(;B[qe];W[pe];B[qf];W[rc];B[rf];W[sd]LB[rj:A][qj:B]C[This is a bad strategy against the one-space enclosure. White's corner is big and Black's stones are heavy. He might live with a very low position after Black A, White B.]))

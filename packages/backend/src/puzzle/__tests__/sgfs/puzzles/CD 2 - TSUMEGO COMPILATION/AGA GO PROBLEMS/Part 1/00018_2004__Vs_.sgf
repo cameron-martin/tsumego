@@ -1,0 +1,108 @@
+(;
+AB[sb][ib][rc][qc][pc][jc][od][nd][md][ld][kd]
+AW[ra][oa][rb][qb][pb][lb][mc][lc]
+C[Black plays.  (professional level problem)
+
+Source:  Jimmy Cha 4p,
+"American GO Journal", Fall 1989.
+But appeared without a solution!
+
+Perhaps somewhat jokingly, Jimmy Cha said a 6-dan
+amateur would need 5 years to solve this problem.];
+
+B[ma]
+(;
+W[na]
+(;
+B[la];
+W[kb]C[Forced]
+(;
+B[ja];
+W[ka];
+B[nb];
+W[nc];
+B[ob];
+W[oc];
+B[pa]
+(;
+W[mb];
+B[oa];
+W[na];
+B[ma];
+W[la];
+B[sc];
+W[na]C[The last half dozen moves or so are forced.];
+B[sa];
+W[qa];
+B[ob]
+C[Simple.
+Pros aren't so tough.]
+)
+    (;
+    W[oa]C[Fails quicker than the main line.];
+    B[jb]
+    )
+)
+    (;
+    B[nb]C[Fails.  Black cannot transpose O18 for K19!];
+    W[nc]
+    (;
+    B[ja]C[Immediate transpose fails.];
+    W[oc];
+    B[ka];
+    W[mb]
+    )
+        (;
+        B[ob];
+        W[oc];
+        B[pa];
+        W[oa]
+        C[White is no longer short of liberties without
+the B-K19, W-L19 exchange.]
+        )
+    )
+)
+    (;
+    B[ob]C[Fails];
+    W[nb];
+    B[oc];
+    W[pa];
+    B[la];
+    W[kb];
+    B[ka];
+    W[ja]
+    )
+    (;
+    B[nb]C[Fails];
+    W[nc];
+    B[ob];
+    W[oc];
+    B[pa];
+    W[oa];
+    B[na];
+    W[la];
+    B[sc];
+    W[mb];
+    B[oa];
+    W[qa];
+    B[oa];
+    W[na]
+    )
+)
+    (;
+    W[la];
+    B[ob];
+    W[nb];
+    B[oc]
+    )
+    (;
+    W[nb];
+    B[la];
+    W[kb];
+    B[ka]
+    )
+    (;
+    W[mb];
+    B[ob]
+    )
+)

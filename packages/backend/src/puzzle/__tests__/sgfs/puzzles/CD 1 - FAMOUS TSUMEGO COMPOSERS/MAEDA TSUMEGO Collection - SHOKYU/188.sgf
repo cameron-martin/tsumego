@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[do][cp][cn][cm][bm][an][gr][er][eq][ep]AW[co][bo][bn][bp][dp][dq]
+[dr][es]N[188]AP[MultiGo:4.4.4]SZ[19]AB[eo]MULTIGOGM[0]
+
+(;LB[bq:A]C[黑A扳必然，关键是后续的进行。
+
+难度：☆☆]N[审题])
+(;B[bq]N[正解];W[br]C[黑1、白2必然的交换];B[ap]LB[ar:A]C[由于角上空间太小，接下来白走A位也无法做活]
+;W[cq];B[ar]C[劫杀正解。])
+(;B[bq]N[变化];W[cq];B[br]C[这样子白不活。]))

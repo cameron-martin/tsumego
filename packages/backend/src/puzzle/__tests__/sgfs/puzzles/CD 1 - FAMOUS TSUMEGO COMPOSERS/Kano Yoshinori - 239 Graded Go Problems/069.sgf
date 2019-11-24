@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 69. Black to play.
+Where should Black capture?]AW[jk][jj][gk][fl][hk][hj][el][dk][cl][ii][gl]PB[ ]PM[1]PW[ ]AB[ek][dl][hl][hi][em][gm][ik][ij][fk][dj][gj]
+(
+;B[fm]C[Correct Answer
+The correct answer is Black 1, taking six white stones.]
+)
+(
+;B[ck]C[Wrong Answer
+If Black takes one stone with 1...]
+;C[...White captures two black stones with 2 and the six white stones can no longer be captured.]W[il]
+)
+
+)

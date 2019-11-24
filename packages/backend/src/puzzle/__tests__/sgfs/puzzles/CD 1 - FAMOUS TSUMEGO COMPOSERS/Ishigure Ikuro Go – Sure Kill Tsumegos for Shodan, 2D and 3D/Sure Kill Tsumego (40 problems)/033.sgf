@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[no][mo][lo][ko][mp][jp][jq][jr][js][ks][qs][qr][qp][pp][ro]AW[kr]
+[kq][lp][mq][mr][ls][ms][np][op][oq][pr]N[033]AP[MultiGo:4.4.4]SZ[19]AB[oo]MULTIGOGM[0]
+
+(;C[白在左边是一只后手眼，因此黑要先手破掉右边的白眼。得到正解相对比较容易吧。]
+N[审题])
+(;B[or]N[正解];W[os];B[nr];W[pq];B[lq])
+(;B[nr]N[失败1];W[lq]LB[kp:A]C[白2走A位不好，气紧];B[or];W[pq];B[ps];W[os];B[ns]
+;W[nq];B[os];W[qq])
+(;B[nr]N[失败1变化];W[kp];B[lr];W[lq];B[or];W[pq];B[ps];W[os];B[ns];W[nq];B[os]
+;W[qq];B[rq])
+(;B[lq]N[失败2];W[nr]))

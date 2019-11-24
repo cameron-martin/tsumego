@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rr][rq][qq][pp][qo][oo][on][nn][mn][ln][ko][kp][kq][kr][ks][lq]AW[lr]
+[lp][lo][mo][no][np][nq][mq][pq][pr][ps][qr]N[039]AP[MultiGo:4.4.4]SZ[19]AB[qs]
+MULTIGOGM[0]
+
+(;C[空间小，选择少。一定要得到正解。]N[审题])
+(;B[oq]LB[op:A][nr:B]C[黑1挖好，对此，白A或B位应都不行]N[正解];W[or];B[nr];W[op]
+;B[mr]C[白死。])
+(;B[nr]C[黑1貌似手筋]N[失败1];W[mr];B[oq];W[op];B[or];W[rs]C[但白6可以提子，这样就活了。])
+(;B[mr]N[失败2];W[nr];B[ls];W[ns])
+(;B[ms]C[黑棋从下边动手是不行的]N[失败3];W[mr];B[ls];W[ns]))

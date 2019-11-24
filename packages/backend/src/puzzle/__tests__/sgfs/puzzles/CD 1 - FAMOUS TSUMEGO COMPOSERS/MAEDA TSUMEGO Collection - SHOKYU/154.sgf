@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[ck][dk][dl][dm][cm][bm][am][bh][bi]AW[ej][ek][el][em][en][dn][co]
+[bn][al][bl][cl][ci][ch][cg][bg][ah][dj]N[154]AP[MultiGo:4.4.4]SZ[19]AB[cj]MULTIGOGM[0]
+
+(;C[黑棋的思路必须有飞跃才行。
+
+难度：☆☆]N[审题])
+(;B[ai]N[正解];W[bj];B[ag];W[aj];B[bk];W[ah];B[ak]LB[bi:A]C[注意A位打吃，白二子接不归。
+
+黑活。])
+(;B[ai]N[变化];W[bk];B[ak])
+(;B[bj]N[失败];W[ai]))

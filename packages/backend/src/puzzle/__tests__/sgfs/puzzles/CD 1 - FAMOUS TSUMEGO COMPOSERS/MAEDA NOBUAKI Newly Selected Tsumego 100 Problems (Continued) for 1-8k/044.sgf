@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[rc][ra][oc]AW[qd][pd][od][nd][nb][ob][rd]N[黑先]AP[MultiGo:4.4.4]
+SZ[19]AB[pb]MULTIGOGM[0]
+
+(;C[审题：看上去空间很小。黑棋要做活，只能抓住白棋的缺陷。]N[审题])
+(;B[sb]N[正解];W[qb];B[qc];W[pc];B[pa]C[这是双方最佳应对。黑活。])
+(;B[sb]N[变化];W[qb];B[qc];W[pa];B[pc];W[qa];B[nc];W[mc];B[rb]C[白棋强硬杀黑是不能成功的。])
+(;B[qb]N[失败];W[sb]))

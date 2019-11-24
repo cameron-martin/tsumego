@@ -1,0 +1,7 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[fp][dp][dk][di][de][ce][pp][cq][iq]AW[bk][cd]
+[fd][qe][cn][en][bp][ec][pc][bd]LB[pc:2][di:1]C[Black to play. After Black jumps to 1, White takes a big point by making a corner enclosure with 2. How should Black take advantage of this White's mistake?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[cl];W[bl];B[cm];W[bm];B[co];W[dn];B[bo];W[bn];B[cj]C[CORRECT Black should attack, keeping White's group eyeless and under attack.])
+(;B[qn];W[ck]C[If Black makes a corner enclosure, White defends by bumping into the black stone. White's stones on the lower left are now secure.])
+(;B[dm];W[dn];B[bl];W[cl];B[ck];W[bm];B[bj];W[al]C[If Black wants to seal off the upper left, he might play like this. However, Black's territory on the left is not so big because it's open to an invasion from above. Most important, White lives on the side after he captures.]))

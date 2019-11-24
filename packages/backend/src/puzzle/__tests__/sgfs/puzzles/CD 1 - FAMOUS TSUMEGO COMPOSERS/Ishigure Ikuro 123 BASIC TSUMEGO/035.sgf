@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nb][na][rc][rd][qe][oe][pe][od]AW[oa][ob][pc][pd][qb][rb][sc]N[035]
+AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;AB[fs][fr][fq][eq][ep][dp][cp][bp]AW[ar][br][cr][er][es][dq]C[观察棋形，是不是与左下角基本死活很类似？]
+N[审题])
+(;B[oc]N[正解];W[sb];B[ra]LB[pb:A][qa:B][qc:C]C[黑3点时，白走A或C位的话，则黑B，白死。]
+;W[qa];B[pb])
+(;B[oc]N[变化1];W[qc];B[pa];W[pb];B[qa])
+(;B[oc]N[变化2];W[pb];B[sb])
+(;B[sb]N[失败];W[pa];B[ra]C[劫。]))

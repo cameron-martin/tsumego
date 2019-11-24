@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[pq][cd][dd][dc][de][gc][hc][ic][fh][ch][dh][ei][ej][cj]
+AB[pd][dp][id][hd][jd][ee][fe][ce][cg][dg][df][eg][eh][fi][gi]
+LB[kc:A][qj:B][qo:C][fq:D]
+C[Problem 148. White to play.  
+
+Black has a thick position in the upper left, but in compensation White has made profit at the top. White has sente and would like to use it to get the most out of this position. Where should she play ? ]
+(;W[qo]
+TE[2]
+C[Correct Answer.  
+
+White goes for territory by making a corner enclosure with 1. ]
+(;B[jc]
+C[If Black turns at 2, ... ]
+;W[qc]
+C[... White invades the corner with 2. <= ]
+)
+(;B[pj]
+C[If Black 2 here, ... ]
+;W[kc]
+C[... White will jump to 3. <= ]
+))
+(;W[kc]
+C[Failure.  
+
+White 1 is a big move, ... ]
+;B[po]
+C[... but Black will approach at 2. <= ]
+)
+(;W[qj]
+C[Failure.  
+
+If White 1 here, ... ]
+;B[po]
+C[... Black will again play 2. White's stones will then be scattered and lack unity, so Black would now be able to utilise his thickness by attacking them. <= ]
+)
+)

@@ -1,11 +1,11 @@
 import P, { Parser } from 'parsimmon';
 
-enum Color {
+export enum Color {
   Black = 'B',
   White = 'W',
 }
 
-enum Double {
+export enum Double {
   Normal = '1',
   Emphasised = '2',
 }
@@ -115,29 +115,47 @@ const propertyParsers = {
   PC: single(simpleText(false)),
   EV: single(simpleText(false)),
   KM: single(real),
+  // Go-specific
+  HA: single(number),
 };
 
-type PropertyType = keyof typeof propertyParsers;
+const unknownPropertyParser = eListOf(text(false));
+
+export type PropertyType = keyof typeof propertyParsers;
 
 type ExtractParserType<T extends Parser<any>> = T extends Parser<infer U>
   ? U
   : never;
 
 type PropertyAux<U extends PropertyType> = U extends any
-  ? { ident: U; value: ExtractParserType<typeof propertyParsers[U]> }
+  ? {
+      type: 'known';
+      ident: U;
+      value: ExtractParserType<typeof propertyParsers[U]>;
+    }
   : never;
 
-type Property = PropertyAux<PropertyType>;
+export type Property =
+  | PropertyAux<PropertyType>
+  | {
+      type: 'unknown';
+      unknownIdent: Exclude<string, PropertyType>;
+      value: string[];
+    };
 
 const propIdent = ucLetter.atLeast(1).tie();
-const property = propIdent.chain(ident => {
-  const parser = Object.prototype.hasOwnProperty.call(propertyParsers, ident)
-    ? propertyParsers[ident as PropertyType]
-    : undefined;
-
-  if (!parser) return P.fail(`Unknown property type ${ident}`);
-
-  return (parser as Parser<any>).map(value => ({ ident, value } as Property));
+const property: Parser<Property> = propIdent.chain(ident => {
+  if (Object.prototype.hasOwnProperty.call(propertyParsers, ident)) {
+    return (propertyParsers[ident as PropertyType] as Parser<any>).map(
+      value => ({ type: 'known', ident, value } as Property),
+    );
+  } else {
+    return unknownPropertyParser.map(value => ({
+      type: 'unknown',
+      unknownIdent: ident,
+      value,
+    }));
+  }
 });
 
 const node: Parser<Node> = P.string(';')
@@ -147,11 +165,11 @@ const node: Parser<Node> = P.string(';')
 
 const sequence = node.sepBy1(P.optWhitespace);
 
-interface Node {
+export interface Node {
   properties: Property[];
 }
 
-interface GameTree {
+export interface GameTree {
   nodes: Node[];
   gameTrees: GameTree[];
 }
@@ -176,8 +194,8 @@ const gameTree: Parser<GameTree> = P.lazy(() =>
 
 const collection = gameTree.sepBy1(P.optWhitespace);
 
-export const parseSgf = (sgf: string) =>
-  collection
-    .skip(P.optWhitespace)
-    .skip(P.eof)
-    .parse(sgf);
+const sgf = collection.skip(P.optWhitespace).skip(P.eof);
+
+export const parseSgf = (sgfFile: string) => sgf.parse(sgfFile);
+
+export const tryParseSgf = (sgfFile: string) => sgf.tryParse(sgfFile);

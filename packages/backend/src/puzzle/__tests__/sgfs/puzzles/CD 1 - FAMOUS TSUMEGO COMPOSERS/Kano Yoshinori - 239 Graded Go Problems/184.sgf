@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[nr][no][lp][mq][oq][op][mo]GN[ ]AB[lq][mp][lo][np][mr]PM[1]C[Problem 184. Black to play.
+How should Black play?]PW[ ]
+(
+;B[kp]C[Correct Answer
+The correct answer is to capture the stone on the outside with Black 1.]
+)
+(
+;B[nq]C[Wrong Answer
+If Black captures a stone with 1 here...]
+;W[mq]C[...a snapback shape arises and White will play 2, capturing three black stones.]
+)
+
+)

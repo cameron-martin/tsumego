@@ -1,0 +1,40 @@
+(;
+GM[1]
+SZ[19]
+AW[nc][cf][bd][hc][ge]
+AB[pj][dj][dp][pd][pp][dd][pf][fd][cc][kd]
+LB[ge:9][kd:8][nc:1][pf:2][cf:3][fd:4][bd:5][cc:6][hc:7]
+C[Problem 65. Black to play.  
+
+How should Black answer White 9 ? ]
+(;B[ff]
+TE[2]
+C[Correct Answer.  
+
+Jumping out to Black 1 makes good shape. ]
+;W[dh]
+C[If White defends the left side with 2, ... ]
+;B[fh]
+C[... Black will jump to 3. ]
+;W[fe]
+C[Black need not worry about White cutting through with 4 ... ]
+;B[ee];W[ef]
+C[... and 6. ]
+;B[df]
+C[Black will atari with 7, ... ]
+;W[eg];B[gd];W[hd];B[he];W[gf];B[fg];W[hf];B[ie]
+C[... then power his way through White's position with the sequence to 15. ]
+;W[if];B[id];W[dg];B[ic]
+C[Up to 19, Black has taken a big profit at the top and dominates the center. <= ]
+)
+(;B[df]
+C[How the game continued.  
+
+Black attached with 1 ... ]
+;W[dg];B[ef]
+C[... and extended to 3. ]
+;W[ch];B[bc]
+LB[ch:4][dg:2]
+C[He then secured the corner with 5. White also secured her stones with 2 and 4 in sente, so this result was less satisfactory for Black. See Problem 69 for the continuation. <= ]
+)
+)

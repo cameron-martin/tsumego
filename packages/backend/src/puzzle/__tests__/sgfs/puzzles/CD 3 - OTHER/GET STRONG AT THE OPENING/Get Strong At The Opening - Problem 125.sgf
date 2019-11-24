@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[db][dc][dd][cg][ch][ci][df][ef][ee][fd][hc][dq][do]
+AB[cc][cd][de][ce][cf][bg][bh][ed][ec][eb][fb][pd][pq]
+LB[jp:C][pk:A][po:B]
+C[Problem 125. Black to play.  
+
+In the upper left corner, Black got profit while White made thickness. What is the best way for Black to counter this thickness ? ]
+(;B[jp]
+TE[2]
+C[Correct Answer.  
+
+Black 1 reduces the power of White's thickness. ]
+;W[po]
+C[If White approaches with 2, ... ]
+;B[qo];W[qn];B[qp];W[pn];B[np]
+C[... Black plays the joseki to 7, taking profit in the lower right. ]
+;W[pj];B[ph]
+C[After 9, Black is ahead in territory. <= ]
+)
+(;B[pk]
+C[Failure.  
+
+Black makes the Chinese-opening formation with 1, but ... ]
+;W[jp]
+C[... White gets a chance to take the vital point of 2. ]
+;B[lp]
+C[If Black now plays 3, ... ]
+;W[kn]
+C[... White plays 4 and a huge moyo emerges in the center. <= ]
+)
+)

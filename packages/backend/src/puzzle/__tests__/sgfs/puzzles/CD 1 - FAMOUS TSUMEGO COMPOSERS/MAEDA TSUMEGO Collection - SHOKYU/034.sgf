@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pc][nc][mc][mb][rc][rd][qe]AW[nb][pb][ob][qc][rb][sb]N[034]AP[MultiGo:4.4.4]
+SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[基本死活。
+
+难度：☆☆]N[审题])
+(;B[na]N[正解];W[oa];B[qa];W[ra];B[qb]C[黑1从外侧缩小眼位是正规杀法。
+
+白死。])
+(;B[na]N[变化];W[oa];B[qa];W[qb];B[ra])
+(;B[qa]N[失败];W[ra]C[本题黑从内部点眼入手，要失败。]))

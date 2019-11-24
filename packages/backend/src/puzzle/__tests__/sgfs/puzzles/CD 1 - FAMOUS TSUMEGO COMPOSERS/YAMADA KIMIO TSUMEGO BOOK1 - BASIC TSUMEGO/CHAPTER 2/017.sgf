@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qd][pd][oe][ne][me][ld][lc][lb][kb][ma][pa][rb][rc]AW[na][mb][mc]
+[nd][ob][pc][qc][qb][qa][ra]N[017]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;C[简单的死活题。测试的破眼的基本功。]N[审题])
+(;B[nc]N[正解];W[oc];B[od])
+(;B[nc]N[变化];W[oc];B[md]C[黑3换在这一侧也行。])
+(;B[od]N[失败];W[nc]LB[oc:A][la:B]C[A、B见合，白活。]))

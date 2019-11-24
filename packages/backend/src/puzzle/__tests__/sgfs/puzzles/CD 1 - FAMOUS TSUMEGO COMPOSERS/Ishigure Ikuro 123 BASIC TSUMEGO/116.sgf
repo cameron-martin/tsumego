@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ob][oe][ne][md][ld][kd][jd][jc][ja][jb][qb][rc][qd]AW[ka][kb][kc]
+[mb][nc][nd][pc][pb][oa]N[116]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;LB[lc:A][od:B]C[白形有缺陷，抓住其缺陷，安排好次序，就能得到正解。黑A或B明显不行，可不予考虑。]
+N[审题])
+(;B[lb]N[正解];W[lc];B[oc];W[od];B[mc];W[nb];B[ma]C[白死。])
+(;B[lb]N[变化];W[lc];B[mc]LB[nb:A][ma:B]C[黑3先打也可。对此，白A则黑B，白死。];W[la]
+;B[na]C[黑5先打一下重要。这样白棋还是死了。])
+(;B[oc]N[失败];W[od];B[lb];W[ma];B[nb];W[na]))

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[me][le][kd][kc][kb][ka][rb][rc][qc][pc][od]AW[la][lb][mc][md][oc]
+[ob][pb][qb]N[014]AP[MultiGo:4.4.4]SZ[19]AB[ne]MULTIGOGM[0]
+
+(;LB[na:A]C[A位是第一感，但能不能成功需要计算确认。这可以作为计算的出发点。]N[审题])
+(;B[lc]N[正解];W[nb];B[nd];W[qa];B[oa];W[na];B[mb]C[死活的原则：首先考虑从外侧压缩眼位。
+
+白死。])
+(;B[lc]N[变化1];W[na];B[mb];W[ma];B[nc])
+(;B[lc]N[变化2];W[nc];B[na])
+(;B[lc]N[变化3];W[mb];B[na];W[nd];B[nb];W[qa];B[oa])
+(;B[na]N[失败1];W[nb];B[lc];W[oa];B[ma];W[mb]C[白活。])
+(;B[qa]N[失败2];W[na])
+(;B[nd]N[失败3];W[na]))

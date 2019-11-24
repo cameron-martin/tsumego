@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nd][md][ld][kd][mc][jc][ic][hc][hb][qb][qc][pc]AW[jb][kc][lc][mb]
+[nc][oc][ob]N[021]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[进攻的选点依然很有限。计算吧。]N[审题])
+(;B[oa]N[正解];W[na];B[pa];W[la];B[kb];W[lb];B[ja])
+(;B[oa]N[变化];W[pa];B[na];W[pb];B[qa];W[nb];B[lb])
+(;B[na]N[失败1];W[oa])
+(;B[lb]N[失败2];W[kb];B[la];W[na])
+(;B[ja]N[失败3];W[ka];B[ia];W[na]))

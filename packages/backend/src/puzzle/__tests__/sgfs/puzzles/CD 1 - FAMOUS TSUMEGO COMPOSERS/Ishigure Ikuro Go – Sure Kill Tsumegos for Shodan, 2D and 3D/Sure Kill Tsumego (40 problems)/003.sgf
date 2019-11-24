@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[mq][mr][no][nn][nm][om][pm][qn][rm][ro][pq][pr][or]AW[pn][on][oo]
+[op][pp][qp][qo][rq][qr][oq][nr]N[003]AP[MultiGo:4.4.4]SZ[19]AB[nq]MULTIGOGM[0]
+
+(;LB[qq:A][rp:B]C[如果认为是黑A白B的进行，那么就太简单了。]N[审题])
+(;B[rs]N[正解];W[qs];B[qq];W[rp];B[rr]C[白死。])
+(;B[rs]N[变化];W[rp];B[qs]C[如果让黑1回家，白在角上做不出眼来。])
+(;B[qq]N[失败];W[rs]LB[rp:A][sr:B]C[接下来，黑A则白B，白活一个尾巴。];B[sr];W[rp]
+C[白棋可粘上];B[rr];W[qs]C[白活。]))

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qc][pc][pe][oe][ne][md][ld][lc][lb][la][ra][rb]AW[ma][mb][mc][nd]
+[od][ob][pb][qb][qa]N[006]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[很简单的死活题。如果得不到正解，说明提高空间很大，\:)]N[审题])
+(;B[oa]N[正解];W[oc];B[nb]LB[na:A]C[白不能走A位，死。])
+(;B[oa]N[变化];W[na];B[nc])
+(;B[oc]N[失败];W[nc]C[曲四活形。]))

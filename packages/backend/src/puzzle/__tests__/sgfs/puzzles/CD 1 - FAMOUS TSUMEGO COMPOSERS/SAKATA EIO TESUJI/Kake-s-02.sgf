@@ -1,0 +1,45 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ho][hp][eq][gq]AB[cl][do][cp][gp][ip][hq][iq]SQ[gp]C[Ex. 2  - Sabaki
+
+W is inconvenienced by the marked cut and a tesuji is called for here.
+Try to find a sabaki suji.]PL[W]
+(;W[fp]LB[fp:1]C[Diag.  1  -  Failure
+
+W 1 ate is a vulgar move.]
+;B[go]LB[go:2][fp:1]C[When B plays nobi 2, W cannot connect on either side ]
+;W[fo]LB[fo:3][go:2][fp:1]C[After W 3  ]
+;B[gn]LB[gn:4][fo:3][go:2][fp:1]C[and B 4 he reluctantly has to part with his stones.
+
+Your Go will not imorove if you invite such shapes.])
+(;W[go]LB[go:1]TR[aa]C[Diag.  2 - Failure
+
+After W 1 ate 
+]
+;B[fp]LB[go:1][fp:2]
+;W[ep]LB[go:1][ep:3][fp:2]C[W plays 3]
+;B[fo]LB[fo:4][go:1][ep:3][fp:2]
+;W[eo]LB[eo:5][fo:4][go:1][ep:3][fp:2]C[and W 5.
+This is a tesuji but it is not appropriate in this position.]
+;B[fn]LB[fn:6][eo:5][fo:4][go:1][ep:3][fp:2]C[B 6 nobi (cont.)]
+;W[en]LB[en:7][fn:6][eo:5][fo:4][go:1][ep:3][fp:2]C[W 7 (cont.)]
+;B[fm]LB[fm:8][en:7][fn:6][eo:5][fo:4][go:1][ep:3][fp:2]C[and B 8
+])
+(;W[fo]LB[fo:1]C[Diag. 3 - Correct
+
+W 1 kake is the correct answer. ]
+(;B[gr]LB[gr:2]C[If B 2 ate, ]
+;W[fq]LB[fq:3]C[W connects at 3 and captures the single stone in good shape.
+Because of W 1 kake it is difficult for the single stone in the centre to move.])
+(;B[fq]LB[fo:1][fq:2]C[Diag. 4 - Variation
+
+If B moves out with 2 ]
+;W[gr]LB[fo:1][fq:2][gr:3]
+;B[fp]LB[fo:1][fp:4][fq:2][gr:3]C[and 4 in answer to W 1, ]
+;W[ep]LB[fo:1][ep:5][fp:4][fq:2][gr:3]C[W sacrifices 2 stones with W 5]
+;B[fr]LB[fo:1][ep:5][fp:4][fq:2][fr:6][gr:3]
+;W[er]LB[fo:1][ep:5][fp:4][fq:2][er:7][fr:6][gr:3]C[and W 7, ]
+;B[hr]LB[fo:1][ep:5][fp:4][fq:2][er:7][fr:6][gr:3][hr:8]
+;W[go]LB[fo:1][go:9][ep:5][fp:4][fq:2][er:7][fr:6][gr:3][hr:8]
+;B[gs]LB[fo:1][go:9][ep:5][fp:4][fq:2][er:7][fr:6][hr:8][gs:10]
+;W[eo]LB[eo:11][fo:1][go:9][ep:5][fp:4][fq:2][er:7][fr:6][hr:8][gs:10]C[and after 11 he has made perfect thickness, whereas B has not made much profit.])))

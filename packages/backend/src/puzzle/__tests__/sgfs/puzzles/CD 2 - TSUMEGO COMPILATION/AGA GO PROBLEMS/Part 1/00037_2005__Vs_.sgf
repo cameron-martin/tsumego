@@ -1,0 +1,52 @@
+(;
+AB[dp][fp][co][ek][ei][ci][df]
+AW[ck][cn][dn]
+C[White plays.
+Source:  "Attack and Defense", Ch. 4, pp. 99-100
+         Akira Ishida & James Davies, Ishi Press]
+(;
+C[Leads to white problems.]
+W[bi];
+B[bj];
+W[cj];
+B[bk]
+)
+    (;
+    W[fn]
+    C[Too slow.];
+    B[em];
+    W[en];
+    B[go]
+    )
+    (;
+    W[fl]
+    (;
+    B[el];
+    W[em];
+    B[fm];
+    W[fn];
+    B[gm];
+    W[gn];
+    B[hm];
+    W[hn]
+    LB[im:a][hp:b] 
+    C[A and B are miai for white.]
+    )
+        (;
+        B[em];
+        W[bo];
+        B[bp];
+        W[el];
+        B[dm];
+        W[dl];
+        B[cm];
+        W[bm];
+        B[cl];
+        W[bl];
+        B[dk];
+        W[cj]
+        LB[bi:a][fn:b] 
+        C[A and B are miai for white.]
+        )
+    )
+)

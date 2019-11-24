@@ -1,0 +1,42 @@
+(;
+AB[ds][er][dq][iq][dp][pp][co][eo][io][bn][cn][pn][cm]
+AW[br][cr][dr][cq][kq][nq][bp][cp][bo][do][ko]
+C[White plays.
+
+Source:
+    Tesuji Dictionary, Vol. 1, Tsuke #71,
+    Segoe Kensaku & Go Seigen, Ishi Press];
+W[hq]
+C[A sparkling tesuji.
+
+No matter how Black responds, White
+takes huge profit.]
+(;
+B[hp]
+C[If Black responds directly to White's
+stone ...];
+W[eq];
+B[ep];
+W[fq]
+C[Black takes a huge loss along the bottom.]
+)
+    (;
+    B[hr]
+    C[Or if Black responds from below ...];
+    W[eq];
+    B[ep];
+    W[fq];
+    B[fr];
+    W[gr]
+    C[Again, Black cannot avoid a huge loss
+along the bottom.]
+    )
+    (;
+    B[fq]
+    C[If Black tries to save the stones to the
+left ...];
+    W[ir]
+    C[White gouges out territory along the bottom
+and supports the stones to the right.]
+    )
+)

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[cg][bg][ag][ak][am][bm][cm][dm][em][di][ci][bi][ai]AW[al][bl][bh]
+[bj][ck][el][ek][ej][ei][eh][eg][dg][cf][bf]N[109]AP[MultiGo:4.4.4]SZ[19]AB[dh]
+MULTIGOGM[0]
+
+(;LB[dk:A]C[黑A挖必然，但要计算清楚白棋的抵抗。
+
+难度：☆☆]N[审题])
+(;B[dk]N[正解];W[dj];B[cj];W[dl];B[bk]C[黑5扑好];W[aj];B[bk];W[ak];B[cl])
+(;B[dk]N[变化];W[dl];B[cl];W[dj];B[bk]))

@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 70. White to play.
+(Please move one step forward to see the problem diagram...)]AW[ge][fi][gg][fh][fe][hd][dd][ef][gc][eg][de][ec][gf]PB[ ]PM[1]PW[ ]AB[gd][hg][dg][gh][eh][df][dh][ed][hf][he][gi][ee][fd]
+;B[fg]C[After Black 1, where should White capture?]
+(
+;C[Correct Answer
+Taking four black stones with 2 is the correct answer.]W[fc]
+)
+(
+;C[Wrong Answer
+If White takes one stone with 2 as here, Black will capture seven white stones by playing below 2 on the next move.]W[ff]
+)
+
+)

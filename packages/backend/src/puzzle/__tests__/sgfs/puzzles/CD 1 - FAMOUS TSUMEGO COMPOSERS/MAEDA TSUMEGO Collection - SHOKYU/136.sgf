@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ch][cg][dg][eh][ei][di][bl][ck][cj]AW[bf][cf][df][ef][eg][bh][bi]
+[fh][fi][fj][ej][dj][dl][cl][bm][cn][ce]N[136]AP[MultiGo:4.4.4]SZ[19]AB[ci]MULTIGOGM[0]
+
+(;LB[bg:A][bj:B]C[黑棋的选择，只有A、B两处。不要低估了白棋的抵抗。
+
+难度：☆☆☆])
+(;B[bj]LB[bg:A]C[黑1挡下后，白棋必须防备A位的弱点]N[正解];W[ah]C[白2曲，顽强];B[ak]
+;W[am];B[bg];W[ag];B[al];W[aj]C[劫活正解。])
+(;B[bg]N[失败];W[bj];B[bk];W[ag])
+(;B[bj]N[变化];W[al];B[bg];W[ag];B[ai]C[这是白的失败图。白没有走出最强手段。]))

@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][cf][dp][rq][qo][pn]
+AB[kq][np][pq][pl][pi][qd][od]
+C[Problem 162. White to play.  
+
+Where should White play in this position ? ]
+(;W[jc]
+TE[2]
+C[Correct Answer.  
+
+White should extend to 1. ]
+;B[lc]
+C[If Black plays the checking extension of 2, ... ]
+;W[je]
+C[... White will exchange 3 ... ]
+;B[le]
+C[... for 4, ... ]
+;W[dk]
+C[... then make a double-wing formation in the upper left. White's moyo is bigger in scale than Black's. <= ]
+)
+(;W[mc]
+C[Failure.  
+
+White 1 is an overplay. ]
+;B[jc]
+C[Black is strong on the right, so he can pincer at 2 and ... ]
+;W[me];B[gc]
+LB[me:3]
+C[... extend to 4 after 3. Black has stabilised his stones at the top, but White's are now floating in the center. <= ]
+)
+)

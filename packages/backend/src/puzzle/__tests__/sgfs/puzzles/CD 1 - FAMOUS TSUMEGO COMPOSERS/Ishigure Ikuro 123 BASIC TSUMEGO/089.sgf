@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[sb][rc][qc][sd][re][rf][pd][pe][oc][nc][mc][md][mf]AW[pg][mg][qg]
+[oe][rg][lf][le][ld][lc][mb][nb][ob][pb][qb][rb][qd][ng][sf][og]N[089]AP[MultiGo:4.4.4]
+SZ[19]AB[me]MULTIGOGM[0]
+
+(;LB[ne:A][of:B]C[黑只有A、B两处可选。得到正解不难，但失败图同样需要计算。]N[审题])
+(;B[of]N[正解];W[nf];B[ne];W[pf];B[od])
+(;B[of]N[变化1];W[pf];B[nf]C[黑活。])
+(;B[of]N[变化2];W[nf];B[ne];W[od];B[pf]C[黑活。])
+(;B[ne]N[失败];W[od];B[of];W[pf]LB[nf:A][qe:B]C[白4打时，黑只能提子。否则，黑A则白B，白死。]
+;B[nd];W[oe]C[白6扑，紧黑的气，重要];B[nf];W[pc];B[od];W[qe]C[黑死。]))

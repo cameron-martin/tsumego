@@ -1,0 +1,42 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dp][jp][qf]
+AB[pq][pk][pd][jd]
+LB[qf:1]
+C[Problem 75. Black to play.  
+
+Black welcomes White's approach at 1. Now he can utilise the power of his Chinese-opening formation to attack White. Where is the strongest move ? ]
+(;B[qe]
+TE[2]
+C[Correct Answer.  
+
+Black should attach at 1, ... ]
+;W[pf]
+C[... forcing White to stand at 2. ]
+;B[nd];W[pi]
+TR[pk]
+C[Because of the marked stone, White can extend only as far as 4. Next, Black will attack the three white stones. <= ]
+)
+(;B[nd]
+C[Failure.  
+
+Black 1 is a bad move. ]
+;W[rd]
+C[White can settle her stones by sliding to 2 ... ]
+;B[qc];W[qi]
+TR[pk]
+C[... and extending to 4. As a result, the marked stone is misplaced and Black's Chinese-opening strategy has fallen apart. <= ]
+)
+(;B[qh]
+C[Failure.  
+
+The pincer of Black 1 is not good. ]
+;W[qc]
+C[White will invade with 2. ]
+;B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc]
+LB[po:A]
+TR[pk]
+C[After White 10, the marked stone is too near the thickness above. This stone would be more efficient if it were at A. <= ]
+)
+)

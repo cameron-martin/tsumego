@@ -1,0 +1,10 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[qd][od][nd][hb][gb][ic][id][jd][kd][ld][md][rb][qb][qc]AW[pb][oc][nc][lc][kc][jc][ib]C[黑先 这个问题是1942年2月作的，我认为在我的死活题中，是最优秀的。没有提示的话，专业高段者也需要很长时间才能解决。]
+
+(;B[na];W[oa];B[mb];W[mc];B[nb];W[pc];B[jb];W[kb];B[ia]C[正解 黑先白死])
+(;B[na];W[nb];B[oa];W[pa];B[mc];W[mb];B[ka];W[jb];B[ja];W[ia];B[lb]C[变化])
+(;B[na];W[pa];B[mc];W[mb];B[nb];W[kb];B[la];W[lb];B[ma]C[变化])
+(;B[mc];W[mb];B[nb];W[na];B[lb];W[ob];B[jb];W[pa]C[失败])
+(;B[mc];W[mb];B[ka];W[kb];B[ia];W[la];B[ja];W[na]C[失败])
+(;B[ka];W[kb];B[ia];W[la];B[ja];W[mb]C[失败])
+(;B[ia];W[ka];B[mc];W[mb];B[lb];W[la];B[nb];W[na]C[失败])
+(;B[ia];W[ka];B[jb];W[kb];B[mb];W[mc];B[pa];W[oa];B[nb];W[ma];B[ob];W[pc];B[na];W[lb]C[失败]))

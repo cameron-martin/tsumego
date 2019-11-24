@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[fh][fg][eg][dg][cg][bg][bj][cj][di]AW[bh][bf][df][cf][ef][ff][gf]
+[gg][gh][gi][gj][fj][ej][dj][ck][bk]N[061]AP[MultiGo:4.4.4]SZ[19]AB[ei]MULTIGOGM[0]
+
+(;C[黑棋防止白一子渡过即可。
+
+难度：☆☆]N[审题])
+(;B[ai]N[正解];W[ah];B[ag])
+(;B[ah]N[失败1];W[ai];B[ag];W[aj])
+(;B[ag]N[失败2];W[ai];B[aj];W[ci]))

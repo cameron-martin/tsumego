@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[dc][gb][ea][ic][ib][ec][fb][ha][cc]GN[ ]AB[eb][fc][db][hc][hb][gc]PM[1]C[Problem 207. Black to play.
+Capture three white stones using oiotoshi.]PW[ ]
+(
+;B[ga]C[Correct Answer
+Black sacrifices a stone with 1...]
+;W[fa]C[...]
+;B[da]C[...and then plays 3. White has loas four stones.]
+)
+(
+;B[da]C[Wrong Answer
+If Black plays at 1 first, he fails...]
+;W[ga]C[... White connects at 2 and his stones are safe.]
+)
+
+)

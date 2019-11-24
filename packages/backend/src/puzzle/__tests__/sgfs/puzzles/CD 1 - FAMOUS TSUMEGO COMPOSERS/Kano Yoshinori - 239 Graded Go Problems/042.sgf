@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]PM[1]C[Problem 42. Black to play.
+Where does Black play to kill the white stones?]GN[ ]AW[eb][ea][ib][ia][fc][ga][fb][hb]PW[ ]PB[ ]AB[gd][dc][ic][ja][db][ed][jc][hd][jb][da][gc][fd]
+(
+;C[Correct Answer
+Black 1 kills the white stones. Eventually, Black will be able to take these stones off the board.]B[gb]
+)
+(
+;C[If White Plays First
+White can give his stones life with 1 if it is his turn to play.]W[gb]
+)
+
+)

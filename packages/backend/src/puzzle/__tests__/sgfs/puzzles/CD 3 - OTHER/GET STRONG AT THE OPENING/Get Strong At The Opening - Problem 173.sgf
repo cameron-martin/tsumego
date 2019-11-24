@@ -1,0 +1,44 @@
+(;
+GM[1]
+SZ[19]
+AW[cp][eq][nc][nd][ne][bc][ce][df]
+AB[pp][od][oc][qd][pf][dh][dc][fd]
+C[Problem 173. Black to play.  
+
+Black has to make an important defensive move. Where is it ? ]
+(;B[ic]
+TE[2]
+C[Correct Answer.  
+
+White's three stones to the right are thick, so Black should extend tightly to 1. ]
+(;W[kc]
+C[If White answers with 2, ... ]
+;B[jq]
+C[... Black will take the big point at 3. <= ]
+)
+(;W[nq]
+LB[ic:1]
+C[Continuation.  
+
+After Black 1, White will probably switch to the lower right and ... ]
+;B[pn];W[pr];B[qq];W[kq]
+C[... play the joseki to 6. ]
+;B[dk]
+C[After exchanging 7 ... ]
+;W[cm]
+C[... for 8, ... ]
+;B[ng]
+C[... Black will attack the three white stones by capping with 9. <= ]
+))
+(;B[jq]
+C[Failure.  
+
+If Black doesn't defend the top, but plays 1 instead, ... ]
+;W[hc]
+C[... White will seize the initiative by attacking with 2. ]
+;B[ge]
+C[When Black runs away with 3, ... ]
+;W[ie]
+C[... White makes territory at the top with 4. <= ]
+)
+)

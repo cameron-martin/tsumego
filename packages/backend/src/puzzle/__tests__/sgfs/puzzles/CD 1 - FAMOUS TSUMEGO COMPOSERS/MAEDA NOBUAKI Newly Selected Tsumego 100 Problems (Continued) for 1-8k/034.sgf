@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[gc][gd][ic][id][jd][kd][lc][mc][mb][fa]AW[ec][ib][ja][kc][jc][kb]
+[lb][eb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[fb]MULTIGOGM[0]
+
+(;C[审题：白棋已有一眼，现在不能让白再成一眼。]N[审题])
+(;B[ha]N[正解];W[hb];B[ga]C[白死。])
+(;B[la]N[失败];W[hb];B[ha];W[gb];B[ga];W[fc]))

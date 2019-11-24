@@ -1,0 +1,40 @@
+(;
+AB[bb][ac][bd][cc][cd][dd][ed][ce][fe][ff][hd][id][ic][kb][nc][pd][rd][ch][dh][di][bh][ck][cm][bm][dq][ep][fo][gn][fm][qn][pj][qj][oi][oh][nk][gi][lp][ln][hm][hl][hk][rp]
+AW[db][dc][ec][fd][gc][hc][ge][gf][gg][eg][dg][eh][ei][bg][bf][ci][ek][dl][dm][dn][co][kd][lf][nf][qf][pg][pi][qi][qp][oq][io][go][gp][oo][hn][im][il][pm]
+
+C[White's response to Black's marked sharp move?
+
+Source:  Go World #29, Autumn 1982, p. 28
+Cho Chikun vs. Kobayashi Koichi
+37th Honinbo Title, game 1]
+TR[rp]
+
+(;
+W[rq]C[Inferior];
+B[pp]
+(;
+W[qq];
+B[op]
+C[Black gets an excellent result.];
+W[po];
+B[np]
+)
+    (;
+    W[pq];
+    B[qo];
+    W[qq]
+    LB[on:A]
+    C[Next, Black will aim at A.]
+    )
+)
+    (;
+    W[ml]
+    C[Correct (game continuation).
+As the other variations show, White has no good answer
+to Black's move, so White counterattacks with a tenuki.];
+    B[jn];
+    W[in];
+    B[qq];
+    W[pp]
+    )
+)

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[mc][mb][ma][sd][rd][qd][pd][od]AW[nb][oa][oc][pc][qb][rc]N[017]AP[MultiGo:4.4.4]
+SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[观察棋形：白棋气很紧，黑在两边都有硬腿。
+
+计算吧，所有的变化。]N[审题])
+(;B[rb]N[正解];W[sb];B[ra];W[qc];B[ob];W[pb];B[qa];W[na];B[sc]C[白死。])
+(;B[rb]N[变化];W[sb];B[ra];W[qa];B[qc];W[sa];B[rb]C[黑5断、7扑是角上破眼的基本手法。])
+(;B[qc]N[失败1];W[rb];B[ob];W[pb];B[na];W[ra])
+(;B[sc]N[失败2];W[sb];B[ra];W[rb];B[qa];W[ob];B[pa];W[qc])
+(;B[sb]N[失败3];W[sc];B[ob];W[pb];B[na];W[ra]))

@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[pd][od][oc][mb][mc][md][rd][se]AW[ob][pc][qc][qb][pa][sd]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[审题：白棋已有一眼，如何破掉另外一只眼。打劫很容易，能不能更进一步？]N[审题])
+(;B[sb]N[正解];W[rb];B[ra]C[白死。])
+(;B[rb]N[失败];W[rc];B[sc];W[sb];B[sa];W[ra]C[成劫，黑进攻失败。]))

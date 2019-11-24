@@ -1,0 +1,37 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fq][gq][iq][dr][er]AB[cq][dq][eq][fr][hr][fs]C[Ex. 6  - Semeai
+
+It is difficult to attack B because of his tobi.
+You should find the vital point without touching that stone.]PL[W]
+;W[gr]LB[gr:1]C[Diag. 1 - Failure
+
+The exchange of W 1 de ]
+;B[gs]LB[gr:1][gs:2]C[and B 2 is not out of place. 
+]
+(;W[ir]LB[gr:1][ir:3][gs:2]C[However, if W now plays osae 3 he cannot win the semeai. ]
+;B[cr]LB[cr:4][gr:1][ir:3][gs:2]C[After B 4, ]
+;W[is]LB[cr:4][gr:1][ir:3][gs:2][is:5]C[W 5 ]
+;B[ds]LB[cr:4][gr:1][ir:5][ds:6][gs:2][is:3]C[and B 6, W loses by one move.
+W's weakness lies in the relationship of W 5 to 1.])
+(;W[es]LB[gr:1][es:3][gs:2]C[Diag. 2 - Failure
+
+W 1 and 3 also fail ]
+;B[hs]LB[gr:1][es:3][gs:2][hs:4]C[after B 4 ]
+;W[ir]LB[gr:1][ir:5][es:3][gs:2][hs:4]C[W 5 ]
+;B[cr]LB[cr:6][gr:1][ir:5][es:3][gs:2][hs:4]C[and B 6.])
+(;W[is]LB[gr:1][gs:2][is:3]C[Diag. 3 - Correct
+
+Looking carefully at the failure in diagram 1, it does seem likely that there is a move out of place. In fact Move 3 has nothing to do with the semeai.
+Therefore, if we omit this and try W 3,  ]
+(;B[cr]LB[cr:4][gr:1][gs:2][is:3]C[W wins after B 4]
+;W[hs]LB[cr:4][gr:1][gs:2][hs:5][is:3]C[with the sashikomi 5.
+This is the correct answer, the tobi being a splendid suji which does not touch the B stone on the outside.])
+(;B[ir]LB[gr:1][ir:4][gs:2][is:3]C[Diag. 4 - Correct
+
+If B comes out at 4 in answer to W 3, 
+]
+;W[es]LB[gr:1][ir:4][es:5][gs:2][is:3]C[after W 5 ]
+;B[hs]LB[gr:1][ir:4][es:5][gs:2][hs:6][is:3]
+;W[jr]LB[gr:1][ir:4][jr:7][es:5][gs:2][hs:6][is:3]C[and 7 ate, B is destroyed.
+The effect of the tobi 3 is wonderful.])))

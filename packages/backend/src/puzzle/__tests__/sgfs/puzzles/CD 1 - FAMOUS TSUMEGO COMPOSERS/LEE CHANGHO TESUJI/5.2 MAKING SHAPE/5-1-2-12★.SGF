@@ -1,0 +1,14 @@
+(;GM[1]AB[cq][cp][cn][gq][jq]AW[eq][eo][go][jo][kq][kp]C[5-1-2-12
+黑先]AP[StoneBase:SGFParser.3.0.1]
+SZ[19]GN[  ]EV[李昌镐精讲围棋手筋 5]HA[0]US[阿浩]SO[《李昌镐围棋基础训练》初级篇、提高篇]
+MULTIGOGM[1]
+;B[er]
+(;W[dr]
+(;B[ep];W[fq];B[fp];W[gp];B[fr];W[dq];B[dp];W[gr];B[hq];W[es];B[cr];W[fs];B[hr])
+(;B[dq];W[fr];B[ep];W[fq];B[fp];W[gp];B[gr];W[es];B[cr];W[hq];B[hr];W[iq];B[ir]
+;W[jr]C[黑不行。]))
+(;W[fr]
+(;B[fq];W[dr];B[ep];W[dq];B[dp]
+(;W[es];B[fp])
+(;W[fp];B[cr];W[es];B[gr]))
+(;B[ep];W[fq];B[fp];W[gp];B[dp];W[hq]C[黑不行。])))

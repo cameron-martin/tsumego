@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pd][od][nd][md][lc][mb][rc][rd]AW[nb][nc][pc][qc][rb][sb]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[审题：基本死活形。应该掌握。]N[审题])
+(;B[pa]C[黑1点是急所]N[正解];W[ob]C[白棋必须阻止黑1回家];B[qb];W[pb];B[ra]C[劫杀正解])
+(;B[pa]N[变化];W[ob];B[qb];W[ra];B[na];W[oa];B[oc])
+(;B[na]N[失败1];W[pa];B[qa];W[ob])
+(;B[ob]N[失败2];W[oc];B[na];W[pb];B[oa];W[pa]))

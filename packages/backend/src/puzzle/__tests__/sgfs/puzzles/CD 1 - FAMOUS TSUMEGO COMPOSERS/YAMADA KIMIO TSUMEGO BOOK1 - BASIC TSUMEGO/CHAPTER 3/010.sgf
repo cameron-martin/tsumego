@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pd][pc][nd][nc][nb][na][sb][rd]AW[ob][pb][qc][rc][sc][ra]N[010]AP[MultiGo:4.4.4]
+SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[很基本的死活题。]N[审题])
+(;B[qb]N[正解];W[rb];B[pa]C[白死。])
+(;B[qb]N[变化1];W[qa];B[oa];W[pa];B[rb])
+(;B[qb]N[变化2];W[qa];B[rb]C[黑3接上也行，叫吃];W[sa];B[oa])
+(;B[oa]N[失败];W[pa]))

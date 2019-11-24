@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 38. Black to play.
+What is Black's best move?]AW[ei][el][fk][cl][ej]PB[ ]PM[1]PW[ ]AB[ek][dl][ck][dj][gj][ch]
+(
+;B[dk]C[Correct Answer
+Black should connect at 1 so that White cannot start a ko fight.]
+)
+(
+;B[fl]C[Wrong Answer
+If Blacks plays at 1...]
+;C[...White starts a ko. Black is at disadvantage.]W[dk]
+)
+
+)

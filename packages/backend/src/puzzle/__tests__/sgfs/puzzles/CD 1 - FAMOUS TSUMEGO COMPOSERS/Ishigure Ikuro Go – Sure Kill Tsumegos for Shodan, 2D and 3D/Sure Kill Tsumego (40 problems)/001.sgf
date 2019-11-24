@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[rn][qm][pm][om][mn][mp][np][mq][mr][rr][rq][rp]AW[nq][oq][op][oo]
+[pp][pn][qn][qo][qq][qr]N[001]AP[MultiGo:4.4.4]SZ[19]AB[ro]MULTIGOGM[0]
+
+(;LB[on:A][qp:B]C[黑棋的选择不多，或者A，或者B，或者从下边破眼。]N[审题])
+(;B[qp]N[正解];W[on];B[or]C[黑3能够渡过，下边白棋无眼，死。])
+(;B[qp]N[变化];W[nr];B[pr]C[白死。])
+(;B[on]N[失败1];W[qp]C[下边白棋有一眼，活。])
+(;B[pr]N[失败2];W[qs];B[qp];W[on])
+(;B[or]N[失败3];W[nr];B[ns];W[pr];B[os];W[qp]))

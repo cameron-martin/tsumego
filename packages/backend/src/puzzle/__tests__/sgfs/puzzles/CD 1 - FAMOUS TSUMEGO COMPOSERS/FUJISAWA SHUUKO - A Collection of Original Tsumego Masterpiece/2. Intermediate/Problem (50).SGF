@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[mf][md][ld][kc][jb][ic][rb][qc][qd][qe][pe][pa][of][nf]AW[pd][pc][ob][nc][nd][ne][mc][lb]C[黑先 要使一线之子发挥作用。]
+
+(;B[pb];W[oe];B[oc];W[od];B[na];W[nb];B[oa];W[ma];B[lc]C[正解 黑先白死])
+(;B[oa];W[na];B[ma];W[mb]C[失败])
+(;B[na];W[oa];B[pb];W[nb]C[失败]))

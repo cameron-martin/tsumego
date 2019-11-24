@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[sc][sd][se][rd][qd][qe][qc][pd][od][nd][md][ld][ke][lc][pb]AW[qb]
+[rb][nc][sb][mc][lb][kc][kd][le][me][ne][oe][pe][qf][ra][pg][rg][rc][oc][pc]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[rf]MULTIGOGM[0]
+
+(;C[审题：不难的题目。没有提示。]N[审题])
+(;B[mb]C[棋从断处生]N[正解];W[nb];B[oa];W[ma];B[qa]C[黑5扑入成劫，这是正解。])
+(;B[mb]N[失败];W[nb];B[na];W[ma];B[oa];W[qa]))

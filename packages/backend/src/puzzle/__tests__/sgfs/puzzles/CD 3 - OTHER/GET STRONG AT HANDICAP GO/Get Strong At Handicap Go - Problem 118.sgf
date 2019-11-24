@@ -1,0 +1,49 @@
+(;
+GM[1]
+SZ[19]
+AW[qf][nq][er][fq][gp][co][cn][dm][cc][dc][fc][gd][cf]
+AB[dp][pd][pp][dd][jj][kc][nd][qn][cp][eq][dn][en][dq][dr][qj][qe][cd][fd][fe]
+LB[cf:2][cc:8][dc:10][cd:9][fc:4][gd:6][fd:5][fe:7][qe:3][qj:1]
+C[Problem 118. Black to play.  
+
+This position arose from the game in Problem 110. How should Black answer White 10 ? ]
+(;B[ec]
+TE[2]
+C[Correct Answer.  
+
+Black must wedge in with 1 to create defects in White's position. ]
+;W[eb];B[ed];W[gb];B[ge];W[hd]
+C[The moves to White 6 are a joseki. ]
+(;B[di]
+C[Black should now attack the lone white stone on the upper left side with a high pincer at 7, which also aims at the three white stones below. ]
+;W[eg];B[fi];W[gg];B[he];W[ie];B[hg];W[gh];B[if]
+LB[hj:A][je:B]
+C[After 15, White's stones on the upper left are in trouble. If White A, Black will rescue his two stones on the left by attacking the three white stones below. He will then make a huge moyo in the top right with an atari at B. If White B, Black engulfs the four white stones above with A. <= ]
+)
+(;B[ci]
+C[Variation.  
+
+The low pincer of Black 7 is also possible. ]
+;W[dh];B[di];W[eh];B[ch];W[cg];B[ef]
+C[Black 13 gives White bad shape, but ... ]
+;W[eg]
+C[... Black could easily get into trouble in the fighting that would follow, whereas the result in the Correct Answer is clearly good for Black. <= ]
+))
+(;B[hc]
+C[How the game continued.  
+
+Black 1 was bad style. It didn't help Black; ... ]
+;W[gc]
+C[... it only strengthened White's position, eliminating a serious defect. ]
+;B[be];W[bc]
+(;B[bf];W[ch]
+C[After White 6, Black was in trouble. <= ]
+)
+(;B[ch]
+C[If Black had pincered with 5, ... ]
+;W[bf]
+C[... White would then have descended to 6, threatening to link up. ]
+;B[dk]
+C[Black might then have pincered at 7 and a difficult fight would have followed. <= ]
+))
+)

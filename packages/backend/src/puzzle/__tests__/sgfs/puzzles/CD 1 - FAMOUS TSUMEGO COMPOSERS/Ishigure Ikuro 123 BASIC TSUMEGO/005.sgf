@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qf][qg][pg][og][nf][me][ld][lc][lb][mb][ma][na][rb][rc][qc]AW[oa]
+[ob][nb][mc][nd][pf][pe][pd][pc][qb][ra]N[005]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[可以先从失败图入手。]N[审题])
+(;B[nc]N[正解];W[oe];B[md];W[oc];B[ne]C[劫杀正解。])
+(;B[nc]N[变化];W[ne];B[md];W[of];B[pb];W[pa];B[oc]C[白死。])
+(;B[oe]LB[md:A]C[黑1或黑A都是在帮助白棋做活。]N[失败];W[od]))

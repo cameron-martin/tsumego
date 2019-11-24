@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][cp]
+AB[pp][pd]
+LB[pd:1][dc:2][cp:4][pp:3]
+C[Problem 37. Black to play.  
+
+When White makes this komoku formation on the left side with 2 and 4, from which side should Black approach ? ]
+;B[ep]
+TE[2]
+C[Correct Answer.  
+
+The high approach of Black 1 in the lower left corner works best with Black's niren-sei formation on the right. ]
+;W[eq];B[fq];W[dq]
+(;B[fp];W[cn]
+C[If the joseki to White 6 is played, ... ]
+;B[jp]
+LB[pj:B][de:A]
+C[... Black makes an ideal extension to 7 at the bottom. A corner enclosure at White A would now seem natural, but Black would make a sanren-sei with B, so ... ]
+;W[qn]
+C[... White plays 8 to prevent this. ]
+;B[ql];W[qq];B[pq];W[qp];B[po];W[rn];B[om]
+C[Still, Black gets a moyo at the bottom when he plays 15. <= ]
+)
+(;B[gp]
+C[Variation.  
+
+In this game, White answered Black 5 ... ]
+;W[dn]
+C[... with 6, so ... ]
+;B[pj]
+C[... Black switched to the right side, making a sanren-sei with 7. ]
+;W[nq]
+C[White then approaches with 8, but ... ]
+;B[lq]
+C[... Black 9 became an ideal move, being both a pincer and an extension from his stones on the left. <= ]
+)
+)

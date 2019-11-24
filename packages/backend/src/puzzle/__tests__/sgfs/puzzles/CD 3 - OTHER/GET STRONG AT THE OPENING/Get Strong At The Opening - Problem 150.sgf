@@ -1,0 +1,45 @@
+(;
+GM[1]
+SZ[19]
+AW[ed][fd][fc][ef][eh][ld][pp][dp][fp]
+AB[cd][dc][ec][cf][hd][nd][qd][cq][bp][cn]
+LB[jd:A][hf:C][ie:B][lf:D]
+TR[nd]
+C[Problem 150. White to play.  
+
+Black has just played the marked stone. How should White take control of the situation at the top ? ]
+(;W[ie]
+TE[2]
+C[Correct Answer.  
+
+White should play the shoulder hit of 1. Black will now find it hard to escape with his stone at the top. <= ]
+)
+(;W[jd]
+C[Failure.  
+
+If White plays 1 here, ... ]
+;B[hb]
+LB[hf:A]
+C[... Black jumps down to 2, threatening to link up to his stones on the left, then jumps to A. <= ]
+)
+(;W[hf]
+C[Failure.  
+
+If White caps with 1, ... ]
+;B[jd]
+C[... Black can jump to 2. <= ]
+)
+(;W[lf]
+C[Failure.  
+
+White plays on a large scale when she jumps to 1, ... ]
+;B[hg]
+C[... but when Black jumps out into the center, White finds her stones at the top split apart. ]
+;W[jp]
+C[White plays 3 to restore the territorial balance, but ... ]
+;B[jd]
+C[... Black secures his stones with 4 ... ]
+;W[lb];B[jf]
+C[... and 6. White has a lost game. <= ]
+)
+)

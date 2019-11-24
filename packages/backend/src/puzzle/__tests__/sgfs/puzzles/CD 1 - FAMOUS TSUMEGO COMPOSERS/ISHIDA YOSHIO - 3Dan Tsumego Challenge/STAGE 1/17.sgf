@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[nr][os][qq][qo][ro][so][pp][np][op]AW[rr][qr][ps][pq][oq][qp][rp]
+[sp]C[17]N[17]AP[MultiGo:4.4.4]SZ[19]AB[nq]MULTIGOGM[0]
+
+(;TR[qq][qr]C[第17题 成劫争为最佳结果
+
+黑△断入，让白走▲位，最好结果是劫争。
+
+尔后如何走才能走成劫争呢？]
+N[审题])
+(;B[pr]N[正解];W[qs]C[黑1扑，白2只有接上。];B[or]C[黑3先提白二子好，到手的便宜先占。]
+;W[rq];B[sr];W[ss]C[劫。])
+(;B[pr]N[变化1];W[qs];B[sr]LB[or:A]C[黑不在A位提白二子，而先走3位则不够好。];W[rq]
+C[白4提子是先手];B[or];W[ss]C[与正解相比，黑损了。])
+(;B[pr]N[变化2];W[rq]C[白2提子不好];B[qs];W[rs];B[sr]C[白死。]))

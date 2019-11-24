@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[oq][pr][qo][np][mp][lp][lq][lr][sp][rp][qq]AW[mr][mq][nq][or][ns]
+[ps][qr][rr][rq]N[003]AP[MultiGo:4.4.4]SZ[19]AB[pq]MULTIGOGM[0]
+
+(;C[白棋下边是铁眼，黑只能在角上动脑筋。
+
+难度：☆]N[审题])
+(;B[sr]N[正解];W[sq];B[rs]C[劫杀正解。])
+(;B[rs]LB[qs:A][sr:B]C[黑1先走这里托也可以，虽然感觉怪怪的。
+
+对此，白不能走A位，那样黑B，白就死了。
+
+白也不能走B位。]
+N[变化];W[sq];B[sr]C[还原到正解。])
+(;B[sq]N[失败];W[sr]C[只给出一个失败图。]))

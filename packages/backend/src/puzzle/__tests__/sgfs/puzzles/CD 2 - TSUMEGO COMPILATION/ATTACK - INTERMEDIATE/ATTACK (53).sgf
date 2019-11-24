@@ -1,0 +1,25 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[be][bf][ca][cb][dc][dd][de]
+AW[bb][cf][cg][ci][db][eb][ec][gd]PL[W]C[White to play.
+
+Attack - Seize Opponent's Base]
+(
+;W[ce]
+(
+;B[bd]
+;W[cc]C[RIGHT
+])
+(
+;B[cd]
+;W[bc]C[Black Ok]))
+(
+;W[bd]
+;B[bc])
+(
+;W[cc]
+;B[bc])
+(
+;W[bc]
+;B[cc]
+;W[ce]
+;B[bd]))

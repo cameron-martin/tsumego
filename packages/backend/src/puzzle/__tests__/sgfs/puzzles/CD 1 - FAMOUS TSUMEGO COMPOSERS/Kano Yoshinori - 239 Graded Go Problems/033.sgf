@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]PM[1]C[Problem 33. Black to play.
+How can Black keep the two groups of white stones separated?]GN[ ]AW[hk][dk][el][cl][ij][gl]PW[ ]PB[ ]AB[cj][fl][fj][fi][fk][bl][di][bk]
+(
+;C[Correct Answer
+When Black plays 1 White is unable to link up his stones. Playing to the left or right of 1 also accomplishes the same purpose.]B[fm]
+)
+(
+;C[If White Plays First
+If it is White's turn to play, he can link up his stones by playing underneath at 1.]W[fm]
+)
+
+)

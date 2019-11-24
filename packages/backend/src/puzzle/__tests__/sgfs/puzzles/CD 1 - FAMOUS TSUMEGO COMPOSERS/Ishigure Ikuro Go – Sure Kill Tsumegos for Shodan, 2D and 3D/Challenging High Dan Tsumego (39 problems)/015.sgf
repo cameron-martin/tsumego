@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qq][qp][pp][op][np][oo][on][nn][mo][mr][qr]AW[kq][kr][oq][pq][lo]
+[ns][ln][mm][nm][om][pm][qm][po][qo][rp][rq][rr][ms][nr][kp]N[015]AP[MultiGo:4.4.4]
+SZ[19]AB[mq]MULTIGOGM[0]
+
+(;LB[or:A][ls:B]C[黑棋的选择，不外乎A、B两处。]N[审题])
+(;B[ls]N[正解];W[lr];B[or];W[nq];B[pr];W[ks];B[os];W[ls];B[qs]C[这是双方最佳应接。])
+(;B[ls]N[变化];W[lr];B[or];W[pr];B[ps];W[os];B[qs];W[ks];B[nq]C[白被吃三子，损。])
+(;B[or]LB[nq:A][ls:B]C[黑1挤时，白不能在A位接，那样黑B，就还原到正解图]N[失败];W[pr]
+LB[nq:A][os:B]C[白2打好，对此，黑A则白B，没有接不归];B[ps];W[os]C[现在很清楚了，没有接不归]
+;B[qs];W[ls]))

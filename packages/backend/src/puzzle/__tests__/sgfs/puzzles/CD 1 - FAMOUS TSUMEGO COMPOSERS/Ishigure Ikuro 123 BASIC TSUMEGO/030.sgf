@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qd][pe][oe][of][od][nd][me][mf][nf][nc][ob][oa][mb]AW[lb][lc][lg]
+[og][mg][pf][qg][qe][re][pd][pc][pb][oc][lf][qa][rb][kc][ng][le]N[030]AP[MultiGo:4.4.4]
+SZ[19]AB[pa]MULTIGOGM[0]
+
+(;LB[ma:A][nb:B]C[黑只有一眼，边上要做眼的话，黑A则白B。如果白B不能扑的话，边上可以做成一眼。基于这样的思路，要去白角搞事。]
+N[审题])
+(;B[rc]N[正解];W[rd];B[sb];W[qc]C[黑3扳时，白4只能提子];B[ra];W[sa]C[黑劫活。])
+(;B[rc]N[变化];W[rd];B[sb];W[qc];B[ra]LB[sa:A][qb:B]C[以下，白A提子开始打劫。如果黑劫胜，则B位提子活棋。]
+;W[sc]C[白棋不打劫，改走提子];B[qb]C[黑7提子，依然有劫];W[rc]C[白继续退让];B[ma]
+C[黑活。]))

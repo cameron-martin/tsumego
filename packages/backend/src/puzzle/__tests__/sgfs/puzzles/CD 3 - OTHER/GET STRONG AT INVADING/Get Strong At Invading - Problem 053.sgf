@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cc][fd][kc]
+AB[mc][pd][qe][bd][cf][ci]
+C[Problem 53. White to play.  
+
+Black's three stones on the right are a bit thin. Where is the vital point to invade ? ]
+;W[oc]
+TE[2]
+C[Correct Answer.  
+
+White 1 is the vital point. ]
+;B[pc]
+C[After Black answers with 2, ... ]
+(;W[pb];B[od];W[nc];B[nd];W[mb];B[qb];W[ob]
+C[... White will link up with the moves to 9. ]
+;B[md]
+C[<= ]
+)
+(;W[od]
+LB[pc:2]
+C[Failure.  
+
+Answering 2 with 3 is bad. ]
+;B[oe]
+C[Black forces with 4, ... ]
+;W[nd];B[ob];W[nb];B[pb]
+LB[ob:6]
+C[... 6, and 8. ]
+;W[nc]
+C[After 9, White is left with bad shape. <= ]
+)
+)

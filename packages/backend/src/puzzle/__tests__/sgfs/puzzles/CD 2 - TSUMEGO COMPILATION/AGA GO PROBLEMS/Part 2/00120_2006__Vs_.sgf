@@ -1,0 +1,53 @@
+(;
+AB[cr][dq][eq][fq][kq][oq][cp][gp][lp][eo][go][ko][cn][gn][ln][hl][il][jl][kl][bk][ck][dk][fk]
+AW[dr][er][fr][gr][gq][iq][hp][qp][hn][jn][dm][fm][gm][hm][jm][qm][bl][cl]
+C[Black plays.
+
+Source:
+    Tesuji Dictionary, Vol. 1, Tsuke #64,
+    Segoe Kensaku & Go Seigen, Ishi Press]
+(;
+B[ir]
+C[Correct.
+
+Black threatens to make a false eye out
+of the point diagonally up and to the left
+of this stone.];
+W[jr];
+B[jq];
+W[hr];
+B[ip];
+W[ho];
+B[hq]
+C[And Black has a flower-viewing ko.]
+)
+    (;
+    B[jr]
+    C[Fails.];
+    W[ir]
+    (;
+    B[ip]
+    C[Black makes a White eye false, but ...];
+    W[ho];
+    B[jp];
+    W[ds]
+    C[This move saves the day.];
+    B[hq];
+    W[fs];
+    B[hs];
+    W[is]
+    )
+        (;
+        B[ds]
+        C[If Black takes the key point...];
+        W[hs];
+        B[ip]
+        C[And again tries to reduce White to
+one eye...];
+        W[ho];
+        B[hq];
+        W[jp]
+        C[White now has this resource.]
+        )
+    )
+)

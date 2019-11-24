@@ -1,0 +1,40 @@
+(;
+GM[1]
+SZ[19]
+AW[mc][pc][qc][rj][pn][qn][qf]
+AB[dp][pd][pp][dd][qd][oe][me][pj][qo][np]
+LB[qf:3][mc:7][pc:11][qc:9][qd:10][oe:8][me:12][rj:13][pn:5][qn:1]
+LB[np:2][qo:4]
+C[Problem 119. Black to play.  
+
+White 13 slides under the black stone at 6, intending to destroy Black's moyo on the right. How should Black respond ? ]
+(;B[qj]
+TR[rj]
+
+TE[2]
+C[Correct Answer.  
+
+White 13 in the Problem Diagram (the marked stone) is the kind of move that panics a kyu player. We saw one way to play in such a position in the game continuation of Problem 93. Here is a simpler way. Black bumps with 1. His strategy is to stay on top and ... ]
+;W[ri];B[rk];W[rl];B[qk];W[sk];B[qh];W[rh];B[qg];W[rg];B[pf]
+C[... force White into a low position along the second line with the sequence to 11. ]
+;W[re]
+LB[rd:A]
+C[After White 12, Black doesn't mind if White links up to the top with a move on the second line at A. ]
+;B[nn]
+C[Instead, he will take the strategic point of 13 and White will have a hard time breaking into Black's center. In a handicap game, it is always good for Black to force White to make life on the second line in exchange for influence. <= ]
+)
+(;B[nn]
+C[How the game continued.  
+
+Black capped with 1 and ... ]
+;W[qh]
+C[... White defended the right side with 2. ]
+;B[oh]
+LB[oi:A]
+C[Black made influence in the center with 3, but his stones were thin because the threat of White A remained. ]
+;W[iq]
+C[White ended in sente, so she next took up position at the bottom with 4 ... ]
+;B[gq];W[lq]
+C[... and 6. <= ]
+)
+)

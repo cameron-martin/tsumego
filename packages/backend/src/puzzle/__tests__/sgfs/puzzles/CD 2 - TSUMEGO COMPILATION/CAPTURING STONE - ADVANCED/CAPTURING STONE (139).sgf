@@ -1,0 +1,31 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ba][bb][bf][bg][cc][cd][ce]
+AW[ah][bh][cb][cf][cg][ch][db][dc][dd][de]PL[W]C[White to play.
+
+Capturing stones - Via a Ko Fight]
+;W[ad]
+(
+;B[bc]
+;W[be]
+;B[bd]
+;W[af]
+;B[ae]C[RIGHT
+])
+(
+;B[be]
+;W[bc]
+;B[bd]
+;W[ab]
+(
+;B[ac]C[RIGHT
+])
+(
+;B[ae]
+;W[ac]
+;B[aa]
+;W[ac]
+;B[ag]
+;W[bc]C[Black Death]))
+(
+;B[bd]
+;W[ae]C[Black Death]))

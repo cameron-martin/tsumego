@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][jc][lc][pc][qf]
+AB[dc][cf][hc][nc]
+LB[lc:2][nc:1]
+C[Problem 82. Black to play.  
+
+White pincers the marked Black stone with 2. If you've never seen it before, Black's next move might surprise you. ]
+(;B[pe]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is an interesting move. There are other moves, such as attaching at A or B. However, you should not neglect to learn the variation starting with Black 1. <= ]
+)
+(;B[ne]
+C[Failure.  
+
+Simply jumping out with Black 1 ... ]
+;W[pe]
+C[... lets White defend the corner with 2. This is a steady move and there are no longer any weaknesses in White's position. <= ]
+)
+(;B[pd]
+TE[2]
+C[Correct Answer.  
+
+Also possible. <= ]
+)
+(;B[qc]
+TE[2]
+C[Correct Answer.  
+
+Also possible. <= ]
+)
+)

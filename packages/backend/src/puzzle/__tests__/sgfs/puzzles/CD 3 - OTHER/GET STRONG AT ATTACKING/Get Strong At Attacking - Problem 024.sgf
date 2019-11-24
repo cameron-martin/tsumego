@@ -1,0 +1,29 @@
+(;
+GM[1]
+SZ[19]
+AW[db][dc][ce][nd][pc][qc][qf][pg][pj][pk][pl][mk][qm][rm][rn][qn][ro][rp][qq][qr]
+AB[ec][ed][jd][pd][qe][pf][qg][qh][qi][qj][ql][rl][sm][pq][pp][qo][pn][pm][jp][dp]
+TR[mk][pj][pk][pl]
+C[Problem 24. Black to play.  
+
+White's marked stones are vulnerable, but Black's stones at the top are also thin. What should Black do ? ]
+;B[kk]
+TR[pl][pj][pk][mk]
+
+TE[2]
+C[Correct Answer.  
+
+Black should first go after the marked white stones on the right by capping with 1, ... ]
+;W[mi];B[ki]
+C[... drive them towards the top with 3 ... ]
+;W[mg];B[kg]
+C[... and 5. ]
+;W[me];B[df]
+LB[me:6]
+C[After White 6, Black puts pressure on the white stones on the left with 7 ... ]
+;W[cf];B[dg]
+C[... and 9. ]
+;W[cg];B[di];W[dh];B[eh];W[ch];B[ei]
+C[With 15, Black ends in gote, but his stones on the top are no longer thin and he has built a moyo in the center. Black has an overwhelming advantage. <= ]
+)
+)

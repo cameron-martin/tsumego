@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ld][lc][lb][ra][rb][qc][qd][pe][oe][ne]AW[mc][md][nd][od][pc][ob]
+[qb][qa]N[004]AP[MultiGo:4.4.4]SZ[19]AB[me]MULTIGOGM[0]
+
+(;LB[mb:A][nb:B]C[黑A则白B，白活。本题的正解、失败图都要计算清楚。有可能成功的着手不多。]
+N[审题])
+(;B[oa]N[正解];W[na];B[nb];W[pa];B[mb]LB[pd:A][nc:B]C[以下，A、B两点见合，白死。])
+(;B[oa]N[变化];W[nb];B[pb])
+(;B[nb]N[失败1];W[mb];B[oa];W[nc];B[ma])
+(;B[na]N[失败2];W[oa]LB[nb:A]C[白2走A位也能活。];B[nb];W[mb];B[ma];W[nc]))

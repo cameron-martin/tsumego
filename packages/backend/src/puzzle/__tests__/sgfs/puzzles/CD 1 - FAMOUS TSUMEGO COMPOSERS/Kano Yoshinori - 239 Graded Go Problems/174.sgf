@@ -1,0 +1,13 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[fl][fj][hl][hk][fi][hj][fm][hi][hh][fk][gh]GN[ ]AB[ek][em][gg][hg][im][fh][ik][ei][ii][gj][gl][fg][gk][il][el][ij][ej][ih]PM[1]C[Problem 174. White to play and get a seki. (1 move)
+How should White play so that his stones live in seki?]PW[ ]
+(
+;W[hm]C[Correct Answer
+White 1 is the correct answer. White has no way to kill the three black stones so he must settle for a seki.]
+)
+(
+;W[gm]C[Wrong Answer
+If White tries to kill the three black stones, he will not be able to make two eyes and will die.]
+)
+
+)

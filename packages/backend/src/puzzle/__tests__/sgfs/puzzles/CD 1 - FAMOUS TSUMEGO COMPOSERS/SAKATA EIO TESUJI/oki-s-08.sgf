@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fk][bl][cl][el][gl][am][cm][cn][gn][fo][ep][fp][jp][bq][dq][eq][cr][er][bs]AB[bm][em][bn][en][bo][co][do][eo][cp][kp][cq][fq][iq][jq][ar][dr][fr][ds][es]C[Ex. 8  Semeai
+
+First of all you should examine the corner.
+Next, consider whether there is not some flaw in B's watari connection and you will find the sequence to play.
+You should not be satisfied with nibbling away at the lower side.]PL[W]
+(;W[gq]LB[gq:1]TR[aa]C[Diag. 1 - Failure
+
+W 1 hane takes care of the side. ]
+;B[br]LB[gq:1][br:2]C[However, after B cautiously plays 2 ]
+;W[gr]LB[gq:1][br:2][gr:3]
+;B[cs]LB[gq:1][br:2][gr:3][cs:4][fs:A][gs:B]C[and 4 the most W gains is the sente capture at "A".
+If B4 is played at "A" tsugi, W will play ate "B" and cause a snapback.])
+(;W[gs]LB[gs:1]C[Diag. 2 - Correct
+
+From the failure in the previous diagram you will see that W has a certain ammount of flexibility in the corner. 
+W 1 oki is a splendid suji, making use of this fact. ]
+(;B[br]LB[br:2][gs:1]C[If B 2 kiri, ]
+;W[fs]LB[br:2][fs:3][gs:1]C[W 3 can capture 3 stones, and at the same time B has no eyes on the left hand side.
+He is totally destroyed.])
+(;B[gr]LB[gr:2][gs:1]C[Diag. 3 Correct
+
+If B 2 osae in reply to W 1 oki, ]
+;W[cs]LB[gr:2][cs:3][gs:1]C[W plays 3 ]
+;B[fs]LB[gr:2][cs:3][fs:4][gs:1]
+;W[hr]LB[gr:2][hr:5][cs:3][fs:4][gs:1]C[and 5 and he can capture 7 B stones.])
+(;LB[gs:1]PL[B]
+(;W[gq]LB[gq:2]C[Disregard this ^_^])
+(;B[fs]LB[fs:2][gs:1]C[Diag. 4 - Correct
+
+B 2 tsugi in answer to W 1 is also of no avail ]
+;W[gq]LB[gq:3][fs:2][gs:1]C[After W 3 hane B is again captured.]))))

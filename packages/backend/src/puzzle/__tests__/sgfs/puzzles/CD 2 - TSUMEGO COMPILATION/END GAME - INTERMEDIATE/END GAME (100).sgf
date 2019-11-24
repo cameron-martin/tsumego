@@ -1,0 +1,42 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][ca][cb][ce][cg][db][dc][de][ed][ee]
+AW[bd][cd][da][dd][ea][eb][ec][gc][ge]PL[W]C[White to play.
+
+Endgame moves - Break into]
+(
+;W[ab]
+(
+;B[bb]
+;W[ac]
+;B[be]
+(
+;W[ad]
+;B[ae]
+(
+;W[ba]C[RIGHT
+Ko Fight])
+(
+;W[aa]C[RIGHT
+Both Alive]))
+(
+;W[aa]
+;B[ae]
+;W[ad]C[RIGHT
+Both Alive])
+(
+;W[ba]C[RIGHT
+Ko Fight]))
+(
+;B[ac]
+;W[bb]
+;B[ba]
+;W[cc]
+;B[aa]
+;W[bb]
+;B[ab]
+;W[ad]))
+(
+;W[ac]
+;B[ab]
+;W[ad]
+;B[be]C[Eye kill Blind]))

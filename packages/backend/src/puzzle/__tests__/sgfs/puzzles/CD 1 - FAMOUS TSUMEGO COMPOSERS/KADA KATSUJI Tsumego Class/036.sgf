@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[do][eo][fp][fq][er][es][gr][bo][bp][bn][an]AW[ao][ap][bq][cq][cp]
+[dp][ep][eq][dr]C[C]N[036]AP[MultiGo:4.4.4]SZ[19]AB[co]MULTIGOGM[0]
+
+(;C[看上去是不可能完成的任务吧。但是，白气紧，这就给了黑可趁之机。在快速排除简单的失败图之后，应该能够得到正解。
+
+难度：C]
+N[审题])
+(;B[ar]N[正解];W[br];B[ds];W[cs];B[bs]C[劫杀正解。])
+(;B[ar]N[变化];W[aq];B[cr]C[白死于气紧。])
+(;B[cs]N[失败1];W[cr];B[ar];W[aq];B[bs];W[ds])
+(;B[aq]N[失败2];W[ar];B[cs];W[cr]))

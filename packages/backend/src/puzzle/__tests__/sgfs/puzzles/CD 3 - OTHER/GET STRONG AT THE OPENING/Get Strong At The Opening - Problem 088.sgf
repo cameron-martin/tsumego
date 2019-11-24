@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][ce][ck][pq][qo][qi]
+AB[cp][eq][kq][qd][oc][ic]
+LB[ck:2][kq:1]
+C[Problem 88. Black to play.  
+
+Black 1 and White 2 are the last big points (oba) of the fuseki. Where should Black play next ? ]
+;B[qg]
+TE[2]
+C[Correct Answer.  
+
+The two-space extension to Black 1 is the biggest move. ]
+;W[gc]
+C[White will respond with 2. ]
+(;B[cm]
+C[Next, Black 3 and ... ]
+;W[mq]
+C[... White 4 are the natural continuation. <= ]
+)
+(;B[nq]
+C[However, Black 3 here, ... ]
+;W[cn]
+C[... followed by White 4, is also possible. From here on the middle game commences. <= ]
+)
+)

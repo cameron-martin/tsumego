@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[dp][dd][qi]
+AB[qd][od][pp]
+TR[qi]
+C[Problem 1. Black to play.  
+
+How should Black attack the marked white stone ? ]
+(;B[qk]
+TE[2]
+C[Correct Answer.  
+
+The white stone is outnumbered three to one. In such cases, it is important for Black to press his advantage and immediately attack. In this position Black 1 is the correct direction; this move drives White toward Black's strong position at the top. ]
+;W[qf];B[of]
+C[Next, Black caps with 3 ... ]
+;W[oi];B[ok];W[mi]
+LB[kc:B][pq:A]
+C[... the sequence to White 6 follows naturally. Black has build a moyo on the lower right in sente. He can next reinforce his position at the bottom with A or take up position at the top with B. <= ]
+)
+(;B[qg]
+C[Failure.  
+
+Black might make a checking extension from above with 1, but ... ]
+;W[ql];B[qn]
+C[... this stone is inefficient because it is too close to Black's strong enclosure above. In other words, Blacks stones are overconcentrated. <= ]
+)
+)

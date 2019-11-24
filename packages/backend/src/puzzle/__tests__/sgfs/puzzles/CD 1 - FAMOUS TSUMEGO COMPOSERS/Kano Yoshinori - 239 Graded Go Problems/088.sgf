@@ -1,0 +1,20 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 88. Black to play.
+How should Black play so as to set up a ladder?]AW[hf][hg][ii][di][ih][gi][gh]PB[ ]PM[1]PW[ ]AB[hj][hi][gg][hh][fh]
+(
+;B[fi]C[Correct Answer
+Black 1...]
+;C[...]W[gj]
+;B[gk]C[and 3 set up a ladder. The three white stones cannot escape.]
+)
+(
+;B[gj]C[Wrong Answer
+If Black immediately tries to capture with 1...]
+;C[...]W[fi]
+;B[ei]C[...]
+;C[...]W[fj]
+;B[fk]C[...]
+;C[...the white stone on the left will break the ladder when White gives atari with 6.]W[ej]
+)
+
+)

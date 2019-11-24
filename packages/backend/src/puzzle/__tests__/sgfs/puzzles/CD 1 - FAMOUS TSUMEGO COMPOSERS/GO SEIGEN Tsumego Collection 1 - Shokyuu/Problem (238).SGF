@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]GN[第238题]HA[0]EV[吴清源诘棋集（初级编）]AB[hc][hb][jb][kb][lb][mc][md][ld][kd][jd][ie][he][ff][fc][dc][dd][df]AW[ib][ic][id][jc][kc][lc][hd][gd][fd][gc]C[白先
+
+必须读透前十五手的变化，走成劫失败]
+
+(;W[eb]N[正解图];B[ec];W[fb];B[db];W[ea];B[ga];W[ia];B[gb];W[ha];B[da];W[fa];B[gb];W[hb];B[ga];W[fb]C[白棋净活])
+(;W[ec]N[失败图];B[eb];W[fb];B[ed]C[打劫，失败]))

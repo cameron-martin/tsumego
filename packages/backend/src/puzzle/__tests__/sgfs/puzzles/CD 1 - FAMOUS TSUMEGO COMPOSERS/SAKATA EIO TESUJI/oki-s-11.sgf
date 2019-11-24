@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[hm][jm][dn][en][ln][co][cp][lp][dq][hq][lq]AB[dk][cm][dm][cn][ho][jo][jq][kq]C[Ex. 11 - Shinogi
+
+If W can play one more move B will be in a bad way.
+He must find a suji to give him eyes before this happens.]
+(;B[gq]LB[gq:1]C[Diag. 1 - Failure
+
+B plays tsuke 1 ]
+;W[gr]LB[gq:1][gr:2]C[and after W 2, ]
+;B[hp]LB[hp:3][gq:1][gr:2]C["bumps against" a W stone with his 3. ]
+;W[iq]LB[hp:3][gq:1][iq:4][gr:2]C[If W 4, ]
+;B[ip]LB[hp:3][ip:5][gq:1][iq:4][gr:2]C[B 5]
+;W[fq]LB[in:A][hp:3][ip:5][fq:6][gq:1][iq:4][gr:2]C[ and W 6 the nozoki "A" is effective and since there is one eye on the side, B has done enough to live, but this way of playing leaves something to be desired.
+ ])
+(;B[gr]LB[gr:1]C[Diag. 2 - Correct
+
+B 1 oki is a good move. ]
+(;W[gq]LB[gq:2][gr:1]C[If W 2, ]
+;B[hr]LB[gq:2][gr:1][hr:3]C[B connects at 3, ]
+(;W[fr]LB[gq:2][fr:4][gr:1][hr:3]C[W 4 ]
+;B[iq]LB[hp:A][gq:2][iq:5][fr:4][gr:1][hr:3]C[and B plays tsuppari at 5.
+After this "A" is a strong move and he has his 2 eyes above and below, so B can feel at ease.
+A further important point is that the W group has not been strengthened.
+])
+(;W[iq]LB[gq:2][iq:4][gr:1][hr:3]C[Diag. 3 - Variation
+
+After B 3 watari, W 4 tsukiatari, ]
+;B[ir]LB[gq:2][iq:4][gr:1][hr:3][ir:5]
+;W[kr]LB[gq:2][iq:4][gr:1][hr:3][ir:5][kr:6]C[followed by 6 ]
+;B[jr]LB[gq:2][iq:4][gr:1][hr:3][ir:5][jr:7][kr:6]
+;W[lr]LB[gq:2][iq:4][gr:1][hr:3][ir:5][jr:7][kr:6][lr:8]C[and 8, taking away B's eyes is unreasonable. 
+]
+;B[fq]LB[fq:9][gq:2][iq:4][gr:1][hr:3][ir:5][jr:7][kr:6][lr:8]C[B plays hane 9 ]
+;W[gp]LB[gp:10][fq:9][gq:2][iq:4][gr:1][hr:3][ir:5][jr:7][kr:6][lr:8]
+;B[eq]LB[gp:10][eq:11][fq:9][gq:2][iq:4][gr:1][hr:3][ir:5][jr:7][kr:6][lr:8]
+;W[dr]LB[gp:10][eq:11][fq:9][gq:2][iq:4][dr:12][gr:1][hr:3][ir:5][jr:7][kr:6][lr:8]
+;B[fo]LB[fo:13][gp:10][eq:11][fq:9][gq:2][iq:4][dr:12][gr:1][hr:3][ir:5][jr:7][kr:6][lr:8]C[and after the kake 13 he can capture 4 stones.
+If W 12 is at 13, B lives by playing hane at 12
+]))
+(;W[hr]LB[gr:1][hr:2]C[Diag. 4 - Variation
+
+W 2 osae is also bad as an answer to B 1 oki. It does not work because of the sequence up to B 7.]
+;B[gq]LB[gq:3][gr:1][hr:2]
+;W[gp]LB[gp:4][gq:3][gr:1][hr:2]
+;B[hp]LB[hp:5][gq:3][hq:4][gr:1][hr:2]
+;W[fq]LB[hp:5][fq:6][gq:3][hq:4][gr:1][hr:2]
+;B[fr]LB[gp:4][hp:5][fq:6][gq:3][fr:7][gr:1][hr:2]C[The 2 W stones are cut off.])))

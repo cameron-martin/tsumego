@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fo][go][ep][hp][eq][hq][cr][er][hr][hs]AB[ho][io][fp][gp][ip][fq][iq][fr][ir][is]C[Ex. 1 -  Kosumi
+
+Examples of kosumi deciding the life or death of an opponent's group are common.
+The 4 B stones and the 4 W stones are in a semeai and there is one move for B to win]
+(;B[fs]LB[fs:1]C[Diag. 1 - Seki - Failure
+
+B 1 is an interesting idea, ]
+;W[es]LB[es:2][fs:1]C[but if W plays osae 2 it becomes merely seki. 
+Seki is failure.])
+(;B[gr]LB[gr:1]C[Diag. 2 - Failure
+
+B cannot win even by filling in the inside liberties. ]
+;W[fs]LB[gq:A][gr:1][fs:2]C[When W plays 2 hane, B is in damezumari.
+If B plays "A" instead of 1, this is very bad. After W hane it is a complete failure.
+])
+(;B[gs]LB[gs:1]C[Diag. 3 - Correct
+
+B 1 kosumi is the correct answer. ]
+;W[es]LB[es:2][gs:1]C[If W 2,]
+;B[gr]LB[gr:3][es:2][gs:1]C[then B 3 and B wins the semeai by one move.
+This 1 does not allow the hane of W 2 in the previous diagram and therefore it contains the secret of success.
+W ate 3 instead of 2 is impossible.]))

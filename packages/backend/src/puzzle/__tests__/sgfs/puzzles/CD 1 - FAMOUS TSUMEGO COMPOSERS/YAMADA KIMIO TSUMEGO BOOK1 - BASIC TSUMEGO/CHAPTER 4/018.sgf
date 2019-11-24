@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[od][nd][md][mc][lb][kc][ma][rc][rd][qd]AW[mb][nb][nc][pc][qc][rb]
+[sb]N[018]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[基本死活。]N[审题])
+(;B[pa]N[正解];W[ob];B[oa];W[na];B[oc]LB[pb:A]C[黑5在A位打也可。白死。])
+(;B[pa]N[变化];W[na];B[oc];W[ob];B[pb])
+(;B[oc]N[失败1];W[ob]C[白是活形。])
+(;B[pa]N[失败2];W[ob];B[qb];W[pb];B[ra]C[劫。]))

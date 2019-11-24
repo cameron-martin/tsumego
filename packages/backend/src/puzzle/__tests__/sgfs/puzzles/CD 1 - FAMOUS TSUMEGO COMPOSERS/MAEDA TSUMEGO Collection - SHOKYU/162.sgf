@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[mq][lq][kq][kr][rq][rp][qp][pp][op]AW[lr][mr][nr][os][qq][qr]N[162]
+AP[MultiGo:4.4.4]SZ[19]AB[np]MULTIGOGM[0]
+
+(;C[一些失败图是显而易见的，一些则不然。
+
+难度：☆☆]N[审题])
+(;B[oq]N[正解];W[or]C[黑1、白2的交换很有必要。
+走到这里，该怎么杀就很清楚了。题图中少了这个交换，是不是难度一下子就上去了呢？]
+;B[qs];W[rr];B[sr];W[ps];B[pq];W[pr];B[rs];W[ss];B[rs]C[白死。])
+(;B[oq]N[变化];W[or];B[qs];W[rr];B[sr];W[rs];B[pr])
+(;B[qs]N[失败];W[oq];B[pq];W[pr];B[nq];W[rr]))

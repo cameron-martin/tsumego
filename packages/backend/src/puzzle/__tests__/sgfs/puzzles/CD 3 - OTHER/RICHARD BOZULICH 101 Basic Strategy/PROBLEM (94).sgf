@@ -1,0 +1,6 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[pp][pn][oj][pi][qi][pd][nd]AW[nq][ql][pj][oi]
+[oh][qf]C[Black to play. What is the best way for Black to secure his two surrounded stones on the right side?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[pk];W[qj];B[ri]LB[qk:A][pg:B]C[CORRECT Black should first give a forcing atari. The points A and B are now miai, so Black can easily secure his stones. Furthermore, White's stones are split.])
+(;B[ri];W[pk];B[pg];W[nj];B[ok];W[nl]C[If Black doesn't play the forcing atari seen in the correct answer, he can escape, but White will capture the two cutting stones. Now the white stones in the center are thick.]))

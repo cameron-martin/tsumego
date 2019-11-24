@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[em][cm][cn][co][bo][bh][bg][bf][cf][df][dg][dh][dj][ej][ei]AW[bn]
+[bm][bl][cl][an][cj][ci][bi][di][ch][cg][ah]N[199]AP[MultiGo:4.4.4]SZ[19]AB[dl]
+MULTIGOGM[0]
+
+(;C[可选点不多，计算不复杂。
+
+难度：☆☆]N[审题])
+(;B[aj]N[正解];W[ck];B[al];W[ai];B[bk])
+(;B[aj]N[变化];W[ai];B[bk];W[ck];B[al])
+(;B[bk]N[失败];W[ck]LB[aj:A][al:B]C[接下来，黑A则白B，黑有接不归];B[al];W[aj]C[双活。]))

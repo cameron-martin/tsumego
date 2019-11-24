@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[dq][ds][dr][dp][do]AW[ao][cn][dn][en][eo][ep][eq][er][cq][bo]C[B]
+N[007]AP[MultiGo:4.4.4]SZ[19]AB[br]MULTIGOGM[0]
+
+(;LB[bp:A]C[黑在A位枷是第一感，但是需要计算。
+
+难度：B]N[审题])
+(;B[bp]N[正解];W[bq];B[aq];W[ar]C[白4扑是好手，计算时容易疏忽];B[as];W[ap];B[cp]
+C[劫活正解。])
+(;B[bp]N[变化1];W[bq];B[aq];W[ar];B[as];W[cp];B[co];W[ap];B[cr]C[本图白不如正解。考虑白劫败时就知道了。])
+(;B[bp]N[变化2];W[cp];B[co];W[bq];B[aq];W[ap];B[ar]C[这是黑的构想图，白当然不会这样抵抗。])
+(;B[cp]N[失败1];W[bq];B[bp];W[ap])
+(;B[bq]N[失败2];W[cp];B[bp];W[co];B[cr];W[bs]))

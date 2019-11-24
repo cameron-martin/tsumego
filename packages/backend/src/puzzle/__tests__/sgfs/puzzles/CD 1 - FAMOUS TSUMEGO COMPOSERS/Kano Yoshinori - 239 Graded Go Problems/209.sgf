@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[pq][dr][cr][er][dq][cp][bp][qo][ds][fs][cn]GN[ ]AB[dc][jq][ep][gr][gs][gp][dp][ce][fr][cq][eq]PM[1]C[SECTION 6. BRILLIANT MOVES AND BAD MOVES
+
+Problem 209. Which side has profited?
+(please move four moves forward to see the problem diagram...)]PW[ ]
+;B[es]
+;W[pd]
+;B[fs]
+;W[jc]C[Black has taken and filled a ko with 1 to 3, while White has occupied an empty corner and extended along the upper side with 2 and 4. Which side has gained the most in this sequence?]
+;FG[259:]PM[0]C[Correct Answer
+White has profited the most with the sequence in the Problem Diagram. If you compare this diagram with the Reference Diagram (next diagram), the difference will be clear.]
+;FG[259:]AE[es][fs][pd][jc]AB[pd]LB[pd:1]PM[2]C[For Reference
+Occupying an empty corner with Black 1 is the most profitable move for Black. Black is better by about 30 points than the Correct Answer diagram. (previous diagram)]
+)

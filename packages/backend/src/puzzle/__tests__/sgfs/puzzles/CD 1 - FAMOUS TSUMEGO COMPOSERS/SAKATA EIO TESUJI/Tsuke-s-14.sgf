@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bl][cl][cm][em][fm][hm][fn][co][eo][eq][er][gr][hr]AB[bm][an][cn][dn][en][bo][ho][cp][fp][hq][iq][cr][dr][ir]SQ[fp]C[Ex 14 - Shinogi
+
+W has been startled by the marked nozoki which exposes the incompleteness of his position. However, if he thinks calmy, there is an unexpected way out.]PL[W]
+(;W[ep]LB[ep:1]C[Diag 1 - Failure
+
+W 1 tsugi is too naive. ]
+;B[fo]LB[fo:2][ep:1]C[After the cut of B 2 he is lost])
+(;W[fo]LB[fo:1]C[Diag. 2 - Failure
+
+This W tsugi 1 is likewise no good, ]
+;B[ep]LB[fo:1][ep:2]C[After B comes out at 2, ]
+;W[dp]LB[fo:1][dp:3][ep:2]C[if W 3  ]
+;B[gp]LB[fo:1][dp:3][ep:2][gp:4]C[then B plays 4 ]
+;W[do]LB[do:5][fo:1][dp:3][ep:2][gp:4]C[The points 5]
+;B[dq]LB[do:5][fo:1][dp:3][ep:2][gp:4][dq:6]C[and 6 are miai and W's 4 stones on the lower edge are captured.
+If W 6 tsugi instead of 5, of course B captures by cutting at 5.])
+(;W[gp]LB[gp:1]C[Diag. 3 - Correct
+
+It is more correct to call this W 1 tsukekoshi rather than tsuke, but this is the suji to cope with the situation.]
+(;B[gq]LB[gp:1][gq:2]C[If B plays 2 ]
+;W[fq]LB[gp:1][fq:3][gq:2]C[the cut at 3 is essential. ]
+;B[go]LB[go:4][gp:1][fq:3][gq:2]C[After B 4 kakae, ]
+;W[fo]LB[fo:5][go:4][gp:1][fq:3][gq:2]C[W has skillfully secured connection by means of 5 ]
+;B[hp]LB[fo:5][go:4][hp:6][fq:3][gq:2]
+;W[ep]LB[fo:5][go:4][ep:7][hp:6][fq:3][gq:2]C[and 7.])
+(;B[ep]LB[ep:2][gp:1]C[Diag. 4 - Correct
+
+B has come out at 2 in reply to W1 tsukekoshi.]
+;W[dp]LB[dp:3][ep:2][gp:1]C[Against this W simply plays osae 3 ]
+;B[fo]LB[fo:4][dp:3][ep:2][gp:1]C[and after B 4 ]
+;W[go]LB[fo:4][go:5][dp:3][ep:2][gp:1]C[plays ate at 5.]
+;B[do]LB[do:6][fo:4][go:5][dp:3][ep:2][gp:1]C[After B 6]
+;W[gq]LB[do:6][fo:4][go:5][dp:3][ep:2][gp:1][gq:7]C[and W 7, W has again succeeded in escaping.
+Splendid use of a sacrifice stone has won him the connection.])))

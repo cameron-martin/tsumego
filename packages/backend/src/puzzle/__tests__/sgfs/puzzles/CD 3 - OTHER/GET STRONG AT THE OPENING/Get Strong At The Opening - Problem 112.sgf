@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[cq][qp]
+AB[dd][qd]
+LB[oc:A][qj:B][oq:C]
+C[Problem 112. Black to play.  
+
+There are many ways for Black to play in this fuseki, but, if you were going to play on the right side, which one of the three moves from A to C would you choose ? ]
+(;B[oc]
+TE[2]
+C[Correct Answer.  
+
+Making a corner enclosure with 1 is the simplest way for Black to keep his first-move advantage. ]
+(;W[qi]
+C[White must extend to 2 to stop Black from making a moyo on the right, but ... ]
+;B[op];W[oq];B[nq];W[pq];B[np];W[po];B[jp]
+C[... Black takes up a position at the bottom with the joseki to 9. <= ]
+)
+(;W[oq]
+LB[oc:1]
+C[Reference Diagram.  
+
+If White responds to Black 1 by making a corner enclosure of her own, ... ]
+;B[qj]
+C[... Black will make an ideal extension with 3, taking control of the right side. <= ]
+))
+(;B[oq]
+C[Failure.  
+
+If Black 1 here, ... ]
+;W[oc]
+C[... White can equalise by approaching at 2. <= ]
+)
+)

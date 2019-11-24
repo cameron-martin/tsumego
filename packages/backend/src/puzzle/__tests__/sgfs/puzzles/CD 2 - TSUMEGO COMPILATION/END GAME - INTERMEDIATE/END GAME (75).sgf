@@ -1,0 +1,33 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ab][ac][bb][bd][be][bf][cd][cg][ch][cj][dh][fh]
+AW[ba][bc][bg][cb][cc][ce][cf][dd][dg][ec][ee][ef][gc]PL[W]C[White to play.
+
+Endgame moves - Force Opponent to Reduce Liberties]
+(
+;W[af]
+(
+;B[bh]
+;W[ad]
+;B[ag]
+;W[aa]C[RIGHT
+])
+(
+;B[ad]
+;W[bh]
+;B[bi]
+;W[ag]
+;B[ai]
+;W[ca]
+;B[ah]
+;W[aa]
+;B[ae]
+;W[bg]C[Take off boot reverse]))
+(
+;W[ad]
+;B[ae]
+;W[ca]
+;B[bh]
+;W[aa]
+;B[ag]
+;W[ad]
+;B[ac]))

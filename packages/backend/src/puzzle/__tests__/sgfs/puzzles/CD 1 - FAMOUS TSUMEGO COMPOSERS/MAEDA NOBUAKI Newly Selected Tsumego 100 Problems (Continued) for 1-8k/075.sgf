@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[kd][kc][kb][lb][hb][hc][hd]AW[ke][le][ie][ge][he][gd][gc][gb][ld]
+[lc][mb][nc][je]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[jd]MULTIGOGM[0]
+
+(;C[审题：边上基本死活。失败图的计算更重要。]N[审题])
+(;B[jb]N[正解];W[ic];B[id];W[la];B[ka];W[ia];B[ha];W[ib]C[白8接不过是后手双活而已。])
+(;B[id]N[失败1];W[la]C[白2一扳，黑就死了。])
+(;B[la]N[失败2];W[ja]C[黑不活。]))

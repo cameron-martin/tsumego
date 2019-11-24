@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qo][rn][rp][sp][sq][nr][nq][op][no]AW[sr][rr][rq][oq][or][os]C[97]
+N[97]AP[MultiGo:4.4.4]SZ[19]AB[po]MULTIGOGM[0]
+
+(;C[第97题 请注意双活
+
+如缩小白的地域，则侵入不够。因此只能从内部来攻击。急所看起来有两个，而真正的急所是哪一个？]
+N[审题])
+(;B[rs]C[黑1是真正的急所]N[正解];W[pq];B[qr];W[qq];B[ps]C[白死。])
+(;B[rs]N[变化];W[qs];B[qr];W[qq];B[ps])
+(;B[qr]N[失败1];W[qq];B[rs];W[ps]C[白4是好手];B[qs];W[pq]C[双活。])
+(;B[qr]N[失败2];W[qq];B[rs];W[ps];B[pq];W[qs]C[黑接不归，白活。]))

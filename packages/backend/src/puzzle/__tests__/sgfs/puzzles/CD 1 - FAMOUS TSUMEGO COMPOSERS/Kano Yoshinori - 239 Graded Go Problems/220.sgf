@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[dc][de][ed][ce][ee]GN[ ]AB[gd][cd][fc][ec][dd]PM[1]C[Problem 220. Black to play.
+How does Black give atari to the white stone?]PW[ ]
+(
+;B[cc]C[Correct Answer
+If Black plays atari at 1, the white stone cannot avoid being captured and Black will be connected into one group.]
+)
+(
+;B[db]C[If Black gives atari with 1 here...]
+;W[cc]C[...]
+;B[bd]C[...]
+;W[bc]C[...after the sequence to White 4 the black stones cannot avoid being captured.]
+)
+
+)

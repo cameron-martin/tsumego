@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[pc][oc][nb][qa][sc][rc]AW[ob][pb][nc][mc][lc][lb][la][ne][od][pd]
+[rd][re]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;C[审题：黑棋角上只有一眼，因此必须吃住白二子。]N[审题])
+(;B[na]N[正解];W[mb];B[pa]C[黑活。])
+(;B[oa]N[失败];W[na];B[ma];W[mb]))

@@ -1,0 +1,57 @@
+(;
+AB[pd][pq][cq][dq][fq][cn][cm][dm][em][dk]
+AW[cc][di][dp][co][bo][dn][en][fn][po]
+C[White's response to Black's marked play?
+
+Source:
+    "Go World", #33, Autumn 1983, p. 21
+    38th Honinbo, game 4
+    Cho Chikun  vs.  Rin Kaiho
+    Rin Kaiho's commentary.]
+TR[dk]
+(;
+W[hn]
+C[The game line.
+But Rin felt White had a better play.];
+B[cf]
+C[White's previous move gave
+Black time to invade here.];
+W[fd];
+B[bi];
+W[hq];
+B[ep];
+W[np]
+)
+    (;
+    W[gl]
+    C[Better, according to Rin.];
+    B[fk];
+    W[gk]
+    C[Forcing again.];
+    B[fj];
+    W[df]
+    C[Now, White has time to defend.];
+    B[fm]
+    C[Black cannot gain from cutting here.];
+    W[gm];
+    B[gn];
+    W[fp]
+    C[And White makes good shape.]
+    )
+    (;
+    W[df]
+    C[Inferior.
+White defends prematurely.];
+    B[hm]
+    C[Allowing Black to attack strongly.];
+    W[gm];
+    B[gl];
+    W[hn];
+    B[in];
+    W[io];
+    B[im]
+    C[And White is in trouble.
+Escaping without heavy losses will
+not be easy.]
+    )
+)

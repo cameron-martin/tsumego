@@ -1,0 +1,32 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cc][ce][dd][df][ed]
+AW[cd][dc][ec][fd][fe][gc]PL[W]C[White to play.
+
+Attack - Block]
+;W[bd]
+;B[bc]
+;W[be]
+;B[bf]
+;W[de]
+;B[ee]
+;W[ef]
+;B[de]
+;W[dg]
+;B[cf]
+;W[bg]
+(
+;B[ad]
+;W[cg]
+;B[ae]C[RIGHT
+])
+(
+;B[eg]
+;W[af]
+;B[ff]
+;W[cg]
+;B[ef]
+;W[ae]
+;B[dh]
+;W[ci]
+;B[di]
+;W[cj]C[White Ok]))

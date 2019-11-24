@@ -1,0 +1,17 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ek][ic][fl][fc][db][hg][gg][hc][da][dj][ii][di][gl][gc][fg][eh][ja][hk][dh][hj][ec][jb][ih]GN[ ]AB[ea][gb][ia][fh][ei][fk][gj][hb][gh][eb][gk][ib][hi][hh][fb][ej]PM[1]C[SECTION 3. LIFE AND DEATH
+
+Problem 168. Black to play and White to play. (1 move)
+What happens in these positions if Black moves first? White first?]PW[ ]
+(
+;B[ga]C[If Black Plays First
+Black gets two eyes and life in the upper position with 1...]
+;B[fi]C[...and in the lower position with 3.]
+)
+(
+;W[ga]C[If White Plays First
+If White plays at 1 in the upper position...]
+;W[fi]C[...and at 3 in the lower position, he kills the black stones.]
+)
+
+)

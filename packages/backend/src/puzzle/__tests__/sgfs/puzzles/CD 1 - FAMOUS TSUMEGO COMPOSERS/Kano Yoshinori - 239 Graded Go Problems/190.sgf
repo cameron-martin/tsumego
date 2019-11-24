@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[pq][qn][nq][nr][qp][np][mq][op][oq][on]GN[ ]AB[rp][pr][ns][lq][mp][no][qq][or][mr]PM[1]C[Problem 190. Black to play.
+How should Black play?]PW[ ]
+(
+;B[oo]C[Correct Answer
+Black 1 is the correct answer...]
+;W[pp]C[...Connecting at 2 is of no help...]
+;B[qo]C[...Black catches nine stones when he plays 3.]
+)
+(
+;B[qo]C[Wrong Answer
+If Black plays 1...]
+;W[oo]C[...White can connect to his outside stones with 2 and escape.]
+)
+
+)

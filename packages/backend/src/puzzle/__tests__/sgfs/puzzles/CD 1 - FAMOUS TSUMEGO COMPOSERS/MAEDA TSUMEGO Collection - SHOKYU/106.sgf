@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[cc][cb][be][bd]AW[ce][ee][ec][eb][bf][bg][ae][cd]N[106]AP[MultiGo:4.4.4]
+SZ[19]AB[af]MULTIGOGM[0]
+
+(;C[本题揭示的是做活的基本手法。
+
+难度：☆]N[审题])
+(;B[bb]C[黑1曲，这是基本功]N[正解];W[ac];B[ab])
+(;B[ac]N[失败1];W[bb])
+(;B[ab]N[失败2];W[bc];B[ad];W[ba];B[bb];W[ca];B[da];W[db]))

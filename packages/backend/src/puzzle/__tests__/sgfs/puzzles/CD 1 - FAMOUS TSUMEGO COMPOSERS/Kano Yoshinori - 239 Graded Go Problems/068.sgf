@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 68. Black to play.
+Where should Black capture?]AW[jl][jj][hl][hi][ik][ij][gj][kj]PB[ ]PM[1]PW[ ]AB[jk][hk][kl][hj][il][kk][gl]
+(
+;B[hm]C[Correct Answer
+Taking one stone on the left with Black 1 is the correct answer.]
+)
+(
+;B[jm]C[Wrong Answer
+If Black takes the stone on the right...]
+;C[...he will lose two stones when White plays 2.]W[gk]
+)
+
+)

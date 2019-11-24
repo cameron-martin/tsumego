@@ -1,0 +1,43 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][cd][ce][pq][qq][nq][ep]
+AB[cf][de][gf][pd][pj][pp][qp][oo]
+LB[cp:B][mp:C][pf:A]
+C[Problem 116. Black to play.  
+
+Black has played lightly in the upper left, so his stones should encounter no problems and he can leave them as they are. Which of the three points indicated would you play ? ]
+(;B[mp]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the vital point. ]
+(;W[np]
+C[White cuts through with 2 ... ]
+;B[no];W[mo]
+C[... and 4, ... ]
+;B[kp];W[mn];B[mq];W[mr];B[lr];W[nr];B[kn];W[ml];B[pl]
+TR[gf]
+C[... and the joseki to 13 follows. The marked stone will have an influence on the ensuing fight. <= ]
+)
+(;W[mq]
+C[Variation.  
+
+If White crawls to 2, ... ]
+;B[lp]
+C[... Black will extend to 3 and make a moyo in the center. <= ]
+))
+(;B[pf]
+C[Failure.  
+
+If Black strengthens his position in the upper right with 1, ... ]
+;W[no]
+C[... White will play 2 ... ]
+;B[nn];W[mo]
+C[... and 4, reducing the scale of Black's moyo on the right. ]
+;B[cp]
+C[If Black now approaches at 5, ... ]
+;W[dn]
+C[... White gets the advantage when she plays 6. <= ]
+)
+)

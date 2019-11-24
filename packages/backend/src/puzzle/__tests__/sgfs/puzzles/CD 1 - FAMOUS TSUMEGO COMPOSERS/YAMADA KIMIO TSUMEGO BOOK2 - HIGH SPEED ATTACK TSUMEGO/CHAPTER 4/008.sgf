@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rd][re][rf][qg][pg][og][nf][ne][md][mc][lb][kc][qa][qb]AW[mb][nb]
+[nc][nd][oe][pc][pb][qd][qe][qf]N[008]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;TR[qa]C[首先观察棋形：白气很紧，黑有硬腿。其次换位思考：如果白先，走哪里可以补活？]
+N[审题])
+(;B[od]N[正解];W[pf];B[pd];W[oc];B[oa];W[pa];B[ma]C[白死。])
+(;B[od]LB[oc:A][pe:B]C[黑1断时，白A则黑B，白死。]N[变化];W[pd];B[pf]C[黑3破眼时，白仍然不能提子]
+;W[pe];B[ma];W[pa];B[na];W[oa];B[oc];W[la];B[ma])
+(;B[pa]N[失败1];W[oa]C[白是活形。])
+(;B[ma]N[失败2];W[od]C[白活得很干净。]))

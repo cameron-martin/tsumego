@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][nd][nb][nc][qb][rd][qd]AW[rb][qc][pc][ob][oc][sb]N[074]AP[MultiGo:4.4.4]
+SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[衍生自角上基本死活形（老鼠偷油）。
+
+难度：☆☆
+]N[审题])
+(;B[pa]N[正解];W[pb];B[ra])
+(;B[pa]N[变化];W[oa];B[rc]C[白死。])
+(;B[rc]N[失败];W[qa]))

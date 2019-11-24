@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[ci][cn][md][mg][db][fc][hd][cb]
+AB[dp][pd][pp][dd][cc][df][fp][jd][jf][jh][pf]
+LB[cb:1]
+C[Problem 120. Black to play.  
+
+White pushes into the corner with 1, robbing the black stones of their base. What should Black do ? ]
+(;B[gf]
+TE[2]
+C[Correct Answer.  
+
+Black jumps to 1, ... ]
+(;W[bb]
+C[... letting White take away his base with 2, but ensuring that his stones on the left are linked up to the center. ]
+;B[mi]
+C[Next, Black attacks by capping with 3. <= ]
+)
+(;W[mi]
+LB[bb:@]
+C[Instead of White @, jumping to 2 is better, but ... ]
+;B[ck]
+C[... Black would then invade at 3. The lesson here is that neither side should play moves on the second line in the opening. <= ]
+))
+(;B[bb]
+LB[gg:A]
+C[How the game continued.  
+
+Black defended at 1. Although the stones at the top didn't have eyes, they could still jump to A, attacking the three stones at the top. ]
+;W[en]
+C[Before doing so, White strengthened the left side with 2 ... ]
+;B[gn];W[mi]
+C[... and the top with 4. ]
+;B[gf]
+C[Even if Black attacks the four white stones with 5, they should have no problem living. <= ]
+)
+)

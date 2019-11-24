@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[ks][kr][kq][lq][mq][np][mo][nn][on][pn][qn][ro][rp][rq][rr][pq][pr]
+AW[lr][mr][ns][nq][oq][op][oo][qp][qq][qr][ps][qs]N[021]AP[MultiGo:4.4.4]SZ[19]
+AB[or]MULTIGOGM[0]
+
+(;C[双活有各种形态。焦点在下边左方。]N[审题])
+(;B[ms]LB[ls:A][nr:B]C[黑1是先手，白不能A位提子，那样黑B。而且，白还必须紧着黑三子的气。]
+N[正解];W[nr]LB[pp:A]C[白2走A位一样不活];B[po];W[pp];B[ls]C[白死。])
+(;B[ls]N[失败];W[ms];B[po];W[pp]C[这是双活。]))

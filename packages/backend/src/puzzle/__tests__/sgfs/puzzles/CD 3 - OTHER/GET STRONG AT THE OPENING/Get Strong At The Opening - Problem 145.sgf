@@ -1,0 +1,46 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][df][dk][cm][cn][dq][dp][do][er][fq][jp][mp]
+AB[db][fc][fe][bn][co][cp][cq][cr][dr][po][pq][qk][pd]
+LB[fg:B][nc:A][bm:C][mm:D]
+C[Problem 145. White to play.  
+
+Black has a lot of profit, while White has thickness in the center. However, Black is also threatening to build a moyo in the center. Where should White play in this position ? ]
+(;W[fg]
+TE[2]
+C[Correct Answer.  
+
+Capping with 1 is the biggest move. ]
+;B[nd]
+C[If Black defends the upper right with 2, ... ]
+;W[lk]
+C[... White will stake out a vast moyo and wait for Black to try to invade. <= ]
+)
+(;W[nc]
+C[Failure.  
+
+Against White 1, ... ]
+;B[lc]
+C[... Black pincers with 2 and ... ]
+;W[qc]
+C[... White must invade with 3. ]
+;B[pc];W[qd];B[pe];W[pb];B[ob];W[qb];B[oc];W[qf]
+C[But, after 11, ... ]
+;B[fg]
+LB[dh:A]
+C[... Black jumps to 12, aiming at A, so White must defend. <= ]
+)
+(;W[bm]
+C[Failure.  
+
+White 1 here is big, but gote. <= ]
+)
+(;W[mm]
+C[Failure.  
+
+White 1 is another moyo focal point, but ... ]
+;B[fg]
+C[... Black 2 leaves White's moyo wide open. <= ]
+)
+)

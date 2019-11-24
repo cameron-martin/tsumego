@@ -1,0 +1,28 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ab][ag][bb][bg][ca][cg][da][db][dg][ec][ed][ee][ef][fb]
+AW[ba][bd][bf][cb][cc][ce][cf][dc][dd]PL[B]C[Black to play.
+
+Capturing stones - Sacrificing Stones
+
+Source: Xuan-Xuan-Qi-Jin.]
+(
+;B[bc]
+;W[de]
+;B[ae]
+;W[ad]
+;B[af]
+;W[ac]
+;B[aa]
+;W[ba]
+;B[bb]
+;W[ab]C[RIGHT
+Ko Fight])
+(
+;B[ae]
+;W[bc]
+(
+;B[aa]
+;W[af])
+(
+;B[af]
+;W[ac])))

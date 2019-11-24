@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pf][of][ne][od][nc][nb][pb][qc][qd]AW[rd][re][qf][pg][og][nf][mf]
+[me][md][lc][lb][pa][qb][rb][rc]N[013]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;LB[oa:A]C[黑A挡，必然，其他的防守都不行，请计算确认。挡了之后，也需要小心。
+
+本题与014题密切相关。]
+N[审题])
+(;B[oa]N[正解];W[pc];B[oc]C[劫活正解。])
+(;B[oa]N[变化];W[nd];B[pc]LB[oc:A]C[黑3走在A位也可活。])
+(;B[oa]N[失败];W[pc];B[ob];W[oe];B[pe];W[nd]))

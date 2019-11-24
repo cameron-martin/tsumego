@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[qc][pc][pd][pe][of][nf][mf][me][ld][lc][lb][la][qa][rb]AW[mb][mc]
+[md][ne][oe][od][oc][pb][qb][oa]N[003]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[本题简单。选点非常有限，计算吧。]N[审题])
+(;B[ma]N[正解];W[na]C[黑1冲时，白2必须挡住];B[ra]C[黑3接，冷静];W[nc];B[ob]C[白死。])
+(;B[ra]N[失败];W[ma];B[nb];W[nc];B[ob];W[na]))

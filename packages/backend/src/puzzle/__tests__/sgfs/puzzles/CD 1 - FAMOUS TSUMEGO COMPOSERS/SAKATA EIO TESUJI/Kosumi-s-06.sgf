@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cp][dp][ep][fp][gp][hp][ip][cq][br][fr][ir][jr][bs]AB[dq][eq][fq][gq][hq][cr][dr][hr][cs]C[Ex. 6 - Life or death
+
+There are naturally many opportunities to use kosumi in life-or-death problems.
+You are to kill B unconditionally
+]PL[W]
+(;W[es]LB[es:1]C[Diag. 1 - Failure
+
+Kosumi at W 1 here is a suji hitting at B's vital point,  
+]
+;B[gs]LB[es:1][gs:2]C[but B has a kosumi move which causes it to fail. ]
+(;W[er]LB[er:3][es:1][gs:2]C[If W 3, ]
+;B[fs]LB[er:3][es:1][gs:2]C[B 4 atekomi and this is seki. Seki gives B life.])
+(;W[fs]LB[es:1][fs:3][gs:2]C[Diag. 2 - Failure
+
+If B 2, W 3, ]
+;B[er]LB[er:4][es:1][fs:3][gs:2]C[B 4 comes to the same thing.
+It is again seki and B is brought to life.
+The points 3 and 4 are miai.]))
+(;W[gs]LB[gs:1]C[Diag. 3 - Correct
+
+W must play kosumi 1 here. (cont.)]
+(;B[hs]LB[gs:1][hs:2]C[In answer to B 2 ]
+;W[es]LB[es:3][gs:1][hs:2]C[he plays kosumi 3 and this is a gomoku nakade shape.
+This ensures B's death.
+The value of W 1 kosumi is that it does not allow B the good tesuji of 1 in the previous diagram and it is the only suji which permits the gomoku nakade with kosumi 3.])
+(;B[es]LB[es:2][gs:1]C[Diag. 4 - Variation
+
+If B answers W 1 kosumi with 2 ]
+;W[hs]LB[es:2][gs:1][hs:3]C[W 3 connects along the edge and B is dead.])))

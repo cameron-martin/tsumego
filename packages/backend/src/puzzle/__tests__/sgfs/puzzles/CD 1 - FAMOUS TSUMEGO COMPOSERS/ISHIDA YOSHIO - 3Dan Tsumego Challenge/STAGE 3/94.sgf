@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[rp][po][oo][qn][np][mp][lq][kq][kr][ks][pr][sr][rr][qq]AW[ls][rq]
+[lr][mq][nq][nr][or][pq][pp][qr][qs][rs]C[94]N[94]AP[MultiGo:4.4.4]SZ[19]AB[qp]
+MULTIGOGM[0]
+
+(;TR[or]C[第94题 第一手在急所处攻击
+
+白▲打吃是大恶手。为此黑有使白顿死的手筋。
+
+第一手要锐利地往急所处攻击。]
+N[审题])
+(;B[ns]C[黑1是眼形的急所]N[正解];W[os];B[ms]C[黑3要先打一手，这是次序];W[mr];B[oq]
+C[黑5扑是常用的破眼手筋。
+
+白死。])
+(;B[ns]N[变化];W[ps];B[op]C[白死。])
+(;B[ms]LB[ps:A]C[黑1打吃错着，此时，白A提子即可成活。但白要得更多……]N[失败];W[mr]
+;B[oq];W[ps];B[op];W[ns]))

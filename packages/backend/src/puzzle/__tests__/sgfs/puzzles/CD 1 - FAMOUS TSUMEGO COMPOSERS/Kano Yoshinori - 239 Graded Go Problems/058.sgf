@@ -1,0 +1,9 @@
+
+(;GM[1]AP[GOWrite:2.0.07]SZ[13]FF[4]PB[ ]PW[ ]GN[ ]AW[cd][gg][hd][dg][ce][gc][ha][df][dl][hk][hj][dh][he][dm][il][jc][fb][ej][ih][ic][bc][hg][jm][gm][im][ik][dd][dj][di][hb][gl][if][dc][id][ca][cj][ib][jg][hi][bb][hh][jf][el][dk][ij][gf][fa]C[Problem 58. The last defensive moves.
+Both Black and White have to make defensive moves inside their own territories before the last dame points can be played. Where are these moves?]PM[1]FG[259:]AB[ek][jk][jl][jj][ff][fc][jh][db][em][ei][kd][je][eb][kf][gk][ja][eg][fm][ed][ec][ji][km][ee][gd][ea][ge][fl][fj][fk][cb][gj][ii][ef][ll][kg][fg][gh][cc][eh][ie][kc][de][jd][jb][gi]
+;B[kb]C[Correct Answer
+Black 1...]
+;C[...and White 2 are the last defensive moves...]W[ba]
+;B[ia]C[...Now, the last two dame points, Black 3...]
+;C[...and White 4 can be played.]W[da]
+)

@@ -1,0 +1,18 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[fl][em][jm][en][fr][jp][gl][eq][fo][hl][iq][jo][gr][ep][il][eo][hr][jn]GN[ ]AB[hm][fn][fq][fm][ho][gq][go][hq][io][hp][fp]PM[1]C[Problem 225. Black to play.
+How does Black secure life for his stones?]PW[ ]
+(
+;B[gm]C[Correct Answer
+If Black plays at 1...]
+;W[in]C[...]
+;B[hn]C[...he can play 3 in response to White's only threat at 2. Black now has two eyes and is alive.]
+)
+(
+;B[in]C[Wrong Answer
+If Black plays at 1...]
+;W[gm]C[...White 2...]
+;B[gn]C[...]
+;W[im]C[...and 4 reduce the eye at the top to a false one and Black is dead.]
+)
+
+)

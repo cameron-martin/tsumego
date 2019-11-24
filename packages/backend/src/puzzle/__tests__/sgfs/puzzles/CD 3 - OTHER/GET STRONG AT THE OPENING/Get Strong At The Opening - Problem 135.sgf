@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[hc][fd][ed][dd][cd][dj][dn][dp][cq][po][pn][qn][pj][ld]
+AB[bc][cc][dc][fc][fb][dr][fq][pq][nq][qp][qo][ph][qd][oc]
+LB[hp:A][ip:B][iq:C]
+C[Problem 135. Black to play.  
+
+Black has taken a lot of profit, while White is staking the game on influence. It is now urgent for Black to play at the bottom, but which of the three points indicated should he play ? ]
+(;B[hp]
+TE[2]
+C[Correct Answer.  
+
+Black 1 on the fourth line makes a good high-low balance with his stone on the right. An invasion at A remains, but this would cause White's moyo on the left to be reduced. ]
+;W[qf]
+C[If White 2, ... ]
+;B[rl]
+C[... Black will invade at 3. <= ]
+)
+(;B[iq]
+C[Failure.  
+
+Black 1 is too low. ]
+;W[hp]
+C[White can force with the sequence from 2 ... ]
+;B[hq];W[fp]
+C[... to 4, expanding her moyo on the left. <= ]
+)
+(;B[ip]
+C[Failure.  
+
+Black 1 is bad shape. <= ]
+)
+)

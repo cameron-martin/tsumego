@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[nq][mq][lq][kp][lo][mp][or][qs][qr][pq]AW[pp][qo][pr][qq][rq][rr]
+[np][no][mn][ln][kn][jo][jp][jq][kr][lr][ns]N[006]AP[MultiGo:4.4.4]SZ[19]AB[oq]
+MULTIGOGM[0]
+
+(;C[黑在中间只有后手一只眼，因此必须在下边动脑筋，争取先手做眼。]N[审题])
+(;B[ms]N[正解];W[mr]C[黑1跨时，白2必然];B[kq];W[os];B[nr];W[ls];B[ps]C[黑活。])
+(;B[kq]N[失败1];W[os])
+(;B[ms]N[失败2];W[mr];B[nr];W[kq]))

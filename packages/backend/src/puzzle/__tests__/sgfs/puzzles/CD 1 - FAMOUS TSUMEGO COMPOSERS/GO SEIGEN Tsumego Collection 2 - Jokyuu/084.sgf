@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[eb][ec][ia][ib][ic]AW[jb][jc][jd][id][hd][bc][cc][dc][ed][fd][de]
+AP[MultiGo:4.4.4]SZ[19]AB[cb]MULTIGOGM[1]
+
+(;B[ga];W[db];B[ea]
+(;W[hc];B[hb];W[fc];B[fb]C[正解图
+飞扬围棋出品])
+(;W[hb];B[hc];W[gb];B[gc];W[fb];B[fc]C[变化图]))
+(;B[gb];W[fc];B[fb];W[db];B[ea];W[hc];B[hb];W[ga]C[失败图1])
+(;B[db];W[gb];B[gc];W[fc];B[fb];W[hc]C[失败图2]))

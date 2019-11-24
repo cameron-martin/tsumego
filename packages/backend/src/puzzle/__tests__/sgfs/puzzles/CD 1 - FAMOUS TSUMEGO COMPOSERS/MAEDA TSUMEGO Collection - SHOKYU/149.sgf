@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pd][od][nd][nc][nb][rd][qd][qc]AW[mb][mc][md][ne][oe][pe][qe][re]
+[sd][rc][qb][ra]N[149]AP[MultiGo:4.4.4]SZ[19]AB[pb]MULTIGOGM[0]
+
+(;C[黑要做活，只能在角上想办法。
+
+难度：☆☆]N[审题])
+(;B[sb]N[正解];W[sc];B[rb];W[sa];B[rb]LB[qa:A][pa:B]C[黑5扑时，白若走A位，则黑B成为先手，黑可活。]
+;W[sb];B[qa];W[pa];B[oa];W[oc];B[qa]C[劫活正解。])
+(;B[sb]N[变化];W[rb];B[sc];W[sa];B[sc];W[sb];B[qa];W[pa];B[oa];W[oc];B[qa]C[白棋这样抵抗，显然不如正解好。])
+(;B[na]N[失败];W[oc];B[pa];W[ob];B[sb];W[sc];B[rb];W[sa];B[rb];W[sb]))

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qb][pb][qd]AW[rf][re][qe][pe][pd][pc][oc][nc][nb]N[004]AP[MultiGo:4.4.4]
+SZ[19]AB[rd]MULTIGOGM[0]
+
+(;C[正解不难得到，但失败图的计算更为重要。如果熟悉基本死活，这道题很容易吧。]N[审题])
+(;B[sb]N[正解];W[sd];B[ra];W[rc];B[qc];W[sc];B[ob])
+(;B[sb]N[变化];W[ra];B[sd];W[rc];B[qc];W[rb];B[pa])
+(;B[qc]N[失败];W[sd];B[sb];W[ra];B[sc];W[rb]))

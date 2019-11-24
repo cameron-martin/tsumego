@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 98. Black to play.
+How should Black play in this position?]AW[gk][hk][jm][im][il][dj][gj]PB[ ]PM[1]PW[ ]AB[jl][jj][hj][hi][kh][ik][km]
+(
+;B[hl]C[Correct Answer
+Black should go after the three white stones by giving atari with 1.]
+)
+(
+;L[hl]C[If White Plays First
+If it were White's turn, he would give double atari with 1 and the point A is no longer a problem.]W[kl]
+)
+
+)

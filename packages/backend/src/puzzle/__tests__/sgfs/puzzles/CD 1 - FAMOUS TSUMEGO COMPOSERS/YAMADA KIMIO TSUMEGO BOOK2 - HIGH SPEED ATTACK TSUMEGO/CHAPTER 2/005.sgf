@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qe][pe][oe][nd][md][lc][kc][jc][jb][mb][ma][ra][rb][qc]AW[lb][kb]
+[mc][nc][nb][qb][pb][pc][pd][od]N[005]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[ka:A][na:B][qa:C]C[白气很紧。黑A吃住白二子的话，白B先手打后C位挡就成活。]N[审题])
+(;B[ob]N[正解];W[oa];B[qa];W[na];B[pa])
+(;B[ob]N[变化1];W[na];B[pa];W[oc];B[qa])
+(;B[ob]N[变化2];W[oc];B[qa];W[oa];B[pa])
+(;B[qa]N[失败];W[pa];B[ka];W[na]))

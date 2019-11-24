@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pp][qr][qs][rs][rq][ls][lr][mq][nq][nr]AW[sr][rr][qq][qp][rp][po]
+[oo][qn][np][mp][lq][kq][kr][ks][pr]C[95]N[95]AP[MultiGo:4.4.4]SZ[19]AB[pq]MULTIGOGM[0]
+
+(;LB[or:A]C[第95题 守急所
+
+黑在A位打吃则不行，要死，这是第94题的内容。那黑的第一手只好在眼形的急所处防守，而急所在哪里呢？]
+N[审题])
+(;B[ms]C[黑1是眼形的急所]N[正解];W[ps];B[or];W[ss];B[os]C[黑弃子成活。])
+(;B[ps]N[失败];W[ns];B[or];W[op]C[黑1抱吃，则与第94题没什么两样，白2在急所处一攻，黑怎么也不行了。]))

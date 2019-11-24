@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bn][bo][co][cp][cq]AB[cl][bm][cn][dn][do][dq][eq][gq]C[Diag. 3 - Reference
+
+This is another position where there is a move to get ko]
+;B[cr]LB[cr:1]C[If B simply plays 1 ]
+;W[br]LB[br:2][cr:1]C[White 2, ]
+(;B[dr]LB[br:2][cr:1][dr:3]C[then tsugi at 3, ]
+;W[bs]LB[br:2][cr:1][dr:3][bs:4]C[W can play  4 and be completely alive.])
+(;B[bs]LB[br:2][cr:1][bs:3]C[Diag. 4 - Reference
+
+The hane 3 after B 1, ]
+;W[dr]LB[br:2][cr:1][dr:4][bs:3]C[followed by W 4 ]
+;B[ds]LB[br:2][cr:1][dr:4][bs:3][ds:5]C[and B 5 again produces a ko.
+This is a tesuji which can be used in actual games, not only in life and death problems but in yose, shinogi, etc.
+However, since this ko sequence is generally fraught with danger it will be best to use it only when necessary.]))

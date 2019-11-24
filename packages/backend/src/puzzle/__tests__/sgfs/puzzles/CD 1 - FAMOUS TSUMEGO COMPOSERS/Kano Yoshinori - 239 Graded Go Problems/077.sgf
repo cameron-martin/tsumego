@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 77. Black to play.
+How should Black give atari to the lone white stone at the top?]AW[kf][jc][lb][lc][kd][je]PB[ ]PM[1]PW[ ]AB[ie][kb][id][kc][jd][hd]
+(
+;B[jb]C[Correct Answer
+Black should play at 1. The lone shite stone cannot escape.]
+)
+(
+;B[ic]C[Wrong Answer
+Giving atari with 1 as here is bad...]
+;C[...White plays 2 and the two black stones at the top right are dead.]W[jb]
+)
+
+)

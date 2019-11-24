@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[cd][dd][ed][de][ab][bb][ad]AW[ce][be][ci][bi][ei][eh][ff][fe][fd]
+[ec][db][cb][ba]N[094]AP[MultiGo:4.4.4]SZ[19]AB[bd]MULTIGOGM[0]
+
+(;C[黑棋角上一眼，必须吃住白二子找到第二只眼。
+
+
+难度：☆☆]N[审题])
+(;B[cg]N[正解];W[bg];B[bf];W[cf];B[df];W[af];B[ae])
+(;B[cg]N[变化1];W[cf];B[df];W[bg];B[bf])
+(;B[cg]N[变化2];W[ah];B[bg]))

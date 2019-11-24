@@ -1,0 +1,41 @@
+(;
+AB[pc][pd][qd][pe][pf][pg][qh][qi][qk][qj][rk]
+AW[pb][ob][qc][rc][rd][qf][qg][rh][ri][rj]
+C[Black plays.
+
+Source:  "Tesuji", Ch. 1, pp. 7-12,
+         James Davies, Ishi Press];
+B[re]
+C[OK, OK, the first move is obvious.]
+(;
+W[sf]C[White's best defensive try.];
+B[se]C[A sparkling move.];
+W[rf]
+(;
+B[sg]
+C[And White has a very annoying and
+lethal shortage of liberties.]
+)
+    (;
+    B[qe]C[Fails.];
+    W[sg]
+    )
+)
+    (;
+    W[se];
+    B[sf];
+    W[qe];
+    B[rg]C[White can capture the cutting stone,
+but Black has the snapback.]
+    )
+    (;
+    W[rf];
+    B[sf];
+    W[sg];
+    B[se]C[White dies because of the shortage of liberties.]
+    )
+    (;
+    W[qe];
+    B[rg]
+    )
+)

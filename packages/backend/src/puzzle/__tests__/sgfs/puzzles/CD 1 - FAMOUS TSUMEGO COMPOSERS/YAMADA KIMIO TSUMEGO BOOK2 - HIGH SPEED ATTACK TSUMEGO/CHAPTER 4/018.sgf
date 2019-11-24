@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nd][md][lc][kc][kb][ka][rb][rc][qc][qd][pe]AW[lb][mb][nc][pd][od]
+[pc][pb][qb]N[018]AP[MultiGo:4.4.4]SZ[19]AB[oe]MULTIGOGM[0]
+
+(;LB[ob:A]C[看样子从外侧压缩白眼位行不通。A位是第一感，但之后的进行仍然需要计算。]
+N[审题])
+(;B[ob]N[正解];W[oa];B[nb];W[na];B[mc];W[oc];B[nb]C[如果在脑子中计算到黑7扑这一手，就应该得到正解了吧。]
+;W[qa];B[ma];W[ob];B[la]C[白死。])
+(;B[ob]N[变化];W[oa];B[nb];W[qa];B[mc];W[na]C[次序有所不同，还是回到正解图。])
+(;B[ob]N[失败];W[oa];B[na];W[qa]C[白可以做劫抵抗。]))

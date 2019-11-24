@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rc][rd][re][qf][pd][od][qb][pb][ob][nb][lb][kb][kc][jd][je][jf][jg]
+[kh][lh][ng][og]AW[oc][qc][pc][qd][pe][oe][ne][kd][ke][kf][mg][lc][mb][nc]N[122]
+AP[MultiGo:4.4.4]SZ[19]AB[mh]MULTIGOGM[0]
+
+(;LB[me:A][ld:B]C[A位是眼形的急所，但是，黑走在A位能杀死白棋吗？这可以作为起算的起点。黑B位打，白棋可以做劫，但能不做劫吗？这也需要计算。]
+N[审题])
+(;B[lf]N[正解];W[le];B[me];W[mf];B[md];W[lg];B[kg];W[ld];B[nf]C[白死。])
+(;B[lf]N[变化];W[me];B[le];W[ld]C[白死。])
+(;B[me]N[失败1];W[mf];B[md];W[mc];B[lf];W[nf])
+(;B[ld]N[失败2];W[mc];B[me];W[mf];B[lf];W[md]))

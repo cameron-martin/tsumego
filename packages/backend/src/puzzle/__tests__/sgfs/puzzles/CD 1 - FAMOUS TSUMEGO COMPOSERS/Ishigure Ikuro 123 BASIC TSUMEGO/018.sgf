@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oe][ne][me][md][nc][mb][qb][qc][pc]AW[ob][rb][rc][rd][qd][pd][pf]
+[nf][of][mf][lf][le][ld][kb][lb][la]N[018]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;TR[ob]C[白棋点入，不吃住这个白子，黑要死掉。]N[审题])
+(;B[pa]N[正解];W[ma];B[nb]C[白一子回不了家，黑活。])
+(;B[pa]N[变化];W[oa];B[nb])
+(;B[oc]N[失败1];W[ma])
+(;B[nb]N[失败2];W[pa]C[在类似棋形下，尖往往是手筋。];B[qa];W[oc])
+(;B[na]N[失败3];W[pa];B[qa];W[oc]))

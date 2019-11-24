@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[ls][qs][qr][pq][oq][nq][mq]AW[rr][rs][qq][qp][pp][op][np][mp][lq]
+[kq][kr][os]C[24]N[24]AP[MultiGo:4.4.4]SZ[19]AB[lr]MULTIGOGM[0]
+
+(;C[第24题 无条件成活
+
+黑腹中有一白子在急所位置上，如同蛇蝎一般。
+
+如不巧妙应对，则蝎毒就要流遍全身，这可不是闹着玩的。]
+N[审题])
+(;B[ns]LB[or:A]C[黑气紧，而且白一子在急所位置上。黑如走A位则白1后黑顿死。其他的走法也不妙。
+
+这里，除黑1靠以外都会招致不活。]
+N[正解])
+(;B[ns]N[变化1];W[mr];B[or];W[ks];B[ps]C[白活。])
+(;B[ns]N[变化2];W[nr];B[or];W[ms];B[mr])
+(;B[ns]N[失败];W[nr];B[mr];W[or]C[劫。]))

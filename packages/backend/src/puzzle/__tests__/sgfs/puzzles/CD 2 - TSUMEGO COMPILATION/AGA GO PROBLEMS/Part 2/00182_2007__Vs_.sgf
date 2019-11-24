@@ -1,0 +1,37 @@
+(;
+AB[qd][dq][ce][fe][ef][df][ge][he][bc][hc][ib][hd]
+AW[dc][pp][di][ee][ed][ff][gf][fh][gc][hb][ic][cg]
+TR[cg]
+C[Black's response to White's marked play?
+
+An amazing pro level example of dynamic positional balance that kyu level players can marvel at, but would find almost impossible to grasp.]
+
+Source:
+    Go World, #38, Winter 1984-85, pp. 29-30
+    29th Honinbo, Awaji Shuzo vs. Rin Kaiho]
+(;
+B[cc]
+C[After this defensive move, Rin (white) intended to give up the corner with the following sequence!];
+W[jb];B[gb];W[ia];B[fc]
+LB[be:a]
+TR[hc][hd][he][ge][fe]
+C[Black takes huge corner profit, but in compensation, White keeps sente, has the aji at A, and can later aim at squeezing Black's marked stones.
+
+How many kyu level players do you think would take White here?!
+Hint:  none!]
+)
+    (;
+    B[cf]
+    C[The game line.  Awaji replies with a submissive answer.];
+    W[bb];B[bd];W[gb];B[jc];W[ab];B[ch];W[dh];B[bg];W[ci];B[bh]
+    C[Quite a contrast with the other line where Black takes the corner.  Yet White cannot be said to be ahead!]
+    )
+    (;
+    B[gb]
+    C[Fighting spirit might demand that Black do something along this line.];
+    W[bb]
+    C[And if White answers in the corner...];
+    B[ch];W[dh];B[bg];W[bh];B[bf];W[ci];B[bd];W[fb];B[ha];W[cb];B[ae]
+    C[Both sides live, and White has sente.  But the result is still reasonable for Black.]
+    )
+)

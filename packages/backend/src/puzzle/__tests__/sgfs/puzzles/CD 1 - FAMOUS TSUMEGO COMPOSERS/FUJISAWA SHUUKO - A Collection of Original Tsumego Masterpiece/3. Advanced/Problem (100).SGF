@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[pd][qd][od][rd][nd][md][lc][lb][la][pb][oc]AW[rb][qc][pc][ob][nc][mc][mb]C[白先 不能直接吃黑一子]
+
+(;W[oa]
+(;B[qb];W[rc];B[sb];W[ra];B[sc];W[ma]C[正解 白先活])
+(;B[sb];W[qb];B[ma];W[sc]C[变化]))
+(;W[pa];B[na];W[oa];B[sb];W[sc];B[rc];W[qb];B[ra]C[失败])
+(;W[qb];B[oa];W[na];B[nb]C[失败]))

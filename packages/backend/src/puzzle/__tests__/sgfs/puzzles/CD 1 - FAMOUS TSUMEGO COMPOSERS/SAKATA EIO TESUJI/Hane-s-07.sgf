@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cl][bn][cn][co][cp][fp][dq][fq][iq][dr][er][bs][cs]AB[dm][dn][bo][fo][go][ap][bp][dp][ep][cq][eq][ar][br][cr]C[Ex. 7 - Shinogi
+
+B does not have 2 eyes in the corner; he has to find a suji to make eyes, that is, to do something about the W group surrounding him.
+To achieve this he will not have recourse to direct methods but he will attack from a distance.]
+(;B[gq]LB[gq:1]C[Diag. 1 - Failure
+
+The success of B 1 hasamitsuke is doubtful. 
+
+]
+;W[gr]LB[gq:1][gr:2]C[After W 2 ]
+;B[gp]LB[gp:3][gq:1][gr:2]C[B3, ]
+;W[fr]LB[gp:3][gq:1][fr:4][gr:2]C[W 4 it ends in failure.
+])
+(;B[hq]LB[hq:1]C[Diag. 2 - Correct
+
+B 1 tsuke is the indirect way. ]
+(;W[hr]LB[hq:1][hr:2]C[After W 2, ]
+;B[gr]LB[hq:1][gr:3][hr:2]C[B's hane (hanedashi) 3 is a splendid suji. ]
+(;W[gq]LB[gq:4][hq:1][gr:3][hr:2]C[If W 4 ate,]
+;B[fr]LB[gq:4][hq:1][fr:5][gr:3][hr:2]C[B plays 5 kiri ]
+;W[hp]LB[hp:6][gq:4][fr:5][gr:3][hr:2]
+;B[es]LB[hp:6][gq:4][fr:5][gr:3][hr:2][es:7]C[then 7 and he can take the 3 W stones.])
+(;W[fr]LB[hq:1][fr:4][gr:3][hr:2]C[Diag. 3 - Variation
+
+If W 4 tsugi in answer to B 1 and 3 ]
+;B[gq]LB[gq:5][hq:1][fr:4][gr:3][hr:2]C[B connects at 5 and wins.
+You should confirm that after B 1, followed by 3 nozoki, the connection at 4 does not work.]))
+(;W[fr]LB[hq:1][fr:2]C[Diag. 4 - Variation
+
+If W 2 tsugi in reply to B 1 tsuke,  
+]
+;B[gq]LB[gq:3][hq:1][fr:2]C[after the sequence from B 3 
+]
+;W[ds]LB[gq:3][hq:1][fr:2][ds:4]
+;B[gr]LB[gq:3][hq:1][fr:2][gr:5][ds:4]
+;W[fs]LB[gq:3][hq:1][fr:2][gr:5][ds:4][fs:6]
+;B[gp]LB[gp:7][gq:3][hq:1][fr:2][gr:5][ds:4][fs:6]
+;W[an]LB[an:8][go:7][gq:3][hq:1][fr:2][gr:5][ds:4][fs:6]C[to 8, B succeeds in achieving seki.
+It is also possible for him to start ko with B 8 hane instead of 7.])))

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[kq][kp][ko][lo][no][np][nq][oo][po][qo][rp][rq][rr][rs][ls][ks]AW[lp]
+[lq][lr][ms][nr][oq][op][pp][qp][qq][qr][qs]N[027]AP[MultiGo:4.4.4]SZ[19]AB[kr]
+MULTIGOGM[0]
+
+(;C[白气很紧，这是缺陷。注意攻击的次序。]N[审题])
+(;B[mr]C[黑1先扑好]N[正解];W[mq];B[or];W[os];B[pr];W[ps];B[mp])
+(;B[mr]N[变化];W[pr];B[os];W[mq];B[or])
+(;B[or]N[失败];W[os];B[pr];W[mr]C[现在可以看到，黑棋先在4位扑一个的好处了。]))

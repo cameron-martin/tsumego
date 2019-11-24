@@ -1,0 +1,59 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][qf][nq][ql]
+AB[pj][dj][dp][pd][pp][dd][df][nd][jc]
+LB[fc:1][df:2][qf:3][nd:4][jc:6][nq:5][ql:7]
+C[Problem 48. Black to play.  
+
+How should Black respond to White 7 ? ]
+(;B[np]
+LB[qn:A]
+
+TE[2]
+C[Correct Answer.  
+
+Since White has a stone on the upper right side, it doesn't make sense to attack at A as in Problem 43. ]
+;W[mp];B[no];W[oq];B[pq]
+C[Instead, Black can make good shape with the attach-and-extend joseki with the sequence to Black 5. ]
+;W[qj]
+C[If White next attaches at 6, ... ]
+;B[kp]
+C[... Black will attack the white stones at the bottom with 7 ... ]
+;W[mo];B[mn]
+C[... and 9, ... ]
+;W[lo];B[pn]
+C[... then defend his position with 11. ]
+;W[pi]
+LB[qi:A]
+C[White can't neglect 12, since the hane of Black A is too severe to allow. ]
+;B[lr]
+C[Next, Black attacks White ... ]
+;W[mq];B[jn]
+(;W[km];B[jm];W[kl];B[jl];W[kk];B[ij]
+C[... with the sequence to 21, building a large-scale moyo in the lower left. <= ]
+)
+(;W[ko]
+LB[jn:15]
+C[Variation.  
+
+In answer to Black 15, it is unreasonable for White to cut through with 16 ... ]
+;B[jo];W[jp]
+C[... and 18. ]
+;B[ip];W[jq];B[iq];W[jr];B[ir];W[kq];B[js];W[ks];B[is]
+C[White lives, but Black can squeeze her with the sequence to 27, building a thick position on the bottom left. ]
+;W[kr]
+C[Finally, White must defend at 28 in gote, so Black can now switch to the upper left and attack the white stone there. <= ]
+))
+(;B[qn]
+C[How the game continued.  
+
+Black pincered with 1 ... ]
+;W[ol]
+C[... and White jumped to 2. ]
+;B[pr]
+C[Defending the corner with 3 was territorially tight, but it didn't solve the problem of the weak black stone on the right side. ]
+;W[md]
+C[In relation to this, White 4 was a bit troublesome. See Problem 52 for the continuation. <= ]
+)
+)

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[co][cn][dn][en][fn][fp][gp][gq][gr][gs][bs][br][bq]AW[fs][fr][fq]
+[ep][eo][do][cp][cq][cr]C[C]N[015]AP[MultiGo:4.4.4]SZ[19]AB[bp]MULTIGOGM[0]
+
+(;C[很容易就劫杀。能不能更进一步？黑的选择并不多，计算吧。
+
+难度：C]N[审题])
+(;B[ds]N[正解];W[cs];B[er];W[eq];B[dq]C[黑的进攻全是命令型，白毫无抵抗的余地。
+
+白死。])
+(;B[ds]N[变化];W[dr];B[cs];W[dq];B[er])
+(;B[cs]N[失败1];W[ds];B[dr];W[er])
+(;B[dr]N[失败2];W[ds])
+(;B[er]N[失败3];W[eq]))

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[kr][kq][kp][ko][lo][mo][nn][on][pn][qn][qo][qq][rq][rr][ls][ms][mr]
+[nq]AW[lp][mp][np][no][oo][po][pp][pq][oq][os][ns][qr][lr][lq]N[013]AP[MultiGo:4.4.4]
+SZ[19]AB[mq]MULTIGOGM[0]
+
+(;C[第一感是哪里？逐点计算也能得到正解。]N[审题])
+(;B[ks]C[黑1自补，冷静，这样白不活]N[正解];W[ps];B[rs];W[nr];B[pr])
+(;B[qs]N[失败];W[nr];B[ks];W[pr]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[lq][lo][no][np][oo][po][qo][rp][rq][rr][qr][ps][js][jr][jq]AW[kr]
+[lr][mq][nr][or][oq][op][pp][qp][qq][pr]N[026]AP[MultiGo:4.4.4]SZ[19]AB[kq]MULTIGOGM[0]
+
+(;C[本题不难，因为可选点不多，计算也比较简单。]N[审题])
+(;B[ks]C[黑1从左侧压缩眼位，好]N[正解];W[ls]C[白2不挡不行];B[os]C[黑3换一侧继续压缩眼位]
+;W[ns]C[白棋还得挡];B[mr]C[黑棋破眼的手法是基本攻。白死。])
+(;B[os]N[失败1];W[ks]C[黑1、白2之后，白是活形就很清楚了];B[ms];W[ns];B[mr];W[ls]
+;B[mr];W[nq];B[ms];W[lr]C[白棋利用倒脱靴做眼也是基本功。])
+(;B[nq]N[失败2];W[ks]LB[os:A]C[白棋走A位也能活。])
+(;B[ls]N[失败3];W[ms];B[ks];W[os]C[这种计算不难吧？]))

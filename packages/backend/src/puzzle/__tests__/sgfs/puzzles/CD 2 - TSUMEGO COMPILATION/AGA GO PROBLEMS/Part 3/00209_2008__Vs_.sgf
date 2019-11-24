@@ -1,0 +1,35 @@
+(;
+AB[cr][fr][gr][cq][dq][eq][bp][cp][pp][co][pn]
+AW[br][dr][er][hr][bq][fq][gq][iq][nq][bo][do][fo][bn][cn]
+C[Black plays.
+
+Source:
+    Tesuji Dictionary, Vol. 1, Hasami-tsuke #4
+    Segoe Kensaku & Go Seigen, Ishi Press]
+(;
+B[ar]
+C[The only move!];
+W[bs]
+(;
+B[ds]
+C[Another good move!];
+W[ap]
+C[White appears to be able to connect here.];
+B[aq];W[as];B[aq];W[ao];B[cs]
+C[But after a couple throw-ins, Black has a snapback to form the 2nd eye.]
+)
+    (;
+    B[cs]
+    C[A mistake.];
+    W[gs]
+    C[And Black has a dead shape in the corner.]
+    )
+)
+    (;
+    B[bs]
+    C[Fails];
+    W[ar]
+    C[And Black can make an eye by capturing either the 3-stone group on the left or the 2-stone group on the right, but not both!]
+    )
+)
+

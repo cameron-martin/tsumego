@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[nb][pd][pe][qf][qg][rb][qc][pc][oc]AW[qd][qe][re][rc][sd][qb][pb]
+[ob][pa][na][mb][lc]N[029]AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[黑棋的手筋会让白棋大吃一惊吧？
+
+难度：☆]N[审题])
+(;B[sa]N[正解])
+(;B[sb]N[失败];W[ra]C[黑1若在2位立，则白走1位。道理一样。]))

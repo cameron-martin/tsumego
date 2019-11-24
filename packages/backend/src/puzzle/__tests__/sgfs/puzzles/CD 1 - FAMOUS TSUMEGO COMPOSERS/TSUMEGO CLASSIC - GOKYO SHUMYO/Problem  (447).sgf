@@ -1,0 +1,30 @@
+(;GM[1]FF[3]AB[pd][qd][rd][de][ge][oe][se][cf][gf][nf][fg][nh][rh][ci][ei][li][qi]
+[cj][lc][ic][bc][lb][gb][fb][ka][ga][fa][oc][rc][ad][bd][ed][fd][hd][jd][kd][rm]
+[ln][sn][lo][ap][bp][lp][eq][fq][gq][dr][er][hr][is][js][hq][kq][cq][ej][gj][jj]
+[kj][mj][nj][qj][ak][ck][nm][lm][ql][nl][jl][el][ok][ik][dk]AW[ar][aq][rp][np][mp]
+[kp][jp][ip][dp][cp][oo][go][bo][rn][cr][fr][sc][qc][pc][dq][pq][hs][gs][fs][es]
+[ds][cs][bs][as][lr][ir][gr][br][rf][pf][ff][ef][bf][re][me][ke][ie][ee][be][sd]
+[nd][ld][id][dd][sa][ra][pa][oa][ma][ja][ia][ha][ca][ba][aa][rg][lg][jg][hg][ag]
+[cd][lk][kk][mc][kc][jc][hc][gc][dc][cc][ac][sb][rb][mb][kb][jb][bb][mk][nk][qk]
+[rk][sk][dl][il][ll][ol][pl][rl][sl][dm][gm][im][jm][ab][ai][qh][ph][mh][kh][ih]
+[fh][dh][ch][sg][qn][on][fn][cn][sm][mm][mi][ri][si][aj][bj][ij][lj][oj][rj][sj]
+[ek][gk][jk][ki][di][bi][km]PL[W]C[White plays, Black dies.
+Start at A.
+Black captures 72 stones, but does not manage to make two eyes and dies.
+
+点聚
+
+这是一道妙趣横生的全局性创作死活题。“弃子、送吃”充斥全盘。
+
+白先如何下呢？]
+LB[bq:A]AP[MultiGo:3.9.3]SZ[19]
+;W[bq]C[白1提，意在弃子后形成“倒脱靴”。];B[cq];W[cr];B[kr];W[jr];B[mr];W[lq];B[mq]
+;W[or];B[ls];W[lq];B[ml];W[mn];B[kl];W[lk];B[lj];W[ll];B[pk];W[pj];B[sh]C[战斗从左下蔓延到右边，双方对杀仍然没有结果。]
+;W[rk];B[qk];W[ri]C[黑仍然没有眼];B[rj];W[sj];B[ni];W[oh];B[mg];W[lh];B[pb];W[qb]
+C[战斗从中腹蔓延到右上，白送吃是妙手，白有倒拖靴手段。];B[qa];W[qb];B[hk];W[hj]
+;B[gl];W[fk];B[fl];W[hl];B[fj];W[dj];B[bk];W[bm];B[eh];W[eg];B[gg];W[gh];B[dg];W[cg]
+;B[bh];W[bg];B[ah];W[bi];B[fe];W[df];B[dg];W[ef];B[da];W[db];B[cb];W[bb]C[黑A白B，此处并无劫争]
+LB[ba:A][ab:B];B[hb];W[ib];B[ic];W[ib];B[jc];W[jb];B[gd];W[kb];B[kc];W[la];B[fc]
+;W[hc];B[gc];W[je];B[hc];W[ja]C[至此，黑全盘仍然只有下边一只眼。
+
+综观整个追杀过程，白棋充分利用了弃子、送吃的手段，真是精妙绝伦的作品！])

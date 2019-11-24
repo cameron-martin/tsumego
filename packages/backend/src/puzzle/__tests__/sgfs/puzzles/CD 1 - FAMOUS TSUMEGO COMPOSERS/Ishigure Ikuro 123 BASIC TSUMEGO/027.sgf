@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[mb][lb][la][qb][qc][pc][oc]AW[kb][kc][lc][mc][nd][od][pd][qd][rc]
+[rb][qa]N[027]AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[本题说的是黑如何防守。有了026题的经验，本题不难。]N[审题])
+(;B[oa]N[正解];W[na];B[nb];W[pa];B[pb]C[劫活正解。])
+(;B[oa]N[变化];W[pa];B[na]C[黑活。])
+(;B[na]N[失败1];W[oa])
+(;B[pa]N[失败2];W[nb]))

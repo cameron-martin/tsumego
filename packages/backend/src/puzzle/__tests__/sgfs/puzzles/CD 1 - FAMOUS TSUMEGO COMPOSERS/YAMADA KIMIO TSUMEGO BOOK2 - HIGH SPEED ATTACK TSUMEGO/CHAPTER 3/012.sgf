@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nd][md][ld][kd][jd][jb][ib][nc][rb][rc][qc][pd]AW[kb][kc][lc][mc]
+[nb][oc][pb][qb]N[012]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[很锻炼计算能力的死活题，变化有一些，展现了若干破眼技巧。]N[审题])
+(;B[qa]N[正解];W[pa];B[ma];W[la];B[mb];W[na];B[ob]C[白死。])
+(;B[qa]N[变化1];W[pa];B[ma];W[mb];B[la];W[ka];B[ob];W[oa];B[pc])
+(;B[qa]N[变化2];W[ma];B[oa];W[pa];B[ob];W[na];B[ob])
+(;B[qa]N[变化3];W[la];B[mb];W[oa];B[ma];W[pc];B[ra];W[pa];B[jc])
+(;B[la]N[失败1];W[ka];B[mb];W[lb])
+(;B[oa]N[失败2];W[ob];B[ka];W[la]))

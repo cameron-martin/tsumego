@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qd][qe][pb][ob][nb][mb][lb][la][mc][ld][qc]AW[lf][ke][kc][lc][mf]
+[ka][of][pf][qf][rf][pd][pc][qb][rb][rc][rd][pa][ma][kd][kb]N[022]AP[MultiGo:4.4.4]
+SZ[19]AB[le]MULTIGOGM[0]
+
+(;C[黑在边上已有一眼，必须在中腹再做出一眼。为此，要利用已经被吃住的黑三子。]N[审题])
+(;B[pe]N[正解];W[oe];B[oc];W[od];B[nd]C[黑活。])
+(;B[pe]N[变化];W[od];B[nd];W[oe];B[oc])
+(;B[oc]N[失败];W[nd];B[od];W[pe];B[ne];W[me]))

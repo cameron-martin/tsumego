@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bo][cp][bq][cq]AB[bl][bn][cn][co][dp][dq][fq]LB[ao:A][ap:B]C[Ex.10 - Life or Death
+
+This is quite a difficult life-or-death problem.
+Anyone can find the ko after W "A" hane and B "B", but you will have to think hard to kill the W group unconditionally.]
+(;B[dr]LB[dr:1]C[Diag. 1 - Failure
+
+B 1 sagari is a calm move ]
+;W[ap]LB[ap:2][dr:1]C[but when W gets an eye at 2 he is not completely dead. ]
+;B[br]LB[ap:2][br:3][dr:1]C[If B plays 3 tsuke ]
+;W[cr]LB[ap:2][br:3][cr:4][dr:1]C[after W 4, ]
+;B[cs]LB[ap:2][br:3][cr:4][dr:1][cs:5]
+;W[bs]LB[ap:2][br:3][cr:4][dr:1][bs:6][cs:5]C[W 6 ]
+;B[as]LB[ap:2][br:3][cr:4][dr:1][as:7][cs:5]
+;W[ar]LB[ap:2][ar:8][br:3][cr:4][dr:1][as:7][cs:5]C[and W 8 it is ko.])
+(;B[ds]LB[ds:1]C[Diag. 2 - Correct
+
+B 1 tobi is the correct answer here.]
+(;W[ap]LB[ap:2][ds:1]C[If W makes an eye at 2, ]
+;B[bs]LB[ap:2][bs:3][ds:1]C[B 3 tobi is good.]
+;W[br]LB[ap:2][br:4][bs:3][ds:1]C[and after W 4 ]
+;B[ar]LB[ap:2][ar:5][br:4][bs:3][ds:1]C[and B 5, W is dead.])
+(;W[cr]LB[cr:2][ds:1]C[Diag. 3 - Correct
+
+The variation in this diagram must be worked out in addition to the previous one.
+If W 2 sagari in answer to B 1 ]
+;B[ar]LB[ar:3][cr:2][ds:1]C[B 3 at the vital point is a good move. ]
+(;W[ap]LB[ap:4][ar:3][cr:2][ds:1]C[After W 4 ]
+;B[an]LB[an:5][ap:4][ar:3][cr:2][ds:1]C[and B 5, W is dead.
+Try to appreciate the significance of the tobi B 1.
+It has created the miai points points of 3 in the previous diagram and 3 in this diagram, rendering W's resistance futile.])
+(;W[an]LB[an:4][ar:3][cr:2][ds:1]C[Diag. 4 - Variation.
+
+W 4 hane after B 3 tries for a ko fight, ]
+;B[ap]LB[an:4][ap:5][ar:3][cr:2][ds:1]C[but after the sequence from B 5 ]
+;W[ao]LB[an:4][ao:6][ap:5][ar:3][cr:2][ds:1]
+;B[bs]LB[an:4][ao:6][ap:5][ar:3][cr:2][bs:7][ds:1]
+;W[dr]LB[an:4][ao:6][ap:5][ar:3][cr:2][dr:8][bs:7][ds:1]
+;B[er]LB[an:4][ao:6][ap:5][ar:3][cr:2][dr:8][er:9][bs:7][ds:1]
+;W[cs]LB[an:4][ao:6][ap:5][ar:3][cr:2][dr:8][er:9][bs:7][cs:10][ds:1]
+;B[aq]LB[an:4][ao:6][ap:5][aq:11][ar:3][cr:2][dr:8][er:9][bs:7][cs:10][ds:1]C[to B 11, W is dead.]))))

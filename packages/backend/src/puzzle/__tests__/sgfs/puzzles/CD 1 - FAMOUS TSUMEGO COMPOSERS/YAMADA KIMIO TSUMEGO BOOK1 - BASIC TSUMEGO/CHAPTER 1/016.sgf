@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[oc][nb][sb][rb][qc]AW[ma][mb][mc][nc][od][pd][qd][rd][rc][qb]N[016]
+AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[有没有过于简单的感觉？]N[审题])
+(;B[pa]N[正解];W[na];B[pb])
+(;B[ob]N[失败1];W[qa];B[pa];W[ra])
+(;B[pb]N[失败2];W[pa];B[qa];W[oa]))

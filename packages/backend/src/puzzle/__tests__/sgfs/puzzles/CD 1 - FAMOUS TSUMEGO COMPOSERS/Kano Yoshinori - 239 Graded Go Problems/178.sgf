@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ek][dl][fl][cm][fj][fi][dk][ei][dj][cl][di]GN[ ]AB[fh][bm][cg][fk][bl][gj][gl][cj][gk][ck][dh][fm][ci][gi]PM[1]C[Problem 178. White to play and get a ko. (2 moves)
+How does White get a ko in this position?]PW[ ]
+(
+;W[em]C[Correct Answer
+White 1 is the correct answer...]
+;B[el]C[...Black 2 starts a ko fight and the life of the white group will depend on the oucome of this ko.]
+)
+(
+;W[el]C[Wrong Answer
+If White connects at 1...]
+;B[em]C[...Black will play 2, leaving White with only one eye. White is now uncontidionally dead.]
+)
+
+)

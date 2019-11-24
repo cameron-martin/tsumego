@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ne][me][le][kd][lc][kb][jb][rb][rc][qd][pd]AW[ka][lb][mc][md][ob]
+[oc][pc][qb]N[011]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[mb:A][nc:B][nd:C]C[A位的打引人注目。另外，黑B挖，白C则黑A双打。]N[审题])
+(;B[pa]N[正解];W[qa];B[nc];W[nb];B[nd]LB[mb:A][la:B]C[以下，白A则黑B扑，白B则黑A扑，白没有两眼。
+
+白死。])
+(;B[pa]N[变化];W[oa];B[qa]C[观察，左边的白做不出两眼来。])
+(;B[nc]N[失败1];W[nb];B[nd];W[pa])
+(;B[mb]N[失败2];W[ma]))

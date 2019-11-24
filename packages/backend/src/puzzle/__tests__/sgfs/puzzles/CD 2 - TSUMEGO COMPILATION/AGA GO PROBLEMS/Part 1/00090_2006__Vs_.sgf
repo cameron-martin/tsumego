@@ -1,0 +1,56 @@
+(;
+AB[ob][nb][jb][pc][mc][kc][ic][hc][pd][ld][gd][re][oe][me][le][ke][ie][ge][nf][mf][kf][jf][qg][pg][og][mg][kg][ig][hg][gg][fg][mh][kh][qi][pi][ni][li][ji][gi][oj][lj][ij][nk][lk][jk][ll]
+AW[lb][lc][nd][md][kd][jd][ne][je][pf][of][if][hf][ng][lg][jg][oh][nh][lh][jh][ih][mi][ki][mj][kj]
+C[Black plays.
+
+Source:
+    FaYangLun:  300 year old problem set for
+    student professionals.
+Analysis:
+    Myron Souris];
+B[lf];
+W[lh];
+B[lg];
+W[lh];
+B[le]C[Starting with this move, White's
+eye-space shrinks to only one eye!
+
+All those in favor of voting for Go as the most
+amazing game on the planet, please raise your
+hand.]
+(;
+W[ld];
+B[kf]
+(;
+W[jf];
+B[mf];
+W[nf];
+B[lg]
+C[Black can now fill the outside liberties,
+form a central eye, and kill White.  If
+White tries to capture the center group,
+Black forms a rabbitty six.]
+)
+    (;
+    W[lf];
+    B[mf];
+    W[lg];
+    B[nf];
+    W[jf];
+    B[ke]
+    C[And White still only has one eye.]
+    )
+)
+    (;
+    W[lf];
+    B[ld];
+    W[kh];
+    B[mh];
+    W[mg];
+    B[nf];
+    W[kg];
+    B[jf]
+    C[And White has a terminal case of
+too many false eyes.]
+    )
+)

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qc][pb][ob][nb][mc][lc][kc][kd][ke][kf][lg][mg][ng][og][pg][qg][rf]
+[rd]AW[md][ld][le][lf][mf][of][pf][qf][qe][qd][pc][oc][nc]N[059]AP[MultiGo:4.4.4]
+SZ[19]AB[re]MULTIGOGM[0]
+
+(;LB[nf:A][ne:B]C[黑A冲，白B挡就活棋。所以，黑必须点进去。]N[审题])
+(;B[oe]N[正解];W[nf];B[nd];W[pd];B[ne])
+(;B[oe]N[变化];W[ne];B[pd];W[nd];B[nf])
+(;B[oe]N[失败1];W[nf];B[pd];W[nd];B[ne];W[pe])
+(;B[ne]N[失败2];W[nf];B[oe];W[nd]))

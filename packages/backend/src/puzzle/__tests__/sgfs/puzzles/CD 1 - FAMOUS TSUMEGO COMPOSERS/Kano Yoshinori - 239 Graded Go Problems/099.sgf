@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 7. LIVING GROUPS AND DEAD GROUPS
+
+Problem 99. Black to play.
+How does Black play to make a living group?]AW[ek][dl][kl][fj][hj][il][dm][ik][dk][gj]PB[ ]PM[1]PW[ ]AB[gk][fl][hl][em][el][fk]
+(
+;B[gm]C[Correct Answer
+If Black plays at 1, his stones are alive.]
+)
+(
+;B[hm]C[Wrong Answer
+If Black plays any other place...]
+;C[...White will play at 2 and the black stones will die.]W[gm]
+)
+
+)

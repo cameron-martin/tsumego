@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[nd][qf][pm]
+AB[pj][dj][dp][pd][pp][dd][jd][jj][np]
+LB[pm:1][np:2][qf:3][jd:4][nd:5]
+C[Problem 40. Black to play.  
+
+White plays two approach moves with 3 and 5. Against which stone in the upper right should Black attack ? ]
+(;B[pf]
+TE[2]
+C[Correct Answer.  
+
+With two stones already in place, White is stronger on the right side, so, following the principle of attaching to the stronger stone, Black attaches at 1. ]
+;W[pg];B[of];W[qe];B[od];W[rc]
+C[The joseki to White 6 follows. Next, ... ]
+;B[og]
+TR[pj]
+C[... Black presses his advantage by driving White in the direction of his marked stone, ... ]
+;W[ph];B[oh]
+LB[pi:B][oi:A]
+C[... pinning her against the side and building a vast moyo in the center. If White A, Black will cut at B and he will have the advantage on the right. If White plays elsewhere, Black B will be a thick move. <= ]
+)
+(;B[nc]
+C[How the game continued.  
+
+Taking territory in the corner with Black 1 ... ]
+;W[mc];B[oc];W[md];B[pf];W[pg];B[qe];W[of];B[pe];W[rf];B[og];W[ph];B[re]
+C[... to 13 was a negative way of playing. You will never get strong by playing defensively in the opening. ]
+;W[nf]
+C[With 14, White became strong in the center, while Black was confined to the corner, so strategically it was White who made progress in this opening skirmish. As Black, you should never allow your stones to be isolated in the opening maneuvers. See Problem 44 for the continuation. <= ]
+)
+)

@@ -1,0 +1,56 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][be][bi][cf][cg][ci][cj][dh][di]
+AW[bc][bk][cc][cd][ce][ch][ck][df][dg][dj][dk][eh][ei]PL[W]C[White to play.
+
+Capturing stones - Reduce Opponent's Liberties
+
+Source: Xuan-Xuan-Qi-Jin.]
+(
+;W[ae]
+(
+;B[af]
+;W[ag]
+(
+;B[bg]C[RIGHT
+Ko Fight])
+(
+;B[ad]
+;W[bh]
+;B[bf]
+;W[ai]C[RIGHT
+]))
+(
+;B[bf]
+;W[bh]
+;B[ah]
+;W[ad]
+;B[af]
+;W[bg]C[RIGHT
+]))
+(
+;W[ad]
+;B[af])
+(
+;W[bg]
+;B[bf]
+;W[bh]
+;B[ag])
+(
+;W[bh]
+;B[bg]
+;W[af]
+;B[ag]
+;W[ad]
+;B[bf])
+(
+;W[af]
+;B[bf]
+;W[ad]
+;B[ag])
+(
+;W[ag]
+;B[bg]
+;W[ae]
+;B[ad]
+;W[af]
+;B[ah]))

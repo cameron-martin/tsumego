@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][ce][cn][cp][dq][eq]
+AB[ep][fq][fp][jp][pp][pd]
+C[Problem 171. Black to play.  
+
+White has made a corner enclosure in the upper left corner. Where should Black now play ? ]
+(;B[pj]
+TR[jp]
+
+TE[2]
+C[Correct Answer.  
+
+Black should make a sanren-sei on the right side with 1. With the marked stone at the bottom, this moyo is like an eagle, spreading its great wings in flight. <= ]
+;W[nc]
+C[Next, White will approach with 2, ... ]
+;B[pf];W[pb];B[qc];W[kc]
+C[... the continuation to White 1 is one possibility. ]
+;B[pn]
+C[At this point, Black will strengthen his position in the lower right with 7. <= ]
+)
+(;B[qj]
+C[Failure.  
+
+Black 1 here is too low, as it would be open to a capping move. <= ]
+)
+(;B[jc]
+C[Passive.  
+
+Black plays 1 in order to neutralise the influence of White's corner enclosure in the upper left corner, but this move is dubious. ]
+;W[qj]
+C[White will play 2 ... ]
+;B[qm];W[qg]
+C[... and 4 to stake out a position on the right side. Of course, we can't say that Black's position is bad, but it is going to be a long, hard game for him. <= ]
+)
+)

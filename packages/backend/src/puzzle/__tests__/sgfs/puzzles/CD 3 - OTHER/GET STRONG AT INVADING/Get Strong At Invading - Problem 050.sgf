@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][hc][he][nc][ne][qh]
+AB[dd][fd][ff][kd][pd][pf]
+LB[kc:A][ne:1]
+TR[qh]
+C[Problem 50. Black to play.  
+
+This time White has the marked stone in place on the right side. How should Black answer White 1 now ?  
+
+<See Reference Diagram 50 for a deep black invasion at A.> ]
+;B[og]
+TE[2]
+C[Correct Answer.  
+
+Black must move out into the center with 1. ]
+;W[kf]
+C[If White caps with 2, ... ]
+;B[md]
+C[... Black can easily break out into the center with 3, ... ]
+;W[nd]
+C[... White 4, ... ]
+;B[lf]
+C[... Black 5.  <= ]
+)
+)

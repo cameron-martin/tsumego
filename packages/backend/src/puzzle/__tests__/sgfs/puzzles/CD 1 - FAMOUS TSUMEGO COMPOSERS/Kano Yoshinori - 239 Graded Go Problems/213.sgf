@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[fq][ir][er][es][ip][iq][gr][ho][go][is][fr][fp]GN[ ]AB[dr][hs][fo][ep][gp][eo][ds][hq][hr][cq][hp][eq]PM[1]C[Problem 213. Black to play.
+How can Black make a seki?]PW[ ]
+(
+;B[gs]C[Correct Answer
+If Black plays 1, a seki results between the six white stones and the six black stones.]
+)
+(
+;B[io]C[Wrong Answer
+If Black makes any other move, such as 1...]
+;W[gs]C[...White plays 2 and catches five black stones.]
+)
+
+)

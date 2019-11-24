@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[rd][sd][nc][mb][pb][oc][pd][qd]AW[rc][qc][pc][ob][oa]C[白先 第一步有做眼的好手。]
+
+(;W[sb];B[qb];W[rb]C[正解 白先活])
+(;W[rb];B[sb];W[sc];B[ra]C[失败])
+(;W[qb];B[sb];W[sc];B[qa];W[pa];B[ra]C[失败])
+(;W[ra];B[sb]C[失败]))

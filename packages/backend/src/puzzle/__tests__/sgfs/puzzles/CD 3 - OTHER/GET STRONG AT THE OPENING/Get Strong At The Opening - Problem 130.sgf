@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][dc][ck][cn][dp][po][qo][qk][oo]
+AB[cf][ci][dr][fq][qp][pd][pp][oq][np]
+LB[jc:A][iq:C][qi:B]
+C[Problem 130. Black to play.  
+
+The biggest moves are the ones that have big follow-ups. Where do you think Black should play in this position ? ]
+(;B[jc]
+LB[ee:B][fc:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a big move because it threatens A. Next, Black would play B, and a moyo would begin to form in the center. ]
+;W[gc]
+C[This is not to White's liking, so she counters by extending to 2. ]
+;B[qf]
+C[But Black plays 3 and he gets a strong position in the upper right. <= ]
+)
+(;B[qi]
+LB[pm:B][qm:A]
+C[Failure.  
+
+Black 1 aims at an invasion at A, but this is not much of a threat, since White B would be an adequate response. ]
+;W[nc]
+C[Therefore, White will take the initiative and make an approach move at 2. <= ]
+)
+)

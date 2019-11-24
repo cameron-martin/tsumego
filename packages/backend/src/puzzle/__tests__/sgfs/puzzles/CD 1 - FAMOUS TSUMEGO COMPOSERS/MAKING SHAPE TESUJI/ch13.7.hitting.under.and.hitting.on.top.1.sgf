@@ -1,0 +1,13 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[do][jp][cq][jq]AB[eq][hq]
+;B[cr]CR[cr]
+(;W[br]CR[br]
+;B[dr]CR[dr]
+;W[dp]CR[dp])
+(;W[dr]CR[dr]
+;B[dq]CR[dq]
+;W[br]CR[br]
+;B[cp]CR[cp]
+;W[bq]CR[bq]
+;B[dp]CR[dp]C[White can not normally play this way, except in special circumstances, where he thinks he can kill Black.]))

@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]PM[1]C[Problem 128. Black to play and live. (1 move)
+What move does Black make to give his stones life?]GN[ ]AW[id][le][ic][md][ib][mc][ke][me][jb][je]PW[ ]PB[ ]AB[kb][ld][jd][jc][lb][lc][kd]
+(
+;C[Correct Answer
+Black 2 is the correct answer...]B[mb]
+;C[...If White 2...]W[ka]
+;C[...Black gets two eyes with 3 and is absolutely alive.]B[la]
+)
+(
+;C[Wrong Answer
+Black 1...]B[ka]
+;C[...lets White move into the corner with 2. Black cannot make two eyes and is dead.]W[mb]
+)
+
+)

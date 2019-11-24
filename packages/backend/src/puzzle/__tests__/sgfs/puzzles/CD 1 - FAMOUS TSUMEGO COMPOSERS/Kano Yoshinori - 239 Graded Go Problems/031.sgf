@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 4. CONNECTING AND SEPARATING STONES
+
+Problem 31. Black to play
+How should Black play?]AW[ci][ei]PB[ ]PM[1]PW[ ]AB[dh][dj]
+(
+;B[di]C[Correct Answer
+Black connects his stones with 1. White is also separated into two, an important point to consider when fighting.]
+)
+(
+;B[cj]C[Wrong Answer
+If Black plays 1...]
+;C[...it is White who separates Black into two and connects his own stones by playing 2. Black is at a disadvantage.]W[di]
+)
+
+)

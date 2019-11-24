@@ -1,0 +1,29 @@
+(;GM[1]FF[3]AB[ml][kl][jc][rs][qs][ns][ms][is][hs][cs][bs][as][nr][er][cr][rq][lq]
+[jq][iq][hq][jo][oo][po][ap][lp][aq][cq][eq][ab][ga][go][ln][jn][cn][sm][rm][mm]
+[hm][fm][cm][cb][hl][el][cl][al][sk][mk][ik][ak][oj][gj][dj][qi][oi][mi][sh][qh]
+[ch][bh][ah][gq][sg][pg][gg][fg][eg][qf][pf][nf][cf][af][le][rd][ic][gc][dc][ac]
+[gb][eb][db]AW[rc][os][ks][sr][rr][qr][kr][jr][ir][hr][fr][br][dq][mp][kp][dp][mo]
+[ko][do][sn][on][nn][in][hn][dn][bn][an][km][bm][pl][dl][bl][pk][nk][hk][dk][bk]
+[sj][rj][ri][fi][ei][bi][ai][rh][ph][oh][nh][fh][rg][dg][mf][be][ae][kd][jd][id]
+[hd][gd][fd][ed][dd][cd][bd][qc][pc][oc][nc][mc][lc][kc][ec][cc][bc][bb][ba]PL[W]
+C[White to play.
+Start at A.
+
+(林元美创作）
+
+此题为舟桥元美得意之作，自称为新奇的缓征。]
+LB[hc:A]AP[MultiGo:3.9.3]SZ[19]
+;W[hc];B[hb];W[ia];B[jb];W[fb];B[fc];W[ca];B[fa];W[da];B[ea];W[ja];B[kb]C[白1至11是杀棋手筋。黑12拐后，白棋如何利用“缓征”的手段，形成全局大追杀呢？]
+;W[ka];B[lb];W[la];B[mb];W[ma];B[nb];W[na];B[ob];W[oa];B[pb];W[pa];B[qb];W[qa];B[rb]
+;W[ra];B[sb];W[ib];B[sc];W[re];B[qd];W[se];B[sd];W[qe];B[pd];W[pe];B[od];W[oe];B[nd]
+;W[ne];B[md];W[me];B[ld];W[lf];B[ke];W[kf];B[je];W[jf];B[ie];W[if];B[he];W[hf];B[ge]
+;W[gf];B[fe];W[ff];B[ee];W[ef];B[de];W[df];B[ce];W[cg];B[bf];W[bg];B[ag];W[ci];B[dh]
+;W[di];B[eh];W[gh];B[hg];W[hh];B[ig];W[ih];B[jg];W[jh];B[kg];W[kh];B[lg];W[lh];B[mg]
+;W[mh];B[ng];W[og];B[of];W[rf];B[qg];W[pi];B[qj];W[pj];B[qk];W[ql];B[rk];W[rl];B[sl]
+;W[rn];B[qm];W[qn];B[pm];W[pn];B[om];W[nm];B[ol];W[nl];B[ok];W[nj];B[ni];W[mj];B[li]
+;W[lj];B[ki];W[kj];B[ji];W[jj];B[ii];W[ij];B[hi];W[hj];B[gi];W[gk];B[fj];W[fk];B[ej]
+;W[ek];B[cj];W[bj];B[ck];W[dm];B[co];W[cp];B[bo];W[bp];B[ao];W[bq];B[ar];W[dr];B[ds]
+;W[fs];B[es];W[fq];B[ep];W[fp];B[eo];W[fo];B[en];W[fn];B[em];W[gm];B[gl];W[gn];B[fl]
+;W[im];B[il];W[jl];B[jk];W[jm];B[kk];W[lk];B[ll];W[mn];B[lm];W[lo];B[kn];W[jp];B[io]
+;W[ip];B[ho];W[hp];B[gp];W[gr];B[kq];W[mq];B[lr];W[mr];B[ls];W[or];B[nq];W[oq];B[np]
+;W[op];B[no];W[qo];B[pp];W[qp];B[pq];W[pr];B[qq];W[rp];B[sq];W[sp])

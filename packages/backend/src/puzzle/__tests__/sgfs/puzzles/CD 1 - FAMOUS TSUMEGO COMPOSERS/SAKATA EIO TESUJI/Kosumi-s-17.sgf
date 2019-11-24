@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bn][cn][do][dp][fp][bq][cq][fq][hq]AB[bp][cp][dq][eq][br]C[Ex. 17 - Life or death
+
+W's 2 stones are in a position to be killed with the "belly-attachment" move, but there is a way to kill the B group.
+If you can work out by yourself how to use the 2 stones, you have considerable ability.]PL[W]
+;W[cr]LB[cr:1]C[Diag. 1 - Failure
+
+After starting with W 1 ]
+;B[aq]LB[aq:2][cr:1]
+;W[bs]LB[aq:2][cr:1][bs:3]C[and 3, ]
+;B[ar]LB[aq:2][ar:4][cr:1][bs:3]
+(;W[dr]LB[aq:2][ar:4][cr:1][dr:5][bs:3]TR[aa]C[W magari is no good. ]
+;B[er]LB[aq:2][ar:4][cr:1][dr:5][er:6][bs:3]C[After B 6 osae it is impossible to take away B's eyes.])
+(;W[ds]LB[aq:2][ar:4][cr:1][bs:3][ds:5]C[Diag. 2 - Correct
+
+Following the sequence of W 1 and 3 in the previous diagram, W 5 is an exquisite kosumi suji. ]
+(;B[dr]LB[aq:2][ar:4][cr:1][dr:6][bs:3][ds:5]C[If B puts 3 stones in atari with his 6, ]
+;W[fs]LB[aq:2][ar:4][cr:1][dr:6][bs:3][ds:5][fs:7]C[as usual W's tobi 7 is good ]
+;B[cs]LB[aq:2][ar:4][dr:6][bs:3][cs:8][ds:5][fs:7]C[allowing B 8 to capture. 
+]
+;W[cr]LB[aq:2][ar:4][cr:9][dr:6][bs:3][ds:5][fs:7]C[then, when W 9 takes back one stone at c2, before he knows what has happenes B has only one eye and he dies.
+There is no way to prevent W's connection on the lower edge.])
+(;B[er]LB[aq:2][ar:4][cr:1][er:6][bs:3][ds:5]C[Diag. 4 - Correct
+
+If B 6 ]
+;W[fr]LB[aq:2][ar:4][cr:1][er:6][fr:7][bs:3][ds:5]C[W wins the semeai with 7 ]
+;B[es]LB[aq:2][ar:4][cr:1][er:6][fr:7][bs:3][ds:5][es:8]C[
+]
+;W[fs]LB[aq:2][ar:4][cr:1][er:6][fr:7][bs:3][ds:5][es:8][fs:9]C[and 9.
+The main feature of this kosumi is its double-edged effect, pretending to connect but bringing about a semeai. ])))

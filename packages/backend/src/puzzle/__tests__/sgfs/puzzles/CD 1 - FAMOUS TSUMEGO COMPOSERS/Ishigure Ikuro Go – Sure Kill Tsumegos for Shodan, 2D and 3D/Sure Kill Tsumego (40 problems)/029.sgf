@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qs][qr][qq][rp][ro][pp][oo][qn][qm][pm][om][nm][mm][mn][mo][mq][lr]
+AW[mr][nr][pq][pr][np][no][nn][on][pn][po][qo][qp]N[029]AP[MultiGo:4.4.4]SZ[19]
+AB[lq]MULTIGOGM[0]
+
+(;LB[oq:A]C[白走到A位就活了，因此……]N[审题])
+(;B[oq]N[正解];W[nq];B[or];W[op];B[os]C[黑5立下可渡过，白死。])
+(;B[oq]N[变化];W[op];B[nq];W[or];B[ps]C[白在下边没有眼，死了。])
+(;B[nq]N[失败];W[oq]))

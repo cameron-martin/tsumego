@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[gd][gc][id][hg][fg][bd][bf][cf][df][de][dd][dp]
+AB[bc][cb][db][dc][fb][fc][fd][fe][cd][ce][be][pq][qd][nc]
+LB[dm:A][jp:C][po:B]
+C[Problem 129. White to play.  
+
+Taking into account White's position in the upper left, where do you think White should play ? ]
+(;W[dm]
+TE[2]
+C[Correct Answer.  
+
+White should extend to 1, making a moyo on the left side. ]
+;B[ip]
+C[This enables Black to make the good point of 2, ... ]
+;W[po]
+C[... but White can approach with 3, and, ... ]
+;B[qo];W[qn];B[qp];W[pn];B[np];W[pj]
+C[... after the joseki to White 9, Black is unable to make a moyo on the right side. <= ]
+)
+(;W[jp]
+C[Failure.  
+
+White 1 is a big extension, but it is premature. ]
+;B[cn]
+LB[dh:A]
+C[Black can approach at 2, as well as force with A, so White's moyo strategy will have failed. <= ]
+)
+)

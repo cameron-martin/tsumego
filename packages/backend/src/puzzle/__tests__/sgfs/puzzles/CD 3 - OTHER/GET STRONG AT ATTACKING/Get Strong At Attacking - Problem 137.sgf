@@ -1,0 +1,19 @@
+(;
+GM[1]
+SZ[19]
+AW[db][eb][ed][fd][gd][lc][qi][pm][qn][po][dp][dj]
+AB[cb][bc][dc][dd][ee][fe][gc][nc][pd][qd][qo][qp][pq][nq][qg]
+TR[qg]
+C[Supplement to Problem 13: The joseki.  
+
+When the marked stone is in place, ... ]
+;B[ql]
+TE[2]
+C[... Black 1 is the start of a middle-game joseki (See Get Strong at Invading, Problems 27, 30, 33, 36, 39, and 42.). ]
+;W[rm]
+C[After White 2, ... ]
+;B[pj]
+LB[rj:A]
+C[... Black 3 or A are joseki moves. <= ]
+)
+)

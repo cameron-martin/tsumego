@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][cn][iq][ek][lq]
+AB[dp][pd][pp][dd][jj][fd][fp][ck][bp]
+LB[ck:1][ek:2]
+TR[lq]
+C[Problem 104. Black to play.  
+
+Instead of playing as in the game continuation of Problem 100, White played the marked stone and Black invaded with 1. How should he respond to the cap of White 2 ? ]
+(;B[dj]
+TE[2]
+C[Correct Answer.  
+
+Black should move out in the direction from his strong position at the bottom. ]
+;W[eh]
+C[White will jump to 2 and ... ]
+;B[ej]
+C[... Black will push up with 3. ]
+(;W[gk]
+C[If White next jumps to 4, ... ]
+;B[fj]
+C[... Black will extend to 5 and White is divided into two weak groups. <= ]
+)
+(;W[fj]
+LB[ej:3]
+C[After Black 3, White 4 is unreasonable because ... ]
+;B[fk]
+C[... Black will cut at 5. <= ]
+))
+(;B[dm]
+LB[em:B][cj:A]
+C[How the game continued.  
+
+Black 1 was small. Even though Black secured the left side, this stones there became overconcentrated and the territory was not that big. Moreover, White hat forcing moves at A and B, so Black would have a hard time attacking the white stones on the upper left side. ]
+;W[qn]
+C[But White approached at 2 on the right. The game was now difficult for Black. <= ]
+)
+)

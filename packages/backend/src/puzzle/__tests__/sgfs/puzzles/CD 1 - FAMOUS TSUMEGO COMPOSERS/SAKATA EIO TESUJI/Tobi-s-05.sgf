@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cn][dn][en][co][dp][ep][fp][cq][dq][gq][br][gr]AB[cm][em][fm][bn][fn][bo][bp][cp][gp][hp][bq][fq][hq][ar][cr][fr]C[Ex. 5 - Life or Death
+
+If W can get one more eye on the edge he can live.
+First find B's weak point then turn your attention to the first line.]PL[W]
+(;W[dr]LB[dr:1]C[Diag. 1 - Failure
+
+W 1 osae is too simple. ]
+;B[bs]LB[dr:1][bs:2]C[After B takes at 2 there is no way out. ]
+;W[er]LB[dr:1][er:3][bs:2]C[After his 3 ]
+;B[hr]LB[dr:1][er:3][hr:4][bs:2]C[then B 4, W dies.])
+(;W[ds]LB[ds:1]C[Diag. 2 - Correct
+
+If you think about it it is quite easy.
+W 1 is a good tesuji ]
+(;B[hr]LB[hr:2][ds:1]C[If B defends on this side with 2 ]
+;W[bs]LB[hr:2][bs:3][ds:1]C[W's nobidashi 3 captures the single stone in the corner, thus obtaining the extra eye.])
+(;B[bs]LB[bs:2][ds:1]C[Diag. 3 - Correct
+
+If, after W 1, B removes the aji in the corner with 2, ]
+;W[fs]LB[bs:2][ds:1][fs:3]C[W plays hane 3 and now he captures 2 stones on the side ]
+;B[hr]LB[hr:4][bs:2][ds:1][fs:3]C[After B 4,]
+;W[gs]LB[hr:4][bs:2][ds:1][fs:3][gs:5]C[W 5, W is alive.
+W 1 is effective on either side, and it is because it is on the first line that its effect becomes so apparent.])
+(;B[er]LB[er:2][ds:1]C[Diag. 4 - Variation
+
+After the exchange of B 2 ]
+;W[dr]LB[dr:3][er:2][ds:1]C[and W 3 in answer to W 1 tobi, ]
+;B[bs]LB[dr:3][er:2][bs:4][ds:1]C[Even if B captures  4, ]
+;W[fs]LB[dr:3][er:2][bs:4][ds:1][fs:5]C[it comes to the same thing. ]
+;B[hr]LB[dr:3][er:2][hr:6][bs:4][ds:1][fs:5]C[If B 6 plays ate after W 5,]
+;W[gs]LB[dr:3][er:2][hr:6][bs:4][ds:1][fs:5][gs:7]C[W plays 7 and even though B has played 2 he cannot play tsukkomi one point below it.])))

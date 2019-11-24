@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[dk][ck][bk][dl][cm][bm][al][dg][bg][cg][eg]AW[ak][bj][cj][ch][dh]
+[eh][ei][ej][ek][el][dm][dn][cn][bn]N[067]AP[MultiGo:4.4.4]SZ[19]AB[dj]MULTIGOGM[0]
+
+(;C[黑棋必须渡过，否则死路一条。
+
+难度：☆☆]N[审题])
+(;B[ci]N[正解];W[bi];B[bh];W[di];B[ai])
+(;B[bh]N[失败1];W[ci];B[aj];W[ai])
+(;B[ai]N[失败2];W[bh]))

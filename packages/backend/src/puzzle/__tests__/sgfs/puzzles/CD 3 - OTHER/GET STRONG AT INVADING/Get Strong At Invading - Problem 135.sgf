@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ed][jc][mc][qf][pf][oj][qj][qc][rc]
+AB[cj][oc][pc][pd][qe][rd]
+LB[rb:D][pe:C][re:B][qd:A][pc:4][rd:2][rc:3][qc:1]
+C[Problem 135. White to play.  
+
+The moves from White 1 to Black 4 have been played. White would like to play A - Black B - White C, but Black would then play a tesuji at D, capturing White's stones in the corner. How should White play ? ]
+;W[rb]
+TE[2]
+C[Correct Answer.  
+
+White 1 is the vital point. ]
+(;B[rf]
+C[If Black defends his weakness by playing 2, ... ]
+;W[pb];B[ob];W[pa]
+LB[pb:3]
+C[... White lives in the corner with 3 and 5. <= ]
+)
+(;B[pb]
+C[Failure.  
+
+Black 2, trying to kill White, is a bad move. ]
+;W[qd]
+C[White plays 3 and ... ]
+;B[re];W[pe]
+C[... cuts with 5, winning the capturing race in the corner by one move. <= ]
+)
+)

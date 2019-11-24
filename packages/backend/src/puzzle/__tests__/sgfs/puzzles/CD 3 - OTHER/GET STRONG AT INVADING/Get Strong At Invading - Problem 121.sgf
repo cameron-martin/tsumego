@@ -1,0 +1,31 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][fd][jc]
+AB[dd][ec][df][mc][pd][qj]
+C[Problem 121. White to play.  
+
+How should White invade the black position on the right side ? ]
+(;W[qd]
+LB[re:C][qf:B][qc:A]
+
+TE[2]
+C[Correct Answer.  
+
+This time, instead of the 3-3 point at A, White should invade by attaching with 1. White could also invade at B or C. <= ]
+;B[qc];W[qe];B[pc];W[qh];B[oj];W[oh]
+C[The moves to 7 are joseki. White has succeeded in invading Black's moyo. <= ]
+)
+(;W[qf]
+TE[2]
+C[Correct Answer.  
+
+Also correct. <= ]
+)
+(;W[re]
+TE[2]
+C[Correct Answer.  
+
+Also correct. <= ]
+)
+)

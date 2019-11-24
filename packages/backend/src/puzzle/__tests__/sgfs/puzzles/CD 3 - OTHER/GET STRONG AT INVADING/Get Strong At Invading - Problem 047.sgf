@@ -1,0 +1,20 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][hc][he][kf][nc]
+AB[dd][fd][ff][kd][pd][pf][qj]
+LB[kf:1]
+C[Problem 47. Black to play.  
+
+White caps the black stone in the center with 1. How should Black respond ?  
+
+<See Reference Diagram 47 for an alternate move for White 1.> ]
+;B[md]
+TE[2]
+C[Correct Answer.  
+
+By playing 1, Black turns the tables on White. ]
+;W[nd];B[me]
+C[White must save her stones on the right, while Black is in no danger.  <= ]
+)
+)

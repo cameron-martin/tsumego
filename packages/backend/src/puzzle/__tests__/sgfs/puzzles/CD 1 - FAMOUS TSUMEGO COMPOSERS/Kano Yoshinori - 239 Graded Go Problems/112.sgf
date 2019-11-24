@@ -1,0 +1,13 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[Problem 112. Alive or dead?
+Is Black alive or dead? Is another move necessary?]PM[1]PB[ ]AB[hm][ek][hl][em][el][fk][gl]AW[jl][jk][fl][fj][gm][ei][ik][dj][dl][gk][hk][dm][dk][gi]GN[ ]FG[259:]PW[ ]
+(
+;C[Correct Answer
+The only move that could kill the black group is White 1, but this is an illegal move, so Black is alive.]W[fm]
+)
+(
+;C[Wrong Answer
+Black can take two white stones with 2 at his leisure, so his group is absolutely alive.]B[fm]
+)
+
+)

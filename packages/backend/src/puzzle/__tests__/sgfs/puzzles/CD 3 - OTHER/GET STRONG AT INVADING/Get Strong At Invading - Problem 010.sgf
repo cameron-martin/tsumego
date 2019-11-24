@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][nc][qc]
+AB[dd][hc][lc][pd][pf]
+LB[qc:1]
+C[Problem 10. Black to play.  
+
+This time White has switched to the corner with an invasion at 1. How should Black respond ? ]
+;B[pc]
+TE[2]
+C[Correct Answer.  
+
+Black should let White live in the corner and make a wall on the outside. ]
+;W[pb]
+(;B[ob];W[qb];B[oc];W[re]
+C[White's two stones at the top are outnumbered, so Black should easily make profit there. <= ]
+)
+(;B[qd]
+C[Variation.  
+
+If the right side is important to Black, he could Black with 3. ]
+;W[rb];B[rc];W[qb];B[kd]
+C[Black ends with sente, so he can now switch to attacking the lone white stone at the center top with 7. <= ]
+)
+)

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[js][jr][kr][kq][lp][lo][no][nn][om][pm][qm][rn][ro][rp][rq][qp][pr]
+[pq]AW[op][oo][on][pn][qn][qo][nq][ns][os][ks][ls][lr][lq][qq][pp]N[010]AP[MultiGo:4.4.4]
+SZ[19]AB[ps]MULTIGOGM[0]
+
+(;C[黑棋自身有什么缺陷？白角上一子的存在，限制了黑的手段。]N[审题])
+(;B[mr]N[正解];W[mq];B[nr];W[or];B[oq])
+(;B[oq]N[失败1];W[or];B[np];W[mr]C[白成功地做活了尾巴。])
+(;B[np]N[失败2];W[oq]C[黑缺少计算。]))

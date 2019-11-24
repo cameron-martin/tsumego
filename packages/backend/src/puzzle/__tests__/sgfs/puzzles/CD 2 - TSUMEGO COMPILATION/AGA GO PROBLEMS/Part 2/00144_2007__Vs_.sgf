@@ -1,0 +1,46 @@
+(;
+AB[qd][pd][od][qg][pp][qo][mq]
+AW[nc][mb][pc][qc][oi][og][qi][qm]
+C[Black plays
+
+Source:
+    Go World #37, Autumn 1984, p. 52
+    Good Style, by Miyazawa Goro];
+B[oc]
+C[A good start.];
+W[ob];
+B[rc];
+W[rb]
+(;
+B[rd]
+C[A mistake.];
+W[rh]
+C[White now threatens Black's base.
+Black is still not settled.]
+)
+    (;
+    B[qb]
+    C[Black should continue with
+forcing moves.];
+    W[pb];
+    B[sb]
+    (;
+    W[ra];
+    B[re]
+    C[The forcing move at 7 gives Black the
+opportunity to play the kosumi at 9.
+Black is now perfectly secure.]
+    )
+        (;
+        W[rd]
+        C[If White tries to disrupt Black's
+plan by cutting off Black's corner
+stones ...];
+        B[ra];
+        W[re];
+        B[qf]
+        C[And Black can capture the White stones.]
+        )
+    )
+)
+

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rd][re][qf][pf][of][ne][me][le][ld][lc][kb][ka][od][qb][pb]AW[lb]
+[mb][mc][md][nd][ob][pc][qd][pe][oe]N[020]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[本题简单。]N[审题])
+(;B[oc]N[正解];W[nc];B[na];W[oa];B[la]C[白死。])
+(;B[oc]LB[la:A][oa:B][nb:C]C[黑1断时，白走A、B、C都明显不行]N[变化];W[na];B[nc]
+;W[la];B[qe])
+(;B[na]N[失败];W[oa];B[oc];W[pd]))

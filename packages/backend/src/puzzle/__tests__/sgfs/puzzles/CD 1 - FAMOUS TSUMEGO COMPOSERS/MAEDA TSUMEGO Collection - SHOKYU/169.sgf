@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ej][bf][cf][df][dg][dh][di][ck][bk][dl][el]AW[cj][dk][cl][bm][cm]
+[dm][ci][ch][bg][ag][dj]N[169]AP[MultiGo:4.4.4]SZ[19]AB[ek]MULTIGOGM[0]
+
+(;C[对杀问题。可以选择的点不多。
+
+难度：☆☆]N[审题])
+(;B[bj]N[正解];W[bi];B[ai];W[ah];B[cg];W[aj];B[ak])
+(;B[bj]N[失败1];W[bi];B[ai];W[ah];B[ak];W[al];B[cg];W[aj]C[先手劫还是后手劫，区别很大。])
+(;B[ai]N[失败2];W[bj];B[aj];W[bl];B[ak];W[al]))

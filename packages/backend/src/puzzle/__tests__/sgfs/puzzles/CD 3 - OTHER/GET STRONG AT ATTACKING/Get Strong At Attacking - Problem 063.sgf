@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][cd][ce][fc][kc][nc][pb][qj][pl][qn][rp][dp][cq][cn]
+AB[pd][qc][qf][qq][pp][np][cl][dj][cf][df][de][iq][fq][dr]
+TR[pl]
+C[Problem 63. Black to play.  
+
+White has just defended her position on the lower right side. Where should Black play next ? ]
+(;B[cr]
+TE[2]
+C[Correct Answer.  
+
+Most of White's stones are secure, but, if Black crawls to 1, he threatens White's three stones in the lower left corner. Next ... ]
+(;W[fp]
+C[... White attaches at 2 and ... ]
+;B[gp];W[fo];B[go];W[fm];B[gn];W[fn]
+C[... secures her stones with the sequence to 7. White has gained no territory, but, ... ]
+;B[hl]
+C[... when Black plays 8, a large moyo at the bottom is starting to take shape. <= ]
+)
+(;W[br]
+C[Failure for White.  
+
+White 2 here ... ]
+;B[bp]
+C[... would be answered by Black 3, leaving White without eyes. <= ]
+))
+(;B[ge]
+C[Failure.  
+
+If Black jumps to 1, ... ]
+;W[cr]
+LB[kq:A]
+C[... White will defend with 2. White is strong on the lower left and right, so she can now aim at the invasion of A. <= ]
+)
+)

@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dp][ep][fp][hp][cq][eq][gq][cr][er]AB[bp][cp][dq][fq][iq][dr][fr][ir][ds][es]C[Ex. 12  -  Watari
+
+If B succeeds in connecting along the edge, naturally the 2 W stones in the corner fall into his hands.
+The problem is, how to connect ?
+It is necessary to play in such a way as to keep out of the enemy's clutches.
+]
+(;B[gr]LB[gr:1]C[Diag. 1 - Failure
+
+B 1 magari is no good ]
+;W[cs]LB[gr:1][cs:2]C[after W's ate from below. ]
+;B[fs]LB[gr:1][cs:2][fs:3]C[if B 3 connects 
+]
+;W[hr]LB[gr:1][hr:4][cs:2][fs:3]C[W 4 captures, so this is a failure.])
+(;B[gs]LB[gs:1]C[Diag. 2 - Failure
+
+B has simply played the kosumi suji of 1, ]
+;W[cs]LB[cs:2][gs:1]C[but then he is defenceless against the ate of W 2. ]
+;B[fs]LB[cs:2][fs:3][gs:1]C[If B 3 tsuji ]
+;W[hs]LB[cs:2][fs:3][gs:1][hs:4]C[W plays 4 and takes everything for himself.
+Neither of these methods of connection is good.])
+(;B[hs]LB[hs:1]C[Diag. 3 - Correct
+
+The same kosumi must be played but on this side at 1. ]
+(;W[gr]LB[gr:2][hs:1]C[If W 2 ate, ]
+;B[gs]LB[gr:2][gs:3][hs:1]C[B replies with 3 and he will not mind the capture of his 2 stones.
+If these 2 stones are taken, he will immediately take back and ensure his connection.])
+(;W[cs]LB[cs:2][hs:1]C[Diag. 4 - Correct
+
+If W plays ate 2 from the corner in reply to B 1 kosumi, ]
+;B[fs]LB[cs:2][fs:3][hs:1][rs:4]C[B's tsuke is good.
+This play ensures that there is no way to capture the 7 B stones.
+Although it is an indirect way of playing, kosumi is extremely effective.])))

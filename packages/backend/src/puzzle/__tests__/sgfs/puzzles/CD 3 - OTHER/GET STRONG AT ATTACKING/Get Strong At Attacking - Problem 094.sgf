@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[ce][ed][fd][gd][hd][id][qc][pc][oc][nc][nq][jp][dp][eq][cm]
+AB[cc][ec][fc][gc][hc][od][nd][pd][qd][pi][pp][pq][pn][ch][ck]
+C[Problem 94. White to play.  
+
+The white stones in the upper left are thick, but their influence seems to be neutralised by Black's two stones on the left side. What should White do ?  
+
+[You will find a supplement to this Problem Diagram as "Problem 143"] ]
+;W[eh]
+TE[2]
+C[Correct Answer.  
+
+White caps with 1, ... ]
+;B[ek];W[dj]
+C[... then exchanges 3 ... ]
+;B[cj]
+C[... for 4. ]
+;W[em]
+LB[eh:1]
+C[White jumps to 5, securing the territory in the lower left. The value of White 1 is that is gives her stones above breathing room. After White 5, ... ]
+;B[di]
+C[... Black should defend at 6. <= ]
+)
+)

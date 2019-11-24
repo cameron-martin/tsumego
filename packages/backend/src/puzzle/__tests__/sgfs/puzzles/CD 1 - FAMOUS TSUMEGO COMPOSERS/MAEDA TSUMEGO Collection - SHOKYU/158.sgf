@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[nd][md][mc][mb][ma][na][rd][qd][pd]AW[nb][nc][oc][pc][qc][rb][oa]
+N[158]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[pb:A]C[如果从外围压缩白棋眼位，白棋占据A位之后就活了。
+
+难度：☆☆]N[审题])
+(;B[pb]N[正解];W[qb]C[白棋必须阻止黑回家];B[sb];W[pa];B[ra];W[sc];B[rc])
+(;B[qa]N[失败];W[pa];B[pb];W[ob];B[qb];W[ra]))

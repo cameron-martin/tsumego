@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 36. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[fe][gf][fg][eh]PB[ ]PM[1]PW[ ]AB[df][eg][ff][fd][ee]
+;C[White 1 captures a black stone in ko. Hou should Black reply?
+(ko - a shape in which your stone is captured but is illegal to retake the capturing stone even though you can occupy all its liberties.)]W[ef]
+(
+;B[dg]C[Correct Answer
+In this case, Black should connect at 2 without capturing a stone.]
+)
+(
+;B[ff]C[An Illegal Move
+Black cannot retake with 1. This is against the rules.]
+)
+
+)

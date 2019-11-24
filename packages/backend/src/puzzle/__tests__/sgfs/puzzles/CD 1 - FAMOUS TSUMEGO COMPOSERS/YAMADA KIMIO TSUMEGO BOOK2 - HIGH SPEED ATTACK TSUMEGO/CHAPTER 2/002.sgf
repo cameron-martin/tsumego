@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ne][me][le][ke][jd][jc][jb][kb][la][lc][qb][qc][qd][pd]AW[lb][mb]
+[kc][kd][ld][md][nd][oc][pc][pb]N[002]AP[MultiGo:4.4.4]SZ[19]AB[oe]MULTIGOGM[0]
+
+(;C[从外侧压缩眼位貌似不行，请计算确认之。]N[审题])
+(;B[nb]LB[na:A][oa:B]C[黑1顶，要求渡过。对此，白A则黑B，白不行。]N[正解];W[ma];B[oa]
+C[黑3尖是手筋];W[nc];B[na]C[黑5先打一下是次序];W[ka];B[pa]C[白死。])
+(;B[nb]N[变化];W[ma];B[oa];W[pa];B[nc];W[mc];B[od])
+(;B[pa]N[失败1];W[oa])
+(;B[ma]N[失败2];W[nb]))

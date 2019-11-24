@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pc][pf][oe][nd][md][ld][lc][lb][la][rb][rc][qd]AW[mb][nc][od][pd]
+[qc][qb][pb]N[023]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[从外侧压缩眼位貌似不行，请计算确认之。如果要点眼的话，可选的点也很少。]N[审题])
+(;B[na]N[正解];W[oa];B[qa];W[ma];B[ob]C[如果是在脑子中计算的话，算到黑5打，就能得到正解。
+
+白死。])
+(;B[na]N[变化1];W[oa];B[qa];W[nb];B[oc])
+(;B[na]N[变化2];W[oa];B[qa];W[oc];B[nb])
+(;B[na]N[变化3];W[nb];B[ma];W[oa];B[oc];W[ob];B[qa])
+(;B[na]N[失败];W[oa];B[ma];W[qa];B[ob];W[nb];B[pa]C[劫。]))

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[np][lp][lq][lr][ls][rs][rr][rq][qp][qo][po]AW[mr][or][oq][op][pp]
+[qq][qr][qs]C[88]N[88]AP[MultiGo:4.4.4]SZ[19]AB[oo]MULTIGOGM[0]
+
+(;C[第88题 第一手很重要
+
+第一手如单纯地攻击就不太好。有很自然的手筋，请发现它。]
+N[审题])
+(;B[pr]C[黑1深入，锐利，这是急所。]N[正解];W[ms]C[白2扩大眼位];B[nq];W[nr];B[ps]
+C[黑3、5之后，白死。])
+(;B[pr]N[变化];W[nq];B[mq]LB[ps:A][ns:B]C[白2扩大眼位，黑3挤，冷静。接下来，白A则黑B，白死。]
+;W[ms];B[os]C[白死。])
+(;B[ns]N[失败];W[os]LB[pr:A][ms:B]C[A、B见合，白活。]))

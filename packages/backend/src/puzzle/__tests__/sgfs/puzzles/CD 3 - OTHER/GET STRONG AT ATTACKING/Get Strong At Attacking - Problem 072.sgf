@@ -1,0 +1,44 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][dc][cd][ce][cg][rc][qc][pc][nc][nb][md][oi][ok][pp][qq][jq][dp]
+AB[df][de][dd][ec][fd][lc][nd][od][pd][qd][rd][qk][pm][qo][qp][pq][oq]
+TR[md]
+C[Problem 72. Black to play.  
+
+White has just played the marked stone. What should Black do ? ]
+(;B[nh]
+TE[2]
+C[Correct Answer.  
+
+Black should make a shoulder hit against the white stone on the right side. ]
+(;W[ld]
+C[If White follows up at the top with 2, ... ]
+;B[mj]
+C[... Black attacks with 3 ... ]
+;W[om];B[ml]
+C[... and 5. ]
+;W[qj]
+C[After the exchange of White 6 ... ]
+;B[ql]
+C[... for Black 7, White will have a hard time making life for her stones. <= ]
+)
+(;W[lj]
+LB[nh:1]
+C[Variation.  
+
+If White responds to Black 1 by jumping to 2, ... ]
+;B[mc]
+C[... Black will cut at 3. ]
+;W[me];B[jd]
+TR[me][md]
+C[Next, Black extends to 5, taking the territory at the top and leaving White's marked stones isolated from their allies below. <= ]
+))
+(;B[mc]
+C[Failure.  
+
+Immediately cutting with Black 1 is not good. ]
+;W[me];B[jd];W[of];B[qh];W[jf]
+C[White turns her stones in the center into a cohesive force with the sequence to 6. <= ]
+)
+)

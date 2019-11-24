@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dn][gn][in][co][go][cp][cq][gq][br][er][fr][bs]AB[do][eo][fo][dq][eq][iq][cr][dr]C[Ex. 3 - Shinogi
+
+This is not really shinogi but more a matter of common sense.
+You should try to lead out the 7 B stones before they are caught by W.]
+(;B[en]LB[en:1]C[Diag. 1 - Failure
+
+B 1 is extremely dangerous in this position ]
+;W[em]LB[em:2][en:1]C[and after W's double osae 2, B is at a loss to know what to do. ]
+;B[dm]LB[dm:3][em:2][en:1]C[Even after B 3 ]
+;W[cn]LB[dm:3][em:2][cn:4][en:1]
+;B[fm]LB[dm:3][em:2][fm:5][cn:4][en:1]C[and 5 ate]
+;W[el]LB[el:6][dm:3][em:2][fm:5][cn:4][en:1]
+;B[fn]LB[el:6][dm:3][em:2][fm:5][cn:4][en:1][fn:7]C[and tsugi 7, ]
+;W[gk]LB[gk:8][el:6][dm:3][em:2][fm:5][cn:4][en:1][fn:7]C[W plays kake 8 and it is now impossible for B to run away.])
+(;B[em]LB[em:1]C[Diag. 2 - Failure
+
+Although it is a tobi, B 1 is just guesswork. It shows a lack of appreciation of the surrounding position]
+;W[en]LB[em:1][en:2]C[and when W plays the de 2 ]
+;B[fn]LB[em:1][en:2][fn:3]
+;W[fm]LB[em:1][en:2][fn:3]C[and the cut 4, escape is again impossible.])
+(;B[fm]LB[fm:1]C[Diag. 3 - Correct
+
+B must play this tobi 1. ]
+(;W[em]LB[em:2][fm:1]C[If W 2 kosumitsuke,]
+;B[fn]LB[em:2][fm:1][fn:3]C[B connects at 3]
+;W[fl]LB[fl:4][em:2][fm:1][fn:3]C[and even if W plays hane 4,]
+;B[gm]LB[fl:4][em:2][fm:1][gm:5][fn:3]C[B's escape is absolutely unstoppable after the magari 5. ])
+(;W[fn]LB[fm:1][fn:2]C[Diag. 4 - Variation
+
+B 1 is the suji because W's de and kiri 2 ]
+;B[en]LB[en:2][fn:1]C[because W's de and kiri 2 ]
+;W[em]LB[em:4][fm:1][en:3][fn:2]C[and 4 do not work. ]
+;B[dm]LB[dm:5][em:4][fm:1][en:3][fn:2]C[B 5 is ate on both sides and this is no good for W.
+Compared with the failure in diagram 2 it can be seen that a one point difference can be crucial.])))

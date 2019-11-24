@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[pa][na][nb][la][pb][lb][mb][pc]GN[ ]AB[kb][nc][kc][mc][od][qd][qc][qb][qa][lc][ka][pd]PM[1]C[Problem 230. Black to play.
+How does Black kill the white stones?]PW[ ]
+(
+;B[ob]C[Correct Answer
+If Black plays at 1, White cannot make two eyes and is dead.]
+)
+(
+;B[oc]C[Wrong Answer
+If Black plays at 1 here...]
+;W[ob]C[...White makes two perfect eyes with 2 and is alive.]
+)
+
+)

@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][fc][kc][ld][nc][pb][jl][io][ko][dp][eq][fr][cn][di][pm][qp]
+AB[pd][qc][pf][lf][je][pk][ll][kq][ip][hp][fp][fq][gr][op][pq][qq]
+TR[pm][qp]
+C[Problem 52. Black to play.  
+
+The two marked stones are not very strong, but they still have some aji. How should Black attack them ? ]
+(;B[qk]
+TE[2]
+C[Correct Answer.  
+
+Black 1 forces the white stones to escape ... ]
+;W[nm]
+C[... with 2, but ... ]
+;B[ln]
+C[... Black prevents them from linking up with 3 ... ]
+;W[no];B[lo]
+C[... and 5. ]
+;W[oo]
+C[White tries to make shape with 6, but ... ]
+;B[qn]
+C[... Black 7 leaves White's stones eyeless within Black's sphere of influence. <= ]
+)
+(;B[nl]
+C[Failure.  
+
+Black 1 looks like a strong move, which builds a moyo in the center, but ... ]
+;W[qk]
+C[... this gives White the chance to attach with 2. ]
+;B[qj]
+C[If Black 3, ... ]
+;W[rj]
+C[... White hanes with 4 and she will easily be able to make sabaki. <= ]
+)
+)

@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cq][dp][dn]
+AB[pd][pp][dr][fq]
+TR[cq]
+C[Problem 49. Black to play.  
+
+What should Black do after White plays the marked stone ? ]
+(;B[iq]
+TR[dr][cq]
+
+TE[2]
+C[Correct Answer.  
+
+After exchanging the marked stones, Black must extend to 1. ]
+;W[dj]
+C[White 2 would then be the usual move in this position and ... ]
+;B[pj]
+C[... Black would make a sanren-sei on the right side with 3. <= ]
+)
+(;B[pj]
+C[Failure.  
+
+Rushing to make a sanren-sei with 1 is bad. ]
+;W[hq]
+C[White 2 ... ]
+;B[fo];W[ho]
+C[... and 4 severely attack the black stones, robbing them of a base. ]
+;B[fm]
+C[After Black 5, ... ]
+;W[dk]
+C[... White takes profit on the left side with 6. <= ]
+)
+)

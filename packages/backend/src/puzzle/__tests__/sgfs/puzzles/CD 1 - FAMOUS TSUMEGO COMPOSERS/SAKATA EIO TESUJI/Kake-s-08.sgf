@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[qj][ok][nl][nn][rn][so][np][pp][qp][rp][sp][mq][oq][qq][or]AB[oo][po][qo][ro][op][pq][rq][pr][qr][rr]C[Ex.  8  - Shinogi
+
+You are to capture the 6 W stones, carefully working out all the combinations.]
+(;B[qm]LB[qm:1]C[Diag.  1  -  Failure
+
+No doubt many people will have failed because they hastily played B 1 kake.]
+;W[rl]LB[rl:2][qm:1]C[W avoids capture by playing 2. 
+]
+;B[rm]LB[rl:2][qm:1][rm:3]C[It is too late to do anything after B 3 ]
+;W[sm]LB[rl:2][qm:1][rm:3][sm:4]C[and W 4.])
+(;B[qn]LB[qn:1]C[Diag.  2  -  Correct
+
+After the exchange of the simple oshi B 1 ]
+(;W[rm]LB[rm:2][qn:1]C[and W 2 ]
+;B[ql]LB[ql:3][rm:2][qn:1]C[B must play 3. Only then is his oki effective. ]
+(;W[rl]LB[ql:3][rl:4][rm:2][qn:1]C[If W crawls at 4, ]
+;B[sn]LB[ql:3][rl:4][rm:2][qn:1][sn:5]C[B sacrifices 5 ]
+;W[sm]LB[ql:3][rl:4][rm:2][sm:6][qn:1]
+;B[sq]LB[ql:3][rl:4][rm:2][sm:6][qn:1][sq:7]C[and after 7 ate it is all over
+]
+;W[sn]LB[se:5][ql:3][rl:4][rm:2][sm:6][qn:1][sn:8][sq:7]C[W 8 connects ]
+;B[rk]LB[rk:9][ql:3][rl:4][rm:2][sm:6][qn:1][sn:8][sq:7]C[W is dead.])
+(;W[rk]LB[rk:4][ql:3][rm:2][qn:1]C[Diag.  3  - Correct
+
+If W plays tobi 4 in reply to B 3 kake ]
+;B[rl]LB[rk:4][ql:3][rl:5][rm:2][qn:1]C[B 5 ]
+;W[sl]LB[rk:4][ql:3][rl:5][rm:2][qn:1]
+(;B[qm]LB[rk:4][ql:3][rl:5][sl:6][qm:7][rm:2][qn:1][sq:A]C[followed by connection at 7 is good.
+W cannot avoid the oi otoshi.
+"A" instead of 7 is also possible.
+])
+(;B[sm]LB[rk:4][ql:3][rl:5][sl:6][rm:2][sm:7][qn:1]C[Diag.  4  -  Failure
+
+I feel it may be necessary to tell you that B must not play the horikomi 7 after B 5 and W 6. ]
+;W[sn]LB[rk:4][ql:3][rl:5][sl:6][rm:2][qn:1][sn:8]C[W 8 takes (cont.)]
+;B[qm]LB[rk:4][ql:3][rl:5][sl:6][qm:9][rm:2][qn:1]C[The oi otoshi after B 9]
+;W[sm]LB[rk:4][ql:3][rl:5][sl:6][qm:7][rm:2][sm:10][qn:1][sq:A]C[and W 10 no longer works because of the help given to W by this horikomi.
+Such being the case, 7 in the previous diagram is not so dull as it looks, and this would apply also to the ate "A".])))
+(;W[qm]LB[qm:2]C[W 2 is obviously incorrect])))

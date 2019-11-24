@@ -1,0 +1,29 @@
+(;
+GM[1]
+SZ[19]
+AW[ed][fc][gd][df][be][oc][qp][oq]
+AB[bd][cd][dc][ec][qd][pe][qj][dp]
+C[Problem 104. Black to play.  
+
+Even though only one stone has been played in the lower left corner, there is no hurry for Black to play in this part of the board; the upper right takes precedence. Where should Black play ? ]
+(;B[nd]
+TE[2]
+C[Correct Answer.  
+
+It is important for Black to inhibit White's expansion in the upper right with 1 ... ]
+;W[mc];B[ld]
+C[... and 3. With these moves, a black moyo emerges and White is prevented from making one for herself. <= ]
+)
+(;B[qn]
+C[Failure.  
+
+The checking extension of Black 1 is a big move, but ... ]
+;W[md]
+C[... White will play 2, making it hard for Black to take measures against White at the top. <= ]
+)
+(;B[kc]
+C[Black 1 here is greedy: ]
+;W[oe]
+C[White would take the initiative by attaching at 2. <= ]
+)
+)

@@ -1,0 +1,25 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ad][bb][bc][be][cf][ch][cj][dg]
+AW[bd][cc][cd][dd][df][ef][fd][hc]PL[W]C[White to play.
+
+Endgame moves - Settle Shape with Sente]
+(
+;W[ba]
+(
+;B[cb]
+;W[db]
+;B[ca]
+;W[da]
+;B[ac]C[RIGHT
+])
+(
+;B[ca]
+;W[cb]
+;B[aa]
+;W[ac]
+;B[ab]
+;W[da]))
+(
+;W[cb]
+;B[ba]
+;W[ca]C[Sente]))

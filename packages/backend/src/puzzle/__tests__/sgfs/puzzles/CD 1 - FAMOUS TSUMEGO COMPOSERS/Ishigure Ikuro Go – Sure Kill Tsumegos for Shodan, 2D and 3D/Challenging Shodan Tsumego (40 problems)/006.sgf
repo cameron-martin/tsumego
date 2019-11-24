@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[nq][ns][op][pp][qp][rq][rr][ks][kr][kq][lq]AW[qr][qq][pq][oq][nr]
+[mr][lr][os]N[006]AP[MultiGo:4.4.4]SZ[19]AB[mq]MULTIGOGM[0]
+
+(;C[很有趣味的一道死活题。可以先计算失败图。]N[审题])
+(;B[qs]N[正解];W[ps];B[or];W[rs]C[黑3扑时，白只能提子];B[ls]C[白死。])
+(;B[qs]N[变化];W[pr];B[rs]C[白死。])
+(;B[ls]N[失败];W[ms]C[黑缺少计算。]))

@@ -1,0 +1,27 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cc][cd][cf][dc][ec][fc][ic]
+AW[bd][ce][ci][dd][ed]PL[W]C[White to play.
+
+Defense - Play Lightly]
+(
+;W[bf]
+;B[de]
+;W[be]
+;B[df]
+;W[cg]C[RIGHT
+])
+(
+;W[de]
+;B[bf]
+;W[be]
+;B[dh])
+(
+;W[be]
+(
+;B[ef]
+;W[de]
+;B[ch])
+(
+;B[df]
+;W[de]
+;B[ch])))

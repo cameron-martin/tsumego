@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rr][qr][qq][qp][po][pn][ps][or][nr][mr][mq][mp][mn]AW[lp][ns][ms]
+[mm][lq][nm][on][no][np][nq][pm][qm][qn][qo][rp][rq][sr][lr][ln][lo]N[034]AP[MultiGo:4.4.4]
+SZ[19]AB[mo]MULTIGOGM[0]
+
+(;LB[rs:A]C[A位是后手眼，所以黑必须在中间先手做出一眼才行。]N[审题])
+(;B[oo]N[正解];W[pp];B[pq];W[op];B[rs])
+(;B[rs]N[失败1];W[pq])
+(;B[op]N[失败2];W[pq];B[oq];W[oo]))

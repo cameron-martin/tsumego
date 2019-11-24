@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pe][oe][ne][me][ld][kd][kc][kb][qb][qc]AW[lb][lc][md][nc][ob][pc]
+[pd][od]N[007]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[nd:A]C[黑A位打怎么样？多半不行——在死活题中，这样明显的地方往往是陷阱。再说了，打了之后就失去了变化。在围棋中，保留变化通常是有价值的。]
+N[审题])
+(;B[mb]N[正解];W[ma]LB[la:A]C[白2走A位的话，类似];B[nd];W[nb];B[pb]C[白死。])
+(;B[mb]N[变化];W[mc];B[pb];W[nd];B[la])
+(;B[nd]N[失败1];W[pb];B[mb];W[mc];B[la];W[na];B[ma];W[pa])
+(;B[pb]N[失败2];W[nd]))

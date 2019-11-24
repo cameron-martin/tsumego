@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]GN[第235题]HA[0]EV[吴清源诘棋集（初级编）]AB[ac][ad][bd][cd][dd][ed][fd][dc][eb][gc][hc][ic][jb][kc]AW[ab][bc][cc][db][ec][fc][gb][fb]C[黑先
+
+如果能发现第三手，就可以迎刃而解了]
+
+(;B[cb]N[正解图];W[ea];B[ba];W[hb];B[da]C[打劫杀])
+(;B[ea]N[失败图1];W[cb];B[ba];W[bb])
+(;B[cb]N[失败图2];W[ea];B[ca];W[da];B[bb];W[hb]))

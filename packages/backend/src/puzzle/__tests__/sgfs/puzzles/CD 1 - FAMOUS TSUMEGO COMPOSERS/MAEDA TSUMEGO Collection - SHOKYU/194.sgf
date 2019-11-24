@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dm][dn][do][dp][dq][dr][cr][am][bm]AW[br][cq][cp][co][cn][bn][bs]
+N[194]AP[MultiGo:4.4.4]SZ[19]AB[cm]MULTIGOGM[0]
+
+(;C[白气很紧，这是缺陷。失败图也容易计算得到。
+
+难度：☆☆]N[审题])
+(;B[ap]N[正解];W[an];B[bq];W[bp];B[ar]C[劫杀正解])
+(;B[an]N[失败];W[ap]C[白活。
+
+其他失败图也很简单。]))

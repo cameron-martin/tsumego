@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ja][jb][jc][kc][je][ke][le][mf][mg][ng][og][pg][qf][qe][rd][rc][rb]
+[qb][pc][oc]AW[md][me][nd][od][pd][qd][qc][of][nf][pe][ka][kb][lc][mb][ld]N[073]
+AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[黑棋的选点很少。但是，黑形也存在缺陷。因此，必须仔细计算，小心选点。]N[审题])
+(;B[na]N[正解];W[ma];B[lb];W[la];B[mc]C[白死。])
+(;B[na]N[变化1];W[lb];B[ma];W[nb];B[ob])
+(;B[na]N[变化2];W[nb];B[ob];W[ma];B[lb])
+(;B[nb]N[失败1];W[na];B[ma];W[la];B[oa];W[mc]C[劫。])
+(;B[nb]N[失败2];W[na];B[oa];W[ma];B[lb];W[pb];B[pa];W[mc];B[ob];W[la]))

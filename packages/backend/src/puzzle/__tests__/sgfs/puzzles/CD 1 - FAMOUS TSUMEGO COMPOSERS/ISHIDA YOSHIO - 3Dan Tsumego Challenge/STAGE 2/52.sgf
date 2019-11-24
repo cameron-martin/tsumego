@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[nq][nr][ns][sp][ro][rn][po][pp]AW[rr][rq][rp][so][qq][pr][os]C[52]
+N[52]AP[MultiGo:4.4.4]SZ[19]AB[pq]MULTIGOGM[0]
+
+(;C[第52题 成劫争为失败
+
+成劫争，则比较简单。
+
+但希望无条件杀死这块白棋，可走成盘角曲四。]
+N[审题])
+(;B[qs]N[正解];W[or];B[rs];W[sq];B[ss]C[盘角曲四，白死。])
+(;B[qs]N[变化];W[rs];B[or]C[黑3打吃后，白只有一眼。])
+(;B[or]N[失败];W[qs]C[劫。]))

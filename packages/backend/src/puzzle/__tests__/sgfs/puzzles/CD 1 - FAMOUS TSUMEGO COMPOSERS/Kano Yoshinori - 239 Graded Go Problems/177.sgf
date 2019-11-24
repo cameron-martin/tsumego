@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[fc][fi][hg][hd][hc][ei][dg][gc][gh][ie][dh][de][hh][hf][ed][cf]GN[ ]AB[gd][df][id][ge][eg][ff][gg][he][fh][gf][fd][eh]PM[1]C[Problem 177. Black to play and get a ko. (2 moves)
+Black needs to start a ko if he is to live. How does he do this?]PW[ ]
+(
+;B[ee]C[Correct Answer
+Black 1 is the correct answer...]
+;W[ef]C[...White 2 starts a ko fight and the life and death of the Black group will depend on the outcome of this ko.]
+)
+(
+;B[ef]C[Wrong Answer
+If Black connects at 1...]
+;W[ee]C[...White will play 2, leaving B lack with only one eye. Black is now uncontidionally dead.]
+)
+
+)

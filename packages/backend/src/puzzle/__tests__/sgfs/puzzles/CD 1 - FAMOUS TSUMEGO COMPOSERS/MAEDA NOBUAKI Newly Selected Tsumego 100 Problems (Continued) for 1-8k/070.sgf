@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[oc][ob][rc][qd][pd]AW[rb][rd][re][qe][pe][oe][ne][md][mb][nb]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[审题：显然，黑棋必须阻渡，但后面的计算仍需小心。]N[审题])
+(;B[sc]C[黑1立下阻渡，必然]N[正解];W[pb]C[白2夹是好手];B[qb];W[oa];B[ra];W[sb];B[pa]
+C[黑7扑入成劫。这是正解，双方最强。])
+(;B[sc]N[变化1];W[qc]C[白2断不行];B[qb];W[sd];B[pc];W[sb];B[qc]C[黑净活了。])
+(;B[sc]N[变化2];W[qb];B[qc];W[pb];B[oa];W[sb];B[pa];W[qa]C[对杀白负，黑活。]))

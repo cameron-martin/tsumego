@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[bd][cf][ch][le][ld][me][mf][qe][qf][pg][pj]
+AB[cc][dd][fd][jd][ke][lf][nd][pd][of][pf][qg]
+LB[qe:1]
+C[Problem 60. Black to play.  
+
+How does Black answer White 1 ? ]
+;B[qd]
+TE[2]
+C[Correct Answer.  
+
+Black should calmly block with 1 and, ... ]
+;W[qh]
+C[... when White ataris with 2, ... ]
+;B[rg]
+C[... descend to 3. ]
+;W[rh]
+C[After White 4, ... ]
+;B[ph];W[og];B[ng]
+LB[ph:5]
+C[... Black ataris with 5 and 7, ... ]
+;W[oh];B[mg]
+C[... then plays 9, confining White to the top. <= ]
+)
+)

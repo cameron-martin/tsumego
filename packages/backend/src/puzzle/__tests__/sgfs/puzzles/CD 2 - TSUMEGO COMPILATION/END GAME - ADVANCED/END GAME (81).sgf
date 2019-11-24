@@ -1,0 +1,38 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][be][bg][cd][cf][cg][cj][db][dc]
+AW[bc][bf][cc][ce][dd][de][df][eb][ec][fe]PL[B]C[Black to play.
+
+Endgame moves - Force Opponent to Reduce Liberties
+
+Source: Gokyo Shumyo.]
+(
+;B[ab]
+(
+;W[ad]
+;B[af]
+(
+;W[bb]
+;B[ba]
+(
+;W[da]
+;B[ae]C[RIGHT
+])
+(
+;W[ca]
+;B[ae]C[Ko Fight]))
+(
+;W[cb]
+;B[ac]))
+(
+;W[ac]
+;B[cb]
+;W[bb]
+;B[ba]C[Ko Fight]))
+(
+;B[cb]
+;W[ad]
+;B[af]
+;W[bb]
+;B[ab]
+;W[ba]
+;B[ac]))

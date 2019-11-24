@@ -1,0 +1,31 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][df][cn][dp][po][rn][qm][pm][on][nn][no][pb][nc][lc]
+AB[fq][jp][pq][pn][qn][qo][ro][oo][op][np][qk][pf][pd][qc]
+TR[no][nn][on][pm][qm][rn]
+C[Problem 3. Black to play.  
+
+White's marked stones in the lower right are vulnerable. How should Black attack them ? ]
+(;B[ol]
+TE[2]
+C[Correct Answer.  
+
+Peeping with Black 1 is severe. Next ... ]
+;W[om]
+C[... White must connect with 2. ]
+;B[nl]
+C[Black 3 is a vital point which prevents White from making shape in the center. ]
+;W[ln]
+C[After White jumps to 4, ... ]
+;B[jn]
+C[... Black attacks the whole white group with 5. ]
+)
+(;B[fo]
+C[Failure.  
+
+Locally, Black 1 is a strong move, but it only focuses on reinforcing Black's moyo at the bottom. ]
+;W[ol]
+C[White secures his stones by making shape with 2, and Black's attacking chance vanishes. <= ]
+)
+)

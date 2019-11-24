@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[dp][ep][co][fo][go][ho][ip][iq][hq][hr][hs][ds][br][bq]AW[dq][eq]
+[cr][er][fp][gp][gq][gr][io][jo][jp][jq][jr][ir]C[B]N[048]AP[MultiGo:4.4.4]SZ[19]
+AB[cq]MULTIGOGM[0]
+
+(;LB[hp:A]C[首先要搞清楚黑A接时，白能不能做活。
+
+难度：B]N[审题])
+(;B[fr]N[正解];W[fs];B[gs];W[fq];B[es]C[劫杀正解。])
+(;B[fr]N[变化1];W[gs];B[hp];W[cs];B[bs]LB[fs:A]C[黑5走A位打也可];W[dr];B[fs])
+(;B[fr]N[变化2];W[hp];B[fs]C[对杀白简单负。])
+(;B[hp]N[失败];W[cs];B[fr];W[fs];B[gs];W[fq]))

@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ic][ge][db][fe][da][hb][ie][id][ja][ed][ec][he][jb][ee]GN[ ]AB[gd][eb][gb][ea][ib][ia][fc][hd][hc][fd]PM[1]C[Problem 157. White to play and kill Black. (1 move)
+It is not enough to take just two stones. You have to capture the whole black group.]PW[ ]
+(
+;W[ga]C[Correct Answer
+White 1 is the correct answer. All of Black's stones are dead.]
+)
+(
+;W[ha]C[Wrong Answer
+If White plays at 1, capturing two stones...]
+;B[ga]C[...Black 2 gives the stones on the left two eyes. White has failed.]
+)
+
+)

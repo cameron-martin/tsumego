@@ -1,0 +1,8 @@
+(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[dc][de][dp][qd][qp][ro][rq][sp]AW[jc][od][qc]
+[op][po][qo][pn][qm][rn]TR[qc]C[Black to play. How can Black make sabaki when White attaches with the marked stone?]
+AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+;B[rc];W[pc]
+(;B[qf]
+(;W[rb];B[qi];W[rd];B[re];W[sc]C[CORRECT Black should begin with the hane. If White plays a hane after Black's one point jump, Black jumps again. White captures one stone in gote, while Black gains a resilient, flexible group.])
+(;W[qh];B[rb]C[CORRECT If White makes a pincer, Black extends into the corner and his stones are alive. No matter how White continues, Black makes sabaki.]))
+(;B[re];W[qf];B[pe];W[pg];B[oe];W[ng];B[mg];W[md];B[nf];W[nh];B[lf]TR[jc]C[Following the usual joseki is a failure by Black. White got a moyo below and his marked stone lets White end in sente.]))

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[kc][jc][jb][rb][qc][qd][pd][od][nd][nc][ld]AW[kb][lb][lc][mc][nb]
+[oc][pc][qb]N[102]AP[MultiGo:4.4.4]SZ[19]AB[ke]MULTIGOGM[0]
+
+(;LB[pb:A][ob:B]C[黑A则白B，白活，首先可以排除掉。黑棋从左侧开始动手也不行。现在聚焦在右侧，黑是从外向内压缩白眼位，还是先占据急所？计算吧。]
+N[审题])
+(;B[pa]C[黑1点是手筋]N[正解];W[oa]C[白2尖顶是最强抵抗];B[qa];W[ma];B[ob];W[ka];B[na]
+C[劫杀正解。])
+(;B[pa]N[变化];W[ob];B[ra]C[黑3立下冷静];W[ma];B[oa];W[na];B[ka])
+(;B[qa]N[失败1];W[ma]C[黑1从底线扳打，白2做眼是最强抵抗];B[oa];W[ob]C[白4是先手]
+;B[pa];W[na];B[ka];W[ra]C[白活。])
+(;B[oa]N[失败2];W[ma];B[qa];W[ob];B[pa];W[na];B[ka];W[ra]C[还原到失败1。]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[md][ld][kd][jd][jc][jb][kb][mb][nb][rb][rc][qd][pd][od]AW[lb][lc]
+[kc][mc][nc][oc][pc][qc][qb][ma]N[048]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;LB[na:A]C[白气很紧。但是，一不小心就有双活的可能。黑的入手点不多。黑走A位明显不行，可先排除掉。]
+N[审题])
+(;B[qa]N[正解];W[pa];B[na];W[la];B[ob]C[白死。])
+(;B[qa]N[失败1];W[pa];B[ob]C[黑3长容易想到];W[na];B[ra];W[la]C[双活。])
+(;B[ob]N[失败2];W[na])
+(;B[ob]N[失败2变化1];W[qa]C[白2立下];B[na];W[la];B[ra]LB[pb:A][oa:B]C[以下，白A则黑B，白是刀把五的死形；白B扑则黑A提子，白气紧不能入子。白死。])
+(;B[ob]N[失败2变化2];W[qa];B[na];W[oa];B[la];W[pb];B[pa]C[劫。]))

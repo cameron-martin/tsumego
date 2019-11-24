@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qd][qe][qf][pg][og][ng][mf][me][md][nc][nb][na][kc][lc][kb][ra][rb]
+AW[lb][mb][mc][nd][od][pd][pe][of][ne][nf][ob][qb][qc]N[016]AP[MultiGo:4.4.4]SZ[19]
+AB[rc]MULTIGOGM[0]
+
+(;CR[ra]TR[na][nc][nb]C[观察棋形：黑有硬腿，这是好事。缺点在于黑三子气紧。]N[审题])
+(;B[oc]N[正解];W[pc];B[pb];W[pa];B[qa]C[白死。])
+(;B[oc]N[变化];W[pb];B[la]C[白做不出两眼。])
+(;B[pb]N[失败];W[oc];B[oa];W[pc];B[qa]C[劫。]))

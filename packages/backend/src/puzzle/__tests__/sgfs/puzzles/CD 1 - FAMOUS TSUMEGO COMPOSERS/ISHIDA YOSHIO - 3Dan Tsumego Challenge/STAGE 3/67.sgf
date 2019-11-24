@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[np][mp][lp][kp][kq][kr][ks][rr][rq][qq][qo][pp]AW[ls][lr][lq][mq]
+[nr][pq][pr][qr]C[67]N[67]AP[MultiGo:4.4.4]SZ[19]AB[op]MULTIGOGM[0]
+
+(;C[第67题 有好次序
+
+黑的攻击方法有两种。
+
+从内部走急所，还是缩小地域呢？通过计算可知道下一手走哪里。]
+N[审题])
+(;B[qs]C[黑1扳是正解]N[正解];W[ps];B[nq]LB[ms:A][ns:B][or:C]C[白2，则黑3挤。对此，白应在A、B或C位均要死。]
+;W[oq]C[白4如何呢？];B[ns]C[白死。])
+(;B[qs]N[变化1];W[oq];B[os];W[ps];B[nq];W[rs];B[ns])
+(;B[qs]N[变化2];W[ms];B[os])
+(;B[nq]N[失败1];W[oq]C[黑1挤，但白2是防守的好手。];B[qs];W[os]C[白活。])
+(;B[ms]N[失败2];W[oq]C[黑1从内部点眼不行，白2扩大眼位就活了。]))

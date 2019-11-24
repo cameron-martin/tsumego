@@ -1,0 +1,46 @@
+(;
+AB[qd][od][jc][je][ic][hd][he][gc][gb][gf][ff][df][ce][dg][dh][ch][di][dj][dk][dl][cl][bl][gk][hl][jm][qo][pq][jq][fn][do][co][bo][cp][ap][bq][br][cr][ar][jg][jh]
+AW[dr][dq][cq][dp][eq][fp][hq][eo][en][em][dm][cm][bn][an][ao][bk][ck][qk][qh][cj][ci][ai][aj][bh][cg][bf][cf][ag][cd][de][dc][ed][fc][fb][gd][ge][hc][hb][hf][hg][ih][hj][ik][kj]
+C[Black plays.
+Source:  "Attack and Defense", Ch. 2, pp. 39-40
+         Akira Ishida & James Davies, Ishi Press]
+(;
+B[ji]
+C[Brute force fails.];
+W[kl];
+B[km];
+W[ll]
+C[White escapes toward other stones.
+Black's first move loses its value.]
+)
+    (;
+    B[pk]
+    C[Correct.];
+    W[ql];
+    B[qj];
+    W[rj];
+    B[pj];
+    W[qi];
+    B[pl];
+    W[kl];
+    B[km];
+    W[ll];
+    B[lm];
+    W[ml];
+    B[mm]
+    C[Black runs White into Black's right
+side stones while enclosing 40
+points of territory below.  And white's
+center group is cut off.]
+    )
+    (;
+    B[pj]
+    LB[pl:a]
+    C[Black 1 is also the right idea, but
+doesn't work as well with making
+territory at the bottom.
+
+Black A is also the right idea, but
+may not cut off White's center group.]
+    )
+)

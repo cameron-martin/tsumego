@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[oo][no][mo][lo][lp][kq][kr][ks][ls][nq][rr][qq][rp][pr][pp]AW[lr]
+[mr][np][mp][op][oq][or][pq][qr][qs]N[002]AP[MultiGo:4.4.4]SZ[19]AB[po]MULTIGOGM[0]
+
+(;C[黑棋可入手的点不多。]N[审题])
+(;B[ms]N[正解];W[nr];B[lq]LB[mq:A][os:B][ps:C]C[黑3冲时，白若A位提子，黑可B位扳；白若C位提子，黑继续在底线冲。]
+;W[ns];B[ps];W[os];B[mq]C[白死。])
+(;B[ms]N[变化];W[ns];B[ps]C[黑3先打是次序];W[os];B[mq]C[白死。])
+(;B[lq]N[失败];W[mq];B[ms];W[ns]C[本题的失败图容易计算。]))

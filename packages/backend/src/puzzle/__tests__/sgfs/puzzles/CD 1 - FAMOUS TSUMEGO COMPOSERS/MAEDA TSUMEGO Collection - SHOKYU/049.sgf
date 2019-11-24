@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[cf][de][ee][ed][dc][cb][eb][da][bg][cg]AW[bb][cc][cd][ce][dd][bf]
+[ba]N[049]AP[MultiGo:4.4.4]SZ[19]AB[ch]MULTIGOGM[0]
+
+(;C[角上基本死活。
+
+难度：☆☆]N[审题])
+(;B[ad]N[正解];W[be];B[ae]LB[af:A]C[黑3要比走A位扳更好];W[af];B[bc]C[白死。])
+(;B[ad]N[变化];W[ac];B[be])
+(;B[be]N[失败];W[bd];B[af]C[黑没有计算吧？]))

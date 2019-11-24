@@ -1,0 +1,52 @@
+(;
+AB[qd][oc][jc][qh]
+AW[qj][pq][po][gc][dd]
+C[White to play to reduce the upper right corner.
+
+Source
+    American Go Journal Vol. 18, No. 4, 1984, pp. 29-30.
+    Keshi and Uchikomi, Kaoru Iwamoto.]
+(;
+W[qf]
+C[White can try to invade directly here, but White has to worry about Black solidfying and extending his formation while pressuring the invading stone.]
+)
+    (;
+    W[oe]
+    C[White might try starting here, which is the strongest point of attack against the small knight enclosure.  Now Black has  big decision to make.]
+    (;
+    B[pf]
+    C[Black can defend the right side.];
+    W[nc]
+    C[And White can jump into the top area.];
+    B[pc]
+    (;
+    W[md]
+    TR[jc]
+    C[Black can now extend toward the center with the marked stone with the idea of attacking White's group later.]
+    )
+        (;
+        W[me]
+        C[White can try to make a lighter shape here.];
+        B[mc]
+        C[However, Black has this severe tesuji response.];
+        W[nb];B[nd];W[md];B[mb];W[od];B[na]
+        C[This play connects the Black groups and reduces White to an eyeless poor shape, although Black is forced into a low position along the top.]
+        )
+    )
+        (;
+        B[nd]
+        C[Black can also defend the top side.];
+        W[pd];B[pc];W[qe];B[rd];W[mf]
+        C[And White has reduced Black's right side framework with a flexible shape.];
+        B[pf]
+        C[And if Black peeps here ...];
+        W[of]
+        C[White should NOT connect to protect the 3 stones.];
+        B[pe]
+        C[And Black cannot cut here.];
+        W[pg]
+        C[White makes a strong formation, while Black takes only a tiny profit.]
+        )
+    )
+)
+

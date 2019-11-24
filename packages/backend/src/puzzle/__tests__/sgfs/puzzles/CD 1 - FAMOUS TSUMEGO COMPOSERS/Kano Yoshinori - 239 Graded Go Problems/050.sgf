@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 50. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[dc][dj]PB[ ]PM[1]PW[ ]AB[jd][ik][kj]
+;C[White 1 is a bad move, but how should Black respond?]W[id]
+(
+;B[ic]L[ie][je][jc]C[Correct Answer
+Black 2 or any of the moves from A to C would be correct answer.]
+)
+(
+;B[ce]C[Wrong Answer
+If Black plays 2 or in any place other than the upper right corner...]
+;C[...White 3 would put Black at a disadvantage.]W[je]
+)
+
+)

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pd][od][ne][me][le][ld][lc][lb][qa][sb][rc][rd]AW[ma][mb][mc][md]
+[pb][pc][qc][rb][ra]N[078]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[白形并非无懈可击。黑棋的入手选点并不多，计算吧。]N[审题])
+(;B[nc]N[正解];W[nb];B[oa];W[oc];B[pa];W[qb];B[nd]C[白死。])
+(;B[nc]N[变化];W[nb];B[oa];W[pa];B[ob])
+(;B[oc]N[失败1];W[ob])
+(;B[oa]N[失败2];W[oc];B[pa];W[ob]))

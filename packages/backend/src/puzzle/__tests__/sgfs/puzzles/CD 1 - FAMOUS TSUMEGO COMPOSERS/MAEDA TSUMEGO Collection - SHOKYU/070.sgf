@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[di][dj][dk][dl][dm][dn][cn][bn][aj][eh][bg][cg]AW[bm][ck][cl][cj]
+[ci][bi][bh][ah][cm]N[070]AP[MultiGo:4.4.4]SZ[19]AB[ch]MULTIGOGM[0]
+
+(;C[这是边上基本死活形的简化版本。很容易。
+
+难度：☆]N[审题])
+(;B[al]N[正解];W[am];B[bk])
+(;B[bk]N[失败];W[al]LB[ak:A][bj:B]C[A、B两点见合，白活了。]))

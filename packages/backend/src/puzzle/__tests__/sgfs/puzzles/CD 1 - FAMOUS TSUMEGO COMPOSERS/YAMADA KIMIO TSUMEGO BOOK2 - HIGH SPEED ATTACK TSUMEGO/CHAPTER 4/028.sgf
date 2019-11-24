@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qe][pe][oe][nd][md][ld][kd][jd][jc][jb][ja][lb][rb][rc]AW[kb][kc]
+[mc][lc][mb][pb][pc][pd][qb]N[028]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;TR[ja]C[白气紧，而且黑有硬腿。如何利用呢？需要计算。]N[审题])
+(;B[la]N[正解];W[ka];B[oc];W[nc];B[ob];W[od];B[oa]C[白死。])
+(;B[la]N[变化1];W[ma];B[ka]C[观察棋形：由于眼位太小，白已经无法做活。];W[nc];B[ob])
+(;B[la]N[变化2];W[ka];B[oc];W[ob];B[nb])
+(;B[oc]N[失败];W[ob];B[nc];W[nb]C[白活。]))

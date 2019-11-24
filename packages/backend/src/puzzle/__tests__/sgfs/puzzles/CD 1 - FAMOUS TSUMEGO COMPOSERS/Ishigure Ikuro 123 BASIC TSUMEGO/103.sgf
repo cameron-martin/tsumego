@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[rb][rc][sd][se][re][qe][pd][od][pf][me][ne][le][ke][kc][lc][la][nc]
+AW[lb][mb][mc][md][nd][oc][pc][qc][qd][rd][qb]N[103]AP[MultiGo:4.4.4]SZ[19]AB[kb]
+MULTIGOGM[0]
+
+(;C[观察棋形，白气很紧。可选点并不多，可以逐点计算。或者，根据你的第一感进行计算。
+
+对于明显不行的着法，可先排除，然后侧重计算“可行”的点。]
+N[审题])
+(;B[nb]N[正解];W[ob];B[qa];W[pa];B[na]C[金鸡独立，充分利用了白气紧的缺陷。白死。])
+(;B[nb]N[变化];W[na];B[ob]C[白不是活形。])
+(;B[qa]C[黑1扳次序有问题]N[失败1];W[nb];B[oa];W[pa];B[pb];W[ob];B[pa];W[ra];B[sa]
+;W[na]C[白活。])
+(;B[oa]LB[ma:A][na:B][pa:C]C[黑1不行，黑A、B、C的进攻也容易计算，白棋都要成活。]
+N[失败2];W[nb]LB[qa:A]C[接下来，黑A必然，还原到失败图1。白活。]))

@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[do][fo][jo][cp][ep][go][jp][eq][jn]GN[ ]AB[fn][gp][en][eo][hp][fp]PM[1]C[Problem 198. Black to play.
+How should Black play so as to catch two white stones?]PW[ ]
+(
+;B[hn]C[Correct Answer
+Black catches two stones in a net when he plays 1. These stones cannot escape and will be captured.]
+)
+(
+;B[gn]C[Wrong Answer
+Black 1 fails...]
+;W[ho]C[...White plays 2 and he cannot be captured.]
+)
+
+)

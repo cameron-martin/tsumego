@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[rd][pc][ob][rc]AW[pb][na][nb][nc][nd][od][pd][qd][re][qf]N[122]AP[MultiGo:4.4.4]
+SZ[19]AB[qc]MULTIGOGM[0]
+
+(;C[锻炼计算能力的题目。空间不大，变化有一些。
+
+难度：☆☆☆]N[审题])
+(;B[qb]N[正解];W[ra]C[白2必点];B[oc];W[oa];B[pa];W[qa]C[劫活正解])
+(;B[qb]LB[pa:A][qa:B][sb:C]C[黑1打时，白不能A位立，那样黑B打吃之后C位就活了。]N[变化]
+;W[oa];B[ra])
+(;B[ra]LB[pa:A]C[黑1时，白A也能杀黑]N[失败1];W[qb];B[oc];W[oa];B[rb];W[pa])
+(;B[pa]N[失败2];W[oc];B[qb]C[现在黑是死形就很清楚了];W[ra]))

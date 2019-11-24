@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pd][od][nd][md][lc][kc][kb][ka][ra][rb][qc]AW[lb][mb][nc][oc][pb]
+[pc][qb][qa]N[013]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[从外部挤压眼位还是直接点眼？]N[审题])
+(;B[oa]N[正解];W[na];B[la];W[ob];B[mc]C[白死。])
+(;B[mc]N[失败1];W[oa];B[nb];W[ma])
+(;B[la]N[失败2];W[oa];B[mc];W[na])
+(;B[na]N[失败3];W[oa]))

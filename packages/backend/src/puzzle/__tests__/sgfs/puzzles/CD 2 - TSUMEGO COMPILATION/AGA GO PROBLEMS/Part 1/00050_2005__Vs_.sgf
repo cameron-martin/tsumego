@@ -1,0 +1,33 @@
+(;
+AB[ac][ad][bd][ce][bf][df][ef][ff][fe][fd][gd][ec][hc][ic][jc][kb][lc][md][nc][nb][pb][qc][qd][pd][od][oe][of][pf][og]
+AW[ab][bb][bc][cc][cd][ed][ee][fc][eb][gc][hb][ib][jb][oc][pc][qb][rb][rc][rd][qe][pe][qf][qg][pg]
+C[Rank White's moves A, B, and C.
+
+Source:
+   The Endgame, Chap. 5, pp. 63-65
+   Tomoko Ogawa & James Davies, Ishi Press]
+LB[dd:a][ja:b][pa:c]
+(;
+W[ja]
+C[Best.
+4 points in gote.];
+B[];
+W[ka]
+C[Next, White can push here in sente.
+Later, White does not have to connect at A.]
+LB[gb:a]
+)
+    (;
+    W[dd]
+    C[Next best.
+3 points in gote.]
+    )
+    (;
+    W[pa]
+    C[Worst.
+2 points in gote.];
+    B[oa]
+    C[Better than connecting.];
+    W[qa]
+    )
+)

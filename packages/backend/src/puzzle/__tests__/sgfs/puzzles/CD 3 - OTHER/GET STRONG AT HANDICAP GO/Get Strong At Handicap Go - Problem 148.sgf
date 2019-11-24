@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][fd][nc][ob][qg][qj][cn][ci]
+AB[dp][pd][pp][jd][oc][qe][ql][jq][fp]
+C[Problem 148. Black to play.  
+
+With the hane of 1, White threatens to uproot the black stones in the corner. Take a global view of the position before deciding on Black's response. ]
+(;B[nd]
+TE[2]
+C[Correct Answer.  
+
+This problem shows the importance of playing for thickness on the outside instead of defending the territory in the corner. Black plays on top with1 and ... ]
+;W[md];B[mc];W[nb];B[lc];W[qc]
+C[... lets White secure a small territory in the corner, ... ]
+;B[me]
+C[... but the thickness Black gets up to 7 strategically affects the whole board. ]
+;W[pc];B[od]
+C[<= ]
+)
+(;B[pb]
+C[Failure.  
+
+Defending the corner with Black 1 ... ]
+;W[od]
+C[... lets White force with 2. ]
+;B[pc];W[lc]
+C[She then occupies the key point of 4. ]
+;B[ke]
+C[If Black escapes into the center with 5, ... ]
+;W[mf]
+C[... White jumps to 6 and the two black stones at the top suddenly find themselves under attack. <= ]
+)
+)

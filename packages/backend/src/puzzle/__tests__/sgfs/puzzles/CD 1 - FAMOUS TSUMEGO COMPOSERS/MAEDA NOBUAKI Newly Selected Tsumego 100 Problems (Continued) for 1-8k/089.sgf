@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[pd][od][nd][md][mc][nb][rc][rd][re]AW[nc][oc][qc][pc][rb][mb][lb]
+[lc][ld][le][me][ne][oe][qe][qf][rf]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[审题：净活就不要指望了，只能考虑能不能做劫。]N[审题])
+(;B[qb]N[正解];W[pb];B[ra];W[qa];B[sb];W[sa]LB[ra:A][qb:B]C[劫活正解。白棋先手提劫。白棋劫胜，一手就可消劫。黑棋劫胜，还得继续在B位提子打劫，所以这是两手劫。])
+(;B[qb]N[变化];W[pb];B[ra];W[sb];B[pa]C[这是紧劫，黑棋劫胜后一手就可消劫。白棋抵抗不正确。]))

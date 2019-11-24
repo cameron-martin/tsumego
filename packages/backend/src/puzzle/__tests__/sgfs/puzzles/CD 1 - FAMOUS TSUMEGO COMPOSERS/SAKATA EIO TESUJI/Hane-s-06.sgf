@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dm][cn][fn][eo][go][ho][hq]AB[dn][gn][fo][dp][ep][fp]C[Ex. 6  - Sabaki
+
+Those well versed in joseki will know what to do in this situation.
+However, in actual fact there are many people who, contrary to their expectations, will make a mistake here.]
+(;B[en]LB[en:1]TR[aa]C[Diag. 1 - Failure
+
+It is easy to make mistakes and B 1 kiri is such a move. ]
+;W[fm]LB[fm:2][en:1]C[This allows W 2, ]
+;B[em]LB[em:3][fm:2][en:1]
+;W[el]LB[el:4][em:3][fm:2][en:1]C[Then W 4 is played at the head of the B 3 stone. ]
+;B[do]LB[el:4][em:3][fm:2][en:1][do:5]C[After B 5 ]
+;W[dl]LB[dl:6][el:4][em:3][fm:2][en:1][do:5]C[and W 6, W's blockade is complete.])
+(;B[em]LB[em:1]C[Diag. 2 - Correct
+
+B 1 hane (more correctly hanedashi) is the right suji to foil W's plan. ]
+(;W[fm]LB[em:1][fm:2]C[If W 2, ]
+;B[el]LB[el:3][em:1][fm:2]C[B plays nobi 3 ]
+;W[do]LB[el:3][em:1][fm:2][do:4]C[and when W answers  W 4 ]
+;B[en]LB[el:3][em:1][fm:2][en:5][do:4]
+;W[co]LB[el:3][em:1][fm:2][en:5][co:6][do:4]C[and 6]
+;B[cp]LB[el:3][em:1][fm:2][gm:A][en:5][co:6][do:4][cp:7]C[with 7, W's position is absurd.
+If the shicho is favourable, B can naturally replace his 7 with "A".])
+(;W[en]LB[em:1][en:2]C[Diag. 3 - Correct
+
+If W cuts at 2 in reply to B 1 hane ]
+;B[do]LB[em:1][en:2][do:3]C[B plays 3 ]
+;W[fm]LB[em:1][fm:4][en:2][do:3]
+;B[el]LB[el:5][em:1][fm:4][en:2][do:3]C[then the nobi 5 and W is in an impossible situation.])))

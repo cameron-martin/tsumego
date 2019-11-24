@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ck][dk][bo][eo][bp][ip][cq][eq][cr][dr]AB[cl][bn][cn][co][dp][dq][er][fr]SQ[eq]C[Ex.  3  - Sabaki
+
+The white marked cutting stone and the tobi above it are causing B trouble.
+However, he can find a way out of this difficult situation.]
+(;B[gp]LB[gp:1]C[Diag.  1  -  Failure
+
+B 1 keima gets into difficulties. ]
+;W[ep]LB[ep:2]C[After W's firm connection at 2. It will not be easy for B to find eyes for his stones on either side.])
+(;B[ep]LB[ep:1]C[Diag.  2  -  Failure
+
+If, after B plays 1 ate]
+;W[fq]LB[ep:1][fq:2]C[and W plays 2]
+(;B[fp]LB[ep:1][fp:3][fq:2]C[B plays 3 ]
+;W[gq]LB[ep:1][fp:3][fq:2][gq:4]
+;B[gp]LB[ep:1][fp:3][gp:5][fq:2][gq:4]C[and 5, the main group is settled,]
+;W[hq]LB[ep:1][fp:3][gp:5][fq:2][gq:4][hq:6]C[ but W gets the territory on the lower side and this is not good.])
+(;B[gp]LB[ep:1][gp:3][fq:2]C[Diag.  3  -  Correct
+
+B 1 de is good, and after W 2, B 3 kake is the suji required.
+After this W's 2 stones cannot move.]
+;W[gq]LB[ep:1][gp:3][fq:2][gq:4]C[Diag.  4  -  Variation
+
+If W plays 4 de in answer to B 3 kake,
+]
+;B[hq]LB[ep:1][gp:3][fq:2][gq:4][hq:5]C[B's sacrifice suji 5 ]
+;W[gr]LB[ep:1][gp:3][fq:2][gq:4][hq:5][gr:6]
+;B[hr]LB[ep:1][gp:3][fq:2][gq:4][hq:5][gr:6][hr:7]C[and 7 is perfect. ]
+;W[es]LB[ep:1][gp:3][fq:2][gq:4][hq:5][gr:6][hr:7][es:8]
+;B[fp]LB[ep:1][fp:9][gp:3][fq:2][gq:4][hq:5][gr:6][hr:7][es:8]C[After the ate 9 ]
+;W[fs]LB[ep:1][fp:9][gp:3][gq:4][hq:5][gr:6][hr:7][es:8][fs:10]
+;B[hp]LB[ep:1][fp:9][gp:3][hp:11][gq:4][hq:5][gr:6][hr:7][rr:2][es:8][fs:10]SQ[ip]C[and tsugi 11, B is strong on the outside and the single marked stone has become correspondingly weak.
+W must think again after nobi 2 in the previous diagram.])))

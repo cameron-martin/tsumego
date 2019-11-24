@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ge][ff][fi][gg][hg][kh][fe][hd][ei][cg][ii][di][kg][je][id][de][hi][cf][jf][ji][ch][gi][ee]GN[ ]AB[jh][fh][dg][ef][fg][gh][eh][if][ie][df][dh][hh][he][ih][gf]PM[1]C[Problem 142. Black to play and live. (1 move)
+What move does Black make to give his stones life?]PW[ ]
+(
+;B[ig]C[Correct Answer
+Black 1 sets up a snapback\: if White captures one stones, Black will capture three. So Black has two eyes and is alive.]
+)
+(
+;B[hf]C[Wrong Answer
+Black puts himself into atari with 1...]
+;W[ig]C[...White captures five stones with 2 and Black's group is dead.]
+)
+
+)

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pf][of][nf][ne][md][mc][mb][ma][sb][rc][qc][qd]AW[na][nb][nc][od]
+[oe][pc][qb][rb][ra]N[053]AP[MultiGo:4.4.4]SZ[19]AB[qf]MULTIGOGM[0]
+
+(;LB[pa:A]C[从外侧压缩眼位不行，被白占据A位就活了。]N[审题])
+(;B[pa]N[正解];W[nd]LB[ob:A][pb:B]C[黑1点时，白2是防守的好手。对此，黑A则白B，有双活。]
+;B[pb];W[ob];B[pd];W[oa];B[oc]C[劫杀正解。])
+(;B[pa]N[变化1];W[pb];B[nd];W[oa];B[oc])
+(;B[pa]N[变化2];W[pb];B[nd];W[pd];B[ob]C[双活。]))

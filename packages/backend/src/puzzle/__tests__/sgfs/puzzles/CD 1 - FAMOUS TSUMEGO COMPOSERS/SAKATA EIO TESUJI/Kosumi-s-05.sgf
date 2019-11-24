@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[co][do][fo][cp][ep][fp][cq][cr]AB[en][fn][eo][go][dp][dq][hq]C[Ex. 5 - Semeai
+
+The problem is to save the 2 stones buried deep in the heart of the W group, but if you find the vital point the solution turns out to be surprisingly simple.]
+(;B[eq]LB[eq:1]C[Diag. 1 - Failure
+
+B 1 sagari, ]
+;W[fq]LB[eq:1][fq:2]C[provoking W osae 2 is out of the question.
+The weak point of the 3 W stones will not be found with a direct move.
+])
+(;B[er]LB[er:1]C[Diag.2. - Correct
+
+B 1 kosumi is the vital point in this situation. (cont.)]
+(;W[fr]LB[er:1][fr:2]C[If W 2 tobitsuke, ]
+;B[fq]LB[gp:B][fq:3][gq:A][er:1][fr:2]C[B plays 3 hanekomi and W cannot save his 3 stones, because, if  W plays at "A", then B "B" is a "snapback".]
+;W[gp]LB[gp:4][fq:3][er:1][fr:2]C[Diag. 3 - Variation
+
+If W 2 in reply to B 1 kosumi, then W 4 ]
+;B[hp]LB[gp:4][hp:5][fq:2][er:1][fr:3]
+;W[gq]LB[gp:4][hp:5][fq:3][gq:6][er:1][fr:2]
+;B[gr]LB[gp:4][hp:5][fq:3][gq:6][er:1][fr:2][gr:7]C[and B 7 shibori are good.
+])
+(;W[eq]LB[eq:2][er:1]C[Diag 4. - Variation
+
+If W 2 ate in reply to B 1 kosumi, ]
+;B[dr]LB[eq:2][dr:3][er:1]
+;W[fr]LB[eq:2][dr:3][er:1][fr:4]C[W 4]
+;B[fq]LB[eq:2][fq:5][dr:3][er:1][fr:4]C[B 5 ]
+;W[gq]LB[eq:2][gq:6][dr:3][er:1][fr:4]C[W6 takes]
+;B[gp]LB[gp:7][eq:2][gq:6][dr:3][er:1][fr:4]C[and B 7 shibori are good.])))

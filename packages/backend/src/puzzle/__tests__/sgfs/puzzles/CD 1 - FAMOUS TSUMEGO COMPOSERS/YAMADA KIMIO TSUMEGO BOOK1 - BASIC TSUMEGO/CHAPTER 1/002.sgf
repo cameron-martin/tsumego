@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oc][mc][mb][la][qb][qc][qd]AW[ma][lb][kb][lc][ld][md][nd][od][pe]
+[qe][rd][rc][rb]N[002]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[不难的死活题。正解、失败图都不难，计算吧。]N[审题])
+(;B[pb]N[正解];W[nb];B[nc];W[na];B[oa];W[ka];B[qa]C[黑活。])
+(;B[pb]N[变化];W[oa];B[na];W[nb];B[nc];W[ma];B[ob];W[ka];B[pa]C[黑活。])
+(;B[nc]N[失败1];W[pb])
+(;B[ob]N[失败2];W[na])
+(;B[oa]N[失败3];W[nc];B[nb];W[pb]))

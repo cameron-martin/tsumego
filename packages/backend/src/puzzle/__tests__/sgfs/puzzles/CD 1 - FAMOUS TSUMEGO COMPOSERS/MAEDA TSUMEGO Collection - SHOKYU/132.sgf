@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nq][np][no][oo][pp][pm][qm][rm][qq][rq][qr][pq]AW[rn][qo][on][pn]
+[qp][nn][mn][mo][mp][mq][mr][nr][or][pr][qs][rr]N[132]AP[MultiGo:4.4.4]SZ[19]AB[oq]
+MULTIGOGM[0]
+
+(;LB[sq:A]C[黑没有两眼，肯定要利用A位的先手，争取盘渡。
+
+难度：☆☆]N[审题])
+(;B[rs]N[正解];W[ss];B[sq];W[rs];B[qn];W[po];B[sn])
+(;B[sq]C[黑1单立也可，先扑一个已经损进去一目了]N[变化];W[rs];B[sn]LB[qn:A][po:B]
+C[黑3直接扳，不做黑A白B的交换。没事撞紧气做什么？];W[so];B[qn];W[sm];B[po]C[这样也行。]))

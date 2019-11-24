@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 80. Black to play.
+How should Black play here?]AW[ek][dl][gk][fj][fm][dm][dk][gj]PB[ ]PM[1]PW[ ]AB[fl][hl][em][ci][ik][el][ei][fk][ej]
+(
+;B[gl]C[Correct Answer
+Black should link up to his other stones by playing at 1. This way the lone white stone is dead.]
+)
+(
+;B[gm]C[Wrong Answer
+If Black captures with 1...]
+;C[...White plays at 2 and the four black stones at the bottom will be captured.]W[gl]
+)
+
+)

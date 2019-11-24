@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]GN[第239题]HA[0]EV[吴清源诘棋集（初级编）]AB[fb][eb][gc][ec][ed][ee][gf][he][id][jd][ld][md][mc][mb][ma][la][me][jb]AW[fc][gb][fd][gd][ic][jc][kc][lc][lb][ka]C[白先
+
+第一手必须开动脑筋，想出有效的手段]
+
+(;W[ga]N[正解图];B[hd];W[ia];B[hc];W[hb])
+(;W[hc]N[失败图1];B[ib]LB[kb:A][hd:B]C[黑棋A，B必得其一，白净死])
+(;W[ib]N[失败图2];B[ga];W[hb];B[hd]))

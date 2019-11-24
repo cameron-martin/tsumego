@@ -1,0 +1,42 @@
+(;
+AB[qc][qe][qd][pc][oc][nd][ne][oe][md][lc]
+AW[od][pd][pe][pf][qf][of][nf][me][le][ld][kc]
+C[Black plays.
+
+Source:
+    Good and Bad Style
+    Go World #1, May-June 1977, p. 32]
+(;
+B[lb]
+C[Vulgar style.
+
+Black protects the cut and threatens to push out to the left along the top.  What could possibly be wrong with this move?];
+W[kb]
+C[The problem is that this play stops Black and is now sente again.]
+(;
+B[nb]
+C[Black can defend here ...];
+W[la]
+C[... but White has yet another sente play.];
+B[mb]
+C[Black has to defend meekly here.]
+)
+    (;
+    B[ma]
+    C[Black can defend here ...];
+    W[ka]
+    LB[nc:A]
+    C[... but White can seal off the top in sente by threatening A.]
+    )
+)
+    (;
+    B[mb]
+    C[Correct.  Black defends the cut, but now a White descent is no longer sente.];
+    W[lb]
+    C[White can atari in sente.];
+    B[mc]
+    LB[kb:A]
+    C[But Black simply connects.  Now White is faced with 2 bad alternatives:  connect in gote at A, or even worse, let Black capture at A.]
+    )
+)
+

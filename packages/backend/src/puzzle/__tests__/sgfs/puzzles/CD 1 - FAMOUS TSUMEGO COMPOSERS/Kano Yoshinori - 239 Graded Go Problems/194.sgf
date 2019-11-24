@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[kp][nq][iq][ms][lp][mq][jr][jp][lr][mr]GN[ ]AB[pq][kr][lq][mp][nr][ks][kq][np][or][op]PM[1]C[Problem 194. Black to play.
+How should Black play so as to capture five white stones? (There are two correct answers.)]PW[ ]
+(
+;B[ns]L[oq]C[Correct Answer
+Wither Black 1 or Black A will kill the five white stones.]
+)
+(
+;B[ls]C[Wrong Answer
+Black 1 fails...]
+;W[js]C[...White plays 2 in reply, putting five black stones into atari.]
+)
+
+)

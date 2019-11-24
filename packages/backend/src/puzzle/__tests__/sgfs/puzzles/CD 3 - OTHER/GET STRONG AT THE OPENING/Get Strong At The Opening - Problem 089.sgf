@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ce][dc][db][eb][ed][fc][fe][gd][cq][cn][dp][po][qj][qg]
+AB[bc][cc][dd][de][ee][ef][cf][dg][dr][fq][iq][np][pq][qd][od]
+C[Problem 89. White to play.  
+
+The proverb advises us, "Don't play near thickness !" White has thickness in the top left and Black on the upper side, but White is thin on the right. Where should White play ? ]
+(;W[mc]
+LB[lc:B][pc:A]
+
+TE[2]
+C[Correct Answer.  
+
+White should extend all the way to 1. This move is the proper distance from her thickness on the left and also aims at A, the weak point of Black's corner enclosure. White 1 at B would be too close to her thickness. <= ]
+)
+(;W[qq]
+C[Failure.  
+
+Locally, playing the sequence from White 1 ... ]
+;B[qr];W[qp];B[rr];W[pm]
+C[... to 5 is good, but ... ]
+;B[lc]
+C[... Black will then play 6, erasing the influence of White's thickness and defending the weak underbelly of his corner enclosure at the top. <= ]
+)
+)

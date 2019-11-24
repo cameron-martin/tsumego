@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pe][pf][qf][rg][rh][ne][rb][qb][qc][sc]AW[pc][oc][rc][rd][qd][qe]
+[rf][se][qg][pg][qi][ri]N[026]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[黑棋使用的是基本手法，应该掌握。
+
+难度：☆]N[审题])
+(;B[sb]N[正解];W[sd];B[sf];W[sg];B[sh]C[两手劫。])
+(;B[sf]C[黑1先扑怎么样？]N[变化];W[sg];B[sh]LB[sb:A][sd:B]C[与正解相比，少了黑A白B的交换。
+
+现在，白棋多了一个选择：不打劫，直接粘上，这样让黑吃掉白四子（接不归）。]))

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[sc][rd][re][qf][rg][pg][og][ng][mg][lg][lf][ld][lc][lb][mb][qa][rb]
+AW[nb][nc][mc][me][mf][of][pf][qe][qd][pd][pb][qb][oa]N[072]AP[MultiGo:4.4.4]SZ[19]
+AB[qc]MULTIGOGM[0]
+
+(;LB[pc:A][oc:B]C[从外侧压缩白眼位，可以作为计算的入手点。或者，根据你对棋形的敏感，从占据急所开始计算。黑A白B的应手肯定不行，可以排除在计算之外。]
+N[审题])
+(;B[od]N[正解];W[oc];B[nf];W[oe];B[nd])
+(;B[od]N[变化];W[pc];B[nf];W[ne];B[oe];W[pe];B[md];W[nd];B[oc])
+(;B[md]N[失败1];W[oe])
+(;B[nf]N[失败2];W[oe])
+(;B[nd]N[失败3];W[od]))

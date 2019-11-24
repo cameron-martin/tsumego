@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[jd][ld][nc]
+AB[dd][hc][lc][pd][pf][qj]
+LB[ld:1]
+C[Problem 5. Black to play.  
+
+How does Black respond when White attaches on top with 1 ? ]
+;B[kd]
+TE[2]
+C[Correct Answer.  
+
+Black should wedge in with 1. ]
+(;W[ke];B[kc];W[md];B[jc]
+C[Up to 5, Black has gouged out White's base. Black is satisfied with this result. <= ]
+)
+(;W[kc]
+C[Variation.  
+
+White could also atari underneath with 2. ]
+;B[ke];W[jc];B[md];W[lb];B[le];W[mc]
+C[White links up, but ... ]
+;B[oj]
+C[... Black makes a large-scale moyo on the right when he plays 9. <= ]
+)
+)

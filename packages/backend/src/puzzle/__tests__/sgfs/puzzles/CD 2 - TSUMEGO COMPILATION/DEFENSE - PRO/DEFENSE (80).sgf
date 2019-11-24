@@ -1,0 +1,50 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bb][bf][bg][bh][bi][bj][cf][dc][de][ee][ff][gf][gh]
+AW[bc][be][ce][cg][ch][ci][cj][ck][df][ef][eh][fe]PL[W]C[White to play.
+
+Defense - Counter Attack]
+(
+;W[cb]
+(
+;B[db]
+;W[ba]
+;B[ab]
+;W[cc]C[RIGHT
+])
+(
+;B[cc]
+;W[dd]
+;B[ed]
+;W[ec]
+;B[fd]
+;W[db]
+;B[cd]
+;W[bd]
+;B[dd]C[RIGHT
+]))
+(
+;W[cc]
+(
+;B[db]
+;W[cb]
+;B[ca]
+;W[cd]
+;B[dd]
+;W[ba]
+;B[aa]
+(
+;W[ac]
+;B[da]
+;W[bk]
+;B[af]C[White Death])
+(
+;W[ad]
+;B[bk]
+;W[ab]C[Ko Fight]))
+(
+;B[cb]
+;W[dd]
+;B[ed]
+;W[ec]
+;B[cd]
+;W[fd]C[White Ok])))

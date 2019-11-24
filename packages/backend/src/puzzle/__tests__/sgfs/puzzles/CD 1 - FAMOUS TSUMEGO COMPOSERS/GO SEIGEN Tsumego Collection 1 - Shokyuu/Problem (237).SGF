@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]GN[第237题]HA[0]EV[吴清源诘棋集（初级编）]AB[db][eb][fc][gc][hc][hd][fd][fe][ge][cd][bc][be][cf][cg]AW[ca][cb][cc][dd][ed][ec][fb][df][ef][ff][gf][hf][ie][ic][jc][ib]C[黑先
+
+请把变化看透，结果是劫还是无条件？]
+
+(;B[ea]N[正解图];W[ga];B[ha];W[hb];B[gb];W[ia];B[fa];W[dc];B[ha])
+(;B[gb]N[失败图1];W[ea];B[fa];W[da])
+(;B[fa]N[失败图2];W[da];B[ea];W[ga];B[gb];W[ha]))

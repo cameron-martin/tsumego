@@ -1,0 +1,44 @@
+(;
+GM[1]
+SZ[19]
+AW[ce][cj][cp][ep][rp][qn][qk]
+AB[dc][jq][np][pp][qq][qi][qd]
+C[Problem 94. White to play.  
+
+Playing at the top is now urgent, but whatever move White makes should have a relationship with her stones on the left side. Where should she play ? ]
+(;W[ed]
+TE[2]
+C[Correct Answer.  
+
+White should press with 1 ... ]
+;B[ec];W[fd]
+C[... and 3, ... ]
+;B[gc];W[he]
+C[... then jump to 5, mapping out a moyo on the left side. ]
+;B[hc]
+C[If Black next defends at 6, ... ]
+;W[hq]
+C[... White will fortify her position at the bottom by extending to 7. <= ]
+)
+(;W[hq]
+C[Failure.  
+
+If White plays 1 here, ... ]
+;B[ed]
+C[... Black will play 2 without hesitation. <= ]
+)
+(;W[gc]
+C[Failure.  
+
+If White pincers with 2, ... ]
+;B[ed]
+C[... Black plays 2 ... ]
+;W[jc];B[cd];W[de];B[bd]
+C[... to 6, securing the corner. ]
+;W[hq]
+C[If White now extends to 7, ... ]
+;B[ch]
+LB[hq:1][ed:2]
+C[... Black invades at 8, so White won't be able to make a moyo on the left side. If it were Black's turn, he would play 2, so White 1 provokes the move Black wants to play. <= ]
+)
+)

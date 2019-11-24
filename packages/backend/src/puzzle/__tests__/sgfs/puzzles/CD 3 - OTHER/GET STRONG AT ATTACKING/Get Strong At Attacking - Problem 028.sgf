@@ -1,0 +1,42 @@
+(;
+GM[1]
+SZ[19]
+AW[aa][ca][db][bb][bc][bd][dd][ec][fd][fe][ge][gf][he][hd][hc][hb][ib][lb][md][le][kf][lf][lg][oc][pc][qb][qd][bi][ci][ch][dh][dg][cj][ej][ek][dn][dp][cp][dq][bq][rq][qp][ro][pn][gh][hg][hi][hj][hk][jj]
+AB[qc][rc][rb][pd][pe][qg][ic][jb][kb][kc][jd][ie][if][hf][jg][kg][lh][ki][cb][cc][cd][be][de][ef][eg][fg][gg][eh][ei][cf][cg][bg][bh][cq][br][dr][cr][fq][kq][op][pq][qq][gi][gj][gk][gl]
+TR[hg][gh][hi][hj][hk][jj]
+C[Problem 28. Black to play.  
+
+The marked white stones are floating in the center, but Black's group in the upper left is also without eyes. What should Black do ? ]
+(;B[gn]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a calm and solid move which ensures that the black stones in the upper left are linked to their allies below. ]
+(;W[lk]
+C[White's stones must escape into the center. White 2 is reasonable, but ... ]
+;B[nh]
+C[... it provokes Black 3. ]
+;W[lc]
+C[White's group at the top does not have eyes, so she defends with 4. ]
+;B[jl]
+C[Next, Black goes on to attack with 5 ... ]
+;W[kj];B[lm]
+C[... and 7. The white stones in the center will escape, but Black has made a huge territory at the bottom. <= ]
+)
+(;W[hl]))
+(;B[hl]
+C[Failure.  
+
+Black 1 is a forceful move, but it strengthens White's weak group. ]
+;W[il];B[im];W[jl];B[jm];W[kl];B[km];W[go]
+LB[hm:A][km:7]
+C[After 7, White will jump to 8, threatening to cut at A or to invade the bottom. <= ]
+)
+(;B[lk]
+C[Failure.  
+
+Black 1 is an all-out attack, but ... ]
+;W[hl];B[gm];W[in];B[go]
+C[... White will fight like a trapped animal after Black 5. It is hard to predict what will happen, but, if White survives, Black's territory at the bottom could be wiped out. The sequence in the Correct Answer gives Black a sure win. <= ]
+)
+)

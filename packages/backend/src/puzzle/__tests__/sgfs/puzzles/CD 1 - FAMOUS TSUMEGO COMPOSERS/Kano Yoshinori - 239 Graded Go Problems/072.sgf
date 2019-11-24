@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 72. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[jh][hk][hj][fi][hg][ei][fk][ii][gl][ej][ig]PB[ ]PM[1]PW[ ]AB[fj][fh][gj][kg][fg][if][gk][jg][hf][hh][ih][gi][gf]
+;C[How should Black answer White 1?]W[hi]
+(
+;B[gh]C[Correct Answer
+Black should play at 2, connecting his four stones in atari to the ones above.]
+)
+(
+;B[gg]C[Wrong Answer
+If Black captures two stones with 2...]
+;C[...White captures four stones with 3.]W[gh]
+)
+
+)

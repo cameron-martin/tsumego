@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pd][od][nd][le][kd][kc][kb][ka][ra][rb][rc]AW[lb][mc][ob][pc][qc]
+[qb][qa]N[029]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[nb:A]C[第一感就是A位跨吧，但要计算确认是否正确。]N[审题])
+(;B[pa]LB[oa:A][pb:B][nb:C]C[黑1在急所一击。对此，白不能走A或B位，那样黑C跨，白死。]
+N[正解];W[nb];B[la];W[ma];B[oa]C[白死。])
+(;B[pa]N[变化];W[oc];B[nc];W[nb];B[la];W[ma];B[oa])
+(;B[nb]N[失败1];W[nc]LB[pa:A]C[黑1、白2交换后，黑已经来不及在A位点眼];B[oc];W[pa]
+;B[na];W[mb])
+(;B[la]N[失败2];W[ma]C[黑1、白2交换后，限制了黑的手段，白活。])
+(;B[ma]N[失败3];W[la]C[黑同样不行，可自行演算。]))

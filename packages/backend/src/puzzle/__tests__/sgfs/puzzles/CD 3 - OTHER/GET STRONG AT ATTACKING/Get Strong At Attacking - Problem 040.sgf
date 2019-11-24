@@ -1,0 +1,46 @@
+(;
+GM[1]
+SZ[19]
+AW[kc][nc][pp][rp][nq][jp][dp][do][dq][eq][er][hq][cf][ci]
+AB[cd][dd][ic][pc][qd][pj][qn][on][fq][dr][cr][cq][cp][cn]
+TR[kc][nc]
+C[Problem 40. Black to play.  
+
+Taking the entire board into account, how should Black attack the marked stones ? ]
+(;B[ne]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a multi-purpose move. It attacks White's two stones at the top while expanding Black's moyo on the right. ]
+;W[ke]
+C[White must escape into the center with 2. ]
+;B[ie]
+C[But Black now jumps to 3, strengthening his position in the upper left and ... ]
+;W[kg]
+C[... forcing White to run away with 4. ]
+;B[dh]
+C[Black has sente, so he attacks the left side with 5 ... ]
+;W[ch];B[df]
+LB[mb:B][ld:A][ne:1]
+C[... and 7. Suddenly, a black moyo appears in the upper left. White's problems are still not over: Black can take more profit later by peeping at A or making a placement at B. Black 1 follows the old Chinese go proverb: 'When you want to attack in the west, make noise in the east.' <= ]
+)
+(;B[kd]
+C[Failure.  
+
+Attaching with Black 1 is overly aggressive. ]
+;W[ld];B[ke];W[jc];B[id];W[le];B[lf]
+C[The sequence to 7 is inevitable. ]
+;W[ne]
+LB[kf:A][jd:B]
+C[When White jumps to 8, her stones are secure and Black's prospects for making a large moyo an the right have been blighted. Moreover, Black must worry about the cut of White A or White pushing at B. <= ]
+)
+(;B[je]
+LB[kd:a]
+C[Failure.  
+
+Although not as bad as Black a, Black 1 here is slack. ]
+;W[me]
+LB[pe:B][ke:A][gc:C]
+C[White responds by jumping to 2. Black is left without a good follow-up, but White has a good move at A (which secures her stones) and she is threatening to plaster Black against the left side with B. An invasion at C is also an option for her. <= ]
+)
+)

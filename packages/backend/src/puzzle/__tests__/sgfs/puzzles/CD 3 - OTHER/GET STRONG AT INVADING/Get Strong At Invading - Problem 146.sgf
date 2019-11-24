@@ -1,0 +1,31 @@
+(;
+GM[1]
+SZ[19]
+AW[db][fc][hd][jc][qc][pf][qf][qj]
+AB[cc][dd][df][cj][lc][nd][pd][qe][re]
+LB[re:2][qc:1]
+C[Problem 146. White to play.  
+
+When White invades at the 3-3 point, Black defends with 2. How does White continue ? ]
+;W[oc]
+TE[2]
+C[Correct Answer.  
+
+White peeps with 1 and, ... ]
+;B[od]
+C[... after Black connects with 2, ... ]
+(;W[nc]
+C[... crawls to 3. ]
+;B[pc];W[pb];B[qb];W[rb];B[ob];W[qa]
+C[Up to 9, White lives ... ]
+;B[nb]
+C[... in sente. <= ]
+)
+(;W[pc]
+C[Variation.  
+
+White could also live in the corner with 3 ... ]
+;B[nc];W[rb]
+C[... and 5. She has more territory, but ends in gote. <= ]
+)
+)

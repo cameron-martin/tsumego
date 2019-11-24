@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[pn][on][no][lo][mq][mr][kr][rs][rr][rq][ro]AW[po][qp][op][oq][pq]
+[qq][qr][nr]N[036]AP[MultiGo:4.4.4]SZ[19]AB[qn]MULTIGOGM[0]
+
+(;C[白中腹一眼雷打不动。黑要想办法破掉下边的白眼。
+
+类似的死活题很多很多。
+
+难度：☆☆]
+N[审题])
+(;B[ps]N[正解];W[os];B[qs];W[pr];B[nq]C[白死。])
+(;B[ns]LB[os:A]C[在本题条件下，黑1扳也能杀死白棋。
+
+黑1扳时，白的应手，唯一像抵抗的，也就只有A位打吃了]
+N[变化];W[os]LB[qs:A][ms:B]C[现在黑走A、B都不行，白棋要活];B[ps];W[ms];B[qs]C[可见3位始终是急所。])
+(;B[qs]N[失败];W[ps];B[os];W[or]))

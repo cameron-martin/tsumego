@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][fc][co][cp][dq][fq][nc][nb][pc][qc][rc]
+AB[cf][dj][cn][do][dn][pp][pj][pd][qd][od][nd][lc]
+C[Problem 156. White to play.  
+
+Black has made a moyo on the right with his sanren-sei formation, but there is still a weak point in his position. Where should White play next ? ]
+(;W[md]
+TE[2]
+C[Correct Answer.  
+
+Cutting through the black position with 1 ... ]
+;B[mc];W[me]
+C[... and 3 is the standard follow-up to this joseki. ]
+;B[jd];W[mg];B[pg];W[jf]
+TR[fc]
+C[It is particularly effective here because White has the marked stone in place, making White 7 a severe move. <= ]
+)
+(;W[nq]
+C[Failure.  
+
+If White approaches with 1 at the bottom, ... ]
+;B[pn]
+C[... Black simply answers with 2. ]
+;W[kp]
+C[White completes the sequence with 3, ... ]
+;B[le]
+LB[md:A]
+C[... letting Black defend against the threat of White A with 4. Black is satisfied with this result. <= ]
+)
+)

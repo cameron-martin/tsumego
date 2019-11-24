@@ -1,0 +1,41 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ed][hc][ch][qc][oc][qf][pf][qi]
+AB[jc][cj][od][nd][pd][qe][re]
+LB[od:1]
+TR[oc]
+C[Problem 128. White to play.  
+
+Connecting with Black 1 is an obvious move. In response, White has two possibilities. Where are they ? ]
+(;W[nc]
+LB[nb:A]
+
+TE[2]
+C[Correct Answer.  
+
+White can play either 1 or A. Both of these moves are joseki. <= ]
+)
+(;W[pc]
+C[Failure.  
+
+Connecting at 1 is heavy. ]
+;B[nc]
+C[Black plays 2 and, ... ]
+(;W[nb];B[mb];W[oa]
+LB[nb:3]
+C[... after 3 and 5, ... ]
+;B[pb];W[qb];B[sb]
+LB[pb:6]
+C[... kills White with 6 and 8. <= ]
+)
+(;W[nb]
+TE[2]
+C[Correct Answer.  
+
+Also correct. <= ]
+)
+(;W[rb]
+C[White 3 here is better, she just manages to live. <= ]
+))
+)

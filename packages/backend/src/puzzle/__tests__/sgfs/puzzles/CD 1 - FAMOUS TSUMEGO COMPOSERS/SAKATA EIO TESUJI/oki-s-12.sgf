@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[en][dp][ep][gp][cq][fq][gq][hq][br][fr]AB[fo][go][fp][hp][ip][eq][jq][lq][dr][er]C[Ex. 12 - Semeai
+
+This is a semeai where each side has 4 liberties, but because of his extended position things will not go well for W.
+You are to solve this problem by means of a standard tesuji.]
+(;B[hr]LB[hr:1]TR[aa]C[Diag 1 - Failure
+
+B 1 tsuke cannot capture W]
+;W[ir]LB[hr:1][ir:2]C[after kakae 2]
+;B[iq]LB[iq:3][hr:1][ir:2]C[If B 3 ]
+;W[hs]LB[iq:3][hr:1][ir:2][hs:4]
+;B[fs]LB[iq:3][hr:1][ir:2][fs:5][hs:4]C[and 5,]
+;W[gr]LB[iq:3][gr:6][ir:2][fs:5][hs:4]C[W plays 6 ]
+;B[jr]LB[iq:3][gr:6][ir:2][jr:7][fs:5][hs:4]
+;W[cr]LB[iq:3][cr:8][gr:6][ir:2][jr:7][fs:5][hs:4]C[and 8 and B loses.
+ B 3 tsume instead of 1 also loses after W 1, B one point below 6, W 5, B 2, W 8.])
+(;B[gs]LB[gs:1]C[Diag. 2 - Correct
+
+B 1 oki hits W's vital point. ]
+(;W[fs]LB[fs:2][gs:1]C[After W 2, ]
+;B[hr]LB[hr:3][fs:2][gs:1]C[B 3 kosumitsuke is another exquisite move.]
+(;W[ir]LB[hr:3][ir:4][fs:2][gs:1]C[B wins splendidly after W 4 ]
+;B[iq]LB[hr:3][ir:4][fs:2][gs:1]C[B 5.
+You should impress on your memory this wonderful sequence with the brilliant tesujis of 1 and 3.])
+(;W[cr]LB[cr:4][hr:3][fs:2][gs:1]C[Diag.3. - Correct
+
+If W 4 tsume after B 3 
+]
+;B[iq]LB[iq:5][cr:4][hr:3][fs:2][gs:1]C[B plays 5 and the ate points to left and right are miai.
+B wins]))
+(;W[hr]LB[hr:2][gs:1]C[Diag. 4 - Variation
+
+If W 2 in reply to B 1, ]
+;B[fs]LB[hr:2][fs:3][gs:1]C[Diag. 4 - Variation
+
+B's watari 3 is good ]
+;W[cr]LB[cr:4][hr:2][fs:3][gs:1]
+;B[ir]LB[cr:4][hr:2][ir:5][fs:3][gs:1]C[and after 5 ]
+;W[hs]LB[cr:4][hr:2][ir:5][fs:3][gs:1][hs:6]
+;B[iq]LB[iq:7][cr:4][hr:2][ir:5][fs:3][gs:1][hs:6]C[and 7 B wins by one move.])))

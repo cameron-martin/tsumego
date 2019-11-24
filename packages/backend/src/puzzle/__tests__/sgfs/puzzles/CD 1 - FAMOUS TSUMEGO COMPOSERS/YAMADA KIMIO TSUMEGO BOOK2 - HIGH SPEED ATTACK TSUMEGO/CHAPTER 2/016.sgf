@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[re][rf][qc][pd][pf][of][nf][me][le][lc][mc][lb][qa][rb][rc]AW[ma]
+[mb][nc][pb][pc][qb][qd][qe][pe][oe]N[016]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;LB[oa:A]C[本题简单。黑很想在A位点吧？请计算之。]N[审题])
+(;B[od]C[黑1先长出，破坏白的眼位，这是先手]N[正解];W[nd]C[白2必挡];B[oa]C[黑3再点]
+;W[pa];B[nb]C[白死。])
+(;B[oa]LB[pa:A][ob:B]C[黑1先点，对此，白不能走A或B位]N[失败];W[od]C[白简单提子，这是双方的要点]
+;B[pa];W[ob]))

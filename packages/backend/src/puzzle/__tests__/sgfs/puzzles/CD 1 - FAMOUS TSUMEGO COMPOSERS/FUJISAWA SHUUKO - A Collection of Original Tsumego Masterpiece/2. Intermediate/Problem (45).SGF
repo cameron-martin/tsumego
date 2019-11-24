@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[qd][rd][sd][na][nb][nc][oc][pd]AW[sc][rb][qb][qc][pc][ob][oa]C[黑先 直接攻白二子后有好手]
+
+(;B[pa];W[pb];B[sb]
+(;W[rc];B[ra];W[sa]C[正解  黑先劫])
+(;W[sa];B[rc];W[qa]C[变化 黑先手劫， 不如正解。]))
+(;B[sb];W[pa]C[失败]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][qp][rp][sp][pr][ns][nr][nq][np]AW[sr][qq][pq][oq][or][os][ps]
+C[85]N[85]AP[MultiGo:4.4.4]SZ[19]AB[op]MULTIGOGM[0]
+
+(;C[第85题 三手预见
+
+黑的攻击方法也不太多。这里只需确定前三手就可以。60秒钟足够了。]
+N[审题])
+(;B[rr]N[正解];W[rq];B[rs]C[黑1跨、3立是手筋。];W[sq];B[qr]C[白死。])
+(;B[rr]N[变化];W[rq];B[rs];W[qr];B[sq]LB[qs:A]C[白A位不入子，死。])
+(;B[rs]N[失败];W[rr]))

@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][jd][nc][ql]
+AB[pj][dj][dp][pd][pp][dd][pf][df][jp][jj]
+LB[ql:7][jp:6][jd:5][nc:1][fc:3][df:4][pf:2]
+C[Problem 43. Black to play.  
+
+White invades the right side with 7. How should Black deal with this invasion ? ]
+(;B[qn]
+TE[2]
+C[Correct Answer.  
+
+The pincer of Black 1 is the standard move in this kind of position (see Problem 16). ]
+(;W[ol]
+C[White's stones are without a base, so she must escape into the center with 2. <= ]
+)
+(;W[rj]
+C[If White 2 here, ... ]
+;B[pl]
+C[... Black will attach at 3 and build influence in the center. <= ]
+))
+(;B[qj]
+C[Variation.  
+
+Playing Black 1 is a bit weak. ]
+;W[qc]
+C[White might treat her stone in the lower right lightly and invade the upper right corner with 2. ]
+;B[pc]
+C[After 3, ... ]
+;W[pb];B[qd]
+C[... it is important that Black takes sente by turning at 5 ... ]
+;W[rb];B[rc]
+C[... and playing atari with 7. This secures Black a lot of territory in the upper right side and ... ]
+;W[qb];B[qn]
+C[... he can also secure territory below with 9. See Problem 47 for the continuation of this game. <= ]
+)
+)

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[mq][nq][lp][op][pp][qp][qq][ro][sp][sq][kr][lr]AW[ls][mr][nr][or]
+[oq][qr][rq][sr]N[029]AP[MultiGo:4.4.4]SZ[19]AB[ms]MULTIGOGM[0]
+
+(;C[劫杀还是净杀？劫杀很容易吧。能不能净杀？]N[审题])
+(;B[rs]N[正解];W[rr];B[qs]C[黑3爬是重要的一手];W[ps];B[pq];W[pr];B[ns])
+(;B[rs]N[变化];W[pq];B[rr];W[ps];B[ns])
+(;B[rr]N[失败1];W[rs];B[rp];W[pq];B[rr])
+(;B[pr]N[失败2];W[pq];B[ps];W[qs];B[rr];W[rs];B[rp];W[os];B[rr]))

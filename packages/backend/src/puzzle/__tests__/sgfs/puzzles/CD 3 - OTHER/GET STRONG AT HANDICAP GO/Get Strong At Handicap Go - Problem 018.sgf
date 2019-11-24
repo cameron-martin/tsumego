@@ -1,0 +1,76 @@
+(;
+GM[1]
+SZ[19]
+AW[cn][cf][oi][ph][qf][qc][pc][oc][nc][od][pn][nj][oj]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][fd][lc][fp][nh][nd][ne][oe][pe][qd][pk][ol][ni]
+LB[pn:1][ol:2][nj:3]
+C[Problem 18. Black to play.  
+
+In the game in Problem 18, instead of playing  the honest move of 3, White exchanged 1 for Black 2, then turned at 3. What should Black do now ? ]
+(;B[on]
+TE[2]
+C[Correct Answer.  
+
+Attaching with Black 1 is severe. ]
+(;W[po];B[oo];W[qp];B[qq];W[pq];B[op];W[rq];B[qr]
+(;W[rr];B[pr];W[ro]
+C[White just barely lives with the sequence to 12, but the wall Black has made will have a strong effect on White's stones above. ]
+;B[lj]
+C[Black has sente so he starts an attack on these stones with 13. <= ]
+)
+(;W[ro]
+C[Variation. ]
+;B[rr];W[sr]
+C[White plays the sequence to 12, hoping to live in sente, ... ]
+;B[oq];W[lj]
+C[... then jumps to 14. ]
+;B[qn]
+C[However, Black attaches at 15 and ... ]
+;W[qm];B[pm];W[qo];B[rm];W[ql];B[rn];W[sn];B[rl];W[qk];B[rk];W[qj];B[qi];W[rj];B[ri]
+C[... White's stones in the lower right die with the sequence to 29. <= ]
+))
+(;W[qq]
+LB[on:1]
+C[Variation.  
+
+In response to Black 1, White might invade the corner with 2. ]
+;B[qp]
+C[Black blocks with 3, ... ]
+;W[pq];B[rq];W[rr];B[rp]
+LB[rq:5]
+C[... then hanes and connects with 5 and 7. ]
+;W[nq];B[op];W[mr]
+C[White lives in the corner with the sequence to 10, but ... ]
+;B[mj]
+C[... Black plays 11, attacking the five stones on the right side. ]
+;W[nl];B[mk];W[nk];B[lm];W[om];B[pm];W[nm];B[qn];W[nn]
+C[When White plays 20, ... ]
+;B[np]
+C[... Black stops her from linking up to her stones at the bottom with 21. Now the white stones have no way to escape. <= ]
+))
+(;B[ml]
+C[How the game continued.  
+
+Black jumped to 1 and ... ]
+;W[lj]
+C[... White escaped into the center with 2. ]
+;B[nn]
+C[Black capped with 3, but ... ]
+;W[qq];B[pq];W[qp]
+(;B[po];W[qo];B[on];W[mc];B[ld];W[pm]
+LB[np:A]
+C[... White easily lived in the corner with the sequence to 12. In addition, Black still has some bad aji at A which White might be able to exploit later. <= ]
+)
+(;B[qr]
+LB[qp:6]
+C[Variation.  
+
+After White 6, ... ]
+;W[rr];B[pr]
+LB[qr:7]
+C[... Black could have haned and connected with 7 and 9. ]
+;W[rn];B[rs];W[sr]
+LB[np:C][oo:B][po:A]
+C[After White 12, Black ends in sente as before, but White's territory in the corner is smaller and Black's aji at the bottom is good. If White A or B, Black will jump to C. <= ]
+))
+)

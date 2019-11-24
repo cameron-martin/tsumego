@@ -1,0 +1,50 @@
+(;
+AB[cp][qd][oc][qh][ic][dn][cj][hp]
+AW[dc][ce][cr][eq][fp][pj][pp]
+C[White plays.
+
+Go World #37 Autumn p. 6
+"Test Your Rating", Nihon Ki-in]
+(;
+W[kp]
+C[Correct.
+
+The difference between this move and
+Black making an extension along the
+bottom is enormous.
+
+White puts pressure on the lone Black stone,
+and builds toward a moyo in the lower right
+quadrant.];
+B[fn]
+LB[qq:a]
+C[Or Black A is possible.];
+W[em];
+B[en];
+W[go]
+TR[hp]
+C[White cuts off the lone marked Black stone,
+and can look forward to building a moyo after
+Black tries to invade the lower right.]
+)
+    (;
+    W[gc]
+    LB[gq:a]
+    C[Inferior.
+
+White 1 (or A) is locally good, but ...];
+    B[lq]
+    LB[gq:a]
+    C[But Black will leap at the chance to make
+a base along the bottom here.  Now Black
+A would let Black seize the initiative at the
+bottom.]
+    )
+    (;
+    W[fn]
+    C[Slack.];
+    B[lq]
+    C[White's leisurely play lets Black take
+the key point along the bottom.]
+    )
+)

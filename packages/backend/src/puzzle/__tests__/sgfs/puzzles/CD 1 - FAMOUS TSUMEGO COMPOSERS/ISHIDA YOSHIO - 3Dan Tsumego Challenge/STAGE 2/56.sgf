@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[kr][lr][mq][nq][oq][pq][qr][rr]AW[rs][sr][rq][qq][qo][pp][op][mp]
+[lo][lq][kq][jq][jr][js][ks]C[56]N[56]AP[MultiGo:4.4.4]SZ[19]AB[ms]MULTIGOGM[0]
+
+(;TR[rs]C[第56题  成活的根本
+
+白▲在角上扳。请认真考虑黑的下一手，这是成活的根本。]
+N[审题])
+(;B[ps]LB[nr:A][pr:B]C[也许稍稍容易一些。一般读者理应一眼就可得出正解的。
+
+因为黑A、白B，黑就死了，因此只好走黑1。这是正着。]
+N[正解];W[ls];B[nr]C[黑活。
+
+打二还一后，黑是曲四活形。])
+(;B[ps]N[变化];W[nr];B[or])
+(;B[ps]N[失败];W[ls];B[or];W[mr];B[ns]C[黑3也能成活，稍损。]))

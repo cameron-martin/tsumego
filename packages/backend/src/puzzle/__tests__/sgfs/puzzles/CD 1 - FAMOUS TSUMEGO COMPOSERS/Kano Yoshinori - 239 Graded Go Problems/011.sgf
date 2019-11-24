@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 11. Black to play.
+How can Black capture some white stones?]AW[gk][fi][fm][el][dk][ei][gj][gl]PB[ ]PM[1]PW[ ]AB[ek][fl][hk][hl][fj][hj][fk][gi]
+(
+;B[gm]C[Correct Answer
+Black can capture three stones by playing at 1.]
+)
+(
+;B[dl]C[Wrong Answer
+If Black plays 1...]
+;C[...it is White who captures black stones with 2.]W[ej]
+)
+
+)

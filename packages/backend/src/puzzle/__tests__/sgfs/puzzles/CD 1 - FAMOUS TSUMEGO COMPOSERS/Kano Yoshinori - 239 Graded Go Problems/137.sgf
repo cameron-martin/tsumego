@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[kb][ic][kc][ib][ja][jc][lc][ka]GN[ ]AB[id][md][mc][la][ld][jd][lb][hc][hb][ha][kd]PM[1]C[Problem 137. White to play and live. (1 move)
+What move does White make to give his stones life?]PW[ ]
+(
+;W[mb]C[Correct Answer
+White 1 sets up a snapback. If Black captures, White takes three stones and is alive with two definite eyes.]
+)
+(
+;W[ma]C[Wrong Answer
+If White plays at 1...]
+;B[mb]C[...Black captures with 2 and White is dead since he has only one eye.]
+)
+
+)

@@ -1,0 +1,51 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][ce][fd][jd][nc][pl][pn][qn][dp][dn][ck]
+AB[pd][pf][pj][qo][pp][np][jp][fq][cf][df][ci][ei]
+TR[pl][pn][qn]
+C[Problem 43. Black to play.  
+
+How should Black attack the marked white stones in the lower right ? ]
+(;B[qk]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is severe because it attacks White's base. ]
+(;W[mm]
+C[If White jumps out to 2, ... ]
+;B[mo]
+LB[qq:B][nk:A]
+C[... Black can defend at 3 or attack at A. He need not worry about an invasion at B because White must first secure her stones in the center before she can contemplate such an invasion. <= ]
+)
+(;W[ql]
+C[Variation.  
+
+If White makes a base for her stones with 2, ... ]
+;B[nk]
+C[... Black can attack at 3 ... ]
+;W[mm];B[mo]
+C[... and 5. ]
+;W[nl]
+C[White must exchange 6 ... ]
+;B[mk]
+LB[lq:D][qq:C][ro:B][rm:A][ph:E]
+C[... for 7 to maintain the link to the outside. If White gets into trouble in the center, she can make two eyes by playing at A, but Black B would then become sente and White can no longer invade at C. If White can secure her stones, she can aim to invade at D or E, but Black's strategy will be to try and strengthen these defects while attacking the white stones. <= ]
+))
+(;B[qj]
+LB[qk:@]
+C[A solid move.  
+
+Making an iron pillar with Black 1 is a solid move. Its appeal is that it prevents a white counterattack at A or an invasion at B. However, it lacks the attacking force of Black 1 in the Correct Answer (@), and, as such, is a bit passive. <= ]
+)
+(;B[mm]
+C[Failure.  
+
+Attacking with Black 1 doesn't press White hard enough. ]
+;W[qj]
+C[White can secure her stones ... ]
+;B[qi];W[qk];B[pi];W[ro];B[rp];W[rn]
+LB[hq:C][lq:B][qq:A]
+C[... with the sequence to 8. Black ends in sente, but with so many weak points - at A, B, and C - he won't be able to defend all of them. <= ]
+)
+)

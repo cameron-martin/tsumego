@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[od][nd][md][lc][lb][la][mb][kb][rb][qc][rd]AW[ja][jb][jc][kc][ld]
+[le][mc][nc][oc][pb][qb]N[023]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[黑气实在太紧，能够成劫就是成功。]N[审题])
+(;B[ob]N[正解];W[nb];B[na];W[pc];B[pa];W[oa]LB[qa:A]C[白若劫胜在A位提子的话，一共吃住黑8子，外带2目地，收到A位的官子，一共18目。])
+(;B[ob]N[变化];W[nb];B[na];W[oa];B[pc];W[ma]C[对比正解图，本图白若劫胜的话，官子稍损。])
+(;B[nb]N[失败];W[ob]C[对杀黑负。]))

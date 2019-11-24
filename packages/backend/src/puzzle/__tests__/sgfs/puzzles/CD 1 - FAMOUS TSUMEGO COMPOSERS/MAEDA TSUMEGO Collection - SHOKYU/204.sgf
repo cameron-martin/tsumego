@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][qo][op][np][mp][mq][lr][kq][qs][qr][qq]AW[mr][nr][nq][oq][pq]
+[pr][ps][qp][rp][po][pn][qn][rn]N[204]AP[MultiGo:4.4.4]SZ[19]AB[rq]MULTIGOGM[0]
+
+(;C[黑3气，白4气，简单收气的话对杀黑负。因此黑必须想办法长气。
+
+难度：☆☆]N[审题])
+(;B[sp]N[正解];W[ro];B[rs]C[黑1、白2交换后，黑3曲是长气的手筋。
+现在白4气不变。黑表面3气，但白不能直接收气，还有不入子，因此“可能”有5气。]
+;W[sr];B[ms];W[sq];B[ns]C[现在很明显了，对杀黑胜。])
+(;B[sp]N[失败];W[ro];B[sr];W[rs];B[ms];W[so]))

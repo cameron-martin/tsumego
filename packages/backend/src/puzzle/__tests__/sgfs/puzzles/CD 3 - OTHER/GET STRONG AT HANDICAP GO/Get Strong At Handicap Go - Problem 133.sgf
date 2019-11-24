@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][cd][ce][df][dg][eg][fc][kc]
+AB[dp][pd][pp][dd][jj][de][ee][ef][dc][fg][gf][id]
+LB[kc:1]
+C[Problem 133. Black to play.  
+
+White has played 1, threatening to rob Black of his hard-earned profit. How should Black respond ? ]
+(;B[mc]
+TE[2]
+C[Correct Answer.  
+
+The pincer of Black 1 shows a positive attitude. ]
+;W[ke]
+C[If White jumps to 2, ... ]
+;B[me]
+C[... Black follows her out with 3 and, ... ]
+(;W[ib]
+C[... if White slides to 4, ... ]
+;B[lg]
+C[... Black keeps White hemmed in with 5. Even if White manages to live at the top, Black's moyo on the right more than compensates for the loss. <= ]
+)
+(;W[kg]
+C[If White 4 here, ... ]
+;B[pj]
+C[... Black can take the big point at 5 on the right and White's stones are still unsettled. <= ]
+))
+(;B[ic]
+C[How the game continued.  
+
+Black played 1 and ... ]
+;W[nc]
+LB[ec:E][cb:D][eb:C][db:B][jb:A]
+C[... White was happy to settle her stones at the top by extending to 2. Later, White had two sente endgame moves: one at A, and the other at B, followed by Black C - White D - Black E. Thus, Black's territory was not at all that big. Black was thick, but using thickness to make territory is always bad. Thickness should be uses for attacking as in the Correct Answer. <= ]
+)
+)

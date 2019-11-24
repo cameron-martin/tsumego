@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[ob][oc][qb][rb][mb]AW[qd][qf][od][nd][nc][ld][lc][lb][sb][rc]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[nb]MULTIGOGM[0]
+
+(;C[审题：空间不大，计算不复杂。]N[审题])
+(;B[qc]C[黑1是先手]N[正解];W[re];B[pa]LB[pc:A][ra:B]C[以下，A、B两点见合，黑活。])
+(;B[pa]LB[qc:A]C[黑1也能做活。做活之前，A位的先手没有保留的必要。]N[变化]))

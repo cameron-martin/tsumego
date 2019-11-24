@@ -1,0 +1,7 @@
+(;AW[cb][cc][cd][ce][cf][cg][dg][de][ef][fe][fd][ed][ec][gc][ha][hb][ib]AB[dd][dc][db][ca][bb][bc][bd][be][bf][bg][ch][dh][eh][fg][ff][ge][gd][gb][hc][ic][jc][jb]C[白先]SZ[19]
+
+(;W[fc]N[失败图]
+(;B[ga]C[若以为黑只有2位打吃，则计算不深入。]N[黑应对有误];W[fa];B[ia];W[da];B[ea];W[eb];B[fb];W[da]C[leoly：这是我最初想到的结果，摆出来才知道没有考虑黑的最强抵抗。还是计算功底不够啊。])
+(;B[fa]LB[fb:a][ea:b]C[黑2尖，白a则黑b，做不出眼来。因此白只有]N[黑的抵抗];W[eb];B[da];W[ea];B[ba]C[走成此图后，白左右两边不入气。];W[ee];B[eg]))
+(;C[所以白应当换个方向思考。]W[da]N[正解];B[ea];W[eb];B[da];W[fa];B[ba];W[fc]C[同样是要走到白5，失败图是为了吃左边三子，正解图则是为了吃右边一子。])
+(;W[fa]C[直接走白1不行。];B[fc];W[fb]LB[da:a]C[黑2白3成劫。白3若在a位扑，则黑拐头，白全灭。]))

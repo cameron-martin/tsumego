@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[bq][cq][dq][eq][er][is][gr][fp][bp][co][bn][es][cm][dm][em][fm][gm]
+[hm][im][in][jo][jp][jq][iq][ir]AW[dn][en][fn][gn][hn][ip][hp][gq][fq][fr][fs][hr]
+[hs][cp][dp][ep][cn]C[B]N[041]AP[MultiGo:4.4.4]SZ[19]AB[bm]MULTIGOGM[0]
+
+(;LB[hq:A][gp:B]C[黑A则白B，多半是陷阱。计算吧。
+
+难度：B]N[审题])
+(;B[do]C[黑1冲应该是第一感]N[正解];W[eo]C[计算时，必须搞清楚黑1、白2是否是必然的交换]
+;B[gp]C[黑3又是致命的一击];W[go];B[hq];W[fo];B[gp]C[黑7扑入是常用的破眼手段，白只有两个后手眼。死。])
+(;B[do]N[变化1];W[eo];B[gp];W[hq];B[ho])
+(;B[do]LB[fo:A][gp:B]C[黑1冲进去，白的应手，除了挡之外，只能是A或B。关键是黑提掉白三子后，白能否做出眼来？回答是不能。例如，白应在A位……]
+N[变化2];W[fo];B[eo];W[gp];B[ho])
+(;B[do]N[失败1];W[eo];B[gp];W[go];B[hq];W[fo];B[io];W[gs];B[gp];W[bo];B[co];W[ho])
+(;B[hq]N[失败2];W[gp];B[gs];W[fo]C[黑缺少计算。]))

@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[fq][fr][fo][fm][kq][nq][np][fl][em][eo][ip][im][kn]
+AB[pj][dj][dp][pd][pp][dd][eq][dn][hq][ho][oq][pn][jj][do][dm][ek][el][hp][io]
+LB[io:1][kn:2]
+C[Problem 68. Black to play.  
+
+After White 10 in Problem 64, Black turned at 1 and White blocked at 2. What should Black do about his four stones now trapped at the bottom ? ]
+;B[hm]
+TE[2]
+C[Correct Answer.  
+
+Black has pretty much lost his four stones at the bottom, but the White stones confining them from above are a bit thin, so, if he attaches with 1 ... ]
+;W[hl];B[il]
+C[... and cuts at 3, he should be able to get some compensation. ]
+;W[jm]
+C[White must draw back with 4 and ... ]
+;B[gl]
+C[... Black ataris with 5. ]
+(;W[hn];B[hk];W[in];B[fk]
+LB[gn:A]
+C[With the sequence to 9, Black has made a thick wall on the outside. Even though the four black stones at the bottom are almost captured, there is still some aji remaining at A that could come to life later in the game. <= ]
+)
+(;W[hk]
+LB[gl:5]
+C[Unreasonable.  
+
+In answer to Black 5, it is unreasonable for White to extend to 6 here. ]
+;B[gm]
+C[Black will connect at 7 and ... ]
+;W[gk];B[fk]
+C[... a capturing race materialises after Black cuts at 9. Black has more liberties and, even if White can create some aji in the corner, the worst Black can get is a seki. <= ]
+)
+)

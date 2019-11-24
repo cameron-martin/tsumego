@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pf][ne][me][ld][kd][kc][kb][lb][ma][ra][sb][rc][qd][re]AW[mb][mc]
+[lc][na][ob][od][pd][qb][rb]N[120]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;LB[nd:A][qc:B][qa:C]C[从外侧，诸如A、B、C之类，压缩白的眼位，在本题中行不通。]
+N[审题])
+(;B[nc]N[正解];W[nd];B[md]C[黑1、3是必要的次序，根据白棋的应法，采取不同的手段]
+;W[nb];B[pb]C[手筋];W[pc];B[pa]C[白死。])
+(;B[nc]N[变化1];W[nd];B[md];W[nb];B[pb];W[pa];B[pc])
+(;B[nc]N[变化2];W[nd];B[md];W[la];B[pc]LB[oc:A][pb:B]C[黑5扳时，白A则黑B，白死]
+;W[pb];B[oc]C[白死。])
+(;B[pb]C[先挖如何？]N[失败1];W[pc];B[pa];W[oa];B[nc];W[nd];B[md];W[la])
+(;B[pa]N[失败2];W[pb]C[黑明显不行。]))

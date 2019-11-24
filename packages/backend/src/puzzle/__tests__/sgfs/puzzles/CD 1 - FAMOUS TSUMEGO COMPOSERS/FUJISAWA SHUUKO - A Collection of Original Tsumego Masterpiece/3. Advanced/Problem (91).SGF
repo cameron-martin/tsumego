@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[ob][nb][od][oe][pf][qf][rf][sf][sb][pb]AW[sc][rc][qb][pd][re][qe]C[黑先 寻求利用气紧的手筋。]
+
+(;B[qa];W[ra];B[qc]
+(;W[pa];B[se];W[pc];B[rd]C[正解 黑先白死])
+(;W[rb];B[se];W[pc];B[rd]C[变化]))
+(;B[qc];W[pc];B[qa];W[rb];B[se];W[sd]C[失败])
+(;B[pc];W[se]C[失败]))

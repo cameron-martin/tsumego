@@ -1,0 +1,9 @@
+(;AB[ra][rb][qc][qd][rd][pe][ne][ld][kd][lb][kb]AW[sb][rc][qb][qa][pc][oc][nc][mc]
+C[白先活
+
+先提二子就会死棋。]SZ[19]
+
+(;W[oa]C[白先活：]N[正解图];B[sc];W[pb]C[白1关是做眼的形，以后提角上二子与3位的做眼，必然可以得到一处，这样白活。])
+(;N[]
+(;W[sa]N[失败图1];B[oa])
+(;W[mb]N[失败图2];B[sc];W[oa];B[pb];W[pa];B[na];W[ob];B[ma])))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nr][nq][np][op][pp][rp][qo][pr][qr]AW[rq][qq][pq][oq][or][ps][sq]
+N[180]AP[MultiGo:4.4.4]SZ[19]AB[rr]MULTIGOGM[0]
+
+(;C[初级死活。
+
+难度：☆]N[审题])
+(;B[rs]N[正解];W[sr];B[qs]C[刀把五的死形。])
+(;B[qs]LB[os:A][rs:B]C[黑1打吃，打的是白A黑B的算盘]N[失败];W[rs]C[但白2可扑];B[os]
+;W[sr]C[这样成为劫杀，黑失败。]))

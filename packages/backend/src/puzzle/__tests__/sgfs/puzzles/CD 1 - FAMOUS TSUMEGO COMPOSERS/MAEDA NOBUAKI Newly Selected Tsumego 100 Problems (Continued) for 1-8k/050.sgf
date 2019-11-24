@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qc][rc][rb][rd][pd][pe][qe][nb][oc]AW[qb][pb][ob][mb][mc][md][me]
+[od][oe][pf][qf][rf][re][ra]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[审题：黑棋如何做活？能不能不打劫？]N[审题])
+(;B[oa]C[黑1扳是很漂亮的一手]N[正解];W[nc];B[qa]C[黑3扑是关联的手法，这些都已经计算好了]
+;W[na];B[sa]C[黑活。
+
+本题中，黑1、3的手法值得学习。])
+(;B[na]C[黑1立下容易想到吧]N[失败];W[nc];B[qa];W[pa];B[sd];W[sb];B[sc];W[ma];B[sa]
+;W[oa];B[qa]C[打劫，黑防守失败。]))

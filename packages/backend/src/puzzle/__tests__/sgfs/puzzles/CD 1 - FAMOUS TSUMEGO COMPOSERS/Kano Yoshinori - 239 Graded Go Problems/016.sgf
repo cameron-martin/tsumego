@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 16. Black to play.
+One black stone is about to be captured. How can Black save it?]AW[df][dc][cd][de]PB[ ]PM[1]PW[ ]AB[ec][dd][fg][ee]
+(
+;B[ed]C[Correct Answer
+Black can save his stone by playing at 1.]
+)
+(
+;B[cc]C[Wrong Answer
+If Black threatens to capture a white stone by playing at 1...]
+;C[...White captures a black stone with 2.]W[ed]
+)
+
+)

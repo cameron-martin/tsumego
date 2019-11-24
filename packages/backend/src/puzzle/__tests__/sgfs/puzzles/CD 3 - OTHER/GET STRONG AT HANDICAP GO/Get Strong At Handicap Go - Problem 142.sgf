@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][dc][ec][cf][ri][qf][of][rd]
+AB[dp][pd][pp][pi][qc][nd][jd][fc][fd][ed]
+LB[nd:4][qc:6][rd:5][qf:1][of:3][ri:7][pi:2]
+C[Problem 142. Black to play.  
+
+The joseki to White 7 has been played in the upper right corner. Where should Black play next ? ]
+(;B[jp]
+TR[pi]
+
+TE[2]
+C[Correct Answer.  
+
+Black should treat his marked stone lightly and make a sanren-sei at the bottom. ]
+;W[qn]
+C[If White approaches at 2, ... ]
+;B[np]
+C[... Black defends at 3. Black now has mapped out territory at the top and the bottom. White is secure on the right, but her shape is depressed and small. <= ]
+)
+(;B[pg]
+C[Failure.  
+
+Black might feel good about securing his stones an the right ... ]
+;W[pf];B[rh];W[qh];B[qi];W[rg];B[rj];W[sh];B[qk]
+LB[ld:A]
+C[... with the sequence to 9, but White has also become secure, so she can now aim to invade at A. <= ]
+)
+)

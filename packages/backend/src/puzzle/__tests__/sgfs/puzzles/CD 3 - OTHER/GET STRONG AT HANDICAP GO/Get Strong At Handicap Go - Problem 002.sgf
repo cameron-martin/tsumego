@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[gp][qf][mg][pm]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][nd][dn][nq]
+TR[mg]
+C[Problem 2. Black to play.  
+
+Jumping out into the center with the marked stone is a bold move, but it is really an overplay because White's position is too thin. How can Black seize the initiative ? ]
+(;B[og]
+TE[2]
+C[Correct Answer.  
+
+Black should separate the two white stones by jumping between with 1. ]
+;W[of]
+C[If White tries to link up by attaching with 2, ... ]
+;B[nf]
+C[... Black plays 3 ... ]
+;W[ng];B[pf]
+C[... and 5. ]
+;W[pg]
+C[Against the double atari of White 6, ... ]
+;B[oh]
+C[... extending to 7 is the key move. ]
+;W[pe]
+C[White captures with 8, ... ]
+;B[oe]
+C[... but Black secures the corner with 9 ... ]
+;W[pf];B[qd]
+C[... and 11; White's stones at the top are nearly dead. <= ]
+)
+(;B[nj]
+C[How the game continued.  
+
+Jumping to Black 1 cannot be called a bad move. It certainly keeps the weak white stones above and below separated. ]
+;W[ld]
+C[However, by not attacking directly, Black gave White the chance to play another move at the top with 2. Fierce fighting later ensued through which White settled her stones at the top and gained some profit. <= ]
+)
+)

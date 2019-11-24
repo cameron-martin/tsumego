@@ -1,0 +1,55 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][cn][iq]
+AB[dp][pd][pp][dd][jj][fd][fp]
+LB[hq:A][iq:5][fp:2][cn:1][ch:3][fd:4]
+C[Problem 100. Black to play.  
+
+White 5 is unorthodox; playing this move at A is more common. How should Black respond ? ]
+(;B[mq]
+TE[2]
+C[Correct Answer.  
+
+Black should keep his distance to avoid inducing White to strengthen her stone at the bottom. Enclosing the corner with Black 1 is just the right distance. ]
+;W[fr]
+C[If White slides to 2, ... ]
+;B[dq]
+C[... then 3 is a smart move ... ]
+;W[bp];B[bq];W[cp];B[cq]
+LB[bq:5][cp:6][bp:4]
+C[... because Black can secure a base in the corner with 5 and 7 if White plays 4 and 6. <= ]
+)
+(;B[kq]
+C[Variation.  
+
+The pincer of Black 1 is also possible, but ... ]
+;W[io];B[ko];W[fn];B[gq];W[im];B[bp]
+LB[bo:B][cl:A]
+C[... Black gets confined to the corner with the sequence to 7. Black is threatening to invade at A, so White might try to strengthen her position her by attaching at B. Let's look at one possible continuation after White B. ]
+;W[bo]
+C[When White attaches with 8, ... ]
+;B[fl]
+C[... Black 9 is the vital point. ]
+;W[bq];B[cp];W[ap]
+LB[bq:10]
+C[Black lets White get a foothold in the corner with 10 and 12, ... ]
+;B[dn]
+C[... but then he counterattacks with 13 ... ]
+;W[dm];B[en];W[em];B[fm];W[gn];B[cm]
+C[... to 19. White's position collapses. As this example shows, when a thick position (Black's in this case) faces a thin one, there is usually the side with the thickness to gain a decisive advantage. <= ]
+)
+(;B[bp]
+C[How the game continued.  
+
+Defending the corner with Black 1 was a lukewarm move ... ]
+;W[mp]
+C[... because it allows White to establish a base at the bottom with 2. ]
+;B[qn];W[fr]
+C[Next, White reduces the size of Black's corner by sliding to 4, ... ]
+;B[dr]
+C[... forcing Black to defend at 5. ]
+;W[dl]
+C[When White reinforced the left side with 6 she has established stable positions both on the left and the bottom. <= ]
+)
+)

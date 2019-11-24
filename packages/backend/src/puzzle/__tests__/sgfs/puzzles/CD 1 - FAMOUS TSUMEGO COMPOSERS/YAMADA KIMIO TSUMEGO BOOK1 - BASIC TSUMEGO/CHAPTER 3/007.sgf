@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qc][qg][of][nf][ne][md][mc][mb][ma][rb][rc][rd][re]AW[nb][nc][nd]
+[oe][pe][qd][pc][qb][pa]N[007]AP[MultiGo:4.4.4]SZ[19]AB[rf]MULTIGOGM[0]
+
+(;C[空间小选择少。但本题展示了死活的基本手法之一。]N[审题])
+(;B[na]N[正解];W[oa]C[黑1冲，白2必挡，白2走其他地方都简单地不行];B[ra]C[黑3立下冷静。边上类似棋形下（一边有硬腿），冲、立通常应该是重点考虑的手段]
+;W[qe]C[白4最大程度地扩张眼位];B[od];W[oc];B[pb]C[白死。])
+(;B[na]N[变化];W[oa];B[qe]LB[pd:A][ra:B]C[黑3从中间破眼如何？白A接则黑B立下，白死]
+;W[ob];B[pd];W[od]C[白活。])
+(;B[ra]C[黑1先从这边立下，次序错误]N[失败];W[na]C[白2挡住，现在黑从内部点眼已经不行了，可自行演算]
+;B[qa];W[pb];B[qe];W[pd]C[白活。]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[kq][ls][kr][ks][lp][mp][np][op][oo][pn][qn][rn][ro][so][sp][sq][qr]
+AW[lr][ms][mq][nq][pr][pq][pp][po][qo][rp][rq][qq]N[010]AP[MultiGo:4.4.4]SZ[19]
+AB[rr]MULTIGOGM[0]
+
+(;LB[ps:A]C[与090题棋形完全一样，因此黑A扳的进攻不能成功。]N[审题])
+(;B[lq]N[正解];W[nr];B[mr]C[劫杀正解。
+
+白要活棋，必须劫胜之后在3位粘才行。])
+(;B[lq]N[变化];W[mr];B[or];W[oq];B[ps];W[os];B[ns]C[白棋气紧的毛病暴露无遗。])
+(;B[ps]N[失败];W[os];B[or];W[oq];B[ns];W[nr];B[mr];W[os]C[这是循环劫。]))

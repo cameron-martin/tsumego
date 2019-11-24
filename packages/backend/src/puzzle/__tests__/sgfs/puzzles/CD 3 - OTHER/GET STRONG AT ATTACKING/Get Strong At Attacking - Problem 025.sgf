@@ -1,0 +1,22 @@
+(;
+GM[1]
+SZ[19]
+AW[cj][dd][dp][dn][hp][iq][hq][jq][lq][qi]
+AB[fq][fo][go][ho][ip][jp][kp][mo][pp][pd]
+TR[cj]
+C[Problem 25. Black to play.  
+
+White has just extended along the left side with the marked stone. What should Black do ?  
+
+[You will find a supplement to this Problem Diagram as "Problem 139"] ]
+;B[mr]
+TE[2]
+C[Correct Answer.  
+
+Black should attack the white stones at the bottom with 1. ]
+;W[lr];B[nq];W[gr];B[fr];W[kq]
+C[White can live in the sequence to 6, but Black ends in sente, so ... ]
+;B[pj]
+C[... he can continue by building a moyo in the center by making a shoulder hit at 7. <= ]
+)
+)

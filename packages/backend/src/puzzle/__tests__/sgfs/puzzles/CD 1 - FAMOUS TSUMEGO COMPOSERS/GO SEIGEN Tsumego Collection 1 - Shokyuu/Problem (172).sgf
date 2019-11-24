@@ -1,0 +1,6 @@
+(;AB[ab][ad][be][cf][cd][dd][de][ec][fc][gc][gb][ga]AW[fb][eb][da][ba][bd][bc][cc][dc]SZ[19]C[黑先
+
+本题选自棋经众妙。做过的各题之后，这道题应该不难做出来了。]
+;B[cb]
+(;W[ac];B[bb];W[db];B[fa])
+(;W[bb];B[db]LB[ea:a][ac:b]C[白a则黑b。];W[ca];B[db]LB[ac:a][ea:b][fa:c]C[以下白a则黑b。白b则黑a。白若提掉黑5，则黑c位冲，ab两点白不能两全。];W[ac];B[ea]))

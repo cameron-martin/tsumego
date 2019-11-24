@@ -1,0 +1,32 @@
+(;
+AB[md][nd][od][pb][pc][pd][qb][qe][ra][kb][kc][lb][ld][oa][oc][qd][re][sd]
+AW[lc][le][mc][nc][nf][ob][of][pe][qc][qf][rb][rc][rf][rh][jb][jc][ka][kd][mb][nb][rd][sb][se]
+C[Black plays.
+
+Source:
+    Igo Hatsuyo-ron #11:  300 year old problem set for
+    student professionals.
+
+Analysis:
+    Myron Souris
+
+This classic problem's status changes depending on whether the Japanese or Chinese rule sets are in effect.  The position arises near the end of main line "solution".  (You can thank me later for skipping over the nightmare of variations leading up to this point.)];
+
+B[sf]C[All of these moves are forced.  Here, White was threatening to connect out.];
+W[pa]C[If White allows Black to play here, White can no longer kill Black by forming the "rabbity six" shape in the corner.];
+B[sa];W[qa];B[ra]
+C[Black repeats the position from 4 moves back.  Under Japanese rules, Black has an Eternal Life ko, i.e., if neither player stops repeating the cycle, the game has no outcome.
+
+HOWEVER, under Chinese (Superko) rules, Black cannot play here to repeat the position.  So Black must make a big threat elsewhere.  Under normal circumstances, Black eventually runs out of "elsewhere" moves, and dies by not being able to repeat the full 4 move cycle along the top right edge.
+
+In the original problem (that started well before the initial diagram), Black's only resource for life is this Eternal Life ko.  So with the Japanese rules, Black avoids death; with the Chinese (Superko) rules, Black dies.
+
+Interesting!
+Kind of makes you want to study Go the rest of your life, doesn't it?
+
+Small board Go problems often require the logically rigorous nature of the Chinese rule set.  Here are two examples from the archive:
+    http://usgo.org/problems/095/prob.php
+    http://usgo.org/problems/096/prob.php
+]
+)
+

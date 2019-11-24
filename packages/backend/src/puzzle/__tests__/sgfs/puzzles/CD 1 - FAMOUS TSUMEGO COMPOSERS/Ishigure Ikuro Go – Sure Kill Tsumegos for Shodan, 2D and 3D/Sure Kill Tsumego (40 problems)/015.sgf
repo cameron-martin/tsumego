@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[rr][qr][ps][pq][qp][rp][qo][rn][rm][ql][pl][ol][nl][mm][nn][lm][ln]
+[lo][lp][lr][lq][ls]AW[or][pr][oq][nq][np][mp][mo][mn][on][om][pm][qm][po][pp][mr]
+[ns]N[015]AP[MultiGo:4.4.4]SZ[19]AB[mq]MULTIGOGM[0]
+
+(;TR[pq]C[黑△一子被白棋衔在嘴里，这限制了黑棋的手段。]N[审题])
+(;B[oo]N[正解];W[nm];B[pn];W[no];B[op])
+(;B[oo]N[变化];W[no];B[nm];W[op];B[qn])
+(;B[nm]N[失败变化图];W[no];B[oo];W[qq]C[黑1接，指望白2挡，然后黑3扑，这样白4提子没有什么意义了。但这是黑的一厢情愿。])
+(;B[nm]N[失败];W[oo]C[黑1时，白2可接，敌之要点即我之要点，这样白活。]))

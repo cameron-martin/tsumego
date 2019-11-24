@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[nd][md][mc][mb][ma][qc][qd][qe][re]AW[nb][nc][pc][oc][qb][rc]N[008]
+AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;TR[ma]LB[oa:A]C[黑棋有硬腿。很想在A位点玩“金鸡独立”吧？但是，请计算。
+
+从外侧压缩白眼位，看样子不行，最起码白能做劫——不过，也要计算。]
+N[审题])
+(;B[ra]C[类似棋形，黑1点通常是手筋]N[正解];W[rb];B[oa];W[na];B[pb]C[白死。])
+(;B[ra]N[变化];W[qa];B[rb];W[sb];B[oa];W[na];B[pb]C[黑1点时，白走4位，黑3位断，就还原到本图。])
+(;B[rb]N[失败1];W[ra];B[sb];W[sc]LB[pb:A][pa:B]C[以下，黑A则白B，成劫];B[oa];W[pa])
+(;B[oa]N[失败2];W[pa];B[na];W[ra])
+(;B[oa]N[失败3];W[pa];B[ra];W[na];B[rb];W[ob];B[qa]))

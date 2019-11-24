@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[oe][ne][me][ld][lc][lb][kb][nc][rb][rc][qc][pd]AW[mb][mc][nd][od]
+[oc][pc][qb][ra]N[020]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[空间虽然很小，但计算仍然需要。]N[审题])
+(;B[pa]N[正解];W[oa];B[nb];W[na];B[qa]C[白死。])
+(;B[pa]N[变化];W[nb];B[oa])
+(;B[oa]N[失败1];W[na]LB[pa:A]C[接下来，黑走A位不行];B[pb];W[qa])
+(;B[pb]N[失败2];W[pa]))

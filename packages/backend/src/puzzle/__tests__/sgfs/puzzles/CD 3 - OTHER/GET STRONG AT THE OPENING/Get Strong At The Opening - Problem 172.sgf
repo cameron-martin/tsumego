@@ -1,0 +1,46 @@
+(;
+GM[1]
+SZ[19]
+AW[ec][qd][qe][qp][qn][pq][oq][bp][cn][ck]
+AB[cd][oc][pe][pf][nq][np][op][jq][dp][fp][cq]
+LB[pe:1][qe:2][pf:3]
+C[Problem 172. White to move.  
+
+After Black 1 and 3, what are White's next two moves ? ]
+(;W[qf]
+TE[2]
+C[Correct Answer.  
+
+White should crawl once with 1, ... ]
+(;B[pg];W[jc]
+C[... then extend to 3 to neutralise Black's thick wall on the right. ]
+;B[qg]
+TR[qn]
+C[Black 4 is a thick move, but, in this case, White doesn't mind because her marked stone neutralises this thickness. ]
+;W[qb]
+C[White next jumps to 5 in order to live in the corner. <= ]
+)
+(;B[ic]
+LB[qf:1]
+C[Failure for Black.  
+
+If Black ignores White 1 and pincers with 2, ... ]
+;W[pg]
+C[... White will hane with 3. ]
+;B[og]
+C[If Black also hanes at 4, ... ]
+;W[oh]
+LB[ic:2]
+TR[pf][pe]
+C[... White will play a two-step hane at 5 and the right side will have become big. In any case, the two marked black stones have become bad moves because they have given White profit. If Black wants to pincer with 2, he should do so without playing the marked stones. <= ]
+))
+(;W[qg]
+C[Failure.  
+
+Jumping to White 1 is not good. ]
+;B[qf];W[rf];B[rg];W[rh];B[pg];W[qh];B[re];W[sg];B[qc]
+C[Black will strengthen his position with the forcing moves to 10, ... ]
+;W[rd];B[ic]
+C[... then pincer with 12. ]
+)
+)

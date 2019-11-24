@@ -1,0 +1,10 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[ig][kq][bm][bn][lh][ck][jd][fc][dd][ef][hq]
+[mq][np][op][mo][il][jj][de][df][ce][kn][eg][fh][gh][hh][qp][po][pn][pm][jg][kf]
+[dh][bh][ch][qk][qh][oh][pf][pe][pd][pc][nc][dj][cl]AW[pq][cm][jh][ki][kg][lj][cg]
+[cq][fp][gr][kl][nr][bc][pp][qq][oo][no][nm][om][ok][pb][qb][qc][qd][rf][ad][af]
+[ji][dg][qf][fg][bg][eh][ei][fi][gi][hi][cf][cj][bj][bk][bl][mr][be][cd][cc]TR[bj]
+C[Black to play. White has just connected with the marked stone. How can Black make sabaki on the lower left?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[cp];W[dq];B[dm];W[dk];B[dl];W[ek];B[dp]C[CORRECT Black should attach with 1. White extends but black captures the white stone. White captures four black stones but Black has made sabaki and his stones are alive.])
+(;B[dk];W[di];B[dn];W[co];B[cn];W[em];B[dm];W[el]C[If Black connects first, all of his stones on the left end up dead.]))

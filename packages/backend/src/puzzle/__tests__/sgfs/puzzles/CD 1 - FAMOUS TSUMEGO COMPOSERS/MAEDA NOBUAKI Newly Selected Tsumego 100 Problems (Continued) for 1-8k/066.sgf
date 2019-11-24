@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[jc][hd][he][if][kf][lf][kd][ld][hb]AW[md][lc][kc][jd][je][id][gc]
+[gb][hc][nc]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[ic]MULTIGOGM[0]
+
+(;C[审题：对杀。白有三气，黑只有两气，黑必须长出一气才行。]N[审题])
+(;B[kb]N[正解];W[lb]C[黑1扳，白2必挡，黑棋已经长出了一口气];B[jf]C[对杀黑胜。])
+(;B[kb]N[失败];W[lb];B[jb]C[黑3接是画蛇添足];W[ka]C[对杀黑负。]))

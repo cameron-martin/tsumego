@@ -1,0 +1,58 @@
+(;
+AB[oc][qd][cp][qo][nq][pn][on][nm][ol][no][lo][mo]
+AW[ec][eq][kq][mp][np][op][oo][pq][pl][pj][nn][mn]
+C[Black plays.
+
+Source:
+    "In the Beginning", pp. 111-114,
+    Ikuro Ishigure, Ishi Press]
+(;
+B[ph]
+LB[qh:a]
+C[Correct.  A play at A is also good.
+Black attacks and forms territory at the
+same time.]
+(;
+W[ln]
+C[White should escape out to the center.];
+B[ko];
+W[kn];
+B[jo];
+W[kl]
+LB[jn:a]
+C[Or at A.
+
+A four way fight starts among 2 weak
+White and 2 weak Black groups.  But
+Black has already staked out the best
+ground in the upper right.]
+)
+    (;
+    W[ok]
+    C[If White tries to re-inforce here...];
+    B[lm]
+    C[Black captures 2 stones and
+sandwiches White's 3 stones between
+two strong Black groups.]
+    )
+)
+    (;
+    B[lm]
+    C[Capturing 2 White stones is important,
+but ...];
+    W[qg]
+    C[White makes his group safe and robs
+Black of territory.]
+    )
+    (;
+    B[do]
+    C[Looks like the best play on the left, but...];
+    W[ln];
+    B[ko];
+    W[kn];
+    B[jo];
+    W[kl]
+    C[But now White is one move ahead
+on the right side.]
+    )
+)

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[oe][oc][qe][re][qd][pd][pc][pb][ra][nc][nd]AW[rf][qf][qc][rd][se]
+[pf][of][nf][mf][me][md][mc][mb][nb][pe][rb]N[170]AP[MultiGo:4.4.4]SZ[19]AB[ne]
+MULTIGOGM[0]
+
+(;C[最好结果是劫活，净活是不可能的。但如果走成劫活也需要动点脑筋。
+
+难度：☆☆]
+N[审题])
+(;B[sb]N[正解];W[sd];B[rc];W[sc];B[qb];W[sa]LB[sb:A][rc:B]C[黑找劫才后，在A位提子打劫。])
+(;B[qb]N[失败1];W[sb];B[rc];W[sd])
+(;B[rc]N[失败2];W[sc]LB[sb:A][qa:B]C[黑1、白2交换之后，黑再走A位，则白B位打];B[qb]
+;W[sb]))

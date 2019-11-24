@@ -1,0 +1,19 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[Problem 120. Black to play.
+There are two profitable points left. Where are they?]PM[1]PB[ ]AB[bh][ek][jj][fc][db][em][gc][ce][kj][li][eb][dl][eg][hk][dh][hj][ed][ag][gd][bf][fl][fj][fe][ik][gj][ef][dc][mi][lj][kk][el][mh][ch]AW[gb][ff][kh][ah][hd][lf][ei][bm][cl][bk][kd][mg][lh][ci][jc][fb][ji][ej][bi][ki][ge][fi][ai][hc][fk][di][hb][ii][gh][fg][hh][dk][ij][gi][gf]GN[ ]FG[259:]PW[ ]
+(
+;C[Correct Answer 1
+Black 1...]B[fa]
+;C[...]W[ga]
+;C[...to 3...]B[ea]
+;C[...and White 4 are the last points of profit left. The points A, called dame, have no value.]LB[dm:A][cm:A][hi:A]W[eh]
+)
+(
+;C[Correct Answer 2
+As the problem was stated, this is also correct...]B[eh]
+;C[...]W[ea]
+;C[...]B[da]
+;C[...but White is better by one point than before.]W[fa]
+)
+
+)

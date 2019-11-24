@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 45. White to play.
+How does White play to give his stones at the top and bottom life?]AW[eb][ea][gb][ib][cm][ia][ak][fb][cl][hb][bl][bk]PB[ ]PM[1]PW[ ]AB[ic][fc][db][hc][da][gc][dc][dl][cj][ja][bj][dm][ec][jc][dk][jb][aj]
+(
+;C[Correct Answer
+White can make life in the upper position by playing at 1...]W[ga]
+;C[...and in the lower positoin by playing at 3.]W[am]
+)
+(
+;B[ga]C[If Black Plays First
+Black 1 will kill the stones in the upper position...]
+;B[am]C[...and Black 3 the stones in the lower position.]
+)
+
+)

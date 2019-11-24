@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[hn][hl][ip][fm][il][im][gp][gn][go][gl][hp][io]GN[ ]AB[jl][in][em][jm][ik][fk][jp][fp][fn][fo][gk][hk][iq][jo][gq][el][hq][jn]PM[1]C[Problem 231. Black to play.
+How does Black kill the white stones?]PW[ ]
+(
+;B[gm]C[Correct Answer
+Black 1 is the correct answer...]
+;W[hm]C[...In response to White 2...]
+;B[fl]C[...Black plays at 3. If White 2 at 3, Black 3 at 2. In either case, White is dead.]
+)
+(
+;B[fl]C[Wrong Answer
+If Black plays at 1, he fails...]
+;W[gm]C[...White makes two perfect eyes by connecting at 2.]
+)
+
+)

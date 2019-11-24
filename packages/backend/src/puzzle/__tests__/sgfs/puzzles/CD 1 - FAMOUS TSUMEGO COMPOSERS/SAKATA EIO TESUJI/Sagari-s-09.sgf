@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bo][co][do][ep][fp][dq][fq][br][fr]AB[bp][cp][dp][bq][eq][dr][er]C[Ex. 9  - Life or death
+
+Try to find the move to kill B completely. 
+Ko is no good.]PL[W]
+;W[cr]LB[cr:1]C[Diag. 1 - Failure
+
+The W1, ]
+(;B[cq]LB[cq:2][cr:1]C[B 2 exchange creating a false eye and damezumari for B is correct. It brings about a semeai ]
+(;W[aq]LB[aq:3][cq:2][cr:1]C[but W 3 is too impatient. ]
+;B[ar]LB[aq:3][cq:2][ar:4][cr:1]C[After B 4 horikomi ]
+;W[as]LB[aq:3][cq:2][cr:1][as:5]C[W 5 ]
+;B[ap]LB[ap:6][aq:3][cq:2][cr:1][as:5]C[B 6 it is ko
+Ko is not correct])
+(;W[ar]LB[cq:2][ar:3][cr:1]C[Diag. 2 - Correct
+
+W 3 sagari after W 1 and B 2 is good.
+]
+(;B[aq]LB[aq:4][cq:2][ar:3][cr:1]C[if B 4 ]
+;W[ao]LB[ao:5][aq:4][cq:2][ar:3][cr:1]C[W 5 sagari wins by one move.
+It is said that the vital point in the corner is the 2-1 point and the sagari 3 occupies this very point.])
+(;B[ao]LB[ao:4][cq:2][ar:3][cr:1]C[Diag.3 - Variation
+
+If  B 4 in reply to W 3 sagari ]
+;W[aq]LB[ao:4][aq:5][cq:2][ar:3][cr:1]C[W 5 magari is good. B is in no position to continue the fight.
+If W 5 is played one point above B 4, B plays 5 and the result is a ko.])))
+(;B[ar]LB[ar:2][cr:1]C[Diag. 4 - Variation
+
+If B 2 in the corner in answer to W 1 ]
+;W[es]LB[ar:2][cr:1][es:3]C[W wins by going round the bottom with W 3 ]
+;B[cq]LB[cq:4][ar:2][cr:1][es:3]
+;W[ds]LB[cq:4][ar:2][cr:1][ds:5][es:3]C[and W 5.]))

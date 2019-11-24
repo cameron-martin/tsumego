@@ -1,0 +1,22 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bn][bo][bp][cp][dq][br][dr][er]AB[bm][cm][cn][co][dp][ep][cq][eq][cr][fr]C[Hane
+
+Ex. 1 - Life or Death
+
+When speaking about hane we are generally referring to the first line.
+By using hane to badger and restrict the opponent it is possible to achieve various effects.
+Opportunities to apply them in actual games are by no means rare.]
+(;B[es]LB[es:1]C[Diag. 1 - Failure
+
+This is a hane but the ate 1 against the three stones is too hasty ]
+;W[bq]LB[bq:2][es:1]C[and fails after W 2 ate. ]
+;B[ds]LB[bq:2][ds:3][es:1]C[When B captures with 3 ]
+;W[bs]LB[bq:2][bs:4][ds:3][es:1]C[W plays 4 sagari, the vital point in the corner, and thus manages to live.])
+(;B[bs]LB[bs:1]C[Diag 2 - Correct
+
+B1 hane is the tesuji to win the semeai and to take away the eyes in the corner. ]
+;W[bq]LB[bq:2][bs:1]C[After W 2 ate ]
+;B[cs]LB[bq:2][bs:1][cs:3]C[B 3 tsugi ]
+;W[ar]LB[bq:2][ar:4][bs:1][cs:3]C[and W 4 ]
+;B[es]LB[bq:2][ar:4][bs:1][cs:3][es:5]C[B delays the capture with 5 and W dies.]))

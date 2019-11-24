@@ -1,0 +1,29 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][ee][fe][gd][gc][hf][pp][kp][jm][hr][fn][fm][eo][ep][eq][cq][cr]
+AB[cc][cd][eb][fc][fd][kd][oc][qd][qj][hp][gn][bq][cp][dp][dn][dm][cj][cf]
+LB[oi:A][oj:B][ok:C]
+C[Problem 140. White to play.  
+
+Black has made a big profit on the left side and has mapped out a huge moyo on the right, so it is urgent for White to reduce this moyo, but which point should she play: A, B, or C ? ]
+(;W[ok]
+TE[2]
+C[Correct Answer.  
+
+White expands her moyo with 1 while limiting the size of Black's. ]
+;B[pl];W[ol];B[pm];W[om];B[pn]
+C[Even though Black gains some profit up to 6, ... ]
+;W[on]
+C[... the scale of White's moyo is enough to maintain the balance of territories. <= ]
+)
+(;W[oi]
+C[Failure.  
+
+If White plays 1, ... ]
+;B[pk]
+C[... Black will respond with 2, and, ... ]
+;W[qi];B[ri];W[qh];B[rh];W[qf];B[nj]
+C[... with the sequence to 8, White's moyo has been greatly reduces and her stones in the upper right are under attack. <= ]
+)
+)

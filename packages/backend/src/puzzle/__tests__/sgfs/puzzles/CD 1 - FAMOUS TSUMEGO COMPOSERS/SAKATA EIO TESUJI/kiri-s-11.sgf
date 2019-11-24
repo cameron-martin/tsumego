@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[hn][ln][go][io][jo][lo][no][gp][lp][mp][eq][fq][nq][nr][or][pr]AB[dn][gn][jn][mn][nn][pn][fo][mo][dp][fp][np][op][pp][dq][iq][kq][oq][qq]C[Ex. 11 -  Strategem
+
+The 2 stones left behind inside W's enclosure can be brought back to life.]
+(;B[dr]LB[dr:1]C[Diag. 1 - Failure
+
+B 1 sagari loses]
+;W[fr]LB[dr:1][fr:2][gr:B][hr:A][jr:D][lr:C]C[ after W 2.
+Even if B now plays "A", W "B", B "C" kosumi, W's oki at "D" is unsuccessful.])
+(;B[gq]LB[gq:1]C[Diag. 2 - Correct
+
+First B plays kiri 1, ]
+;W[hq]LB[gq:1][hq:2]
+;B[gr]LB[gq:1][hq:2][gr:3]C[then 3 sagari ]
+;W[hr]LB[gq:1][hq:2][gr:3][hr:4]C[and W 4 ]
+;B[hp]LB[hp:5][gq:1][hq:2][gr:3][hr:4]C[and now 5 kiri is a good move. ]
+;W[ho]LB[ho:6][hp:5][gq:1][hq:2][gr:3][hr:4]C[After W 6, ]
+;B[hs]LB[ho:6][hp:5][gq:1][hq:2][gr:3][hr:4][hs:7]C[B connects along the edge with 7 ]
+;W[ir]LB[ho:6][hp:5][hq:1][iq:2][gr:3][hr:4][ir:8][hs:7]
+;B[jr]LB[ho:6][hp:5][gq:1][hq:2][gr:3][hr:4][ir:8][jr:9][hs:7]C[and 9. ]
+;W[ip]LB[ho:6][ip:10][gq:1][hq:2][gr:3][hr:4][ir:8][jr:9][hs:7]
+;B[is]LB[ho:6][ip:10][gq:1][hq:2][gr:3][hr:4][ir:8][jr:9][hs:7][is:11]
+;W[jq]LB[ho:6][ip:10][gq:1][hq:2][jq:12][gr:3][hr:4][ir:8][jr:9][hs:7][is:11]
+;B[kr]LB[ho:6][ip:10][gq:1][hq:2][jq:12][gr:3][hr:4][ir:8][jr:9][kr:13][hs:7][is:11]C[If  B next plays 13 he has made great inroads into the W territory where his 2 stones lay buried.]
+;W[fr]LB[ho:6][ip:10][gq:1][hq:2][jq:12][fr:14][gr:3][hr:4][ir:8][jr:9][kr:13][hs:7][is:11]C[Diag. 3  - Reference
+
+To show that W is lost after the previous diagram, if W 14 ]
+;B[gs]LB[ho:6][ip:10][gq:1][hq:2][jq:12][fr:14][gr:3][hr:4][ir:8][jr:9][kr:13][gs:15][hs:7][is:11]
+;W[dr]LB[ho:6][ip:10][gq:1][hq:2][jq:12][dr:16][fr:14][gr:3][hr:4][ir:8][jr:9][kr:13][gs:15][hs:7][is:11]C[and then W 16, ]
+;B[cr]LB[ho:6][ip:10][gq:1][hq:2][jq:12][cr:17][dr:16][fr:14][gr:3][hr:4][ir:8][jr:9][kr:13][gs:15][hs:7][is:11]C[After W 17 ]
+;W[es]LB[ho:6][ip:10][gq:1][hq:2][jq:12][cr:17][dr:16][fr:14][gr:3][hr:4][ir:8][jr:9][kr:13][es:18][gs:15][hs:7][is:11]
+;B[js]LB[ho:6][ip:10][gq:1][hq:2][jq:12][cr:17][dr:16][fr:14][gr:3][hr:4][ir:8][jr:9][kr:13][es:18][gs:15][hs:7][is:11][js:19]C[and B 19 ]
+;W[fs]LB[ho:6][ip:10][gq:1][hq:2][jq:12][cr:17][dr:16][fr:14][gr:3][hr:4][ir:8][jr:9][kr:13][es:18][fs:20][gs:15][hs:7][is:11][js:19]
+;B[cs]LB[ho:6][ip:10][gq:1][hq:2][jq:12][cr:17][dr:16][fr:14][gr:3][hr:4][ir:8][jr:9][kr:13][cs:21][es:18][fs:20][gs:15][hs:7][is:11][js:19]C[B plays sagari 21 and wins the semeai comfortably.
+W can do nothing.]))

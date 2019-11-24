@@ -1,0 +1,20 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][hc][nc]
+AB[dd][fd][pd][pf][qj]
+C[Problem 38. Black to play.  
+
+Here is a position that often occurs in handicap games. Where should  Black invade ? ]
+(;B[kd]
+TE[2]
+C[Correct Answer.  
+
+The high invasion of Black 1 is correct. <= ]
+)
+(;B[kc]
+C[Dangerous.  
+
+Invading deeply at 1 is also possible, but this could be risky because White would have many chances to seize the initiative. <= ]
+)
+)

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oe][of][nf][mf][le][ld][lc][kb][jc][qb][qc][qd]AW[lb][mb][mc][md]
+[me][ne][od][pc][pb]N[004]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;LB[oc:A][ob:B][pa:C]C[白气紧，断头也多。一般而言，黑的进攻要从白薄弱的地方开始，因此，请重点考虑A、B、C三点。]
+N[审题])
+(;B[pa]N[正解];W[ob];B[nc];W[la];B[na];W[oa];B[nb]C[白死。])
+(;B[pa]N[变化];W[na]C[白2“怪怪地”防守];B[oc];W[ob];B[nc]LB[la:A][nd:B]C[接下来A、B见合，白死。])
+(;B[oc]N[失败1];W[ob];B[nd];W[nc])
+(;B[ob]N[失败2];W[oc];B[pa];W[nb]))

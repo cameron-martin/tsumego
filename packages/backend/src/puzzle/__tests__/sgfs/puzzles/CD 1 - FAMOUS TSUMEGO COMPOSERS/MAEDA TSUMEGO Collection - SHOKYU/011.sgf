@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pe][pf][qf][rf][sf][rb][qb][qc]AW[rc][sd][se][re][qe][qd][sb][pc]
+[oc][mc]N[011]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[初级问题。
+
+难度：☆]N[审题])
+(;B[sa]N[正解];W[ra];B[qa];W[pb];B[sa]C[黑先提劫，两手劫。])
+(;B[qa]LB[pb:A]C[黑1走A位自撞一气的着法就不要考虑了。
+
+黑1立下，试图扑入做劫]
+N[失败];W[sa];B[ra];W[pb];B[sc];W[sb]C[白眼杀黑。]))

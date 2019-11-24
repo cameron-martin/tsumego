@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[db][eb][fb][gb][hc][hd][he][gf][ff][ef][df][cf][bf][ed][bb]AW[cc]
+[dc][ec][fc][gc][gd][fe][ee][de][ce][be][bc]N[028]AP[MultiGo:4.4.4]SZ[19]AB[cb]
+MULTIGOGM[0]
+
+(;C[空间不大，计算不复杂。
+
+难度：☆☆]N[审题])
+(;B[ad]N[正解];W[ac];B[ae];W[bd];B[dd]C[白死。])
+(;B[ad]N[变化];W[dd];B[bd];W[ac];B[ae])
+(;B[dd]N[失败];W[ad];B[cd]))

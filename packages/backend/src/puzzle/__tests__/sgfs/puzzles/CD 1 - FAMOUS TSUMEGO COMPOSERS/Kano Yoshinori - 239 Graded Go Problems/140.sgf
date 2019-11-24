@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ge][jh][fc][fi][fe][ei][hc][dd][dg][gc][gh][je][id][df][dh][de][hf][hh][ec][jf][ig]GN[ ]AB[gd][ff][hd][fh][ef][eh][if][ie][eg][ed][he][fd][ee]PM[1]C[Problem 140. Black to play and live. (1 move)
+What move does Black make to give his stones life?]PW[ ]
+(
+;B[gg]C[Correct Answer
+Black 1 is the correct answer...]
+;W[hg]C[...After White connects at 2...]
+;B[gf]C[...Black 3 makes two eyes and he is alive.]
+)
+(
+;B[gf]C[Wrong Answer
+Taking two stones with 1...]
+;W[hg]C[...lets White play 2. Black now has only one eye and is dead.]
+)
+
+)

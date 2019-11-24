@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[qd][pd][qb][rb][rc][rd]AW[qa][pb][pc][qc][qe][rf][qg][pe][oe][ne]
+[md][lc]N[155]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;LB[ra:A]C[黑A挡是先手，如果白棋要硬杀黑的话。这是可以利用的地方。
+
+难度：☆☆]
+N[审题])
+(;B[ra]N[正解];W[se];B[nc];W[nb];B[ob];W[oc];B[od];W[oa];B[pa]C[这个劫白也不轻。])
+(;B[nc]N[变化];W[nb]C[黑棋先从外面动手如何？];B[ob];W[oc];B[od];W[oa];B[ra]LB[pa:A]
+C[现在白棋可以选择A位粘上，让黑活棋。
+
+黑把变化走尽，不如保留。]))

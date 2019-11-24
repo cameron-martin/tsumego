@@ -1,0 +1,27 @@
+(;
+C[White plays.
+
+Source:
+    Go World #38, p. 42
+    Basic Fighting Techniques]
+AB[ra][rb][qb][qc][pc][od][oe][of][qe][re][rg]
+AW[oc][nc][pb][md][kd][qd][pd][rd][rc][sb]
+(;
+W[pa]
+C[At first glance, White seems to have this trivial way to kill Black.];
+B[ob]
+C[But Black gives White this nasty surprise.  This well-known, but surprising, tesuji occurs in numerous situations.];
+W[nb]
+C[White, who is in a shortage of liberties, has to make 2 moves to capture Black's single stone throw-in.];
+B[sd]
+C[Black can use that extra move to win the semeai.];
+W[oa];B[pe]
+)
+    (;
+    W[oa]
+    C[But White has a resource that Black has no answer for.];
+    B[sd];W[qa]
+    C[Black cannot stop White's throw in to force a ko.]
+    )
+)
+

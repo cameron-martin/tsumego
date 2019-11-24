@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 26. Black to play.
+How should Black give atari to the four white stones?]AW[hk][fi][fh][ik][gj][gi][kj]PB[ ]PM[1]PW[ ]AB[gk][fj][hj][hi][hg][ei][eh]
+(
+;B[fg]C[Correct Answer
+Black can capture four white stones by giving atari with 1.]
+)
+(
+;B[gh]C[Wrong Answer
+Black 1 is the wrong direction...]
+;C[...White escapes by extending to 2.]W[fg]
+)
+
+)

@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[eo][cp][ep][dq]AB[dm][cn][hp][eq][fq]C[Ex. 9 - Eguri
+
+Whether this is classified under "eguri" or "attack"  the important thing is that you want to strike at W's base.
+It will be a sequence often used in actual games.]
+(;B[bo]LB[bo:1]TR[aa]C[Diag. 1 - Failure
+
+B 1 kosumi, ]
+;W[bp]LB[bo:1][bp:2][bq:A][cr:B]C[inviting W 2, is just impossible. It merely helps W to feel at ease.
+B 2 tsuke instead of 1 can at least be considered a suji but after W "A", B 1 hiki and W "B", making eyes, things are too cut and dried.])
+(;B[bq]LB[bq:1]C[Diag. 2 - Correct
+
+B 1 oki is correct. 
+]
+(;W[bp]LB[bp:2][bq:1]C[If W 2 osae, ]
+;B[dr]LB[bp:2][bq:1][dr:3]C[B plays hane 3. ]
+;W[cq]LB[bp:2][bq:1][cq:4][dr:3]C[W 4 ]
+;B[cr]LB[bp:2][bq:1][cq:4][cr:5][dr:3]
+;W[br]LB[bp:2][bq:1][cq:5][cr:4][dr:3]C[and 6  are inevitable ]
+;B[bs]LB[bp:2][bq:1][cq:4][br:6][cr:5][dr:3][bs:7]C[and the sequence up to W 7 ]
+;W[ar]LB[bp:2][aq:A][bq:1][cq:4][ar:8][br:6][cr:5][dr:3][bs:7]C[and B 8 may result.
+Capture at "A" instead of W 8 is also possible.])
+(;W[cq]LB[bq:1][cq:2]C[Diag. 3 - Correct
+
+If W 2 in reply to B 1 oki, ]
+;B[bp]LB[bp:3][bq:1][cq:2]
+;W[br]LB[bp:3][bq:1][cq:2][br:4]
+;B[bo]LB[bo:5][bp:3][cp:2][bq:1][br:4]C[B connects with 5.
+As far as the corner is concerned W cannot make 2 eyes.
+B has succeeded.])
+(;W[dr]LB[bq:1][dr:2]C[Diag. 4 - Variation
+
+If W 2 sagari in answer to B1, ]
+;B[bp]LB[bp:3][bq:1][dr:2]C[it is clear that B 3 watari is good.])))

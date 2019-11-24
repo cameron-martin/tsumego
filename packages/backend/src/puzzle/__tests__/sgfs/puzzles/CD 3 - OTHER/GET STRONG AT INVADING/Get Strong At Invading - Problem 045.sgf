@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][kd][nd][nc]
+AB[df][dd][oc][pd][pf]
+C[Problem 45. Black to play.  
+
+There are so many places where Black can invade. Where do you think is the best point ? ]
+(;B[id]
+TE[2]
+C[Correct Answer.  
+
+Black should play near White's strong side with 1. This is the correct invasion point. ]
+;W[fe]
+C[If White jumps to 2, ... ]
+;B[if]
+C[... Black is also happy to jump to 3. Black has split White into 2 groups.  <= ]
+)
+(;B[hd]
+C[Failure.  
+
+Even though it is high, playing 1 one line to the left is dubious. ]
+;W[hc];B[ic];W[id]
+LB[hc:2]
+C[White 2 and 4 hit the mark, Black cannot get a good result. <= ]
+)
+)

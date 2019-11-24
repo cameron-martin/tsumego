@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oe][md][me][oa][nc][oc]AW[qd][pf][of][mf][lf][ld][kc][mc][mb][qc]
+N[023]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[黑棋在中间只有后手一眼，所以必须在边上先手做成一眼。
+
+难度：☆☆]N[审题])
+(;B[qb]N[正解];W[rb];B[ra];W[sb];B[ne])
+(;B[ne]N[失败1];W[qb])
+(;B[nb]N[失败2];W[qb];B[pb];W[pd]))

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[bm][co][do][dp][dq][eq][fq][fr][bq][ao]AW[cq][cp][bp][bo][er][br]
+C[C]N[010]AP[MultiGo:4.4.4]SZ[19]AB[bn]MULTIGOGM[0]
+
+(;C[本题没有想象中那么难。走成劫杀很容易，能不能净杀？
+
+难度：C]N[审题])
+(;B[aq]N[正解];W[ar];B[cr];W[ap];B[bq]C[黑5先扑，紧白的气，重要];W[aq];B[bs];W[dr]
+;B[cs]C[白死。])
+(;B[aq]N[变化1];W[ar];B[cr];W[ap];B[bq];W[an];B[bs];W[dr];B[cs]LB[as:A]C[A位不能入子，白死。])
+(;B[aq]N[变化2];W[cr];B[ap];W[ar];B[an];W[dr];B[es])
+(;B[cr]N[失败];W[aq];B[bs];W[dr]LB[ds:A]C[现在，黑可在A位做劫，但这不够好];B[cs]
+;W[as];B[ar]C[分析一下这个劫。黑若劫胜，吃住白二子就消劫，所以是紧劫。黑先提劫，所以是黑的先手劫。]))

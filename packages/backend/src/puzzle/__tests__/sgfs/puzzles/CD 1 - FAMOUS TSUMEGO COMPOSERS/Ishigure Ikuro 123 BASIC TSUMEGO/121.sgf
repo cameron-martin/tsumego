@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[kc][lb][ma][mc][me][mf][md][mg][ng][of][oh][ph][qg][rf][re][rd][rc]
+[rb][ob][qc]AW[nd][ne][nf][oe][og][qf][qe][qd][pc][pb][qb][mb][nb][nc]N[121]AP[MultiGo:4.4.4]
+SZ[19]AB[qa]MULTIGOGM[0]
+
+(;LB[pg:A][pf:B]C[黑A、B之类的首先可以排除在外。观察棋形，白棋气紧。]N[审题])
+(;B[oc]LB[na:A][pa:B]C[黑1冲好，白A、B这样的应手明显不行]N[正解];W[od];B[pf];W[pe]
+;B[oa]C[白死。])
+(;B[oc]N[变化];W[oa];B[pg];W[pf];B[pd])
+(;B[pa]N[失败];W[oc];B[oa];W[pf]))

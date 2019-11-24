@@ -1,0 +1,8 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][ea][ic][gc][ie][eb][id][ja][ed][ec][he][fb][jb][fd]GN[ ]AB[gb][ge][ia][db][fe][hd][hc][da][dd][hb][dc][ib][de][ee]PM[1]C[Problem 214. Black to play.
+How can Black make a seki?]PW[ ]
+;B[ga]C[Correct Answer
+Black 1 creates a seki between the eight white stones and seven black stones.]
+;FG[259:]PM[2]C[For Reference
+In this seki, both sides have an eye, but these eyes are not counted as territory.]
+)

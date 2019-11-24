@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qd][pd][od][nd][md][ld][kc][kb][ka][ra][rb][pa]AW[la][lb][mc][ob]
+[oc][pc][pb][qb][qa]N[004]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;C[白气很紧，眼位也太小。]N[审题])
+(;B[nc]N[正解];W[nb];B[oa]LB[mb:A][na:B]C[黑3爬时，白A则黑B，白死。];W[na];B[mb]
+C[白死。])
+(;B[nc]N[变化];W[nb];B[oa];W[lc];B[ma]C[接不归，白死。])
+(;B[nc]N[失败1];W[nb];B[mb];W[ma];B[lc];W[oa]C[劫。])
+(;B[nb]N[失败2];W[nc];B[oa];W[na]C[黑从里面直接动手不行。]))

@@ -1,0 +1,41 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ec][ch][hc][qj][pb]
+AB[cj][jc][pc][qe][pd]
+LB[pd:2][pb:1]
+C[Problem 69. White to play.  
+
+This time Black pulls back with 2 in answer to 1. What should White do ? ]
+(;W[nc]
+TE[2]
+C[Correct Answer.  
+
+White should lightly jump to 1 and, ... ]
+;B[ob]
+C[... if Black plays 2, ... ]
+;W[lc]
+LB[oc:A]
+C[... jump again to 3. White can later threaten Black with A. <= ]
+)
+(;W[qb]
+C[Failure.  
+
+White must not play 1 because ... ]
+;B[ob]
+C[... Black 2 will kill her. <= ]
+)
+(;W[ob]
+C[Failure.  
+
+White 1 is a heavy move. ]
+;B[qb];W[lc]
+C[After 3, ... ]
+;B[nc]
+C[... Black 4 ... ]
+;W[nb];B[mc];W[mb];B[kb]
+C[... to 8 will leave White with only one eye. ]
+;W[lb];B[je]
+C[With Black 10, White is under attack and she must now find her second eye in the center. <= ]
+)
+)

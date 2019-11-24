@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ci][dh][ei][ej][bh][dk][ck][cj]AW[ag][bg][cg][dg][eg][eh][fi][fj]
+[ek][el][dl][cl][bl][al]N[046]AP[MultiGo:4.4.4]SZ[19]AB[ch]MULTIGOGM[0]
+
+(;C[白棋两边硬腿，黑如何做眼？
+
+难度：☆☆]N[审题])
+(;B[ai]C[黑活。]N[正解])
+(;B[aj]N[失败1];W[ai])
+(;B[bk]N[失败2];W[aj]))

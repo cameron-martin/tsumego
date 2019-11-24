@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][gc][dh][pp]
+AB[fe][ce][dp][pd]
+LB[ce:1][dh:2][fe:3][gc:4]
+C[Problem 53. Black to play.  
+
+Black has played the two corner star points on diagonally opposite sides of the board. After the sequence from Black 1 to White 4, how should Black continue ? ]
+(;B[dk]
+LB[hd:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black should either make a pincer around 1 or press White at A. <= ]
+)
+(;B[dj]
+TE[2]
+C[Correct Answer.  
+
+A severe one-space against the white stone is also frequently played in professional games. ]
+;W[fh]
+C[After White 2, ... ]
+;B[he]
+C[... Black forces with 3, ... ]
+;W[jd];B[hh]
+C[... then caps at 5. ]
+;W[ej];B[dk];W[di];B[ek];W[fj];B[gl]
+C[The sequence to Black 11 is one possible continuation. <= ]
+)
+(;B[hd]
+TE[2]
+C[Correct Answer.  
+
+Also correct. <= ]
+)
+)

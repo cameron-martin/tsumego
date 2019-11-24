@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[oe][ne][me][mb][nc][ob][oa][sd][se][re][qe]AW[pb][oc][od][pd][qd]
+[rd][rb]N[062]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[空间很小，选择也很少。计算吧。]N[审题])
+(;B[qa]N[正解];W[qb];B[sb];W[pa];B[ra]C[打二还一之后，白角上无眼。白死。])
+(;B[qa]LB[pa:A][qb:B]C[黑1点，白A挡则黑B，白死]N[变化];W[ra];B[qb]C[白死。])
+(;B[sc]N[失败1];W[sb];B[qa];W[qb])
+(;B[sb]N[失败2];W[qc];B[pa];W[qa];B[sc];W[rc];B[ra];W[sa]))

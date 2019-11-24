@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[gd][fd][fb][gb][nb][nc][mc][ld][kd][jc][jd][id]AW[ga][hb][hc][ic]
+[jb][kc][lc][mb][ma]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[hd]MULTIGOGM[0]
+
+(;C[审题：白棋看上去空间很大，但棋形有缺陷。]N[审题])
+(;B[ia]N[正解];W[ha]C[黑1点时，白2必接，走其他地方简单死掉];B[kb];W[lb];B[ka]C[白死。])
+(;B[ka]C[通常，点是这种棋形的急所，但在这里不行]N[失败];W[kb];B[ia];W[ha]C[白活。]))

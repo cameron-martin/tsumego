@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][ci][cn][lc][qf]
+AB[dp][pd][pp][dd][cf][fp][jq][nd]
+LB[lc:9][nd:4][qf:3][jq:6][fp:2][cn:1][ci:5][cf:6][fc:7]
+C[Problem 106. Black to play.  
+
+Just as in Problem 102, Black is strong and White is thin after Black 9, so Black should attack. Where is the vital point ? ]
+(;B[qj]
+TE[2]
+C[Correct Answer.  
+
+The pincer of Black 1 attacks the white stone at the top and also stakes out a moyo at the bottom. ]
+;W[rd]
+C[White must settle her stones with 2 ... ]
+;B[qc];W[qh]
+LB[qc:3]
+C[... and 4, enabling Black to settle his own as well by taking the crucial 3-3 point with 3. ]
+;B[oj]
+C[Next, Black jumps to 5 and a vast moyo has taken shape in the lower right. <= ]
+)
+(;B[id]
+C[How the game continued.  
+
+Black 1 was the wrong move. ]
+;W[le]
+C[White jumped to 2, attacking the black stones on the right, ... ]
+;B[nf];W[fe]
+C[... then jumped to 4, attacking the ones on the left. ]
+;B[db]
+LB[nf:3]
+C[After Black defended with 3 and 5, ... ]
+;W[if]
+C[... White took the initiative at the top by capping with 6. Instead of being the attacker, Black was now the defender. <= ]
+)
+)

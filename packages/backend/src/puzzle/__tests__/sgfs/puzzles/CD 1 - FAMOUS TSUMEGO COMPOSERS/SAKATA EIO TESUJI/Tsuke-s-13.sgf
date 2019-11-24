@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ck][el][cm][em][bo][gp][hp][cq][dq][eq][dr]AB[fm][en][do][cp][bq][br][cr]LB[fn:A]TR[bo]C[Ex 13 - Shinogi
+
+W has been allowed to play the nozoki at the marked stone. Since there is also a cutting point A , B is at a loss to know what to do.
+However, if he manoeuvres skillfully it is not impossible to make eyes.]
+(;B[gn]LB[gn:1]C[Diag 1 - Failure
+
+Quite clearly, if B first protects his cutting point with 1 on the outside, ]
+;W[bp]LB[gn:1][bp:2]C[he allows W to cut at 2.])
+(;B[bp]LB[bp:1]C[Diag. 2 - Failure
+
+All the same, if B plays tsugi 1]
+;W[co]LB[co:2][bp:1]C[after W 2 atekomi ]
+;B[dp]LB[co:2][bp:1][dp:3]C[and B 3]
+;W[fn]LB[fn:4][co:2][bp:1][dp:3]C[W can now cut at 4 ]
+;B[fo]LB[fn:4][co:2][fo:5][bp:1][dp:3]C[After B 5]
+;W[gn]LB[fn:4][gn:6][co:2][fo:5][bp:1][dp:3]C[and W 6, no matter how he struggles he is hemmed in by W and will not be able to live.])
+(;B[bn]LB[bn:1]C[Diag. 3 - Correct
+
+B1 tsukekoshi is the theme of this example. It is a common way of playing, light but skillful ]
+;W[cn]LB[bn:1][cn:2]C[and after W 2 ]
+;B[co]LB[bn:1][cn:2][co:3]C[B 3 ]
+;W[bm]LB[bm:4][bn:1][cn:2][co:3]
+;B[bp]LB[bm:4][bn:1][cn:2][co:3][bp:5]C[and 5 are both effective sente moves by neans of which he can connect.]
+(;W[an]LB[bm:4][an:6][cn:2][co:3][bp:5]C[W must take ]
+;B[gn]LB[bm:4][an:6][cn:2][gn:7][co:3][bp:5]C[When B turns to tsugi 7 he has avoided the situation in the previous diagram.
+B 3 and 5 are effective because they protect two cutting points at once and use sente to get their eye shape. B can be proud of tsuke 1.])
+(;W[fn]LB[bm:4][bn:1][cn:2][fn:6][bo:5][co:3]C[Diag. 4 - Variation
+
+If W 6 cuts on the outside after B 5 ate, ]
+;B[ao]LB[bm:4][bn:1][cn:2][fn:6][ao:7][co:3][bp:5]C[B captures and lives and is quite satisfied.])))

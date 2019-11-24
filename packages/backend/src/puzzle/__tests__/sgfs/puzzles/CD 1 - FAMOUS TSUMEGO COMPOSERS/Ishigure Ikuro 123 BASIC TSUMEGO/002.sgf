@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[nc][nb][oa][jb][jc][jd][je][qa][qb][qc][pc]AW[lb][kd][ld][md][nd]
+[od][pd][qd][rc][rb][ra][ob][pb]N[002]AP[MultiGo:4.4.4]SZ[19]AB[oc]MULTIGOGM[0]
+
+(;C[瞄着盘渡求活。]N[审题])
+(;B[lc]C[挖，通常是类似棋形下的手筋]N[正解];W[mc];B[mb];W[kc];B[ma]C[黑活。])
+(;B[lc]N[变化];W[kc];B[kb];W[mc];B[ma])
+(;B[ma]N[失败1];W[mb])
+(;B[mb]N[失败2];W[ma];B[lc];W[kc]))

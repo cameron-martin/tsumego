@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[of][re][rd][nb][nc][nd][od]AW[qc][qd][pd][oc][ob][rb]N[083]AP[MultiGo:4.4.4]
+SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[范围虽小，但要留意。
+
+难度：☆☆]N[审题])
+(;B[pb]N[正解];W[pa];B[sb];W[sc]LB[qb:A]C[黑3托时，白4直接走A位也行];B[rc];W[qb]
+;B[ra]C[劫杀正解])
+(;B[pb]N[失败1];W[pa];B[qa];W[oa];B[qb]C[黑3、5不行，黑5不是先手];W[rc]C[黑进攻失败])
+(;B[sb]N[失败2];W[pb])
+(;B[pb]N[变化];W[oa]C[白2立下不行];B[sb];W[sc];B[rc];W[sa];B[qa]C[没有双活，白死。]))

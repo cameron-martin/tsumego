@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][fm][en][dn][co][cp][bq][gp][qn][qk][nc][kc]
+AB[cf][di][dl][cq][dp][eo][fo][eq][pq][qp][qi][qf][pd]
+TR[cf]
+C[Problem 64. White to play.  
+
+Black has just played the marked stone. How should White respond ? ]
+(;W[cr]
+TE[2]
+C[Correct Answer.  
+
+The atari of White 1 robs the black stones of their base. ]
+;B[go]
+C[Black has to run away ... ]
+;W[ip];B[ho]
+LB[go:2]
+C[... with 2 and 4, but ... ]
+;W[lq]
+LB[ip:3]
+C[... these moves provoke 3 and 5, enabling White to establish a position at the bottom. <= ]
+)
+(;W[fd]
+TR[cf]
+C[Failure.  
+
+In the game, White answered the marked stone with 1. ]
+;B[cr]
+C[Black descended to 2, securing his stones in the lower left. Black has a good game because all of his stones are secure. <= ]
+)
+)

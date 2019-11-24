@@ -1,0 +1,52 @@
+(;
+AB[qd][od][jc][je]
+AW[hc][he][dc][ce]
+C[White to invade Black's framework.
+
+Assume that Black does not have an extension down the right side.
+
+Source:
+    Keshi and Uchikomi, Kaoru Iwamoto 9p,
+    American Go Journal, Vol. 19, No. 2, 1985, pp. 22-23]
+(;
+W[le]
+C[Too timid.  This kind of erasure move would be good if Black had an extension down the right side.  But here, this play gives Black too easy of a time.]
+)
+    (;
+    W[mc]
+    C[Not good.];
+    B[me];W[pc];B[qc]
+    C[And even if White could live, Black would build adequate compensation in terms of outside influence.]
+    )
+    (;
+    W[lc]
+    C[An effective invasion point.];
+    B[le]
+    (;
+    W[ld]
+    C[White threatens to move out to the right.]
+    (;
+    B[me]
+    C[And if Black blocks that exit ...];
+    W[jb]
+    C[... White connects out to the left.];
+    B[ib];W[ic];B[kb];W[jd]
+    )
+        (;
+        B[kd]
+        C[If Black blocks the connection to the left, ...];
+        W[me];B[md];W[nd];B[ne];W[mc];B[mf];W[oc]
+        C[... White has enough room to live along the top.];
+        B[md];W[nc];B[pc];W[kb];B[jb];W[oe];B[pd];W[pb];B[qb];W[oa]
+        C[With White living, Black has to create compensation using his wall.]
+        )
+    )
+        (;
+        W[jb]
+        C[A mistake in timing.];
+        B[ib];W[ic];B[kb];W[jd];B[kc];W[kd];B[ld]
+        C[A disaster for White.]
+        )
+    )
+)
+

@@ -1,0 +1,31 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bf][ce][cg][da][dc][dd][de][ea][eb][fc]
+AW[ae][bb][be][cb][cc][cd][db]PL[B]C[Black to play.
+
+Endgame moves - Invade]
+(
+;B[ba]
+(
+;W[ac]
+;B[ca]
+;W[bd]C[RIGHT
+])
+(
+;W[ca]
+;B[ac]
+(
+;W[bd]
+;B[ab]C[Black Ok])
+(
+;W[ab]
+;B[bd]C[White Death])))
+(
+;B[ac]
+;W[bc]
+;B[ba]
+;W[ab]
+;B[ca]
+;W[ad])
+(
+;B[ca]
+;W[ba]))

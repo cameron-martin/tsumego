@@ -1,0 +1,56 @@
+(;
+AB[bb][cb][dc][dd][de][ce][bf][jd][ib][dj][cn][pc][pd][pe][og][oh]
+AW[qc][qe][qd][qf][ph][qq][dp][fp][cc][cd][be][db][ea][fb][ec][hc]
+TR[oh]
+C[White's response to Black's marked play?
+
+Source:
+    "Go World", #33, Autumn 1983, p. 7
+    38th Honinbo, game 1
+    Rin Kaiho  vs.  Cho Chikun
+    Rin Kaiho's commentary.]
+(;
+W[oi]
+C[Inferior.];
+B[pg];
+W[qg];
+B[pi];
+W[qh];
+B[pj]
+C[And Black can handle the ensuing fight.]
+)
+    (;
+    W[pi]
+    C[Correct.];
+    B[oi]
+    (;
+    W[oj]
+    C[But an inferior follow up.];
+    B[pg];
+    W[qg];
+    B[pj];
+    W[ok];
+    B[qj];
+    W[ri];
+    B[rj];
+    W[qi];
+    B[pl]
+    C[And Black can also handle this fight.]
+    )
+        (;
+        W[pj]
+        C[Correct follow up.];
+        B[np]
+        C[The game continued here...];
+        W[kp];
+        B[pp];
+        W[qp];
+        B[pn];
+        W[qo];
+        B[nk]
+        C[Black has to reinforce here due to his
+overall thinness.
+The game is close.]
+        )
+    )
+)

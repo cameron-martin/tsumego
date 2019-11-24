@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[do][dp][gp][hp][dq][hq][jq][cr][ir][hs]AB[cm][cn][en][fn][co][ep][fp][bq][gq][br][gr][hr]C[Ex. 2 Watari
+
+The 4 W stones lie sleeping in the heart of the B group.
+Surely something can be done with them.
+Whatever it is must be good to be able to connect on the right-hand side]PL[W]
+(;W[er]LB[er:1]C[Diag, 1 - Failure
+
+W 1 kosumi is a vital point]
+;B[fq]LB[fq:2][er:1][fr:A]C[but after B 2 tsugi it is all over.
+If B "A" or some other move could be expected instead of 2 it would be a good idea.])
+(;W[fq]LB[fq:1]TR[aa]C[Diag 2. - Failure
+
+W 1 kiri is a good move. ]
+(;B[eq]LB[eq:2][fq:1]C[However, when B plays 2 ]
+(;W[fr]LB[eq:2][fq:1][fr:3]C[W 3 ate ]
+;B[er]LB[eq:2][fq:1][er:4][fr:3]C[simply ends in the capture of his 3 stones after B 4 ]
+;W[gs]LB[eq:2][fq:1][er:4][fr:3][gs:5]
+;B[es]LB[eq:2][fq:1][er:4][fr:3][es:6][gs:5]C[and 6..
+Obviously this is no good for W.])
+(;W[er]LB[fq:1][er:3][gr:2]C[Diag 3. - Correct
+
+if followed by B 3 
+]
+;B[fr]LB[er:3][fr:4][gr:2]
+;W[fs]LB[er:3][fr:4][gr:2][fs:5]C[and 5 is a splendid idea.
+Because of the false eye B cannot cut W off.
+The way to win is by capitalising on the W cut 1 with 3 and 5 hane.]))
+(;B[fr]LB[fq:1][fr:2]C[Diag. 4 - Variation
+
+Though it hardly seems necessary to say this, B 2 from below in reply to W 1 is senseless,]
+;W[eq]LB[eq:3][fq:1][fr:2]
+;B[er]LB[eq:3][fq:1][er:4][fr:2]
+;W[dr]LB[eq:3][fq:1][dr:5][er:4][fr:2]C[and after 5 W wins.])))

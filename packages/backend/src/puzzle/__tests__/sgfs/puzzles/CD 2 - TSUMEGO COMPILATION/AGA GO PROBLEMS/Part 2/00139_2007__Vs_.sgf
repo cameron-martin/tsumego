@@ -1,0 +1,62 @@
+(;
+AB[bc][bd][cc][dc][fc][cf][oc][qd][pq][qp][ro][qm][np][bp][bq][cq][dq][fq][fp][go][gn][fm][hm][hl][hk][cn]
+AW[oe][qf][pl][ql][qo][qn][oo][ep][dp][cp][co][bo][dn][fo][fn][cl][gm][gl][gk][gj][ch][be][ce][cd][dd][ed]
+C[Black plays.
+
+Source:
+    Go World #37, Autumn 1984, p. 34
+    Kobayashi Koichi vs. Kato Masao
+    Commentary Ohira Shuzo]
+(;
+B[em]
+C[Correct.
+Black should have forced here first.];
+W[dm]
+LB[gh:a][el:b][eq:c]
+C[White would probably respond here, after
+which the aji from Black 1 allows Black A
+to reduce the side moyo.
+
+In the game, Black did not play at 1, and White
+got 50+ points on the left side.
+
+If White plays at B instead, Black C not only is
+sente, but also removes White aji in the area.]
+)
+    (;
+    B[hp]
+    C[Too slow.]
+    (;
+    W[mn]
+    C[But White in the game answers in kind with
+this slow move.];
+    B[lo];
+    W[ln];
+    B[ko]
+    C[After Black surrounds the bottom, White does
+not have a chance to win.]
+    )
+        (;
+        W[lq]
+        C[Correct.
+
+White has no risk of losing this stone,
+so the game is still up for grabs.]
+        (;
+        B[lo];
+        W[iq];
+        B[hr];
+        W[nq];
+        B[oq];
+        W[mr]
+        C[And White can put up a tough fight.]
+        )
+            (;
+            B[mq];
+            W[jq]
+            C[And White has good prospects.]
+            )
+        )
+    )
+)
+

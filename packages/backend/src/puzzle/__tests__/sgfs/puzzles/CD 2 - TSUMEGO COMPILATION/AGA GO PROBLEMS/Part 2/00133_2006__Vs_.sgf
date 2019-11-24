@@ -1,0 +1,54 @@
+(;
+AB[qd][nc][qj][pq][qq]
+AW[ed][po][ql][qp][mq]
+C[Black's response to the marked White play?
+
+Source:
+American Go Journal, Vol. 17, No. 1, March 1982, p.16.]
+TR[mq]
+(;
+B[oo]
+C[Correct.
+
+Black, an amateur shodan, should
+have played here.];
+W[op];
+B[pp]
+C[Black now has this very strong sequence.];
+W[oq];
+B[qo];
+W[pn];
+B[no]
+C[Black has no reason to fear this fight.]
+)
+    (;
+    B[op]
+    C[Failure.
+Black missed the good opportunity
+in the previous line.];
+    W[nn]
+    C[White develops nicely.]
+    (;
+    B[nq]
+    C[And in the game, Black makes
+another faulty play here.];
+    W[mp]
+    C[White says "Thank you", by confining
+Black to the corner.]
+    )
+        (;
+        B[mp]
+        C[Black should have stretched out by
+attaching here.];
+        W[lp];
+        B[mo]
+        LB[nq:a]
+        C[Now White has two groups to tend to,
+while Black's group has access to the
+center.
+
+A White play at A is somewhat awkward.]
+        )
+    )
+)
+

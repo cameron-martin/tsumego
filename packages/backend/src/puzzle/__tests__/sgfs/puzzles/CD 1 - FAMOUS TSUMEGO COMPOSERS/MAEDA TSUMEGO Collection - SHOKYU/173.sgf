@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[oe][pe][qe][re][sd][mb][qb][ob][oc]AW[rc][rd][pb][pc][pd][oa][rb]
+N[173]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[有一些着法明显不能成功。计算不复杂，小心即可。
+
+难度：☆☆]N[审题])
+(;B[sc]C[黑1从外围压缩白棋眼位是正规着法]N[正解];W[sb]C[白2必然];B[ra]C[黑3也是必然]
+;W[qd]C[白4接上是最强抵抗];B[pa]C[黑抛劫。
+劫杀正解。])
+(;B[sc]N[失败];W[sb];B[ra];W[qd];B[qa];W[pa]C[双活。]))

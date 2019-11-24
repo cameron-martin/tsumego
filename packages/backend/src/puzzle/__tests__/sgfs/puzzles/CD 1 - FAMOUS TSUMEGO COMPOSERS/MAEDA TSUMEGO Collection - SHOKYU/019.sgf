@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[bl][el][fl][gl][hk][hj][hi][gh][fh][eh][dh][ch][bh][ah][dl][cl]AW[bk]
+[ak][aj][ai][bi][ej][ei][ek][fi][gi][gj][gk][fk][cj]N[019]AP[MultiGo:4.4.4]SZ[19]
+AB[al]MULTIGOGM[0]
+
+(;C[空间太小，选择太少，找出正解吧。
+
+难度：☆]N[审题])
+(;B[dj]N[正解];W[di]C[白2从另一侧打吃的话，变化类似];B[ci];W[dk];B[ck]C[白死。])
+(;B[ci]N[失败];W[ck]C[黑缺少计算]))

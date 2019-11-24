@@ -1,0 +1,19 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cq][dn][qc][pc][oc][nc]
+AB[fp][jp][pp][pj][pd][od][qd]
+LB[dd:2][dn:6][cq:4][fp:5][jp:7][pj:9][pp:3][pd:1][qd:11][od:13]
+LB[oc:14][nc:8][qc:10][pc:12]
+C[Problem 46. Black to play.  
+
+After White 14, how should Black play so as to make the most efficient use of his moyo below ? ]
+;B[me]
+LB[fn:B][nd:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the vital point of Black's moyo. Without this move, White would turn at A and the three black stones in the upper right would become heavy. Jumping to Black B instead of 1 is also a good move, but Black must take countermeasures against White A first. <= ]
+)
+)

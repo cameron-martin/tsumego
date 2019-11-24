@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qf][ne][me][md][mc][oc][lb][kb][ma][rc][rd][qd][pe]AW[mb][nb][nd]
+[od][pd][pc][qc][rb][sb]N[054]AP[MultiGo:4.4.4]SZ[19]AB[oe]MULTIGOGM[0]
+
+(;C[净杀可能吗？劫杀呢？计算吧。]N[审题])
+(;B[ob]N[正解];W[pb]C[黑1立下，白2只能挡住];B[pa]C[黑3扳是手筋];W[qa]C[白4只能打]
+;B[na];W[oa]C[劫杀正解。])
+(;B[ob]N[变化1];W[pb];B[pa];W[nc];B[na]LB[qa:A]C[白气紧，不能在A位打];W[oa];B[ob]
+C[白死。])
+(;B[ob]N[变化2];W[pa];B[pb];W[qb];B[nc])
+(;B[nc]N[失败1];W[ob]C[白是活形。])
+(;B[pa]N[失败2];W[ob]))

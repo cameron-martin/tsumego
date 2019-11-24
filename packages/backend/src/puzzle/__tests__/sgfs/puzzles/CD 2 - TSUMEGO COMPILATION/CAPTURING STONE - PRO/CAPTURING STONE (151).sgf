@@ -1,0 +1,236 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][be][cd][df][ec][ed]
+AW[ae][ag][bf][ce][cg][ef][fb][ff][gc][gd]PL[W]C[White to play.
+
+Capturing stones - Via a Ko Fight
+
+Source: Igo Hatsuyo-ron.]
+(
+;W[de]
+(
+;B[bb]
+(
+;W[ab]
+(
+;B[ad]
+;W[cb]
+;B[db]
+(
+;W[ba]
+(
+;B[bc]
+;W[da]
+;B[ea]
+;W[eb]
+;B[ca]C[RIGHT
+Ko Fight])
+(
+;B[cc]
+;W[bc]C[Black Death]))
+(
+;W[bc]
+;B[ba]C[Black Alive]))
+(
+;B[ac]
+;W[cb]
+(
+;B[cc]
+;W[ba]
+;B[db]
+;W[bc]C[RIGHT
+])
+(
+;B[ba]
+;W[cc]
+;B[dc]
+;W[bc]
+;B[aa]
+;W[dd]C[Black Death]))
+(
+;B[bc]
+;W[db]C[Black Death]))
+(
+;W[db]
+;B[eb]
+;W[ea]
+;B[cb]
+;W[dc]
+;B[dd]C[Black Alive]))
+(
+;B[db]
+(
+;W[dd]
+(
+;B[bb]
+;W[cc]
+;B[bc]
+;W[dc]
+;B[cb]
+;W[ad]C[Black Death])
+(
+;B[dc]
+;W[bb]C[Black Death]))
+(
+;W[bb]
+;B[dd]C[Black Alive]))
+(
+;B[dd]
+(
+;W[ca]
+;B[db]
+;W[da]
+;B[ea]
+;W[eb]
+;B[ba]
+;W[cb]
+;B[bb]
+;W[cc]C[Black Death])
+(
+;W[db]
+;B[eb]
+;W[ea]
+;B[cb]
+;W[ca]
+;B[ba]C[Ko Fight]))
+(
+;B[eb]
+;W[dd]
+;B[dc]
+;W[bb]
+;B[cc]
+;W[cb]
+(
+;B[ad]
+;W[ea]
+;B[da]
+;W[fa]
+;B[db]
+;W[ba]
+;B[ab]
+;W[bc]C[Handle 5])
+(
+;B[ba]
+;W[ab]
+;B[ad]
+;W[ea]
+;B[da]
+;W[fa]
+;B[db]
+;W[bc]C[Handle 5]))
+(
+;B[ad]
+(
+;W[db]
+(
+;B[cb]
+;W[eb]
+;B[bb]
+;W[ca]
+;B[ba]
+;W[cc]
+;B[ab]
+;W[bc]
+;B[dc]
+;W[dd]
+;B[ac]
+;W[cc]C[Black Death])
+(
+;B[eb]
+;W[bb]
+;B[dc]
+;W[cc]
+;B[da]
+;W[dd]C[Black Death]))
+(
+;W[eb]
+;B[db]
+(
+;W[bb]
+;B[cb]
+;W[dd]
+;B[ab]
+;W[cc]
+;B[dc]
+;W[bc]
+;B[af]C[Ko Fight])
+(
+;W[cb]
+;B[bb]
+;W[cc]
+;B[dc]
+;W[ba]
+;B[da]
+;W[bc]
+;B[ab]
+;W[dd]
+;B[af]C[Ko Fight])))
+(
+;B[cb]
+;W[ab]
+(
+;B[bc]
+;W[dc]
+;B[dd]
+;W[db]
+;B[eb]
+;W[ea]C[Black Death])
+(
+;B[ac]
+;W[bb]C[Black Death])
+(
+;B[ad]
+;W[dd]
+;B[dc]
+(
+;W[eb]
+;B[db]
+;W[bb]
+(
+;B[bc]
+;W[ba]
+;B[af]C[Loose Liberity Ko])
+(
+;B[ba]
+;W[bc]
+;B[da]
+;W[cc]C[Black Death]))
+(
+;W[da]
+(
+;B[ca]
+;W[bb]
+;B[bc]
+;W[ba]
+(
+;B[eb]
+;W[ea]
+;B[af]C[Ko Fight])
+(
+;B[af]
+;W[db]C[Black Death])
+(
+;B[db]
+;W[af]C[Black Death]))
+(
+;B[bb]
+;W[ca]
+;B[ba]
+;W[bc]C[Black Death])
+(
+;B[db]
+;W[bc]
+;B[bb]
+;W[ac]
+;B[cc]
+;W[ca]C[Black Death])))))
+(
+;W[db]
+;B[de]
+;W[dg]
+;B[dc]
+(
+;W[cb]
+;B[cf])
+(
+;W[cf]
+;B[cb])))

@@ -1,0 +1,39 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bl][am][fm][bn][dn][en][ao][co][fo][go][ho][io][cp][ip][aq][bq][cq]AB[bj][ck][cl][bm][cm][cn][do][eo][bp][ep][gp][hp][dq][iq][jq][br][cr]C[Ex. 15 - Strategem
+
+The 9 W stones on the left side are in a position to be captured, but B has a serious defect and cannot complete the capture.]PL[W]
+(;W[eq]LB[eq:1]C[Diag. 2 - Correct
+
+W 1 hits B's vital point dead on.]
+(;B[fp]LB[fp:2][eq:1]C[If B 2 tsugi, (cont.)]
+;W[dr]LB[fp:2][eq:1][dr:3]C[ W plays ate 3 from below (cont.)]
+;B[dp]LB[dp:4][fp:2][eq:1][dr:3]C[If B 4 (cont.)]
+;W[er]LB[dp:4][fp:2][eq:1][dr:3][er:5]C[B connects at 5 and breathes again])
+(;B[fq]LB[eq:1][fq:2]C[Diag. 3 - Variation
+
+W tsuke 1 wonderfully restricts all of B's movement. If B 2 ate from this side
+
+]
+;W[er]LB[eq:1][fq:2][er:3]C[W 3 sagari ]
+;B[dr]LB[eq:1][fq:2][dr:4][er:3]C[then if B 4 (cont.)]
+;W[fp]LB[fp:5][eq:1][fq:2][dr:4][er:3]C[W 5]
+;B[dp]LB[dp:6][fp:5][eq:1][fq:2][dr:4][er:3]
+;W[fr]LB[dp:6][fp:5][eq:1][fq:2][dr:4][er:3][fr:7]C[and 7 are successful.])
+(;B[er]LB[eq:1][er:2]C[Diag. 4 - Variation
+
+If B plays ate from below ]
+;W[fq]LB[eq:1][fq:3][er:2]
+;B[dp]LB[dp:4][eq:1][fq:3][er:2]C[then 4, his aim is to start a semeai with the W group on the left (cont.)]
+;W[fp]LB[dp:4][fp:5][eq:1][fq:3][er:2]C[but W's simple plays 5 (cont.)]
+;B[dr]LB[dp:4][fp:5][eq:1][fq:3][dr:6][er:2]
+;W[fr]LB[dp:4][fp:5][eq:1][fq:3][dr:6][er:2][fr:7]C[and 7 are good]
+;B[ar]LB[dp:4][fp:5][eq:1][fq:3][ar:8][dr:6][er:2][fr:7][fs:A]
+;W[bs]LB[dp:4][fp:5][eq:1][fq:3][ar:8][dr:6][er:2][fr:7][bs:9]C[ and after 9, B is helpless.
+There is a way for B to resist with ko by means of the hane "A", but this is too far ahead.]))
+(;W[er]LB[er:1]C[Diag. 1 - Failure
+
+W 1 nozoki, while apparently a severe move, is just so much nonsense. ]
+;B[eq]LB[eq:2][er:1]C[It forces B 2 tsugi but then nothing much has happened.]
+;W[dr]LB[eq:2][dr:3][er:1]C[W's cut 3 is unsuccessful ]
+;B[fr]LB[dq:2][dr:3][er:1][fr:4]C[after B 4.]))

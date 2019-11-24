@@ -1,0 +1,7 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[bm][eq][cq][dq][bk][do][dm][dn][cn][pc][qd]
+[bd][pf][md][cc][ci][dh][df][de][dd][cd][ep][fq]AW[bc][oc][dc][ec][gd][ef][cg][cb]
+[cm][co][bn][dp][cp][bq][br][bo][oe][jc][er][pp][qo][mq]C[Black to play. What is the best move for Black to ulitize his thick position on the left?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[kp];W[mo];B[kn]C[CORRECT Black should make a high extension aiming to cap White's stone on the right. A large moyo takes shape in the lower left.])
+(;B[kq];W[kp];B[jp];W[lp];B[jo];W[jq];B[iq];W[jr];B[ir];W[kr]C[There's a big difference between the low and high extension in the correct answer. Black's stones end up overconcentrated.]))

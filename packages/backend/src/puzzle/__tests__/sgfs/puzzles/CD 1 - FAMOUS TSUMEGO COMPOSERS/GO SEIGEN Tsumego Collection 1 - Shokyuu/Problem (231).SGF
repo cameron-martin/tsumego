@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]GN[第231题]HA[0]EV[吴清源诘棋集（初级编）]AB[db][dc][ed][fc][gc][hc][ib]AW[cb][cc][cd][dd][ee][df][gf][gd][hd][ic][jc][kb][lc]C[白先
+
+在实战中很多人认为黑棋是无条件活，就这样放过去了。]
+
+(;W[eb]N[正解]C[白1是常用攻击手段];B[ea];W[ia]C[白3托正是时机];B[ja];W[ha];B[ga];W[fb]C[黑溃灭])
+(;W[eb]N[失败图1];B[ea];W[fb];B[gb];W[ia];B[ja];W[ha];B[jb]C[黑净活])
+(;W[da]N[失败图2]C[白1不是要点];B[ea];W[ec];B[eb];W[fd];B[gb]C[黑净活]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qe][pe][oe][ne][nd][ld][lc][kb][jc][oc][rb][rc]AW[lb][mb][mc][nc]
+[ob][qb][qd][pd]N[011]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;LB[pc:A][qc:B]C[黑A、B之类的着手是不行的，请计算确认之。]N[审题])
+(;B[pb]LB[od:A][qc:B][qa:C]C[黑1挖，以下：白A则黑B、白B则黑C，白不行]N[正解];W[pc]
+;B[pa];W[qa];B[qc];W[oa];B[pb]C[白死。])
+(;B[pb]N[变化];W[na];B[la];W[pc];B[pa];W[qa];B[qc];W[oa];B[pb])
+(;B[qa]N[失败1];W[pb];B[od];W[na])
+(;B[na]N[失败2];W[od]))

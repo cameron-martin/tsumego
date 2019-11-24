@@ -1,0 +1,37 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ac][ad][ak][bd][bf][bi][bk][ce][cf][cj][df][dh][di]
+AW[ab][al][bc][bl][cb][cd][ck][dd][de][dj][dk][ef][eg][eh][ei]PL[W]C[White to play.
+
+Endgame moves - Break into
+
+Source: Guan-Zhi-Pu.]
+(
+;W[af]
+(
+;B[ag]
+;W[bg]
+;B[ah]
+;W[dg]
+;B[cg]
+;W[ch]
+;B[bh]
+;W[ci]
+;B[bj]C[RIGHT
+])
+(
+;B[be]
+;W[ai]
+;B[bj]
+;W[bh]
+;B[ch]
+;W[bg]C[RIGHT
+Both Alive]))
+(
+;W[ai]
+;B[ah]
+;W[bh]
+;B[ag]
+;W[bg]
+;B[af]
+;W[dg]
+;B[cg]))

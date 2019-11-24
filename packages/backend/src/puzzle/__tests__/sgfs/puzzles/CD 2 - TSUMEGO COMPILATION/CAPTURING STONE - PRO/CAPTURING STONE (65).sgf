@@ -1,0 +1,38 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cd][ce][db][dc][de][ed][ee]
+AW[be][cf][df][dh][eb][ec][ef][fd][fe][gc]PL[W]C[White to play.
+
+Capturing stones - Reduce Opponent's Liberties]
+;W[bc]
+;B[bd]
+;W[ad]
+;B[cc]
+;W[bb]
+;B[bf]
+;W[ae]
+;B[bg]
+;W[ca]
+(
+;B[ac]
+;W[ab]
+;B[da]
+(
+;W[bh]C[RIGHT
+Black Death])
+(
+;W[ea]
+;B[af]
+;W[ac]
+;B[ba]
+;W[aa]
+;B[ch]C[Both Alive]))
+(
+;B[da]
+;W[ac]
+;B[ba]
+(
+;W[cb]C[RIGHT
+])
+(
+;W[aa]
+;B[cb]C[Ko Fight])))

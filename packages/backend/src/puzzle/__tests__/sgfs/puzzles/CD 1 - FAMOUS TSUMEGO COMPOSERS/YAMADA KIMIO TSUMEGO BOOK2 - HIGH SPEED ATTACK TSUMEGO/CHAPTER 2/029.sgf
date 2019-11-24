@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][oe][of][pf][qf][rf][re][pa][ob][nb]AW[qe][pe][pd][pc][oc][pb]
+[qb][rd]N[029]AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[正解、失败图都需要计算。逐点进行吧。]N[审题])
+(;B[ra]N[正解];W[qa];B[rc];W[sd];B[rb];W[oa];B[se]C[白死。])
+(;B[ra]N[变化];W[qa]C[黑1点时，白2必须阻渡];B[rc];W[sd];B[rb];W[sb];B[sc])
+(;B[rc]N[失败1];W[sd];B[ra];W[rb])
+(;B[rc]N[失败2];W[sd];B[sc];W[rb];B[se];W[qd];B[ra];W[qa])
+(;B[rb]N[失败3];W[ra];B[rc];W[sc];B[sb];W[sd])
+(;B[sc]N[失败4];W[rc]))

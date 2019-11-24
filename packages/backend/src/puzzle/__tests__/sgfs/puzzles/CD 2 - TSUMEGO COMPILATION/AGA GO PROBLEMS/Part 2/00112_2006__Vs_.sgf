@@ -1,0 +1,41 @@
+(;
+AB[rb][qb][pb][oc][od][pd][qd][of][og][qg][ok][nj]
+AW[pa][ob][na][mb][nc][nd][pc][qc][rc][ng][oh][ni][oj][pi][pk][qj]
+C[White plays.
+
+Source:
+   The Endgame, Chap. 5, pp. 89-90
+   Tomoko Ogawa & James Davies, Ishi Press]
+(;
+W[re]
+C[Fails.];
+B[rd];
+W[rg]
+C[If White tries to escape...];
+B[rh]
+C[Black captures all the White stones.]
+)
+    (;
+    W[rf]C[Correct];
+    B[re]
+    C[Forced.  If Black doesn't block, White can give
+his three White stones enough liberties
+to kill the three Black stones in the corner.];
+    W[rg]
+    (;
+    B[qf];
+    W[qh]C[And White has taken a bite out of Black's territory.]
+    )
+        (;
+        B[rh]
+        C[If Black tries to cut off the two White
+stones...];
+        W[qh];
+        B[ri];
+        W[qf];
+        B[pg];
+        W[rj]
+        C[And Black loses a whole lot more.]
+        )
+    )
+)

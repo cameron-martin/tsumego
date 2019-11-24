@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][jc][je][lc][ob][pa][qb][qc][pc][rd][re][qe][qf]
+AB[dc][cf][hc][nc][oc][rb][rc][pe][pd][qd][ne]
+LB[pa:1][pb:A]
+C[Problem 109. Black to play.  
+
+White has captured the black stone at A captures with 1. What should Black do now ? ]
+(;B[ra]
+TE[2]
+C[Correct Answer.  
+
+Black should play 1 ... ]
+(;W[qa];B[nb]
+C[... and 3, ... ]
+;W[sc]
+LB[ma:B][na:A]
+C[... then leave the situation as it is. After 4, Black A (or Black B, threatening ko) could later become double threats against the white groups on the left and the right. <= ]
+)
+(;W[nb]
+C[If White 2, ... ]
+;B[qa]
+C[... Black plays 3 and White collapses. <= ]
+))
+(;B[nb]
+C[Failure.  
+
+Simply playing Black 1 is lukewarm. ]
+;W[ra]
+C[White plays 2 and there is no longer any danger to her stones in the corner. <= ]
+)
+)

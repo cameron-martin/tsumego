@@ -1,0 +1,41 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ab][ai][bb][bg][bh][bi][cc][cd][ce][cf]
+AW[aj][bc][bj][cb][cg][ch][ci][db][dc][dd][de][df][dj]PL[W]C[White to play.
+
+Attack - Capture
+
+Source: Guan-Zhi-Pu.]
+(
+;W[bf]
+;B[be]
+(
+;W[af]
+;B[ae]
+;W[ac]
+;B[ag]
+;W[ba]C[RIGHT
+])
+(
+;W[ac]
+(
+;B[af]
+;W[ba]C[RIGHT
+])
+(
+;B[ad]
+;W[af]C[RIGHT
+]))
+(
+;W[ae]
+;B[af]
+;W[ad]
+;B[bf]
+;W[ba]
+;B[bd]))
+(
+;W[bd]
+;B[be]
+;W[ae]
+;B[bf]
+;W[ad]
+;B[af]))

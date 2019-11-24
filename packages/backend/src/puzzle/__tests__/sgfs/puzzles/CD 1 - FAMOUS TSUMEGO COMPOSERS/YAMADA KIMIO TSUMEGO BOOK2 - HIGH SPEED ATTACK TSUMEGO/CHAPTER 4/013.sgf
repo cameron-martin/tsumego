@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[od][nc][ne][me][le][kd][kc][kb][jb][rb][rc][qd]AW[ka][lb][lc][mc]
+[md][nd][oc][pc][qb]N[013]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;LB[nb:A]C[看样子，黑A位立下是必然的一手。]N[审题])
+(;B[nb]N[正解];W[ob];B[na];W[oa];B[qa];W[pa];B[ra]C[白死。])
+(;B[nb]N[变化1];W[ob];B[na];W[pa];B[ra];W[qc];B[qa];W[ma];B[ld])
+(;B[nb]N[变化2];W[mb];B[na];W[ob];B[qa];W[pa];B[ra];W[oa];B[qc])
+(;B[nb]N[失败];W[mb];B[ob];W[pb];B[qc];W[na];B[qa];W[oa];B[la];W[nb]))

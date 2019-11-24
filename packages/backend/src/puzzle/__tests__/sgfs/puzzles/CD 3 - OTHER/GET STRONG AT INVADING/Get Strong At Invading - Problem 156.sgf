@@ -1,0 +1,40 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dg][cn][dp][jp][no][nq][nr][oe]
+AB[oq][pp][pn][nm][qj][qd][oc][nd][id][fc]
+LB[nd:2][oe:1]
+C[Problem 156. White to play.  
+
+When Black considers the top important, he will play 2. In that case, White will focus her attention on the right. Try to think a few moves ahead and give White a shape that is not heavy. ]
+(;W[pd]
+TE[2]
+C[Correct Answer.  
+
+White must first play 1, ... ]
+;B[pc];W[qe]
+C[... then 3. ]
+;B[rd]
+(;W[pi];B[qi];W[ph];B[pj];W[ni];B[oj];W[mf]
+LB[qq:A]
+C[Up to 11, White makes a fine sabaki. Black has solidified his lower right side, but there still remains a white invasion at A. <= ]
+)
+(;W[qh]
+C[Failure.  
+
+White 5 is heavy. ]
+;B[oi]
+TR[rd]
+C[Black launches an attach with 2 and this stone, in concert with the marked stone, will make it hard for White to get sabaki. <= ]
+))
+(;W[qe]
+LB[pd:@]
+C[Failure.  
+
+If you immediately attach with 1, neglecting to first play at @, ... ]
+;B[pd]
+C[... Black will play 2 himself, ... ]
+;W[pe];B[mf]
+C[... then jump out into the center with 4. White's three stones are heavy and almost without hope. <= ]
+)
+)

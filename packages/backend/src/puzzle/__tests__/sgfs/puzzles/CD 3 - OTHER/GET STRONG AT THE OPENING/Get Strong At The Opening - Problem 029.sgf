@@ -1,0 +1,21 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][dq]
+AB[ce][pd][pp]
+LB[pd:1][pp:3][dc:2][ce:5][dq:4]
+C[Problem 29. White to play.  
+
+The formation of White 2 and 3 is known as mukai-komoku (opposing komoku). Black 5 is not necessarily bad, but White can get the initiative on the left side. Where should she play ? ]
+;W[dh]
+TE[2]
+C[Correct Answer.  
+
+White should pincer around 1, ... ]
+;B[df];W[fd];B[bc];W[jc]
+C[... play out the joseki, and let Black approach again at the bottom with 6. ]
+;B[co];W[dl]
+LB[dh:1][cl:A]
+C[Now White can pincer again with 7 (or A), but this time, besides being a pincer, it is also an extension from her stone at 1. White is satisfied with this result. <= ]
+)
+)

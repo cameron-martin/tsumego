@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[od][pd][qe][re][sd][rg][oa][ob]AW[rc][rd][qd][pc][pb][rb]N[107]AP[MultiGo:4.4.4]
+SZ[19]AB[oc]MULTIGOGM[0]
+
+(;C[角上经典死活。
+
+难度：☆☆]N[审题])
+(;B[sb]C[黑1点进去，锐利]N[正解];W[sc]C[白棋必挡];B[qa];W[qb];B[ra]C[由于白棋气紧，无法避免被杀的结果。])
+(;B[sb]N[变化];W[sc];B[qa];W[pa];B[qb]C[接不归。])
+(;B[qa]N[失败];W[qb];B[sb];W[ra]C[黑1先点的次序不对。]))

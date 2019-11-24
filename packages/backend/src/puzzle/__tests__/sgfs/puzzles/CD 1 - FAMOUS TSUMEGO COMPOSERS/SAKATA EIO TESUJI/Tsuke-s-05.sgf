@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[co][fo][dp][bq][cq]AB[dl][cm][dq][eq][gq][br][cr]C[Ex. 5 - Attack
+
+Perhaps there are people who cannot imagine that there is a vital point at which to attack this W group, but in fact a stone played at just such a point will take away W's eye shape.]PL[W]
+(;B[dn]LB[dn:1]C[Diag. 1 - Failure
+
+B 1 kosumi attacks W's cutting point 
+]
+;W[do]LB[dn:1][do:2]C[ but when W answers at 2 it is not much to worry about. ]
+;B[bn]LB[bn:3][dn:1][do:2]C[then even after the kosumi 3, B has fallen short.
+After the kosumi 3 he no longer has the strength to shake W by the roots.
+])
+(;B[bo]LB[cn:A][bo:1]C[Diag 2 - Correct
+
+B 1 should penetrate thus far.
+After this one tsuke move W loses the possibility of making eyes on the side.
+If Black next plays tsuppari at "A", W will find it necessary to worry about his cutting point. ]
+;W[bn]LB[bn:2][bo:1]C[Diag. 3 - Failure
+
+If W plays 2 hanedashi in reply to B1 it turns out as B expected. ]
+;B[cn]LB[bn:2][cn:3][bo:1]C[B 3 cuts ]
+;W[bp]LB[bn:2][cn:3][bo:1][bp:4]C[If W 4, ]
+;B[do]LB[bn:4][cn:3][bo:1][co:2][do:5]C[allowing the cut with B 5 ]
+;W[ao]LB[bn:2][cn:3][ao:6][do:5][bp:4]C[W 6 takes ]
+;B[ep]LB[bn:2][cn:3][ao:6][do:5][bp:4][ep:7]C[and B 7, W is reduced to living on the side.
+This is an extremely bad result for him])
+(;W[dn]LB[dn:1]C[Diag. 4 - Reference
+
+If it is W to play in this position, 1 kosumi is the correct move.
+With this move added the attack in Diagram 2 no longer exists.]))

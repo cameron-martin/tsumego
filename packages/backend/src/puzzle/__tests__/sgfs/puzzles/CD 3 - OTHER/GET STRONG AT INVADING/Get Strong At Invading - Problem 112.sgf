@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][je][jc][lc][rb][qb][qc][pc][rd][qe][qf]
+AB[dc][cf][hc][ne][nc][pe][pd][qd][rc][pb]
+LB[rb:2][rc:1]
+C[Problem 112. Black to play.  
+
+To avoid the threats in Problem 109, White plays 2. What is Black's response ? ]
+(;B[re]
+TE[2]
+C[Correct Answer.  
+
+Black ataris with 1, ... ]
+;W[sc];B[qg]
+C[... then makes the nose attachment of 3. ]
+;W[rf]
+C[If White 4, ... ]
+;B[pf]
+C[... Black presses from above with 5. <= ]
+)
+(;B[ng]
+TE[2]
+C[Correct Answer.  
+
+Black may not want to play the moves in the Correct Answer immediately. He could first jump to 1 to eliminate any danger to his group. ]
+;W[he];B[re];W[sc];B[qg]
+LB[re:3]
+C[After that, he plays 3 and 5, looking on these as forcing moves. ]
+;W[rf];B[fc]
+C[<= ]
+)
+)

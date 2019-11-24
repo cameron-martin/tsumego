@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[or][qs][rs][nq][mq][mr][lr][qp][rp][pq]AW[qq][qr][ps][pp][op][oq]
+[qo][ro][kr][lq][lp][mp][jq][rq]N[012]AP[MultiGo:4.4.4]SZ[19]AB[pr]MULTIGOGM[0]
+
+(;C[黑棋在下边只有一眼，必须要在角上想点办法。
+
+难度：☆]N[审题])
+(;B[sr]C[黑1是先手]N[正解];W[sp];B[rr]C[看看黑的角地，黑地6目，白得先手。])
+(;B[sr]N[变化];W[sq];B[os]C[黑3还是提子，黑地依然6目，白还是先手。与正解并无不同。])
+(;B[ns]N[失败1];W[ls];B[sr];W[sp];B[rr]C[黑地4目，损了两目官子。])
+(;B[ls]N[失败2];W[ns];B[os];W[sp]C[黑死。]))

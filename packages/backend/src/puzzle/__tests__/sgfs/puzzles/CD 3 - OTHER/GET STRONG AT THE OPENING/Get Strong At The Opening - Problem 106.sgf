@@ -1,0 +1,36 @@
+(;
+GM[1]
+SZ[19]
+AW[pp][ph][ic][kc][lc][mc][oc][pc]
+AB[cd][dq][qe][od][ne][ld][kd][jd]
+TR[ph]
+C[Problem 106. Black to play.  
+
+The marked white stone is in the shadow of Black's thick wall at the top. How should Black attack it ? ]
+(;B[pk]
+TR[ph]
+
+TE[2]
+C[Correct Answer.  
+
+Black doesn't want to pincer too severely because White might decide to sacrifice her marked stone. Therefore, Black plays a two-space pincer with 1. ]
+;W[ni]
+C[If White plays 2, ... ]
+;B[qn]
+C[... Black approaches with 3. ]
+;W[qo];B[pn];W[np];B[nk];W[li];B[he]
+C[With the sequence to 9, Black is making good use of his thickness at the top. <= ]
+)
+(;B[qn]
+LB[pk:@][np:A]
+C[Failure.  
+
+When Black plays the approach move of 1, he thinks that White is going to respond with A, enabling him to pincer the white stone by extending to @. But this is too much to expect. ]
+;W[ql]
+C[White would pincer at 2 instead, ... ]
+;B[qq]
+C[... and Black has no other alternative but to invade at 3. ]
+;W[qp];B[pq];W[op];B[rp];W[ro];B[rq];W[qo];B[nq]
+C[With the joseki to 11, White has made thickness at the bottom, effectively neutralising Black's wall at the top. <= ]
+)
+)

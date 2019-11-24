@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[dg][fj][cn][dn][fo][eo]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][jj][fc][dm][em][fp][fn]
+TR[eo]
+C[Problem 32. Black to play.  
+
+After White draws back with the marked stone (White 2 in Problem 28), what is the correct move for Black ? ]
+;B[go]
+TE[2]
+C[Correct Answer.  
+
+Black must block with 1 ... ]
+;W[ep]
+C[... even though White can cut through with 2 ... ]
+;B[eq]
+(;W[fq]
+C[... and 4. ]
+;B[gp];W[dq];B[er];W[dr];B[fr];W[cp]
+LB[ei:A]
+C[Black must give White the corner with the sequence to 10, but he gets a moyo at the bottom in exchange. Now that Black's stones are strong, he can split the two white stones on the left in two with a move around A. <= ]
+)
+(;W[gn]
+C[Unreasonable for White.  
+
+Cutting on the outside with White 4 is unreasonable. ]
+;B[gq];W[ho];B[gp];W[gm]
+C[After White extends to 8, ... ]
+;B[cm]
+C[... Black 9 kills the stones in the corner. ]
+;W[dq]
+C[If White cuts at 10, ... ]
+;B[cq];W[dr];B[bp]
+C[... Black plays the sequence to 13. <= ]
+)
+)

@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[co][cp][bq][dq][eq][fq][gq][br][fr][hr][hs][is]AB[dp][ep][fp][gp][hp][cq][iq][cr][dr][er][ir][kr][gs]C[Ex. 5 - Semeai 
+
+A semeai pure and simple.
+There are two vital points and you may lose your way but, since there are 3 liberties apiece, B, who plays first, is naturally one step ahead.]
+(;B[fs]LB[fs:1]C[Diag. 1 - Failure
+
+B1 hikidashi from his single stone is no good ]
+;W[gr]LB[gr:2][fs:1]C[after W 2 ate, ]
+;B[js]LB[gr:2][fs:1][js:3]C[and B 3 ]
+;W[es]LB[gr:2][es:4][js:3]C[the capture at W 4 automatically reduces B's liberties and he loses the semeai])
+(;B[hq]LB[hq:1]C[Diag. 2 - Failure
+
+B 1 atekomi seems to be the vital point 
+]
+;W[es]LB[hq:1][es:2]C[ but, since it allows W 2 hane, it is useless. ]
+;B[fs]LB[hq:1][es:2][fs:3]C[If B 3 ]
+;W[gr]LB[hq:1][gr:4][es:2]C[W 4 captures 2 stones and this is the same as the previous diagram.
+If W is allowed to play at point 2, B cannot win.])
+(;B[es]LB[es:1]C[Diag. 3 - Correct
+
+B 1 is the point to ensure victory. ]
+(;W[cs]LB[cs:2][es:1]C[If W 2 hane ]
+;B[hq]LB[hq:3][cs:2][es:1]C[B 3 atekomi and this time B wins.
+By not hurrying to attack and calmly playing sagari B reaps his reward.
+])
+(;W[fs]LB[es:1][fs:2]C[Diag. 4 - Correct
+
+Even if W replies to B 1 with W 2, it comes to the same thing. ]
+;B[hq]LB[hq:3][es:1][fs:2]C[B 3 ate wins.])))

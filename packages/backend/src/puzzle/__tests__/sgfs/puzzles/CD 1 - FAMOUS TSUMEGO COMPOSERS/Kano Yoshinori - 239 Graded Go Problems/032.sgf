@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]PM[1]C[Problem 32. Black to play
+How should Black play so as to connect up all his stones?]GN[ ]AW[jk][hj][fk][gj][kj]PW[ ]PB[ ]AB[ki][hk][ji][ij]
+(
+;C[Correct Answer
+By playing at 1, Black links up his stones into one strong group.]B[ik]
+)
+(
+;C[Wrong Answer
+...]B[hi]
+;C[...If White is allowed to cut at 2, Black's stone can be captured and White's stones are all connected.]W[ik]
+)
+
+)

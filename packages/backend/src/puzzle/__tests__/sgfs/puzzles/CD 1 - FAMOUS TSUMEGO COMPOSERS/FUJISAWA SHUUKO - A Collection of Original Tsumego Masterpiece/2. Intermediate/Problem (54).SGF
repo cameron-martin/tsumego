@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[ne][od][pd][qd][qc][rc][la][lb][lc][ld][me]AW[rb][qb][pc][oc][nd][mc][mb]C[黑先 从中间二子处入手。]
+
+(;B[ob]
+(;W[pb];B[nb]C[正解 黑先白死])
+(;W[nb];B[pb];W[nc];B[sb];W[pa];B[ra];W[oa];B[ma]C[变化]))
+(;B[nb];W[ob];B[ma];W[oa];B[na];W[sb]C[失败]))

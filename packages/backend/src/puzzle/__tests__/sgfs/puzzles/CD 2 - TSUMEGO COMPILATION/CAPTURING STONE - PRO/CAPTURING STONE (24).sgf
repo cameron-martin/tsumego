@@ -1,0 +1,38 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][bd][bh][ce][cf][ci][dg][dh][di]
+AW[ai][bb][bj][bl][cc][cd][cj][db][de][df][dj][eg][eh][ei]PL[W]C[White to play.
+
+Capturing stones - Destroy Opponent's Eye Shape
+
+Source: Guan-Zhi-Pu.]
+;W[bg]
+;B[cg]
+(
+;W[ag]
+(
+;B[bi]
+;W[bf]
+;B[ah]
+;W[be]
+;B[aj]
+(
+;W[ad]C[RIGHT
+])
+(
+;W[ac]C[RIGHT
+]))
+(
+;B[bf]
+;W[bi]C[RIGHT
+]))
+(
+;W[bf]
+;B[be]
+;W[ah]
+;B[ag]
+;W[af]
+;B[ae]
+;W[ag]
+;B[bi]
+;W[aj]
+;B[ac]))

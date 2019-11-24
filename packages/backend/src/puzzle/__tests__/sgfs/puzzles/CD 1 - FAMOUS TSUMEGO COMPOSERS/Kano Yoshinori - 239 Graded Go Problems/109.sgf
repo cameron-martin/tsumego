@@ -1,0 +1,14 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[Problem 109. Black to play.
+What move does Black make to live?]PM[1]PB[ ]AB[fl][hl][hk][em][im][il][el][fk][gj]AW[ek][jl][jk][dl][gk][fj][hj][fi][hi][ik][dk][gh]GN[ ]FG[259:]PW[ ]
+(
+;C[Correct Answer
+Black 1 is the move that gives the black group life.]B[gm]
+)
+(
+;C[Wrong Answer
+If Black were to capture a stone with 1...]B[gl]
+;C[...White 2 would kill the black group.]W[gm]
+)
+
+)

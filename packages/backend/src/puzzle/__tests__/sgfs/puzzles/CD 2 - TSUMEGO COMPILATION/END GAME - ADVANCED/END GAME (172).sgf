@@ -1,0 +1,29 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[aj][bc][bg][bh][bj][cc][cd][ce][cf][ci][cj]
+AW[ab][ak][bb][bk][cb][cg][ch][ck][dc][dd][de][df][di][dj]PL[W]C[White to play.
+
+Endgame moves - Settle Shape with Sente
+
+Source: Guan-Zhi-Pu.]
+(
+;W[ai]
+;B[bi]
+;W[ae]
+;B[ah]
+;W[ac]
+;B[af]C[RIGHT
+])
+(
+;W[ae]
+(
+;B[ai]
+;W[ac]
+;B[af]C[RIGHT
+])
+(
+;B[ac]
+;W[ai]
+;B[bi]
+;W[bf]
+;B[be]
+;W[af]C[Black Death])))

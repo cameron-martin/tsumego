@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[rd][qe][pe][oe][nd][md][lc][kc][kb][ka][pa][qb][rb]AW[la][lb][na]
+[nb][nc][mc][od][pd][pb][qc]N[005]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[空间很小，选择少。小心不要成劫。]N[审题])
+(;B[oa]LB[pc:A][ob:B]C[黑1长时，白A则黑B冲，白死]N[正解];W[ob];B[pc]C[白死。])
+(;B[oa]N[变化];W[qd];B[oc])
+(;B[qd]N[失败1];W[pc];B[ob];W[oc])
+(;B[ob]N[失败2];W[oc]C[劫。])
+(;B[pc]N[失败3];W[oc];B[qd];W[oa];B[pc];W[qa]))

@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[pd][pe][oe][ne][md][ld][jd][kc][jb][ib][ma][qa][qb][qc]AW[pb][pc][oa][od][nd][nc][mc][kb][lb]C[黑先 直接冲击白的眼形。]
+
+(;B[ob]
+(;W[nb];B[pa];W[oc];B[na]C[正解 黑先劫])
+(;W[pa];B[ka];W[la];B[mb];W[lc];B[nb];W[ja];B[na]C[变化]))
+(;B[ka];W[la];B[mb];W[lc];B[nb];W[ja];B[ob];W[oc]C[失败])
+(;B[na];W[ob]C[失败]))

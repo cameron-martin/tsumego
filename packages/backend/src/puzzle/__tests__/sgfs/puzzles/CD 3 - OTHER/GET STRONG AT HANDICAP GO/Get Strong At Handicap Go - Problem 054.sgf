@@ -1,0 +1,49 @@
+(;
+GM[1]
+SZ[19]
+AW[dl][em][dn][fq][hq][qf][qm]
+AB[pj][dj][dp][pd][pp][dd][en][eo][cq][jq][np][nd]
+TR[hq]
+C[Problem 54. Black to play.  
+
+White has extended with the marked stone. How should Black continue ? ]
+(;B[jo]
+TE[2]
+C[Correct Answer.  
+
+Jumping to Black 1 is the strongest move. ]
+;W[gn]
+C[If White lightly jumps to 2, ... ]
+;B[fm]
+C[... Black will exchange 3 ... ]
+;W[fl]
+C[... for 4, ... ]
+(;B[gp]
+C[... then peep at 5. ]
+;W[hp];B[ho];W[go];B[hn];W[fp];B[gm];W[dr];B[cr];W[jr];B[kr];W[ir]
+C[White can live with the sequence to 16, ... ]
+;B[kq]
+C[... but she is confined to the bottom and Black is thick on the outside. <= ]
+)
+(;B[gm]
+C[White is thin.  
+
+Black 5 is not good, ... ]
+;W[in]
+C[... but White is too thin to jump lightly to 6. ]
+;B[gl]
+C[Black will turn once at 7, ... ]
+;W[fk];B[hp]
+C[... then attach with 9. ]
+;W[gp];B[ho]
+LB[hn:B][go:A]
+C[After Black 11, the points A and B are miai, so White's stones are trapped. <= ]
+))
+(;B[io]
+C[How the game continued.  
+
+Black attacked White with the knight's move of 1. This was also a strong move, but ... ]
+;W[ho]
+C[... it led to complications after White attached with 2. <= ]
+)
+)

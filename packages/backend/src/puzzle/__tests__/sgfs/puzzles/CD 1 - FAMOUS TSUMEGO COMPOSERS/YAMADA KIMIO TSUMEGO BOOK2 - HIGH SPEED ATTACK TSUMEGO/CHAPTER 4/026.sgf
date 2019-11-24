@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[mb][mc][nd][ne][oe][pf][qf][rf][re][qc][pa][oa]AW[qb][rc][rd][ob]
+[oc][nc][od][pd][pe]N[026]AP[MultiGo:4.4.4]SZ[19]AB[nb]MULTIGOGM[0]
+
+(;LB[qa:A][sd:B][qe:C]C[黑如果走A、B或C位的话，等于是让白做活。]N[审题])
+(;B[ra]N[正解];W[qa];B[rb];W[pb];B[qd];W[sb];B[sd];W[sa];B[qe])
+(;B[ra]N[变化];W[rb];B[qa])
+(;B[rb]N[失败1];W[ra];B[sb];W[qd])
+(;B[qd]N[失败2];W[qe];B[ra];W[qa];B[rb];W[pc])
+(;B[pb]N[失败3];W[ra];B[pc];W[sb];B[qa];W[sd]C[劫。]))

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pf][of][pd][ne][me][md][lc][mb][rb][rc][rd][re]AW[na][nb][nc][nd]
+[pe][qe][qd][qc][qb]N[020]AP[MultiGo:4.4.4]SZ[19]AB[qf]MULTIGOGM[0]
+
+(;LB[oe:A][od:B]C[白有缺口，而且气还很紧。
+
+在死活题中，黑A白B这样的交换，通常是对缺口的极大浪费，\:)]
+N[审题])
+(;B[od]N[正解];W[oe];B[pb];W[pa];B[pc];W[qa];B[ra];W[oa];B[oc]C[白死。])
+(;B[oe]N[失败1];W[od];B[qa];W[pa];B[pb];W[pc];B[oa];W[ob])
+(;B[pb]N[失败2];W[pc])
+(;B[qa]N[失败3];W[pa];B[od];W[pc];B[ob];W[oe];B[oc];W[ra])
+(;B[pc]N[失败4];W[pb]))

@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[pf][pg][rf][rg][se][qb][rc][nb][ob][nd][od]AW[rb][sd][pb][pc][pd][qd][qe]C[白先 立的方向。]
+
+(;W[sb];B[pa];W[ra];B[rd];W[re];B[sc];W[qc]C[正解 白先活])
+(;W[qc];B[sb];W[qa];B[rd];W[re];B[sc];W[sa]C[失败])
+(;W[re];B[ra];W[sb];B[pa]C[失败])
+(;W[ra];B[rd];W[re];B[sc];W[qc];B[sb]C[失败]))

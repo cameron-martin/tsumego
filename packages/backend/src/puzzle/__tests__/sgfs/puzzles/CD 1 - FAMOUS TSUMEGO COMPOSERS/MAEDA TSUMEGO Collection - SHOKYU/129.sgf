@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[op][oo][po][qo][rn][qm][nr][or][ps][qr][qq][mq]AW[rp][ro][qp][pp]
+[pq][pr][oq][nq][rq]N[129]AP[MultiGo:4.4.4]SZ[19]AB[mp]MULTIGOGM[0]
+
+(;C[黑棋断头很多，因此要小心出现接不归。]N[审题])
+(;B[rs]N[正解])
+(;B[qs]N[失败1];W[rs];B[rr];W[sr]C[白可以顽强做劫。])
+(;B[rr]N[失败2];W[sr];B[qs];W[mr];B[lr];W[rs])
+(;B[rr]C[黑1本是错着]N[变化];W[rs]C[白2夹也行];B[sr]C[黑3立下抵抗的话];W[qs];B[ss]
+;W[qs];B[rs];W[sq];B[ns];W[qs];B[qr]C[这个劫对黑更不利。]))

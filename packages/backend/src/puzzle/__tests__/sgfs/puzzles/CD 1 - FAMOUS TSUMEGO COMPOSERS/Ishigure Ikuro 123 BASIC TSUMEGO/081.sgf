@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qa][rb][rc][rd][re][rf][qd][qg][pg][og][nf][mf][md][nd][oc][lc][kc]
+[jc][jb]AW[pb][qb][qc][pd][od][oe][of][pf][qe][kb][lb][mc][nc][pa]N[081]AP[MultiGo:4.4.4]
+SZ[19]AB[ja]MULTIGOGM[0]
+
+(;LB[qf:A]C[白走A位是后手一眼，因此黑必须先手破掉白在边上的眼。显然，按部就班从外向内挤压白眼位，在这里行不通了。]
+N[审题])
+(;B[nb]N[正解];W[mb];B[na]C[黑3立下，冷静，充分利用白气紧的缺陷。];W[ob];B[ka]C[白死。])
+(;B[nb]N[变化];W[mb];B[ma];W[na];B[oa];W[pc])
+(;B[na]N[失败];W[nb]))

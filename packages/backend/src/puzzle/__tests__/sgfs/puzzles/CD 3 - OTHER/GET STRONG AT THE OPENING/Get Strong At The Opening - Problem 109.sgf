@@ -1,0 +1,41 @@
+(;
+GM[1]
+SZ[19]
+AW[ce][fe][cn][pq][mq][qo]
+AB[dc][gc][ch][dp][jq][qd]
+TR[cn]
+C[Problem 109. Black to play.  
+
+The marked white stone on the left is outnumbered. How should Black attack it ? ]
+(;B[co]
+TE[2]
+C[Correct Answer.  
+
+Black should make a diagonal attachment with 1. ]
+;W[dn]
+LB[fp:A]
+C[White will stand at 2, but instead of jumping to A, ... ]
+;B[ck]
+C[... Black will pincer with 3. The two white stones are now heavy and under attack. ]
+;W[ep]
+C[If White attaches with 4, ... ]
+;B[eq]
+C[... after the exchange of Black 5 ... ]
+;W[fp]
+C[... for White 6, ... ]
+;B[do]
+C[... Black 7 is the vital point. ]
+;W[en]
+C[After White 8, ... ]
+;B[dq]
+C[... Black secures his stones in the corner with 9. <= ]
+)
+(;B[fp]
+C[Failure.  
+
+If Black jumps to 1, ... ]
+;W[ck]
+TR[ch]
+C[... White plays the checking extension of 2, so Black's marked stone comes under attack. <= ]
+)
+)

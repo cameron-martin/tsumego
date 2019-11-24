@@ -1,0 +1,24 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bb][bg][bh][cb][cc][ci][dd][ec][ed][ef][ei][fe][gc]
+AW[ab][bc][be][cd][cf][cg][dc][de][ee]PL[W]C[White to play.
+
+Defense - Escape]
+;W[ff]
+;B[eg]
+;W[eb]
+;B[db]
+;W[fd]
+(
+;B[ge]
+;W[fc]
+;B[dc]
+(
+;W[fb]C[RIGHT
+])
+(
+;W[gb]C[RIGHT
+]))
+(
+;B[fc]
+;W[ge]C[RIGHT
+]))

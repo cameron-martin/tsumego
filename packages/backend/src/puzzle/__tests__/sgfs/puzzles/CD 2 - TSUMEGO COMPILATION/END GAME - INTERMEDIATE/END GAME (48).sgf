@@ -1,0 +1,28 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ae][bc][be][cb][ce][dc][dd]
+AW[af][bf][cf][da][db][de][ec][ed][ef][fb]PL[W]C[White to play.
+
+Endgame moves - Threaten the Opponent's Stones]
+;W[ba]
+(
+;B[ca]
+;W[ad]
+(
+;B[cc]
+;W[bd]
+;B[cd]
+;W[ab]
+;B[ac]
+(
+;W[bd]C[RIGHT
+])
+(
+;W[ad]C[RIGHT
+]))
+(
+;B[bd]
+;W[cc]))
+(
+;B[bb]
+;W[ca]
+;B[ab]))

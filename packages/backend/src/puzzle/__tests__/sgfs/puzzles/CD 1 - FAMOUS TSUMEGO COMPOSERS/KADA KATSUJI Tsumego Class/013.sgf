@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[dp][do][eo][fo][go][ho][ip][iq][jr][js][eq][cs][br][bq]AW[dq][dr]
+[cr][er][ds][ep][fp][gp][gq][ir]C[B]N[013]AP[MultiGo:4.4.4]SZ[19]AB[cq]MULTIGOGM[0]
+
+(;LB[fr:A]C[黑A打看上去就是让人犯错误的，多半不行，请计算确认。
+
+难度：B]N[审题])
+(;B[gr]N[正解];W[hr];B[fs];W[fr];B[hs];W[gs]C[劫杀正解。])
+(;B[gr]N[变化];W[hr];B[fs];W[hq];B[fr]LB[hs:A]C[黑5也可先在A位扳];W[fq];B[hs];W[is]
+;B[hp];W[gs])
+(;B[gr]N[失败1];W[hr];B[hs];W[fs])
+(;B[fr]N[失败2];W[fq];B[gr];W[hr]))

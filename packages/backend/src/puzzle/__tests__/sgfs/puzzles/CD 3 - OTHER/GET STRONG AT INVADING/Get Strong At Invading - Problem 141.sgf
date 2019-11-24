@@ -1,0 +1,22 @@
+(;
+GM[1]
+SZ[19]
+AW[gc][lc][jd][nb][qf][pf][qj]
+AB[dd][ec][cf][nd][pd][pb][qe]
+C[Problem 141. White to play.  
+
+How does White invade the corner ? ]
+;W[oc]
+TE[2]
+C[Correct Answer.  
+
+White first peeps at 1. ]
+;B[od]
+C[Black must defend at 2 to avoid being confined to the corner. ]
+;W[qc]
+C[White then invades at 3. ]
+;B[pc];W[re];B[rd];W[qd];B[rc];W[pe];B[qb]
+LB[qc:3]
+C[After White 3, the moves to Black 10 are inevitable. White is satisfied because her stones on the right have become strong. <= ]
+)
+)

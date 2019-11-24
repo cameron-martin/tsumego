@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[do][ip][em][ho][gm][fo][cm][fm][gq][dm][gn][hq][hp][cn]GN[ ]AB[co][hn][fq][jq][cp][dn][in][en][go][jp][fn][iq][jo][ep][gp][dp]PM[1]C[Problem 192. Black to play.
+A group of two and a group of three black stones are in atari. Which group should Black save?]PW[ ]
+(
+;B[fp]C[Correct Answer
+Black should play at 1, saving two stones and sacrificing three...]
+;W[eo]C[...In this way, he kills the five white stones on the right.]
+)
+(
+;B[eo]C[Wrong Answer
+If Black plays 1 here...]
+;W[fp]C[...White captures two stones with 2 and now his five stones on the right are connected to the ones above.]
+)
+
+)

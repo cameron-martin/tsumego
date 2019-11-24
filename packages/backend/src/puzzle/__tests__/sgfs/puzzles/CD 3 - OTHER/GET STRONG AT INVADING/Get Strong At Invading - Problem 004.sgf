@@ -1,0 +1,18 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][je][nc]
+AB[dd][hc][lc][pd][pf]
+LB[ne:A][je:1]
+C[Problem 4. Black to play.  
+
+How does Black answer the one-space jump of White 1 ?  
+
+<See Reference Diagram 4 for White jumping to A instead of 1.> ]
+;B[le]
+TE[2]
+C[Correct Answer.  
+
+Simply jumping to 1 is adequate for Black. White is split into two groups. ]
+)
+)

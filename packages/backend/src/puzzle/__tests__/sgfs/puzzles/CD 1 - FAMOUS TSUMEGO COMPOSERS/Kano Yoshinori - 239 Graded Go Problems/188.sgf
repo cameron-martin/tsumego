@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[lq][mq][lr]GN[ ]AB[pp][nq][np][mr]PM[1]C[Problem 188. Black to play.
+(Please move one step forward to see the problem diagram...)]PW[ ]
+;W[nr]C[How should Black respond to White 1?]
+(
+;B[or]C[Correct Answer
+Even though he losses a stone, Black 2 is the correct answer.]
+)
+(
+;B[ms]C[Wrong Answer
+If Black tries to escape with 2...]
+;W[or]C[...White extends to 3 and Black's two stones on the edge cannot escape. This is a big loss for Black.]
+)
+
+)

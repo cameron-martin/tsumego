@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cj][bk][cl][cm][em][fn][gn][hn][io][bp][dp][ep][fp][ip][bq][cq][iq][fr]AB[bm][cn][bo][co][do][eo][fo][go][ap][cp][gp][jp][gq][lq]C[Ex. 8 - Shinogi
+
+B's group has no eyes so he has to try and make some. What is the best way out of this difficult situation ? 
+I will give you a clue.
+If you create difficulties for W you can connect along the edge.]
+(;B[gr]LB[gr:1]C[Diag 1 - Failure
+
+B's simple osae 1 is no good ]
+;W[dr]LB[dr:2][gr:1]C[after W's cautious move 2. ]
+;B[ir]LB[dr:2][gr:1][ir:3]C[Even if B tries to  make an eye with 3 ]
+;W[jr]LB[dr:2][gr:1][ir:3][jr:4]C[W4 hane]
+;B[hq]LB[hq:5][dr:2][fr:1][ir:3][jr:4]C[and B5, ]
+;W[jq]LB[hq:5][jq:6][dr:2][gr:1][ir:3][jr:4]C[allowing W tsugi 6, the points to destroy the eyes on either side are miai, so in the end he cannot live.])
+(;B[fq]LB[fq:1]C[Diag 2 - Failure
+
+If B comes out at 1
+]
+;W[er]LB[fq:1][er:2]
+;B[eq]LB[eq:3][fq:1][er:2]C[and 3 he fails ]
+;W[dq]LB[dq:4][eq:3][fq:1][er:2]C[since W carefully plays 4]
+;B[gr]LB[dq:4][eq:3][fq:1][er:2][gr:5]
+;W[ds]LB[dq:4][eq:3][fq:1][er:2][gr:5][ds:6]C[and 6 first. ]
+;B[fs]LB[dq:4][eq:3][fq:1][er:2][gr:5][ds:6][fs:7]C[After B 7 ]
+;W[bs]LB[dq:4][eq:3][fq:1][er:2][gr:5][bs:8][ds:6][fs:7][gs:A]C[and W 8 there is no chance for B to play "A" with sente. (If he could do so he would be able to connect.)])
+(;B[er]LB[er:1]C[Diag. 3 - Correct
+
+B 1 tsuke is the suji and this is the only way he can connect.]
+;W[fq]LB[fq:2][er:1]C[If W 2 ]
+;B[gr]LB[fq:2][er:1][gr:3]C[B 3 ]
+(;W[fs]LB[fq:2][er:1][gr:3][fs:4]
+;B[gs]LB[fq:2][er:1][gr:3][fs:4][gs:5]C[and  5 are effective ]
+;W[dr]LB[fq:2][dr:6][er:1][gr:3][fs:4][gs:5]C[and after W 6,]
+;B[jr]LB[fq:2][dr:6][er:1][gr:3][jr:7][fs:4][gs:5]C[B is able to connect at 7.
+1 tsuke is the vital point to create difficulties for W.])
+(;W[dr]LB[fq:2][dr:6][er:1][fr:4][gr:3]C[Diag. 4 - W dies
+
+W cannot play kosumitsuke 4 in reply to B 1 and 3. ]
+;B[fs]LB[fq:2][dr:4][er:1][gr:3][fs:5]C[B 5 ]
+;W[dq]LB[dq:6][fq:2][dr:4][er:1][gr:3][fs:5]C[forces W 6]
+;B[br]LB[br:7]C[and after B7 tsuke the corner is dead.])))

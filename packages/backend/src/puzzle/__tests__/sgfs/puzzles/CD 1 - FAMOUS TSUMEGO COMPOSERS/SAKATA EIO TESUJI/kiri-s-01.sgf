@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[eo][fo][ho][io][bp][cp][dp][gp][cq][fq][jq][kq][kr]AB[ep][hp][bq][dq][eq][gq][hq][ar][cr][ir][jr][bs]C[5. Kiri
+
+Ex. 1 Stratagem
+
+The effect of a good kiri is wonderful.
+It is a sharp tesuji, but because awful things can happen when it is misused you should use it with circumspection in actual games.
+Try to split the B group in two.]PL[W]
+(;W[fr]LB[fr:1]C[Diag. 1 - Failure
+
+If W simply comes out at 1,]
+;B[fp]LB[fp:2][fr:1]C[allowing B 2 to cut, he fails.]
+;W[go]LB[go:3][fp:2][fr:1]C[After W 3 ]
+;B[er]LB[go:3][fp:2][er:4][fr:1]C[and B 4, W has lost his 2 stones.])
+(;W[fp]LB[fp:1]C[Diag. 2 - Failure
+
+Of course W 1 tsugi is no good.]
+;B[fr]LB[fp:1][fr:2]TR[aa]C[B plays watari 2 and it is all over.])
+(;W[dr]LB[sp:2][dr:1]C[Diag 3 - Correct
+
+W's cut 1 here is an interesting move. ]
+(;B[er]LB[dr:1][er:2]C[B plays kakae 2,]
+;W[fr]LB[dr:1][er:2][fr:3]C[then if W comes out at 3, B is inconvenienced by the stone against which he played the kakae and he cannot cut W off by means of tsukkomi.])
+(;B[fr]LB[dr:1][fr:2]C[Diag. 4 - Correct
+
+B 2 watari in reply to W 1 kiri ]
+;W[er]LB[dr:1][er:3][fr:2]C[ends in a snapback after W 3.
+Try to appreciate the effect of the cut.])))

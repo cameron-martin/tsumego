@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nd][ne][oe][pe][pd][pc][pb][ob][qc][rd][mb][mc]AW[pa][oc][rb][rc]
+[qa][qd][qe][qf][pf][of][nf][mf][me][ld][lb][lc]N[134]AP[MultiGo:4.4.4]SZ[19]AB[md]
+MULTIGOGM[0]
+
+(;LB[oa:A][ma:B]C[黑A肯定不行，白B一扳，黑就死了。
+
+难度：☆☆]N[审题])
+(;B[ma]N[正解];W[oa];B[na];W[nc];B[ra];W[qb];B[sb]C[劫活正解。])
+(;B[ma]N[变化];W[nc];B[oa];W[nb]C[白4冲不过是后手双活而已。])
+(;B[nc]N[失败];W[na];B[ma];W[oa]C[看清楚，角上没棋。黑死。]))

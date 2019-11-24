@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[nd][mc][mb][pa][qb][qc][oc]AW[nc][la][lb][lc][ld][me][ne][oe][pe]
+[pd][rc][rb][rd][qa]N[008]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[空间小变化少。逐点计算吧，或者根据第一感开始计算。]N[审题])
+(;B[na]C[黑1尖是防守的急所]N[正解];W[pc];B[pb]C[黑活。])
+(;B[na]N[变化];W[pb];B[pc];W[oa];B[ob])
+(;B[pc]N[失败];W[nb];B[na];W[ob]))

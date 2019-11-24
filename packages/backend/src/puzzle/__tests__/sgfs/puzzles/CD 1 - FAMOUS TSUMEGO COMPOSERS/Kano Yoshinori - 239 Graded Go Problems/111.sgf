@@ -1,0 +1,14 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[Problem 111. Black to play.
+How does Black make a living group at the bottom?]PM[1]PB[ ]AB[ek][hl][il][el][fk][gl]AW[jl][jk][dl][gk][hk][fj][ik][dk][dj][ej]GN[ ]FG[259:]PW[ ]
+(
+;C[Correct Answer
+Black 1 is the move that gives the black group life.]B[fm]
+)
+(
+;C[Wrong Answer
+If Black lets White play 2...]B[em]
+;C[...all the black stones die.]W[fm]
+)
+
+)

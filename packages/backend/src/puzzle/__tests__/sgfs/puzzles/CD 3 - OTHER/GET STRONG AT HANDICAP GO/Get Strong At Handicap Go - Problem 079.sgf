@@ -1,0 +1,40 @@
+(;
+GM[1]
+SZ[19]
+AW[nc][nq][cq][dq][fq][cn][dm][hc][be][ed][db][eb][ec][fd][df][dh][cl][pc][ob][qb][bm][bo][gh][ph]
+AB[pj][dj][dp][pd][pp][dd][pf][qm][ip][co][dn][en][fc][bd][ce][de][ee][fe][dc][cb][ck][qc][qd][kd][ci][bj][go][cg][he]
+LB[cg:2][gh:1][ph:3]
+C[Problem 79. Black to play.  
+
+The game in Problem 75 continued with the exchange of White 1 for  Black 2. White then invaded the right side with 3. How should Black respond ? ]
+(;B[og]
+TE[2]
+C[Correct Answer.  
+
+Black should go on the attack with 1 ... ]
+;W[oh];B[nh]
+C[... and 3. ]
+;W[oi]
+LB[oh:2]
+C[White must escape with 2 and 4. ]
+;B[ng]
+C[Black connects at 5 (the aggressive Black 5 at A is also possible, but it could lead to complications), ... ]
+;W[oj];B[pk];W[ok];B[ol];W[nl];B[om];W[lj]
+C[... White makes shape with the sequence to 12, but, in doing so, she helps Black secure territory on the lower right. ]
+;B[ih]
+C[Black now caps with 13, attacking the white stones on the left and the ones on the right. ]
+;W[lh]
+C[After exchanging 14 ... ]
+;B[me]
+LB[pq:B]
+C[... for Black 15, White still has to escape with her stones on the right, so Black will be able to take a huge territory on the left. Finally, Black should aim to enclose the lower right corner with B. <= ]
+)
+(;B[lq]
+C[How the game continued.  
+
+The pincer of Black 1 was an interesting idea, but ... ]
+;W[pq];B[qq];W[qp];B[qo];W[rp];B[oq];W[pr];B[po];W[qr]
+TR[nq]
+C[... it enabled White to live in the corner with the sequence to 10. Moreover, the marked stone still had some aji remaining. See Problem 83 for the continuation. <= ]
+)
+)

@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[ec][gd][jc][qj][qm][cp][dq][fp][ck]
+AB[cc][de][od][qd][qh][po][pq][kp][co]
+C[Problem 105. Black to play.  
+
+There are a number of big extensions Black can play. Which one is the biggest ?? ]
+(;B[ch]
+LB[dl:B][cg:A]
+
+TE[2]
+C[Correct Answer.  
+
+If White makes a checking extension at A, the two black stones in the upper left will come under a strong attack. Therefore, Black extends to 1 to prevent this. The reason Black extends so tightly is because he intends to make a shoulder hit at B next. ]
+;W[mc]
+C[White 2 and ... ]
+;B[rn]
+C[... Black 3 are the natural continuation. <= ]
+)
+(;B[lc]
+C[Failure.  
+
+The checking extension of Black 1 is also a good move, ... ]
+;W[cg]
+C[... but White 2 is too big to allow; the Black stones there could find themselves uprooted and they would have to run for their lives. <= ]
+)
+(;B[ci]
+C[Failure.  
+
+Black 1 here ... ]
+;W[ek]
+LB[cg:A]
+TR[co]
+C[... could provoke White to jump to 2 and the marked black stone would be swallowed up in the white moyo. After this, White could aim at the invasion at A. <= ]
+)
+)

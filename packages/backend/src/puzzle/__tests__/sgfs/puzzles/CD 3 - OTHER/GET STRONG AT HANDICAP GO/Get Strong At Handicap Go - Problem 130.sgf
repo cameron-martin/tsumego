@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][co][cn][dm][cj][nq][qq][qp][pn][po][lp][mp]
+AB[dp][pd][pp][dd][cf][db][en][dn][cp][jq][oo][pq][qr][np][mo]
+TR[lp]
+C[Problem 130. Black to play.  
+
+How should Black answer White's extension with the marked stone (White 6 in the game continuation of Problem 126) ? ]
+(;B[jo]
+TE[2]
+C[Correct Answer.  
+
+By jumping to 1, Black attacks the three white stones and expands his moyo on the left. ]
+;W[lo]
+C[White must escape into the center with 2 ... ]
+;B[mn];W[ln]
+C[... and 4. ]
+;B[mm]
+LB[mn:3]
+C[After Black 3 and 5, ... ]
+;W[lm]
+C[... White will probably exchange 6 ... ]
+;B[ml]
+LB[pr:A]
+C[... for Black 7. Black has nothing to worry about, but he must be careful about the bad aji of White A. <= ]
+)
+(;B[lr]
+C[How the game continued.  
+
+Black 1 also attacked the white stones, but it is small. ]
+;W[on];B[or];W[nn];B[no];W[jp];B[ip];W[ln];B[mq]
+C[Up to 9, Black lived, but he was confined to the bottom and ... ]
+;W[iq];B[kp];W[jo];B[hq];W[ir];B[jr];W[hr];B[gq];W[ko]
+C[... White built a wall facing the center with the sequence to 18. ]
+;B[kq];W[qf]
+C[White next approached with 20 and built a vast moyo on the right side. <= ]
+)
+)

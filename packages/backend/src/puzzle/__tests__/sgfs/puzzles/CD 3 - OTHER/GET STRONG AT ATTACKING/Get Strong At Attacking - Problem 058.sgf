@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[gc][hc][fd][ed][dd][cd][be][oc][pd][qj][dj][el]
+AB[bd][bc][cc][dc][ec][fc][jc][mc][pp][cp][eq][cl]
+C[Problem 58. White to play.  
+
+How should White attack the two black stones at the top ? ]
+;W[me]
+TE[2]
+C[Correct Answer.  
+
+White should cap with 1, then, ... ]
+;B[je]
+C[... after Black jumps to 2, ... ]
+;W[kd]
+C[... peep with 3. ]
+;B[kc]
+(;W[jd]
+C[White can cut through with 5 ... ]
+;B[id];W[ic]
+C[... and 7. ]
+;B[ld]
+C[If Black breaks through into the center with 8, ... ]
+;W[ke];B[le];W[kf];B[lf]
+LB[le:10]
+C[... 10, and 12, ... ]
+;W[kg]
+C[... White gets a large moyo when she extends to 13. <= ]
+)
+(;W[he]
+C[Failure.  
+
+If White jumps to 5, ... ]
+;B[ld]
+C[... Black will reinforce with 6. <= ]
+)
+)

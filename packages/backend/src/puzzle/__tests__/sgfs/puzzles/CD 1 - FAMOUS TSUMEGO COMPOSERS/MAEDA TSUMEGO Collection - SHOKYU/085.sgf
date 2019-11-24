@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[bd][cf][df][ec][fc][gc][hc][fb][ib][ha][bb][bc]AW[eb][cd][de][ee]
+[fd][gd][hd][id][ic][jb][cb][dc]N[085]AP[MultiGo:4.4.4]SZ[19]AB[cc]MULTIGOGM[0]
+
+(;C[黑棋做活时，要利用白形的缺陷。
+
+难度：☆☆]N[审题])
+(;B[fa]N[正解];W[dd];B[gb]C[大家相安无事。])
+(;B[fa]N[变化];W[gb];B[da];W[ca];B[db];W[ea];B[db];W[da];B[ba]C[白不能强杀黑。])
+(;B[ea]N[失败];W[da]C[劫活，黑失败。]))

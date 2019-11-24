@@ -1,0 +1,60 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ac][bc][be][bg][bk][bl][cd][ce][cf][ch][ci][df][dj][dk][dl]
+AW[ab][bb][bm][cc][cg][cj][cm][db][dd][de][dg][dh][di][dm][ef][ej][ek][el]PL[W]C[White to play.
+
+Endgame moves - Break into]
+;W[ag]
+(
+;B[ah]
+;W[ai]
+;B[bh]
+;W[bj]
+;B[af]
+(
+;W[al]
+;B[bi]
+(
+;W[cl]C[RIGHT
+])
+(
+;W[ck]C[RIGHT
+]))
+(
+;W[ak]
+;B[bi]
+(
+;W[ck]C[RIGHT
+])
+(
+;W[cl]C[RIGHT
+]))
+(
+;W[cl]C[RIGHT
+])
+(
+;W[ck]C[RIGHT
+]))
+(
+;B[bh]
+(
+;W[ae]
+;B[af]
+;W[bf]C[White Ok])
+(
+;W[bj]
+(
+;B[bi]
+;W[aj]
+;B[ck]
+;W[ae]
+;B[af]
+;W[bf]C[White Ok])
+(
+;B[ck]
+;W[aj]
+;B[ai]
+;W[al]
+;B[bi]
+;W[ae]
+;B[bf]
+;W[bd]C[White Ok]))))

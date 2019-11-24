@@ -1,0 +1,50 @@
+(;
+GM[1]
+SZ[19]
+AW[db][eb][ed][fd][gd][lc][qf][qi][pm][qn][po][dp][dj]
+AB[cb][bc][dc][dd][ee][fe][gc][nc][pd][qd][ql][qo][qp][pq][nq]
+LB[ql:A]
+TR[qf]
+C[Problem 13. White to play.  
+
+Black has invaded at A. How should White respond ?  
+
+Note the presence of the marked White stone.  
+
+[You will find a supplement to this Problem Diagram as "Problem 137"] ]
+;W[rm]
+TE[2]
+C[Correct Answer.  
+
+White 1 prevents Black from linking up to his stones. ]
+(;B[rj]
+C[If Black 2, White plays on top with 3 and ... ]
+;W[qj];B[ri]
+C[... Black crawls with 4. ]
+(;W[qh]
+C[White 5 is now the  key move, ... ]
+;B[qk]
+C[... forcing Black to come back to correct the defect in his position by playing 6, but ... ]
+;W[ok]
+TR[rm]
+C[... White confines the black stones with the knight's move of 7. Since White 1 (the marked stone) is on the vital point, Black's stones have no chance of making two eyes. <= ]
+)
+(;W[qk]
+LB[ri:4]
+C[Failure.  
+
+After Black 4 in the Correct Answer, White should not draw back to 5 here. ]
+;B[qh]
+C[Black would then hane at 6 and ... ]
+;W[ph];B[qg];W[pg];B[rf];W[pf];B[rg]
+C[... link up his stones with ones above with the sequence to 12. Black's invasion has succeeded. <= ]
+))
+(;B[pj]
+C[Variation.  
+
+Instead of trying to live on the side, Black might play on the outside with 2 here. ]
+;W[qj];B[qk];W[rk]
+LB[qj:3]
+C[But after White 3 and 5, Black is left with three burdensome stones which can be easily attacked. <= ]
+)
+)

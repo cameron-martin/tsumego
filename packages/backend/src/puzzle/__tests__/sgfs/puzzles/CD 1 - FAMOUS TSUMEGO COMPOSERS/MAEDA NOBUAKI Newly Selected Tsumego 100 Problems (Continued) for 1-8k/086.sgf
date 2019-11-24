@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[id][jd][kd][kc][lc][mc][nc][nb][gc][gd]AW[le][ke][ic][oc][od][nd]
+[ld][je][ie][he][ge][fe][fd][fc][gb][hc][jc][ob]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[hd]
+MULTIGOGM[0]
+
+(;C[审题：黑棋只能从边上扩大眼位。]N[审题])
+(;B[jb]N[正解];W[ib];B[ja]C[黑3立下是先手];W[hb];B[na]C[板六，活了。])
+(;B[jb]N[变化];W[hb];B[lb]C[通常，黑3虎是做不活的，但左边白形有缺陷];W[ka];B[la]
+;W[ja];B[ib];W[ia];B[kb]C[黑活。])
+(;B[jb]N[失败];W[ib];B[ka];W[lb];B[hb];W[ia]))

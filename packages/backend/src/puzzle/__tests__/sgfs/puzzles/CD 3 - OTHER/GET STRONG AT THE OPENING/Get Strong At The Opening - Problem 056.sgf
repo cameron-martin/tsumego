@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][qj][dq]
+AB[pp][qd][oc]
+TR[qj]
+C[Problem 56. Black to play.  
+
+How should Black respond after White plays her marked stone ? ]
+(;B[do]
+LB[co:A]
+
+TE[2]
+C[Correct Answer.  
+
+It is best for Black to make an approach move at 1 or A to prevent White from making a corner enclosure. ]
+;W[co]
+C[If White attaches at 2, ... ]
+;B[cn];W[cp];B[dm];W[fq];B[ci]
+C[... the joseki to 7 will follow. ]
+;W[cg]
+C[Attacking Black's formation on the left with White 8 is now the most reasonable move. <= ]
+)
+(;B[co]
+TE[2]
+C[Correct Answer.  
+
+Also correct. <= ]
+)
+)

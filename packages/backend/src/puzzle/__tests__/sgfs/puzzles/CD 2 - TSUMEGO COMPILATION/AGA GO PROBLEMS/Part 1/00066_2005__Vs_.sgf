@@ -1,0 +1,57 @@
+(;
+AB[cd][pd][pl][ml][oo][no][mo][pq][oq][nq][hq]
+AW[dp][fq][kp][mp][on][nn][po][pp][qq][rp]
+TR[ml]
+C[White's response to Black's marked move?
+
+Source:
+    American Go Journal, Dec. 1981, Vol. 16, No. 4
+    2nd Tengen Final, 1981, game 2
+    Kobayashi Koichi 7P   vs.  Sugiuchi Masao 9P
+    Kobayashi's commentary.]
+(;
+W[ip]
+C[Inferior.
+A mistake by Sugiuchi.];
+B[mn];
+W[hp];
+B[ic]
+C[Black has sente to take the lead with this
+big fuseki point.];
+W[di]
+C[Mandatory.];
+B[pf]
+C[Black builds a deep moyo.
+And White has the tough task of
+how to best reduce Black's moyo.]
+)
+    (;
+    W[lm]
+    C[Correct.
+White must try to keep Black separated.]
+    (;
+    B[kr]
+    C[Kobayashi had intended to respond
+patiently here.]
+    )
+        (;
+        B[ko]
+        C[This looks like a strong response.];
+        W[jo]
+        C[But this White response leaves Black
+with no continuation.]
+        (;
+        B[mm];
+        W[lo]
+        )
+            (;
+            B[kn];
+            W[ip];
+            B[mm]
+            LB[ln:a]
+            C[And White can aim at separating Black
+stones with A.]
+            )
+        )
+    )
+)

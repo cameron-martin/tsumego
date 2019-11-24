@@ -1,0 +1,9 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[bg][jk][le][bd][ke][cg][kd][je][df][he][ej][gd][ic][bf][ak][fk][kg][fg][ck][de][lj][jf][dk][aj][bh][cd][ff][mf][gg][ah][lf][lg][cl][bk][kj][li][mj][kf][gk][hk][kl][hj][jc][fd][fe][ik][dj][ef][if][lk][hf][ae]GN[ ]AB[md][fc][jh][ei][bl][dg][lc][gc][eg][bj][ci][cf][me][bi][ki][fj][bc][hg][ld][hc][ii][gj][di][ad][ll][ie][dc][kc][jg][hi][mh][ig][jj][kh][hd][mg][eb][lh][ed][ee][fi][ai][fh][dd][gh][cc][id][cj][mi][jd][ij][jb][ch][ac]PM[1]C[SECTION 10. ENDGAME
+Problem 119. Determining the score.
+The game is over. Both sides have taken three prisoners and both have three dead stones left on the board. Determine the score.]PW[ ]
+;FG[775:]AE[eb][ic][ib][kl][lk][cf][jc][cl][jb][bl][ll]AW[ek][be][ge][cf][kk][ag][af][ce][gf][cf]AB[mc][dh][hh][ec][ji][gi][ih][eh]PM[1]C[Correct Answer
+You should arrange the territories so that the stones are disturbed as little as possible. Both Black and White have 28 points, so the result is a draw.]
+;FG[259:]AE[ik][jk][kk][kj][lj][mj][kc][hc][gc][hd][id][jd]AW[fl][fm][gm][gl][hm][hl]AB[fb][fa][lb][ma][la][mb]PM[2]C[For Reference
+This arrangement of territories is also correct and gives the same result.]
+)

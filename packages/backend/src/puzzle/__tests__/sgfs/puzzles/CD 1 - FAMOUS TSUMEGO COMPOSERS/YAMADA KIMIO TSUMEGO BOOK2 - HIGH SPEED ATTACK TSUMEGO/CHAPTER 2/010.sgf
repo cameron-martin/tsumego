@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][oc][nb][mc][pa][se][re][qd]AW[ob][oa][pc][qc][qb][rd]N[010]AP[MultiGo:4.4.4]
+SZ[19]AB[pd]MULTIGOGM[0]
+
+(;TR[se]C[白棋气紧，而且黑棋有硬腿。可以逐点计算，也可以根据第一感开始计算。]N[审题])
+(;B[na]C[黑1打吃，白必须接。如果白二子被吃，由于余下的空间太小而且黑有硬腿，白无法做出两眼来。]
+N[正解];W[pb];B[rb];W[rc]C[白4还必须接上];B[sc]C[白气紧的毛病暴露无遗。
+白死。])
+(;B[rb]C[黑1靠这里，貌似手筋]N[失败1];W[rc];B[sc];W[sd];B[na];W[sb]C[次序就是生命。])
+(;B[sc]N[失败2];W[rc];B[sd];W[sb])
+(;B[sb]N[失败3];W[rc];B[sd];W[sc];B[ra];W[qa]))

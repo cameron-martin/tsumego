@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pd][od][nd][nc][nb][na][sd][re][qe]AW[oa][ob][oc][qb][rc][rd]N[079]
+AP[MultiGo:4.4.4]SZ[19]AB[rg]MULTIGOGM[0]
+
+(;C[空间小选择少。逐点计算也能得到正解。]N[审题])
+(;B[sb]C[黑1点，白必须阻止黑联络]N[正解];W[sc];B[qc]C[黑3挤入是手筋];W[rb];B[pb]
+C[白死。])
+(;B[rb]C[黑1挤这里不行]N[失败1];W[sb];B[ra];W[pc])
+(;B[ra]N[失败2];W[pc]))

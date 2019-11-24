@@ -1,0 +1,10 @@
+(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[pp][nd][ne][pc][pd][pf][pe][qe][re]AW[jc][nc]
+[oc][md][qf][rf][pg][of]C[Black to play. How should Black attack the four white stones on the right side?]
+AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[qi]
+(;W[oh];B[pj];W[nj];B[pm]C[CORRECT Black should threaten first, and if White defends with the diagonal, Black continues to establish a position on the lower right side.])
+(;W[pi];B[pj];W[oi];B[qh];W[qg];B[pk]C[CORRECT Black should threaten first, if White attaches, Black will play a hane, then make a forcing move and defend.
+White's stones are floating in the center and he must secure eyes for them, so Black will be able to make more territory on the right side.]))
+(;B[qg];W[qh];B[rg];W[rh];B[sf];W[qn];B[ph];W[pi];B[og];W[oh];B[pg];W[qj];B[oi]
+;W[oj];B[nh];W[mj]C[Black must not capture the two stones. White can make beautiful sabaki while Black ends up with an overconcentrated position.]))

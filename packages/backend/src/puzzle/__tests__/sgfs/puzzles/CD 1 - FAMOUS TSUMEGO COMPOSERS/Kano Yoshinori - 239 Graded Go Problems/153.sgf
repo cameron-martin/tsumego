@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[eb][ea][gb][fc][db][ba][ec][cb][gc][fa]GN[ ]AB[gd][dc][bc][bb][ed][ga][hc][hb][ha][fd][cc]PM[1]C[Problem 153. Black to play and kill White. (1 move)
+What move does Black make to kill all the white stones?]PW[ ]
+(
+;B[ca]C[Correct Answer
+Sacrificing one stone at Black 1 kills White by giving him a false eye.]
+)
+(
+;B[ab]C[Wrong Answer
+Playing any other move like Black 1...]
+;W[ca]C[...lets White live with 2. This move gives him two real eyes.]
+)
+
+)

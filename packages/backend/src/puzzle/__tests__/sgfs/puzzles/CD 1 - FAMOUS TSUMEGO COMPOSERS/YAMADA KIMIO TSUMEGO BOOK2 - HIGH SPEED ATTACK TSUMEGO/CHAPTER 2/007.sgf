@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pe][oe][ne][me][ld][kd][kc][kb][ka][rb][rc][qc][oc]AW[lb][lc][md]
+[nd][nc][nb][pb][pc][qb]N[007]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;TR[ka]LB[od:A]C[棋形很熟悉的样子。观察棋形：白气紧；黑有硬腿。黑A接肯定不行。]
+N[审题])
+(;B[mb]LB[od:A]C[黑1挖是手筋，前提是要计算明白：白A位吃住黑一子无法做活。]N[正解]
+;W[ma];B[la];W[mc];B[ob];W[od];B[oa]C[白死。])
+(;B[mb]N[变化1];W[la];B[ma];W[mc];B[ob])
+(;B[mb]N[变化2];W[od];B[ma];W[qa];B[oa])
+(;B[ob]N[失败];W[od];B[mb];W[oa]))

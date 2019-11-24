@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 27. Black to play.
+How should Black give atari to the three white stones?]AW[if][ge][hi][gg][ii][ih][gh][fg]PB[ ]PM[1]PW[ ]AB[eg][hh][hg][fh][ef][gi]
+(
+;B[gf]C[Correct Answer
+Black captures three stones by giving atari with 1.]
+)
+(
+;B[ff]C[Wrong Answer
+If Black gives atari with 1 here...]
+;C[...White plays 2 and cannot be captured.]W[gf]
+)
+
+)

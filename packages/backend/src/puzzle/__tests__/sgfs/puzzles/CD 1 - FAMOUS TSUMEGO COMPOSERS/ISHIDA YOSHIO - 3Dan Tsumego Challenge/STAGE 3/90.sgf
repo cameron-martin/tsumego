@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qo][ro][so][sp][sq][ns][nr][nq][np][op]AW[sr][rr][rp][qp][pq][or]
+[os]C[90]N[90]AP[MultiGo:4.4.4]SZ[19]AB[pp]MULTIGOGM[0]
+
+(;C[第90题 成劫争为最佳结果
+
+这是只能着眼于内部攻击的棋形。第一手比较简单，尔后的应对要好好计算。]
+N[审题])
+(;B[qr]N[正解];W[qs]C[黑1、白2是必然的交换。];B[rs]C[黑3扑是手筋];W[pr]C[白4只好做劫。])
+(;B[qr]N[变化];W[qq];B[rs]C[白死。])
+(;B[rq]N[失败];W[qq]C[白活。]))

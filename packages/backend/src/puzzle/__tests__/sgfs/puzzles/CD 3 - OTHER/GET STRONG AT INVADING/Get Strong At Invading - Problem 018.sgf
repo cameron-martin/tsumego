@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[jd][nd][oc][pc][nf]
+AB[dd][hc][ld][qc][qd][pd][pf]
+LB[nf:1]
+C[Problem 18. Black to play.  
+
+White jumps to 1. What is Black's strongest move ? ]
+(;B[kd]
+TE[2]
+C[Correct Answer.  
+
+Black should bump against the white stone with 1 and ... ]
+;W[je];B[lf]
+C[... then jump to 3. This is the strongest counter. <= ]
+)
+(;B[lf]
+C[Failure.  
+
+If Black simply jumps to 1, ... ]
+;W[lc]
+C[... White attaches with 2 and ... ]
+;B[kc];W[kd];B[mc];W[le];B[lb];W[md]
+C[... links up her stones with the moves to 8. <= ]
+)
+)

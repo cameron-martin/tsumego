@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[cm][cn][bn][ch][bh][ah][cg][dj][dk][di]AW[bf][ce][df][dh][eh][ci]
+[aj][cj][bk][bi][ai]N[205]AP[MultiGo:4.4.4]SZ[19]AB[cl]MULTIGOGM[0]
+
+(;C[黑4气，白4气，轮到黑走，对杀应该是黑胜。等等，白为什么是4气？
+
+难度：☆☆]
+N[审题])
+(;B[al]N[正解];W[bl];B[am];W[dg];B[ck]LB[ak:A]C[黑5走A位收气也行。])
+(;B[bl]N[失败];W[dg];B[al];W[cf];B[ak];W[ag]TR[bn]C[拼凑出来的失败图。黑这样紧气的问题有两个，一是没有利用边上一子，二是没有制造出白棋的断头眼。]))

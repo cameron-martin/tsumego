@@ -1,0 +1,50 @@
+(;
+GM[1]
+SZ[19]
+AW[hc][cf][nc]
+AB[pj][dj][dp][pd][pp][dd][fd][pf]
+LB[nc:1][pf:2][cf:3][fd:4][hc:5]
+C[Problem 39. Black to play.  
+
+White attacks the two black stones in the upper left at their weak underbelly with 5. How should Black respond ? ]
+(;B[ce]
+TE[2]
+C[Correct Answer.  
+
+Black should first attach with 1, ... ]
+;W[df]
+C[... forcing White to stand with 2. ]
+;B[ge]
+C[If Black next moves out into the center with 3, ... ]
+;W[jd]
+C[... White's stones at the top need reinforcement, so she defends with 4. ]
+;B[dh]
+C[Black now attacks with 5 ... ]
+;W[eg];B[gj];W[gg];B[ie]
+C[... to 9, ... ]
+;W[ig]
+LB[gg:8][eg:6]
+C[... forcing White to move out into the center with 6 to 10. ]
+;B[je]
+C[Black now leans on the white group at the top with 11 ... ]
+;W[kd];B[ke]
+C[... and 13, then ... ]
+;W[kg];B[ld];W[lc];B[le];W[md];B[ic];W[id];B[hd];W[ib];B[gc];W[hb];B[hh];W[hg];B[kc];W[jc];B[kb]
+C[... squeezes it with the sequence to 29. ]
+;W[jb];B[oc]
+C[When Black plays 31, White's stones at the top have bad aji and her stones in the center are heavy and lack eyes. <= ]
+)
+(;B[ge]
+C[The order of moves.  
+
+Black 1 is a splendid move ... ]
+;W[jd]
+C[... that requires a white response at the top. ]
+;B[ce]
+LB[ge:1][df:A]
+C[But, with the black stone of 1 in place, White will not play A in response to Black 3. ]
+;W[cn]
+LB[df:A]
+C[Instead, she will approach in the lower left with 4. This is a subtle point, but a strong player never makes a move like A which clearly leads to a bad position. It is better to play elsewhere and wait to see how the situation in the upper left develops. <= ]
+)
+)

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qe][pe][od][nd][nc][mb][lb][na][rb][se]AW[ma][nb][ob][oc][qb][pd]
+[qd][rd]N[019]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;TR[rb]C[黑边上有硬腿，当然可以接回白阵中的黑一子。但怎么渡过却是需要考虑的。]
+N[审题])
+(;B[pc]N[正解];W[sc];B[rc])
+(;B[pc]N[变化];W[qc];B[sd])
+(;B[sd]N[失败1];W[rc];B[sc];W[pc];B[pa];W[qa])
+(;B[rc]N[失败2];W[sd]))

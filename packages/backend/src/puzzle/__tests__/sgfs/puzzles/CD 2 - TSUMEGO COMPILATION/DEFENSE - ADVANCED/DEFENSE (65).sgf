@@ -1,0 +1,31 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][cb][cc][cd][ci][dc][de][df][fd]
+AW[ce][db][dd][ec][ed][ee]PL[W]C[White to play.
+
+Defense - Settle Shape]
+(
+;W[dh]
+(
+;B[ch]
+;W[ef]
+(
+;B[cf]
+;W[dg]
+;B[cg]C[RIGHT
+])
+(
+;B[dg]
+;W[eg]
+;B[cg]C[White Ok]))
+(
+;B[ef]
+;W[fe]C[RIGHT
+]))
+(
+;W[ef]
+;B[dg]
+;W[eg]
+;B[dh])
+(
+;W[fe]
+;B[dh]))

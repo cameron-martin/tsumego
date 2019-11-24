@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[oe][pe][qe][qd][rd][pb][pc][oc]AW[rc][re][rf][qf][pf][of][ne][nd]
+[nc][nb][ob][qb]N[152]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[rb:A]C[A位是第一感。其他着手通过计算也很容易排除掉。
+
+难度：☆☆☆]N[审题])
+(;B[rb]N[正解];W[sb];B[ra];W[pa]LB[sd:A][qa:B]C[白4扳，顽强。以下，黑A则白B，黑死]
+;B[qc];W[sd]LB[qa:A]C[黑棋马上开始打劫，还是A位提子后打劫？还是直接开始打劫吧，A位可以作为劫才。])
+(;B[rb]N[变化];W[sb];B[ra];W[qa];B[pa];W[sa];B[sd]C[白被吃。])
+(;B[pa]N[失败1];W[sd];B[rb];W[sb];B[ra];W[qc])
+(;B[qa]N[失败2];W[ra];B[sb];W[pa]))

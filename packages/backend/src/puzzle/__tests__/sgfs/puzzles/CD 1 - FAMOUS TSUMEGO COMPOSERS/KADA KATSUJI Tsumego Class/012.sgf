@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[ep][fp][fq][fr][cn][bm][br][bp][cp]AW[bo][ao][ap][aq][bq][cr][eq]
+[er][es]C[B]N[012]AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[0]
+
+(;TR[eq][er][es]C[失败图很容易计算得到，毕竟空间很小。注意：白随时准备放弃边上三子做活大部。
+
+难度：B]
+N[审题])
+(;B[bs]N[正解];W[dq];B[cq];W[ds];B[cs]C[劫杀正解。])
+(;B[bs]N[变化1];W[dq];B[cq];W[ar];B[ds]C[白死。])
+(;B[bs]N[变化2];W[cq];B[dq];W[dr];B[cs])
+(;B[cq]N[失败];W[bs];B[ar];W[dq]))

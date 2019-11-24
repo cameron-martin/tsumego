@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dn][en][gn][hn][do][ho][jo][dp][jp][dq][eq][hq][jq][hr][jr][hs]AB[eo][go][ep][gp][hp][ip][fq][gq][iq][ir][is]C[Ex. 7 - Life or death
+
+There is half an eye in the centre and the 3 W stones on the edge have yet to be captured.
+Surely B's 2 eyes can be destroyed somehow.]PL[W]
+(;W[fo]LB[fo:1]C[Diag. 1 - Failure
+
+If W takes away the eye in the centre]
+;B[er]LB[fo:1][er:2]C[he merely gives  life after B 2 ]
+;W[dr]LB[fo:1][dr:3][er:2]
+;B[es]LB[fo:1][dr:3][er:2]C[and 4. ]
+;W[gr]LB[fo:1][dr:3][er:2][gr:5][es:4]C[Even if W tries to achieve gomoku nakade with his 5, ]
+;B[gs]LB[gs:6]C[B has the timely uchikomi 6 and he cannot be killed.])
+(;W[er]LB[er:1]C[Diag. 2 - Failure
+
+Then how about W 1 sagari? This too lacks an overall plan.
+]
+;B[fo]LB[fo:2][er:1]C[B 2 gets 2 eyes here ]
+;W[fs]LB[fo:2][er:1][fs:3]C[and even if W plays 3 kosumi he cannot save his 3 stones. ]
+;B[gs]LB[fo:2][er:1][fs:3][gs:4]C[B 4 ]
+;W[gr]LB[fo:2][er:1][gr:5][fs:3]
+;B[fr]LB[fo:2][er:1][fr:6][gr:5][fs:3]C[and 6 are an oi otoshi and B is alive.])
+(;W[es]LB[es:1]C[Diag. 3 - Correct
+
+W 1 tobi is the right suji for the occasion. ]
+(;B[fo]LB[fo:2][es:1]C[If B makes an eye at 2, ]
+;W[gs]LB[fo:2][es:1][gs:3]C[W's magari at 3 is then good and with this he connects his 3 stones along the edge.
+He has killed B brilliantly.
+1 and 3 cannot be connected in any other way.])
+(;B[fr]LB[fr:2][es:1]C[Diag. 4  - Correct
+
+If B answers W 1 at 2,]
+;W[fo]LB[fo:3][fr:2][es:1]C[W 3 destroys the eye in the centre.
+Because of 1, B cannot live as he did in Diag. 1.
+This tobi is a skillful move, creating miai points to take an eye or connect along the edge.])))

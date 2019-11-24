@@ -1,0 +1,47 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[gq][jq][dr]AB[cm][dp][cq][qq]C[Ex. 6 - Attack
+
+There is no severe sequence to shake the 3 W stones by the roots as it were.
+Having found W's weak point you should be satisfied with a moderate result.]
+;B[fr]LB[fr:1]C[Diag. 1 - Correct
+
+To come straight to the point, B 1 oki is a good move. ]
+(;W[fq]LB[fq:2][fr:1]C[If W 2 osae, ]
+;B[er]LB[fq:1][er:2]C[B plays hiki 3]
+;W[eq]LB[eq:4][fq:2][er:3][fr:1]C[and if W 4]
+;B[dq]LB[dq:5][eq:4][fq:2][er:3][fr:1]
+;W[gr]LB[dq:5][eq:4][fq:2][er:3][fr:1][gr:6]C[and 6, ]
+;B[cr]LB[dq:5][eq:4][fq:2][cr:7][er:3][fr:1][gr:6]C[B plays kakae 7 against the single stone, sealing off the corner.
+B is thus able to gouge into W's position.])
+(;W[eq]LB[eq:2][fr:1]C[Diag. 2 - Variation
+
+B 1 oki is the so-called "kado" move.
+W 2 kosumidashi is dangerous, (cont.) ]
+;B[fq]LB[eq:2][fq:3][fr:1]C[provoking the counter-attack of B 3 ]
+;W[fp]LB[fp:4][eq:2][fq:3][fr:1]
+;B[gr]LB[fp:4][eq:2][fq:3][fr:1][gr:5]C[and 5. ]
+(;W[ep]LB[ep:6][fp:4][eq:2][fq:3][fr:1][gr:5]C[After W 6 tsugi ]
+;B[hq]LB[ep:6][fp:4][eq:2][fq:3][hq:7][fr:1][gr:5]C[and B 7 hane, W is split in two.])
+(;W[hq]LB[fp:4][eq:2][fq:3][hq:6][fr:1][gr:5]C[Diag 3. - Variation
+
+It is not possible to play W 6 nobi in answer to B 3 and 5. ]
+;B[hr]LB[fp:4][eq:2][fq:3][hq:6][fr:1][gr:5][hr:7]C[After B 7, ]
+;W[ir]LB[fp:4][eq:2][fq:3][hq:6][fr:1][gr:5][hr:7][ir:8]
+;B[er]LB[fp:4][eq:2][fq:3][hq:6][dr:9][fr:1][gr:5][hr:7][ir:8]C[the atekomi 9 is a good move, ]
+;W[dq]LB[fp:4][dq:10][eq:2][fq:3][hq:6][dr:9][fr:1][gr:5][hr:7][ir:8]C[and if W 10, ]
+;B[ep]LB[ep:11][fp:4][dq:10][eq:2][fq:3][hq:6][er:9][fr:1][gr:5][hr:7][ir:8]C[B cuts at 11]
+;W[cr]LB[ep:11][fp:4][dq:10][eq:2][fq:3][hq:6][cr:12][er:9][fr:1][gr:5][hr:7][ir:8]
+;B[fo]LB[fo:13][ep:11][fp:4][dq:10][eq:2][fq:3][hq:6][cr:12][er:9][fr:1][gr:5][hr:7][ir:8]
+;W[gp]LB[fo:13][ep:11][fp:4][gp:14][dq:10][eq:2][fq:3][hq:6][cr:12][er:9][fr:1][gr:5][hr:7][ir:8]
+;B[br]LB[fo:13][ep:11][fp:4][gp:14][dq:10][eq:2][fq:3][hq:6][br:15][cr:12][er:9][fr:1][gr:5][hr:7][ir:8]C[then plays the second osae at 15.]
+;W[bq]LB[fo:13][ep:11][fp:4][gp:14][bq:16][dq:10][eq:2][fq:3][hq:6][br:15][cr:12][er:9][fr:1][gr:5][hr:7][ir:8]
+;B[cp]LB[fo:13][cp:17][ep:11][fp:4][gp:14][bq:16][dq:10][eq:2][fq:3][hq:6][br:15][cr:12][er:9][fr:1][gr:5][hr:7][ir:8]
+;W[bs]LB[fo:13][cp:17][ep:11][fp:4][gp:14][bq:16][dq:10][eq:2][fq:3][hq:6][br:15][cr:12][er:9][fr:1][gr:5][hr:7][ir:8][bs:18]
+;B[ar]LB[fo:13][cp:17][ep:11][fp:4][gp:14][bq:16][dq:10][eq:2][fq:3][hq:6][ar:19][br:15][cr:12][er:9][fr:1][gr:5][hr:7][ir:8][bs:18]C[Later comes the suji of 19, sacrificing 2 stones. ]
+;W[aq]LB[fo:13][cp:17][ep:11][fp:4][gp:14][aq:20][bq:16][dq:10][eq:2][fq:3][hq:6][ar:19][br:15][cr:12][er:9][fr:1][gr:5][hr:7][ir:8][bs:18]
+;B[ds]LB[fo:13][cp:17][ep:11][fp:4][gp:14][aq:20][bq:16][dq:10][eq:2][fq:3][hq:6][ar:19][br:15][cr:12][er:9][fr:1][gr:5][hr:7][ir:8][bs:18][ds:21]
+;W[as]LB[fo:13][cp:17][ep:11][fp:4][gp:14][aq:20][bq:16][dq:10][eq:2][fq:3][hq:6][cr:12][er:9][fr:1][gr:5][hr:7][ir:8][as:22][bs:18][ds:21]C[W 22 takes (cont.)]
+;B[br]LB[fo:13][cp:17][ep:11][fp:4][gp:14][aq:20][bq:16][dq:10][eq:2][fq:3][hq:6][br:23][cr:12][er:9][fr:1][gr:5][hr:7][ir:8][as:22][bs:18][ds:21]
+;W[ar]LB[fo:13][cp:17][ep:11][fp:4][gp:14][aq:20][bq:16][dq:10][eq:2][fq:3][hq:6][ar:24][cr:12][er:9][fr:1][gr:5][hr:7][ir:8][as:22][bs:18][ds:21]
+;B[es]LB[fo:13][cp:17][ep:11][fp:4][gp:14][aq:20][bq:16][dq:10][eq:2][fq:3][hq:6][ar:24][cr:12][er:9][fr:1][gr:5][hr:7][ir:8][as:22][bs:18][ds:21][es:25]C[Then B deals the death blow with 25.])))

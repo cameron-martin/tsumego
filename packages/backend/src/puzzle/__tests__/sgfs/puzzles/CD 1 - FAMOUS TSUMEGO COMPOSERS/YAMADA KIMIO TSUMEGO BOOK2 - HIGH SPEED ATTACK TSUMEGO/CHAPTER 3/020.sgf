@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pf][of][nf][me][le][ld][lc][lb][rb][rc][qc][qd]AW[nb][md][nd][ne]
+[oe][pd][pc][qb][ra]N[020]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;LB[oa:A][ob:B]C[观察棋形，白气紧。黑A则白B，白活。]N[审题])
+(;B[mb]N[正解];W[oc];B[mc];W[nc];B[oa];W[na];B[pb];W[qa];B[ma]C[白死。])
+(;B[mb]LB[nc:A]C[黑1顶是必要的准备工作，下一手有A位的挖。由于空间太小，被黑A位挖到的话，白无法成活。]
+N[变化];W[nc]LB[mc:A]C[白2走A位明显不行];B[ob];W[oa];B[oc];W[qa];B[pb])
+(;B[pb]N[失败];W[pa];B[ob];W[oc]C[劫。]))

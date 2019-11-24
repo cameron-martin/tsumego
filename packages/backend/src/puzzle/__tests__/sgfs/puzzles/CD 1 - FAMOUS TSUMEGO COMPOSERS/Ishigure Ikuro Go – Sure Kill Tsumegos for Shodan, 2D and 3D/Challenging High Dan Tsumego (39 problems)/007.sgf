@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nq][np][op][oo][qq][pq][pr]AW[pp][qp][rq][qr][qn][pm][om][nm][no]
+[mo][mp][mq][mr][nr]N[007]AP[MultiGo:4.4.4]SZ[19]AB[or]MULTIGOGM[0]
+
+(;LB[rr:A][rp:B]C[很明显，黑的选择只能是A或B位。]N[审题])
+(;B[rp]N[正解];W[ro];B[rr];W[sp];B[sr]MA[sl][rl][ql]C[分析一下这个结果。白是先手。黑地5目，白地7目（以X为界）。白净得2目，先手。])
+(;B[rp]N[变化1];W[rr];B[qo];W[ro];B[po];W[sp];B[qp];W[rn]MA[ql][rl][sl]C[黑地4目，白地9目，但黑是先手。白净得5目，但是后手。所以白一般会选择正解图，毕竟，一个先手不只值3目。])
+(;B[rp]N[变化2];W[rr];B[qo];W[ro];B[po];W[qp];B[sp]C[对杀白负。])
+(;B[rr]N[失败1];W[sr];B[qs];W[rp];B[os];W[rs])
+(;B[rr]N[失败2];W[sr];B[rp];W[rs];B[qo];W[ro];B[po];W[qp]C[注意，角上白已活];B[sp]
+;W[sq];B[pp];W[so];B[qp];W[rm]C[黑死。]))

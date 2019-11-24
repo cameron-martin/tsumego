@@ -1,0 +1,29 @@
+(;
+GM[1]
+SZ[19]
+AW[kc][od][qd][bd][cf][ci]
+AB[cc][dd][fd][ic]
+C[Problem 111. Black to play.  
+
+White's extension is one space narrower than in Problem 108. Where should Black invade ? ]
+(;B[mc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the vital point. We will look at the variations in the next few problems. <= ]
+)
+(;B[pc]
+LB[mc:@]
+
+TE[2]
+C[Correct Answer.  
+
+Black could also peep at 1. However, Black @ in the Correct Answer is the usual move. <= ]
+)
+(;B[lc]
+TE[2]
+C[Correct Answer.  
+
+Attaching at Black 1 is also possible. <= ]
+)
+)

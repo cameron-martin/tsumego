@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[kd][jd][jc][ib][hb][mb][qb][pb][qd][pd][ne][me]AW[jb][kb][kc][lc][mc][nc][oc][ob][pa]C[白先 必须扩大眼位。]
+
+(;W[ja]
+(;B[la];W[na]C[正解 白先活])
+(;B[na];W[la];B[oa];W[ma]C[变化]))
+(;W[ma];B[ja];W[ka];B[na];W[lb]C[失败])
+(;W[la];B[ja]C[失败]))

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[mr][lr][ps][pr][qq][oq][np][mp]AW[ks][kr][kq][lq][ko][lo][mo][no]
+[oo][pp][pq][qo][rq][qr][nr]N[026]AP[MultiGo:4.4.4]SZ[19]AB[mq]MULTIGOGM[0]
+
+(;LB[ns:A][or:B]C[黑A、白B的交换，很有必要。但应该在什么时候交换？交换之后呢？]
+N[审题])
+(;B[ns]N[正解];W[or];B[rr];W[qp];B[rs];W[sr];B[ls])
+(;B[rr]N[失败1];W[qp];B[rs];W[ls];B[ns];W[ms];B[or])
+(;B[ns]N[失败2];W[or];B[ls];W[qs]))

@@ -1,0 +1,9 @@
+(;AW[cc][cd][dc][ec][fc][ed][ee][fe][ge][gd]AB[bd][be][ce][de][dd][ef][ff][gf][he][hd][hc][gc][fb][eb]C[白先]SZ[19]
+
+(;W[ab]
+(;B[ba]N[正解图];W[ca];B[cb];W[db];B[da];W[bb];B[bc];W[]AW[qp][qq][pq]AB[oq][qo][pp][ro][po][np]TR[ro]LB[sr:a][or:b][rs:c]C[注：角上的二1路常是死活要点。本图的棋形下，白1飞在二1路也是常会出现的形状。例如右下角的棋形，黑三角立下。白要活棋，只有飞在a位，若黑b位再立，白再飞在c位就活了。]
+)
+(;B[ca]N[黑小飞不行];W[ba];B[bb];W[bc];B[aa];W[ac];B[da];W[cb];B[ba];W[db];B[ea];W[gb]))
+(;W[bc]N[失败图];B[ba];W[ca];B[cb];W[db];B[da];W[bb];B[ca];W[aa];B[ab];W[ac];B[ea];W[aa]
+;B[gb])
+(;W[db]N[失败图];B[bb];W[bc];B[ac]))

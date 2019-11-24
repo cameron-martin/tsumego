@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[ob][nd][md][ld][kc][kd][kb][sd][rd][qd][pc]AW[la][lb][lc][mc][nc]
+[nb][oa][pb][qc][rb]N[161]AP[MultiGo:4.4.4]SZ[19]AB[oc]MULTIGOGM[0]
+
+(;C[劫杀很容易，甚至不止一种劫杀法。有净杀的可能吗？
+
+难度：☆☆]N[审题])
+(;B[sb]N[正解];W[rc];B[qa];W[pa];B[ra]C[白死。])
+(;B[qa]N[失败1];W[pa]C[净活。])
+(;B[qb]N[失败2];W[qa];B[rc];W[sb];B[qb]C[劫杀。
+不过是黑的先手劫。])
+(;B[sb]N[失败3];W[rc];B[ra];W[qa];B[sc]C[劫杀。
+黑是后手劫。]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rc][oa][qd][qe][pf][of][nf][me][le][kd][kc][kb][ka][la][od][qb]AW[ma]
+[lb][lc][ld][md][ne][oe][nb][ob][pd][pc]N[009]AP[MultiGo:4.4.4]SZ[19]AB[pb]MULTIGOGM[0]
+
+(;LB[pe:A][nd:B]C[白棋气很紧。如果轮到白走，做活的急所在哪里呢？又：黑A这样的地方，看上去就是让人犯错误的，白B接上就活了。]
+N[审题])
+(;B[nd]N[正解];W[pe];B[pa];W[na];B[mc];W[mb];B[qc]C[白死。])
+(;B[nd]N[变化1];W[pe];B[pa];W[nc];B[mb];W[mc];B[na])
+(;B[nd]N[变化2];W[pe];B[pa];W[oc];B[na];W[mb];B[nc])
+(;B[nd]N[变化3];W[pe];B[pa];W[mb];B[nc])
+(;B[pa]N[失败];W[nd]))

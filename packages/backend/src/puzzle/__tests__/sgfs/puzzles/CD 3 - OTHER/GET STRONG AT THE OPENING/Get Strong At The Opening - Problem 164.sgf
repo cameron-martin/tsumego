@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][cd][de][fd][gd][ie][ci][pq][qo][pl][qi][ip][hp][in][gm]
+AB[cb][dc][eb][fc][hc][dq][cn][iq][jq][jp][jo][mq][qg][qd][oc]
+C[Problem 164. Black to play.  
+
+The game is on the border of the fuseki and the middle game. Now is Blacks chance to seize the initiative. If he plays the right move, victory will be within his grasp. ]
+(;B[dj]
+TE[2]
+C[Correct Answer.  
+
+The shoulder hit of Black 1 is the perfect point. It prevents the four stones at the bottom from joining up with their allies in the upper left to make a huge moyo in the center. <= ]
+)
+(;B[jd]
+C[Failure.  
+
+Locally, Black 1 at the top is a good move. ]
+;W[je]
+C[However, White will push with 2 ... ]
+;B[kd];W[ke]
+C[... and 4, ... ]
+;B[ld];W[dl]
+C[... then play 6, making a deep moyo in the center. <= ]
+)
+(;B[ck]
+C[Failure.  
+
+Although in the right direction, Black 1 is too low. ]
+;W[dk]
+C[White will attach with 2. ]
+;B[dl];W[ek];B[cj];W[di]
+C[After White 6, White has again made a large-scale moyo in the center. <= ]
+)
+)

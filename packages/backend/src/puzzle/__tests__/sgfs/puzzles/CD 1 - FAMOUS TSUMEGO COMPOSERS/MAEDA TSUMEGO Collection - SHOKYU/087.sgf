@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qq][pq][oq][pp][pr]AW[or][nr][nq][np][op][po][qo][qp]N[087]AP[MultiGo:4.4.4]
+SZ[19]AB[qm]MULTIGOGM[0]
+
+(;C[黑做活的手法是基本知识。
+
+难度：☆☆]N[审题])
+(;B[rr]N[正解];W[rp];B[qs]C[黑活。白角上托入也不能破眼。])
+(;B[rr]N[变化];W[qs];B[rp];W[ro];B[sq];W[ps];B[rs])
+(;B[rp]N[失败];W[ro]TR[qm]LB[rr:A]C[由于黑边上存在一子，白2走A位点还是打劫];B[rr]
+;W[sp];B[sq])
+(;B[rp]N[衍生];W[rr];B[rq];W[ro];B[so]C[黑5扳是先手];W[rn];B[rs];W[qs];B[sr]))

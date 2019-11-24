@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 79. Black to play.
+How should Black give atari?]AW[ek][fl][gk][hk][ik][ej]PB[ ]PM[1]PW[ ]AB[fj][fh][fk][gj][gl]
+(
+;B[el]C[Correct Answer
+After Black gives atari with 1, the lone white stone at the bottom is dead.]
+)
+(
+;B[fm]C[Wrong Answer
+Black 1...]
+;C[...allows White to save his stone by connecting at 2.]W[el]
+)
+
+)

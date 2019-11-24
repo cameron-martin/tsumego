@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[od][nc][mc][mb][ma][sd][rd][qd]AW[nb][ob][oc][pc][qb][rc]N[005]AP[MultiGo:4.4.4]
+SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[黑有两个硬腿，而且白棋气很紧。]N[审题])
+(;B[qc]N[正解];W[rb];B[oa];W[sc];B[pa]C[白死。])
+(;B[qc]N[变化1];W[rb];B[oa];W[pa];B[na])
+(;B[qc]N[变化2];W[pa];B[na])
+(;B[rb]N[失败1];W[sb];B[ra];W[qc])
+(;B[na]N[失败2];W[qc]))

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[ks][kr][kq][kp][lo][mo][no][oo][po][qo][qp][rq][rr][op][oq][mr][ns]
+AW[ls][lr][lq][mp][np][nq][nr][or][pq][pp][qr][qs]N[018]AP[MultiGo:4.4.4]SZ[19]
+AB[ms]MULTIGOGM[0]
+
+(;C[黑棋在进攻时要当心不要做成双活。]N[审题])
+(;B[pr]N[正解];W[ps];B[lp];W[mq];B[qq]C[黑1、3、5次序井然地杀白。])
+(;B[pr]N[变化];W[qq];B[lp])
+(;B[lp]N[失败];W[mq];B[pr];W[os]))

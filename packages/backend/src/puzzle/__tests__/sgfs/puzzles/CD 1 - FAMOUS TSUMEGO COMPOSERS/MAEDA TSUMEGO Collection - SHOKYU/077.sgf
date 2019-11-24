@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qb][qa][ra][sa][sb][rc][nb][nc][oc]AW[rd][qd][pd][od][nd][md][mc]
+[mb][kb][qc][sd]N[077]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[黑棋角上后手一眼，因此必须在边上先手确保一眼。
+
+难度：☆]N[审题])
+(;B[oa]N[正解];W[sc];B[pb]C[黑活。])
+(;B[sc]N[失败];W[oa];B[na];W[pb]C[黑缺少计算。]))

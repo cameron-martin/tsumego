@@ -1,0 +1,37 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bo][co][do][eo][fo][fp][dq][eq][cr][dr][fr]AB[cp][dp][ep][bq][cq][fq][gq][br][er]C[Ex.8 - Semeai 
+
+This looks easy but when you think about it you will realise there is more to it than meets the eye. It is important to decide exactly where to begin.]
+(;B[gr]LB[gr:1]C[Diag 1 - Failure
+
+B 1 osae is simple but no good. ]
+;W[es]LB[gr:1][es:2]C[After W 2 ]
+;B[cs]LB[gr:1][cs:3][es:2]C[B 3 hane ]
+;W[bs]LB[gr:1][bs:4][cs:3][es:2]C[permits W 4 uchikaki. ]
+;B[gs]LB[gr:1][bs:4][cs:3][es:2][gs:5]C[If B 5 ]
+;W[fs]LB[gr:1][bs:4][cs:3][es:2][fs:6][gs:5]C[W 6, ]
+;B[as]LB[gr:1][as:7][cs:3][es:2][fs:6][gs:5]C[and B 7 ]
+;W[aq]LB[aq:8][gr:1][as:7][cs:3][es:2][fs:6][gs:5]C[then W plays the sequence up to 8 and B loses.])
+(;B[cs]LB[cs:1]TR[aa]C[Diag. 2 - Failure
+
+B is unsuccessful even B 1 hane from the corner ]
+;W[es]LB[cs:1][es:2]C[W takes ]
+;B[bs]LB[bs:3][cs:1][es:2]C[and B 3 tsugi. ]
+;W[gr]LB[gr:4][bs:3][cs:1][es:2]C[By allowing W to crawl at 4, ]
+;B[ds]LB[gr:4][bs:3][cs:1][ds:5][es:2]C[after B 5 ]
+;W[er]LB[er:6][gr:4][bs:3][cs:1][ds:5][es:2]C[W connects]
+;B[hq]LB[hq:7][er:6][gr:4][bs:3][cs:1][ds:5][es:2]C[B 7 ]
+;W[hr]LB[hq:7][er:6][gr:4][hr:8][bs:3][cs:1][ds:5][es:2]C[and W 8, B cannot play osae.])
+(;B[es]LB[es:1]C[Diag.3 - Correct
+
+The correct answer is B 1 sagari, ]
+;W[fs]LB[es:1][fs:2]C[forcing the capture of the 2 stones after W 2 ]
+;B[gr]LB[gr:3][es:1][fs:2]C[and B 3. In addition B is prevented from crawling in the direction of 3. ]
+;W[ds]LB[gr:3][ds:4][fs:2]C[W 4  takes the 2 stones. ]
+;B[bs]LB[gr:3][bs:5][ds:4][fs:2]C[The sagari of B 5 follows up the attack relentlessly. ]
+;W[bp]LB[bp:6][gr:3][bs:5][ds:4][fs:2]C[Finally after W 6 ]
+;B[cs]LB[bp:6][gr:3][bs:5][cs:7][ds:4][es:1][fs:2]C[B 7 ]
+;W[aq]LB[bp:6][aq:8][gr:3][bs:5][cs:7][ds:4][fs:2]C[and W 8 ]
+;B[er]LB[bp:6][aq:8][er:9][gr:3][bs:5][cs:7][ds:4][fs:2]C[B 7 and 9 win by one move.
+If you think of ordinary moves you will not hit upon the idea of sacrificing 2 stones, but this is an exceptional case.]))

@@ -1,0 +1,58 @@
+(;
+AB[pc][pd][nd][ne][pi][qq][rq][pp][qo][pn][cc][bc][dd][de][ee][ef][dg][cf][ci][ck][cj][cl][dp][bp][fq][hq]
+AW[cd][ce][dc][db][eb][fc][ed][fe][gd][fg][dj][dk][dl][cm][cn][en][jo][jq][np][oq][pq][qr][pl][md][nc][oc]
+C[Black plays.
+
+Source:
+    Go World #37 Autumn p. 7
+    "Test Your Rating", Nihon Ki-in]
+(;
+B[mc]
+C[Best.
+
+Black's move aims to
+overconcentrate White along the top
+where White already has overwhelming influence,
+while also creating Black forcing moves
+on the outside to build the Black moyo on
+the right side. ];
+W[lc];
+B[mb]
+C[Black gives up two stones.];
+W[lb];
+B[me]
+C[A big forcing move.];
+W[ld];
+B[od];
+W[nb];
+B[ob];
+W[ma];
+B[nn]
+C[Now Black has time to make a second
+moyo-building move.
+Black has a superb position.]
+)
+    (;
+    B[nn]
+    C[Wrong timing.
+
+If Black plays at the bottom first...];
+    W[ld]
+    LB[pf:a]
+    C[White reinforces and solidifies, but more
+importantly, exposes a weak point in
+Black's position at A.  Black would hate
+to have to go back to defend at A.
+
+The correct line sacrificed two Black stones
+to eliminate this weakness.]
+    )
+    (;
+    B[qj]
+    C[Too solid.];
+    W[me]
+    C[White is happy to push up here to build
+his moyo, and leave the lone White
+stone on the right side as "light".]
+    )
+)

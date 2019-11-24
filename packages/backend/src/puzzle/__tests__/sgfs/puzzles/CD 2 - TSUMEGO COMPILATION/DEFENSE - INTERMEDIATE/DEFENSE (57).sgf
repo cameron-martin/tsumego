@@ -1,0 +1,28 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[dc][dh][dj][ed][ee][ff][gf][hd][he]
+AW[ce][df][ef][eh][fe][fg][gc][gd][ge]PL[B]C[Black to play.
+
+Defense - Take Care of Both Sides]
+(
+;B[ic]
+;W[ib]
+;B[jb]
+;W[hb]
+;B[jc]
+;W[eb]
+;B[db]
+;W[ec]
+;B[cd]
+;W[fb]C[RIGHT
+])
+(
+;B[hc]
+;W[hb]
+;B[ib]
+;W[fb]
+(
+;B[ha]
+;W[db])
+(
+;B[eb]
+;W[ic])))

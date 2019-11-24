@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][jd][nc][qo][dp]
+AB[pd][pf][pk][pq][jp]
+LB[qo:1]
+C[Problem 55. Black to play.  
+
+White 1 is a bad move. How should Black answer ? ]
+(;B[qp]
+TE[2]
+C[Correct Answer.  
+
+Attaching with Black 1 is the only move. It robs White of her base and, ... ]
+;W[po]
+C[... when White stands at 2, ... ]
+;B[np]
+C[... Black launches a powerful attack on the two white stones with 3. <= ]
+)
+(;B[op]
+C[Failure.  
+
+Black 1 is a lukewarm move, it is lacking a plan. ]
+;W[rq]
+C[White is happy to slide to 2, making a base for her stones in the lower right. <= ]
+)
+)

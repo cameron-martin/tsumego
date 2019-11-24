@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[rq][sp][ro][qo][po][oo][no][mo][lo][lp][jp][jq][kr][lr][mr][oq][qp]
+[or]AW[kq][lq][mq][mp][np][op][pp][pq][qq][pr][rr][sr]N[174]AP[MultiGo:4.4.4]SZ[19]
+AB[qr]MULTIGOGM[0]
+
+(;LB[ps:A]C[要杀白，则黑A必然。但要小心白棋的抵抗。
+
+难度：☆☆]N[审题])
+(;B[ps]N[正解];W[nr]C[白2挖，考验黑棋];B[ms];W[qs];B[os])
+(;B[ps]N[变化1];W[nr];B[ms]LB[nq:A][os:B]C[黑3立后，白A则黑B];W[ns];B[os])
+(;B[ps]N[变化2];W[nr];B[os]C[黑3走这里也行];W[ms];B[qs])
+(;B[ps]N[变化3];W[qs];B[os];W[nr];B[ms]))

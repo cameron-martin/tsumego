@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 2. HOW TO SAVE ENDANGERED STONES
+
+Problem 15. Black to play.
+How can Black save his endangered stone?]AW[jg][kh][ih]PB[ ]PM[1]PW[ ]AB[jj][ki][jh]
+(
+;B[ji]C[Correct Answer
+Black can save his stone, by connecting at 1.]
+)
+(
+;B[lh]C[Wrong Answer
+If Black threatens to capture a white stone by playing at 1...]
+;C[...White captures a black stone with 2.]W[ji]
+)
+
+)

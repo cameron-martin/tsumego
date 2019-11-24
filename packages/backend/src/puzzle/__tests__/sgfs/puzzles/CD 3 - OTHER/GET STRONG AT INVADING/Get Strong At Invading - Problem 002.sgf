@@ -1,0 +1,22 @@
+(;
+GM[1]
+SZ[19]
+AW[jd][nc]
+AB[dd][hc][pd][pf]
+TR[jd][hc]
+C[Problem 2. Black to play.  
+
+White's marked stone is high, while Black's marked stone is lying in wait to gouge out White's base. What is the correct move for Black ? ]
+(;B[lc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a strong invasion. It is the simplest way to play. <= ]
+)
+(;B[ld]
+TE[2]
+C[Correct Answer.  
+
+The high invasion of Black 1 is also correct, but it is more difficult. <= ]
+)
+)

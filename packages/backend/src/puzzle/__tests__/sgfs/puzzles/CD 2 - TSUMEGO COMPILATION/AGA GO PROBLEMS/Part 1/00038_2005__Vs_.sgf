@@ -1,0 +1,63 @@
+(;
+AB[dd][pd][pp][dp][cp][df][dn][dr][ec][ed][ef][en][eq][fd][fp][jp][mf][nd][ne][pc][pf][pj]
+AW[cf][cn][co][cr][dg][dm][er][fc][fe][fq][fr][gc][gd][gp][kd][md][me][nc][oc]
+C[Black's response to the marked stone?
+Miyamaoto Naoki  vs.  Uchinohama Satsuo
+Source:
+    American Go Journal, Sept. 1981, Vol. 16, No. 3
+   "A four stone game", Miyamoto Naoki]
+TR[cr]
+
+(;
+B[cm]
+C[Correct]
+(;
+W[cl];
+B[bm]
+C[Black sacrifices two stones to prevent
+White from coming into the corner.];
+W[bl];
+B[es];
+W[cq]
+C[Now if White tries to cause trouble in
+the corner...];
+B[dq];
+W[bp];
+B[bo];
+W[bn];
+B[bq]
+C[Black uses the two sacrificed stones to
+capture White's two corner stones.]
+)
+    (;
+    W[ds]
+    C[A White watari immediately...];
+    B[cl]
+    C[Black extends and causes unacceptable
+problems for White on the left side.]
+    )
+)
+    (;
+    B[bp]
+    C[Inferior.
+Normal this would be joseki, but ...];
+    W[ds];
+    B[cm]
+    C[White has strengthened his base for future
+operations against the lower right side.]
+    )
+    (;
+    B[es]
+    C[Wrong move order.
+Without the Black sacrifice of two stones...];
+    W[cq];
+    B[dq];
+    W[bp];
+    B[cm];
+    W[cl];
+    B[bm];
+    W[bn]
+    C[White declines the Black sacrifice to
+eliminate any further problems.]
+    )
+)

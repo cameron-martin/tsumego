@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[es][fr][fq][fp][fo][eo][gs][hr][dn][cn][bn][bo][bp][cr]AW[br][bq]
+[cp][cq][co][do][ep][er][bs]C[C]N[022]AP[MultiGo:4.4.4]SZ[19]AB[cs]MULTIGOGM[0]
+
+(;C[考虑提子后的杀着。
+
+难度：C]N[审题])
+(;B[dr]N[正解];W[eq];B[dq];W[dp];B[aq];W[ds];B[dr];W[cr];B[cs]C[劫杀正解。])
+(;B[dr]N[变化];W[eq];B[dq];W[dp];B[aq];W[ds];B[dr];W[cr];B[cs];W[dq]C[白试图净活的话……]
+;B[ds];W[fs];B[ds]C[白死。])
+(;B[aq]N[失败1];W[dr]LB[ar:A][eq:B]C[A、B见合，白活。])
+(;B[ds]N[失败2];W[eq];B[dq];W[dp];B[aq];W[ar]))

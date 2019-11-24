@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 75. Black to play.
+How should Black give atari to capture three white stones?]AW[ek][gk][fl][hk][el][gj]PB[ ]PM[1]PW[ ]AB[fj][hj][kk][ij][fk][gi][gl]
+(
+;B[hl]C[Correct Answer
+If Black plays at 1, there is no way that the three white stones can escape.]
+)
+(
+;B[ik]C[Wrong Answer
+If Black plays at 1 as here...]
+;C[...White gives atari to Black with 2 and he cannot be captured.]W[hl]
+)
+
+)

@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[pb][pc][od][oe][ne][hb][ib][ic][jd][kd][ld][me][qb]AW[ob][oc][nd][mc][lc][kc][jb]C[黑先 1947年6月作，业余高段者可在二十分钟解出。]
+
+(;B[oa];W[na];B[ja];W[ka];B[lb];W[mb];B[la];W[ia];B[nc];W[nb];B[md]C[正解 黑先白死])
+(;B[oa];W[na];B[lb];W[la];B[mb];W[ja];B[nb];W[nc];B[ma];W[kb]C[失败])
+(;B[ja];W[ka];B[lb];W[oa];B[mb];W[ma];B[kb];W[ia];B[jc];W[nb]C[失败])
+(;B[lb];W[la];B[mb];W[ja];B[nb];W[nc];B[oa];W[na];B[ma];W[kb]C[失败]))

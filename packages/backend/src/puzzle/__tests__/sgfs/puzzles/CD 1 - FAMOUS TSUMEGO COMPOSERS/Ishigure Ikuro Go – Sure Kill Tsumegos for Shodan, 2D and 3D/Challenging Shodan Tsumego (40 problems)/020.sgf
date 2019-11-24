@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[js][jr][jq][jp][jo][ko][lo][mo][no][oo][mp][nr][os][pr][qr][rq][rp]
+[qp]AW[kq][kr][mq][mr][nq][np][op][oq][or][pq][qq][lp][kp]N[020]AP[MultiGo:4.4.4]
+SZ[19]AB[pp]MULTIGOGM[0]
+
+(;C[白棋气太紧，这是缺陷。黑棋边上可能存在接不归。]N[审题])
+(;B[lr]C[黑1挖是手筋，能够走出这一手，后续的变化应该都计算清楚了]N[正解];W[ls];B[ks]
+;W[lq];B[ns]LB[ms:A]C[白由于气紧，不能在A位叫吃，死了。])
+(;B[ls]LB[ms:A][ks:B][lr:C]C[黑1点，貌似手筋。对此，白不能在A位或B位应，也不能提子，那样黑C反冲，白死。]
+N[失败];W[lr];B[ms];W[ns]C[劫。]))

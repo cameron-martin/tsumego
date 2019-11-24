@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oo][po][qo][ro][rp][nr][mq][oq]AW[qp][pp][pq][pr][or][rq]N[027]AP[MultiGo:4.4.4]
+SZ[19]AB[op]MULTIGOGM[0]
+
+(;C[基本死活。正解是简单的，但是失败图也要计算。
+
+难度：☆☆]N[审题])
+(;B[sr]N[正解];W[sq];B[rr]C[黑死])
+(;B[sq]N[失败1];W[sr];B[rr];W[qr]C[劫杀，黑失败。])
+(;B[rr]N[失败2];W[sr];B[qr];W[rs];B[qs];W[qq]C[劫杀，黑失败。]))

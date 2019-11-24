@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][de][cj][hc][he][qc][qd][re]
+AB[jc][je][pc][pd][qe][rf][pj]
+LB[rf:3][re:2][qe:1]
+C[Problem 86. White to play.  
+
+Black aggressively blocks with 3. How should White respond ? ]
+(;W[qf]
+TE[2]
+C[Correct Answer.  
+
+White should atari with 1 ... ]
+;B[pe];W[rg]
+C[... and 3. This is the same as the Failure Diagram in Problem 83. <= ]
+(;B[rd];W[sf];B[rc]
+LB[rd:4]
+C[Black captures two stones with 4 and 6. <= ]
+)
+(;B[pf]
+C[Black could also atari at 4. Either way, White will have no problems. <= ]
+))
+(;W[pb]
+TE[2]
+C[Correct Answer.  
+
+White could also play 1 here, but this is a difficult variation. <= ]
+)
+)

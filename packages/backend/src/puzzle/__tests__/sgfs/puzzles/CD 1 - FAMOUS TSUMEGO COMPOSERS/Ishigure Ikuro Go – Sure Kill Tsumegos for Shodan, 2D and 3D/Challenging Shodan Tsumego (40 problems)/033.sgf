@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[oq][nq][mq][pr][mr][mp][lp][kq][kr][rr][qq]AW[mo][lo][kp][ks][jr]
+[jq][jp][no][np][pp][qp][rp][rq][sr][qr][qs][ps][or][nr]N[033]AP[MultiGo:4.4.4]
+SZ[19]AB[pq]MULTIGOGM[0]
+
+(;LB[os:A]C[黑A扑是必须的，关键是以后。]N[审题])
+(;B[os]N[正解];W[rs]LB[ns:A]C[黑1扑时，白2提子，白不会走A位的];B[ms]C[黑3立下冷静]
+;W[lr];B[lq]C[黑活。])
+(;B[os]N[失败];W[rs];B[ns];W[lr]C[黑死。]))

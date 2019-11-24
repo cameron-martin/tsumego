@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[jd][lc][nc]
+AB[dd][ld][pd][pf][hc]
+LB[ld:1][lc:2]
+C[Problem 8. Black to play.  
+
+When Black makes the high invasion, White attaches underneath with 1. How does Black continue ? ]
+;B[kc]
+TE[2]
+C[Correct Answer.  
+
+The moves from Black 1 ... ]
+(;W[kd]
+(;B[mc];W[lb];B[md]
+C[... to 5 are the simplest variation. ]
+;W[mb];B[jc];W[id];B[ic]
+C[White's stones have been separated into two groups, so Black can look forward to attacking them. <= ]
+)
+(;B[jc]
+C[Variation.  
+
+Crawling to Black 3 can lead to complicated fighting. ]
+;W[ic];B[ib];W[id];B[jb];W[le]
+C[After White ataris with 8, ... ]
+;B[md];W[oe]
+C[... she peeps with 10. ]
+;B[pe]
+C[If Black connects at 11, ... ]
+;W[me]
+C[... White plays 12, making very nice sabaki. <= ]
+))
+(;W[jc])
+)

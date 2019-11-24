@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[nd][oe][pe][qe][rf][oa][na][nb]AW[qc][pc][ob][pa][rb]N[221]AP[MultiGo:4.4.4]
+SZ[19]AB[nc]MULTIGOGM[0]
+
+(;LB[sc:A][sb:B]C[如果黑A、白B的交换已经进行，此题还有难度吗？
+
+难度：☆☆]N[审题])
+(;B[sc]LB[rc:A]C[黑1从外围压缩白棋眼位好。白A位应无实质意义]N[正解];W[sb]C[观察棋形，正解呼之欲出了吧？]
+;B[ra];W[oc]C[白4再尽力扩大眼位];B[qb]C[白死。])
+(;B[sc]N[变化];W[sb];B[ra];W[qa];B[pb])
+(;B[rd]N[失败1];W[qa])
+(;B[ra]N[失败2];W[rd]))

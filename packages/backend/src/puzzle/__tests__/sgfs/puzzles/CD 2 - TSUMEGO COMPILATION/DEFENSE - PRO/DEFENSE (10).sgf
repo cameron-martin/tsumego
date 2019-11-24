@@ -1,0 +1,30 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[be][bg][bh][bk][bl][cd][ci][cj][cm][dc][dd][dh][dj][eg][fe][ff][fg]
+AW[bd][bf][bi][bj][cb][cc][cf][ck][cl][df][dg][ef][eh][ei][ej][ek][el]PL[W]C[White to play.
+
+Defense - Connect Underneath
+
+Source: Guan-Zhi-Pu.]
+(
+;W[ch]
+;B[cg]
+;W[ah]
+;B[aj]
+;W[ac]C[RIGHT
+])
+(
+;W[ac]
+;B[ae]
+;W[ce]
+;B[af]
+;W[ch]
+;B[cg]
+;W[di]
+(
+;B[ai]
+;W[ch]C[RIGHT
+])
+(
+;B[ch]
+;W[ad]C[RIGHT
+])))

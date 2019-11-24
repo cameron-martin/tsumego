@@ -1,0 +1,24 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][oc][qj][qo]
+AB[qd][pe][pq][cp]
+TR[qj]
+C[Problem 28. Black to play.  
+
+After White has extended with her marked stone, what should Black do ? ]
+(;B[op]
+LB[np:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black should play another diagonal move with 1 or play the knight's move at A. ]
+)
+(;B[np]
+TE[2]
+C[Correct Answer.  
+
+Also correct. ]
+)
+)

@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ie][id][ia][jc][hc][jb][gc]GN[ ]AB[gd][dc][ic][ib][hd][hb][fd]PM[1]C[SECTION 6. CAPTURING RACES
+
+Problem 179. Black to play. (1 move)
+How does Black play so as to capture two white stones?]PW[ ]
+(
+;B[gb]C[Correct Answer
+Black 1 is the correct answer. This move catches two white stones.]
+)
+(
+;B[fc]C[Wrong Answer
+If Black gives atari from the left side with 1...]
+;W[gb]C[...White 2 will catch three black stones.]
+)
+
+)

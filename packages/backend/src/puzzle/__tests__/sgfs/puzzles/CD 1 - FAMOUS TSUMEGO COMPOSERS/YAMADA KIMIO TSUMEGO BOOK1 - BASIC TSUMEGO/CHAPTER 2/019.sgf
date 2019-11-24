@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[oe][nd][nf][mf][lf][le][ld][kc][lb][qb][qc][pe]AW[mc][md][me][ne]
+[od][pc][pb][nb]N[019]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[mb:A][nc:B]C[黑A则白B，这不行。本题可以逐点计算，或者根据第一感进行计算。]
+N[审题])
+(;B[nc]C[黑1从内部动手，白已然不活]N[正解];W[pa];B[na];W[oa];B[oc];W[ob];B[nc];W[mb]
+;B[ma]C[白死。])
+(;B[nc]N[变化];W[mb];B[ma];W[na];B[pa];W[oa];B[oc])
+(;B[oa]N[失败];W[pa]LB[nc:A]C[黑1、白2交换后，黑已来不及在A位长了];B[na];W[mb];B[ma]
+;W[ob]C[白活。]))

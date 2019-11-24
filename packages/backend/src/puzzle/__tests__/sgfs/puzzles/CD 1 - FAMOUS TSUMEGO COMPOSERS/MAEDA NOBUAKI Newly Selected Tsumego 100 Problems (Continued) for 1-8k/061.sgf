@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rc][pe][pf][of][nf][mf][le][ld][md][lc][lb][ma][nb][qd][re]AW[qc]
+[qb][pc][oc][nc][mc][mb][nd][ne][oe][pd][me][rb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[sb]
+MULTIGOGM[0]
+
+(;C[审题：黑棋有两个断头，要避免接不归。空间不大，计算不复杂。]N[审题])
+(;B[pa]N[正解];W[ob];B[oa];W[na]C[劫杀正解])
+(;B[oa]N[失败1];W[pa])
+(;B[ob]N[失败2];W[na];B[oa];W[pa]))

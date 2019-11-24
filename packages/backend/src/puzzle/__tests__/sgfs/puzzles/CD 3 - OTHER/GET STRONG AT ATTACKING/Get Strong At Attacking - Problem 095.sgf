@@ -1,0 +1,43 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][dd][gc][qj][oj][pn][qn][po][dp][cn][dj]
+AB[kc][od][qd][qh][qo][qp][pq][op][jp][fq][bj][cf]
+TR[bj]
+C[Problem 95. White to play.  
+
+Black has just played the marked stone. How should White respond ? ]
+(;W[ci]
+TE[2]
+C[Correct Answer.  
+
+White should play 1 ... ]
+;B[bi];W[bh]
+C[... and 3. ]
+;B[ch];W[cg];B[dh];W[bf];B[dg];W[bg]
+LB[bh:3][ci:1]
+C[With the sequence to 9, Black's stones are split into two groups. This problem is similar to Problem 9. This kind of a position often occurs, so White 1 and 3 is a nice combination to remember. <= ]
+)
+(;W[cj]
+C[Failure.  
+
+The combination of White 1 ... ]
+;B[bi];W[bk]
+C[... and 3 is often seen, but in this case, ... ]
+(;B[ch]
+LB[bi:2]
+C[... Black is able to stabilise his stones with 2 and 4. <= ]
+)
+(;B[dh]
+LB[ch:@]
+C[Failure for Black.  
+
+Instead of playing at @, Black must not jump to 4 here. ]
+;W[ci]
+C[White can push with 5, ... ]
+;B[ch];W[bg]
+C[... then make a placement at 7. ]
+;B[bh];W[bf]
+C[After White 9, Black's stones are without eyes. <= ]
+))
+)

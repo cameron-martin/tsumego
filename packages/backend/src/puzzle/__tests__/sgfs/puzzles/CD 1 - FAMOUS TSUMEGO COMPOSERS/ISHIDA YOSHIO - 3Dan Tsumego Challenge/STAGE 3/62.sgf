@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[mr][ms][sq][rp][qp][qn][rn][pq][oq][nq]AW[ns][nr][or][pr][qq][rq]
+[sp][so]C[62]N[62]AP[MultiGo:4.4.4]SZ[19]AB[mq]MULTIGOGM[0]
+
+(;TR[sq]C[第62题 第一手很重要
+
+请考虑如何利用黑△一子。
+
+先从中间进行攻击，第一手就可定乾坤。]
+N[审题])
+(;B[qs]C[黑1点是手筋，从棋形上看，也应为第一感。]N[正解];W[qr];B[sr]LB[ps:A][rs:B]
+C[黑1与白2交换后，黑3长。白不能走A位了，否则黑B退，白不入气。];W[rs];B[ps]C[白死。])
+(;B[qs]N[变化];W[rs];B[ps];W[qr];B[sr]C[还原到正解图。])
+(;B[sr]N[失败1];W[rr]C[黑无后续手段，白活。])
+(;B[rs]LB[qs:A][qr:B][sr:C]C[黑1点如何？对此，白不能在A、B或C位应。]N[失败2];W[rr]
+;B[ps];W[qr];B[qs];W[sr]C[双活。]))

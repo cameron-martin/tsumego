@@ -1,0 +1,40 @@
+(;
+GM[1]
+SZ[19]
+AW[fq][lp][pm][nj][qf][ko][ln][mo][ch][eh][dl][cj]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][dn][np][nf][nd][lq][kp][mp][cf][fj]
+LB[dl:1][cj:3][fj:2]
+C[Problem 20. Black to play.  
+
+In the game in Problem 16, White exchanged 1 for 2, then attached at 3, aiming to link up his stones on the left side. How should Black deal with this move ? ]
+(;B[di]
+TE[2]
+C[Correct Answer.  
+
+Black should let White link up along the side and push through in the center with 1 ... ]
+;W[ci];B[dh]
+C[... and 3. ]
+;W[dg];B[cg];W[dk];B[fi]
+C[With the sequence to 7, White manages to link up some of her stones and get a small bit of territory on the left, but, in return, Black gets a thick position and territory in the upper left. <= ]
+)
+(;B[ck]
+C[How the game continued.  
+
+The hane of Black 1 was a black move. ]
+;W[dk]
+C[After White cut with 2, ... ]
+;B[di]
+C[... Black found his stones short of liberties after 3 ... ]
+;W[ci]
+(;B[dh]
+C[... and 5, so ... ]
+;W[dg];B[fi]
+C[... he had to defend at 7 ... ]
+;W[cg]
+C[... instead of being able to cut at 8. See Problem 24 for the continuation of this game. <= ]
+)
+(;B[fi]
+LB[dh:@][dg:6]
+C[The Black @ - White 6 exchange was bad. Black should have simply played at 5 here. <= ]
+))
+)

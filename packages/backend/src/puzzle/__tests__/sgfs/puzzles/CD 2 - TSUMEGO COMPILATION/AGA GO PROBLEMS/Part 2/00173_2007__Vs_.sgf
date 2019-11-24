@@ -1,0 +1,33 @@
+(;
+AB[pp][cp][ip][pj][dm][jc]
+AW[qd][cc][od][cj][ej]
+C[White plays.
+
+Source:
+    American Go Journal, Vol. 18, No. 1, 1983, pp. 15-17
+    "The Professional Eye", Jimmy Cha 4p]
+(;
+W[lc]
+C[Correct];
+B[gc];W[fd];B[fc];W[ed];B[ec];W[dc];B[de];W[dd];B[he]
+)
+    (;
+    W[hc]
+    C[A mistake in direction.];
+    B[dd]
+    C[Now Black can come into the corner. ]
+    (;
+    W[cd];B[de];W[eb]
+    C[Compare this position with White's greater territorial potential in the main line above.]
+    )
+        (;
+        W[dc]
+        C[Another mistake in direction.];
+        B[fd]
+        C[Now Black can play lightly.];
+        W[ed];B[ee];W[ec];B[hd]
+        C[Black can afford to give up the very light stones in the upper left.]
+        )
+    )
+)
+

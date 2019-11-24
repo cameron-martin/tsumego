@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nq][mq][mr][rq][rp][qp][qn][oo]AW[nr][ns][oq][pq][qq][rr]C[81]N[81]
+AP[MultiGo:4.4.4]SZ[19]AB[op]MULTIGOGM[0]
+
+(;C[第81题 空着一口外气
+
+与80题大致相同，但这里白多空着一口外气。这时黑如何攻击为好呢？]
+N[审题])
+(;B[rs]N[正解];W[sr];B[ps];W[pr];B[ms];W[or];B[qr]C[黑白的应接，与第80题完全一样。])
+(;B[rs]N[变化];W[sr];B[qr];W[pr]C[在有白有外气的场合，黑3断不再成立。]))

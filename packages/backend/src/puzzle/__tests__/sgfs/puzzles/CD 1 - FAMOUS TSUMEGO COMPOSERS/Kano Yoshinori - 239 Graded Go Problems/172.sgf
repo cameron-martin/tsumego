@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][fj][ff][hd][fh][ei][ii][gj][dg][fg][ie][if][df][dh][hj][de][ed][ej][ih][fd][ig]GN[ ]AB[ge][fi][hg][fe][ef][eh][eg][hi][hf][hh][he][gi][ee]PM[1]C[Problem 172. Black to play and get a seki. (1 move)
+How does Black play so that his stones live in seki?]PW[ ]
+(
+;B[gg]C[Correct Answer
+Black 1 makes a seki. If White moves to break the seki by sacrificing four stones, Black will take the stones and make two eyes.]
+)
+(
+;B[gh]C[Wrong Answer
+IF Black plays 1...]
+;W[gg]C[...White sacrifices four stones and...]
+;B[gf]C[...after Black takes with 3...]
+;W[fg]C[...destroys Black's eye shape with 4.]
+)
+
+)

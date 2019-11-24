@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qq][oq][nq][mq][nr][ns][mp][mo][op][oo][nn][qr]AW[qn][rr][po][ql]
+[pp][on][om][nm][mm][mn][lo][lp][lq][lr][mr][ms][rq][qp][rm]N[040]AP[MultiGo:4.4.4]
+SZ[19]AB[pn]MULTIGOGM[0]
+
+(;LB[rp:A][pq:B]C[第一感就是走A位，这样B位成为先手。但仅有B位的先手仍然不够。A位断能够威胁到白角上二子吗？]
+N[审题])
+(;B[rp]N[正解];W[ro];B[no]C[黑活。])
+(;B[rp]LB[pq:A]C[黑1断，A位成为先手，这样黑棋在下边确保已有一眼]N[变化];W[no]C[白要杀黑，就不得不提子]
+;B[ro]C[黑3长出后，与角上白二子形成对杀，对杀显然黑胜。])
+(;B[no]N[失败];W[pr];B[pq];W[qs];B[rp];W[qo]C[观察，黑棋气紧，回天乏术了。]))

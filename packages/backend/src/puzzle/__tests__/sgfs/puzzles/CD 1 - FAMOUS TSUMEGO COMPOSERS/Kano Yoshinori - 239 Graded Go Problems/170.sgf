@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[kb][cm][am][mc][ck][ak][lb][cl][lc][bk][ka]GN[ ]AB[md][ld][dj][cj][dl][kc][ja][bj][dm][jc][dk][jb][aj]PM[1]C[Problem 170. Black to play and White to play. (1 move)
+What happens in these positions if Black moves first? White first?]PW[ ]
+(
+;B[ma]C[If Black Plays First
+If Black plays 1 in the upper position...]
+;B[bl]C[...and 3 in the lower position, White cannot make two eyes and dies.]
+)
+(
+;W[ma]C[If White Plays First
+If it's White's turn he can make two eyes and live by playing at 1...]
+;W[bl]C[...and 3.]
+)
+
+)

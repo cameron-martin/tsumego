@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[po][qo][ro][rm][sn][rs][nq][or][pq]AW[sr][sp][so][rp][qp][qq][qr]
+[pr][mq]N[057]AP[MultiGo:4.4.4]SZ[19]AB[pp]MULTIGOGM[0]
+
+(;TR[mq]C[白棋边上的一子，要发挥作用的。如果没有的话，白角不活。
+
+难度：☆☆☆]
+N[审题])
+(;B[rr]N[正解];W[ps]C[黑1、白2均是要紧之着];B[ss];W[rq]C[劫杀正解])
+(;B[ps]N[失败];W[qs];B[rr];W[os]C[白棋边上的一子发挥了作用])
+(;B[rr]N[变化];W[os]C[白2扳不好，撞紧气了];B[ns];W[ps];B[qs]C[现在黑可以5位曲，这样白死。]))

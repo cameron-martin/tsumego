@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cp][dq][qk][qf][rd]
+AB[cn][ck][oq][qp][qc][pd][nc]
+TR[qc]
+C[Problem 77. White to play.  
+
+After Black defends the corner with the marked stone, where should White play ? ]
+(;W[ph]
+TR[qk]
+
+TE[2]
+C[Correct Answer.  
+
+The marked white stone is far way from its allies above, so White should defend at 1, which makes a good high-low balance. ]
+;B[cg]
+C[Black 2 is also a good move. ]
+;W[jq]
+LB[fc:A]
+C[Next, White extends along the bottom with 3, but White 3 at A would also be big. <= ]
+)
+(;W[ci]
+C[Failure.  
+
+White 1 is certainly a good attacking move, but ... ]
+;B[qh]
+C[... Black will invade at 2. ]
+;W[of];B[oh];W[mf]
+C[After the sequence to White 5, ... ]
+;B[qm]
+C[... Black takes the initiative on the right side with the checking extension of 6. <= ]
+)
+)

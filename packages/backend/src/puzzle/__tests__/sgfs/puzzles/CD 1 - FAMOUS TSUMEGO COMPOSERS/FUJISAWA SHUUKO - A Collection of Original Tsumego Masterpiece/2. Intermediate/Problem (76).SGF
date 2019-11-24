@@ -1,0 +1,8 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[id][ke][md][nd][od][pa][qa][qb][qc][pc][ka][hb][ib][jd]AW[pb][ob][nc][mc][lc][kc][jb][ja]C[黑先 不必绕圈子，直接向右方白二子进攻。]
+
+(;B[nb];W[na];B[oc];W[mb];B[la];W[oa];B[ma]C[正解 黑先白死
+])
+(;B[oa];W[na]
+(;B[ma];W[la];B[nb];W[mb];B[lb];W[kb];B[na];W[la]C[失败])
+(;B[nb];W[mb];B[la];W[oc];B[ma]C[失败])
+(;B[oc];W[la];B[nb];W[mb]C[失败])))

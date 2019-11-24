@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qc][rb][ra][mb][mc][oc]AW[rc][qb][qd][re][pd][od][nd][md][ld][kd]
+[kb][lb][sb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[审题：黑棋有两处缺陷需要防守，能不能兼顾呢？黑棋的防守方法也是基本功。]N[审题])
+(;B[pa]C[黑1是防守的好手，兼顾了左右的毛病]N[正解];W[ma];B[na]C[白2扳时，黑3可挡住，白已无后续进攻手段]
+;W[nb];B[nc];W[oa];B[ob]C[黑活。])
+(;B[pb]C[黑1打如何？这是第57题的内容，黑棋无法做活。]N[失败]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[bm][ch][bh][bg][af][cj][ck][cl][bl]AW[am][an][bn][cm][dm][dl][dj]
+[dk][ag][bf][be][cg][dg][dh][di]N[208]AP[MultiGo:4.4.4]SZ[19]AB[al]MULTIGOGM[0]
+
+(;C[得到正解不难。失败图也要计算。
+
+难度：☆☆]N[审题])
+(;B[aj]C[黑1是第一感]N[正解];W[bk]C[白2点入最强];B[ah];W[bi];B[ci];W[bj])
+(;B[ci]N[失败1];W[ai];B[aj];W[bj];B[bk])
+(;B[bj]N[失败2];W[ci];B[bi];W[ak]))

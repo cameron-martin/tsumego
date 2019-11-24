@@ -1,0 +1,60 @@
+(;
+AB[qc][qp][oq][cn][cj][ce][df][ff][bc]
+AW[dc][fd][jc][qj][qm][jq][dp][fp][dh]
+C[Black plays.
+
+Source:
+    "Go World", #30, Winter 1982-83, pp. 16-17.
+    Cho Chikun vs. Otake Hideo,
+    7th Meijin Title, game 1]
+(;
+B[cq]
+C[Otake, Kato, Ishida, and Sakata all
+agreed that Cho's territorial move
+here was bad.];
+W[cp]
+C[The following sequence is forced.];
+B[bp];
+W[bo];
+B[bq];
+W[co];
+B[er];
+W[fr];
+B[eq];
+W[fq];
+B[ep];
+W[eo];
+B[dq];
+W[dn];
+B[ei]
+TR[ff]
+C[Black's lower left corner invasion
+has given White outside thickness that
+nullifies the thickness from Black's
+marked stone.]
+)
+    (;
+    B[dl]
+    TR[ff]
+    C[Otake maintained that Black should
+play here to make the marked stone
+meaningful.];
+    W[co];
+    B[dn]
+    TR[dh][ff]
+    LB[cq:a][eq:b][gp:c]
+    C[White will have difficulty doing
+anything with the marked White stone,
+while White's lower left corner
+still has weaknesses at A,B,C.]
+    )
+    (;
+    B[en]
+    TR[dh]
+    C[Ishida suggested playing on an
+even larger scale.  White will
+still have trouble doing anything
+with the marked stone, and White's
+lower left corner is still open.]
+    )
+)

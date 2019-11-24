@@ -1,0 +1,36 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][cd][ed][hc][qc][qf][pf][qi]
+AB[cj][jc][nd][pd][qe][re]
+LB[re:1]
+TR[qc]
+C[Problem 125. White to play.  
+
+Black 1 is a strong response to the invasion by the marked stone. Black intends to give White the corner and attack the right side. What is White's next move ? ]
+(;W[oc]
+LB[ob:A]
+
+TE[2]
+C[Correct Answer.  
+
+Peeping at White 1 is a tesuji. As you will see in the Failure Diagram, White 1 at A is not good. <= ]
+)
+(;W[ob]
+C[Failure. ]
+;B[oc]
+LB[ob:1]
+C[Black 2 is a good response to White 1. ]
+(;W[nb]
+C[If White 3, ... ]
+;B[pb]
+C[... Black plays 4 and takes the corner. <= ]
+)
+(;W[pb]
+C[If White draws back to 3, ... ]
+;B[nb]
+C[... Black blocks at 4. ]
+;W[rb]
+C[White gets a small life. White's result is bad. <= ]
+))
+)

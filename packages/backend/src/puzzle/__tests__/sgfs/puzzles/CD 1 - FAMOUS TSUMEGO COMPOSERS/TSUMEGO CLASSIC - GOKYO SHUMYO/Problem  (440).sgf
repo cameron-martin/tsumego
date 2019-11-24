@@ -1,0 +1,28 @@
+(;GM[1]FF[3]AB[cm][sl][bl][hr][kr][as][cs][fs][gs][hs][js][os][ps][qs][rs][ss][oc]
+[ga][ja][pa][lq][kq][fq][aq][ip][hp][cp][ro][fo][rn][kn][hn][sm][jm][qa][sk][jk]
+[ik][ak][aj][pi][li][bi][mh][lh][rg][rf][nf][lf][ef][cf][gc][ec][se][le][de][sd]
+[kd][gd][ed][cd][bd][sb][rb][ob][kb][jb][gb][bb]AW[kp][sp][iq][jq][fr][gr][lr][nr]
+[qr][sr][ds][ls][cc][qc][fc][bj][rj][sj][al][il][jl][am][bm][im][cn][gn][qn][bo]
+[co][so][gp][je][me][ne][bf][cg][dg][mg][og][sg][bh][nh][oh][rh][sh][mi][ee][nc]
+[fa][ka][la][ra][cb][db][eb][fb][ib][lb][pb][mc][dd][jd][md]PL[W]C[White to play.
+Start at A.
+
+（名人因硕创作）]
+LB[bc:A]AP[MultiGo:3.9.3]SZ[19]
+;W[bc];B[ac];W[ad];B[ae];W[ab];B[aa];W[ca];B[ad];W[fe];B[fd];W[dc];B[df];W[ce];B[be]
+;W[ba];B[ab];W[af];B[ce]C[由于关系到死活，双方一步不让，因此产生了全局性的征子问题。结果如何呢？]
+;W[ff];B[eg];W[eh];B[fg];W[gg];B[fh];W[fi];B[gh];W[hh];B[gi];W[gj];B[hi];W[ii];B[hj]
+;W[hk];B[ij];W[kk];B[jj];W[ji];B[kj];W[lj];B[ki];W[lg];B[kh];W[kg];B[jh];W[ih];B[jg]
+;W[jf];B[ig];W[hg];B[if];W[hf];B[ie];W[he];B[id];W[hd];B[ic];W[hc];B[jc];W[kc];B[lc]
+;W[ia];B[kc];W[ld];B[ke];W[kf];B[mf];W[ng];B[of];W[pf];B[oe];W[od];B[pe];W[qe];B[pd]
+;W[pc];B[nd];W[qd];B[od];W[nb];B[oa];W[qb];B[sa];W[na];B[ra];W[sc];B[rc];W[rd];B[sc]
+;W[sf];B[re];W[qf];B[qg];W[pg];B[qh];W[qi];B[ph];W[pj];B[oi];W[ni];B[oj];W[ok];B[nj]
+;W[mj];B[nk];W[nl];B[mk];W[lk];B[ml];W[mm];B[ll];W[kl];B[lm];W[ln];B[km];W[ko];B[jn]
+;W[in];B[jo];W[jp];B[io];W[hq];B[ho];W[go];B[hm];W[hl];B[gm];W[fm];B[gl];W[gk];B[fl]
+;W[el];B[fk];W[fj];B[ek];W[dk];B[ej];W[ei];B[dj];W[cj];B[di];W[dh];B[ci];W[ch];B[ai]
+;W[ah];B[bk];W[ck];B[cl];W[dl];B[dm];W[em];B[dn];W[do];B[en];W[fn];B[eo];W[ep];B[fp]
+;W[gq];B[eq];W[dq];B[er];W[dr];B[es];W[ir];B[is];W[ks];B[jr];W[mq];B[lp];W[lo];B[mp]
+;W[np];B[mo];W[mn];B[no];W[oo];B[nn];W[nm];B[on];W[pn];B[om];W[ol];B[pm];W[qm];B[pl]
+;W[pk];B[ql];W[rl];B[qk];W[qj];B[rk];W[rm];B[sn];W[rp];B[qo];W[po];B[qp];W[qq];B[pp]
+;W[op];B[pq];W[pr];B[oq];W[nq];B[or];W[ns];B[dp];W[rr];B[ep];W[cq];B[bp];W[bq];B[ap]
+;W[ao];B[ar];W[br])

@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[mc][pc][qe][pj][qj]AB[qh]LB[qh:1][qj:2]
+;B[qf]CR[qf]
+(;W[pf]CR[pf]
+;B[re]CR[re]
+(;W[rf]CR[rf]
+;B[qg]CR[qg]
+;W[rd]CR[rd]
+;B[pe]CR[pe]
+;W[qd]CR[qd]C[assume the ladder works
+
+if it does not work and White tries to pull out, then (cont.)]
+;B[of]CR[of]
+;W[pg]CR[pg]
+;B[oh]CR[oh]
+;W[oe]CR[oe]
+;B[ph]CR[ph]
+;W[pd]CR[pd]
+;B[mh]CR[mh])
+(;W[qg]CR[qg]
+;B[rf]CR[rf]
+;W[rg]CR[rg]
+;B[pg]CR[pg]
+;W[rh]CR[rh]
+;B[ph]CR[ph]
+;W[qi]CR[qi]
+;B[pe]CR[pe]
+;W[of]CR[of]
+;B[qd]CR[qd]C[if White cuts, Black gets easy life in the corner ]))
+(;W[rf]CR[rf]
+;B[pe]CR[pe]C[if you opponent plays underneth you have a simlar counter-hane tesuji with this]))

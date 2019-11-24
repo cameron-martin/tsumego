@@ -1,0 +1,9 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[id][cf][ef][dn][ed][ee][de][cd][dl][cq][qp]
+[op][lq][lo][go][dp][dg][ld][qi]AW[fp][eq][pc][fn][bd][be][ce][dd][dc][ec][qe][gc]
+[gd][gp][jq][qk][qn][pj][ho]TR[pj]C[Black to play. White has just played the marked stone. How can Black make sabaki on the right side?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[qf]
+(;W[pf];B[qg];W[pe];B[oh];W[nj];B[mh]C[CORRECT Black should first attach, then keep jumping towards the center. Black has a base on the right side.])
+(;W[pe];B[re];W[rd];B[oh];W[nj];B[mh]C[CORRECT If White extends after Black attaches, Black will hane, and instead of connecting Black will again jump towards the center.]))
+(;B[oh];W[qg];B[pi];W[oj]C[If Black simply jumps out to the center White will force Black into a heavy shape which will become under attack.]))

@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[lc][mc][nb][ob][pb][le][mf][nf][oe][od][pd][qd][rd][rc][sc][pf][qe]
+AW[re][og][of][ne][nd][nc][oc][pc][qc][qb][rf][se][sd][qg][rg][pg]N[066_1]AP[MultiGo:4.4.4]
+SZ[19]AB[qf]MULTIGOGM[0]
+
+(;C[这是原题，但这题有问题。]N[审题])
+(;B[sb]C[黑先曲]N[正解];W[qa];B[pa];W[rb];B[me];W[sa];B[ra]C[劫。
+
+黑的先手劫。])
+(;B[qa]C[黑1先扳是次序]N[原正解];W[ra]LB[pa:A]C[但白2可在A位扑];B[sb]C[黑3曲，对杀手筋]
+;W[pa];B[me];W[rb];B[md]C[对杀黑胜。
+
+但这是不对的。])
+(;B[qa]N[对原正解的防守];W[pa]C[白2扑好];B[oa];W[ra];B[rb];W[pa]C[现在已经是打劫了。
+
+如果黑拒绝打劫的话……]
+;B[mb];W[sb]C[白棋再扑];B[sa];W[qa];B[me];W[sb]C[这是白的先手劫。])
+(;B[qa]N[变化];W[pa];B[ra];W[rb];B[sb];W[sa];B[ra];W[qa]C[白的缓气劫，黑更糟糕。]))

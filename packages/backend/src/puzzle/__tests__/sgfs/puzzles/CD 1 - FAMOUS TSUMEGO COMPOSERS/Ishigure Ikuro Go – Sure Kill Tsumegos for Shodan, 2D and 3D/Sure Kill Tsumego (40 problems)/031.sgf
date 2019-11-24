@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[jr][jq][jp][jo][ko][lo][mp][np][op][pp][oq][rp][rq][sr][qr][qs][ls]
+AW[kr][kq][kp][lp][lr][mq][mr][or][pr][pq][qq][rr]N[031]AP[MultiGo:4.4.4]SZ[19]
+AB[ks]MULTIGOGM[0]
+
+(;LB[ms:A][ps:B]C[A、B两处都是黑的弱点。]N[审题])
+(;B[rs]N[正解];W[ps];B[nr];W[nq];B[ns])
+(;B[rs]N[变化1];W[ms];B[nr];W[js];B[ks];W[nq];B[os])
+(;B[rs]N[变化2];W[nq];B[ps])
+(;B[ns]N[失败];W[ms];B[nr];W[js];B[nq];W[ks]))

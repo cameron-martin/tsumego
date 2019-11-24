@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pp][oq][nq][lq][qr][qs][rq][ro]AW[rr][qq][pq][pr][rp][rs]N[033]AP[MultiGo:4.4.4]
+SZ[19]AB[qp]MULTIGOGM[0]
+
+(;LB[or:A][nr:B]C[白A则黑B，白棋在下边不能做出两眼。因此，关键是黑如何破掉白角上的眼。
+
+难度：☆]
+N[审题])
+(;B[sq]LB[sr:A]C[黑1立下好，白A位无法入子]N[正解];W[ps];B[sr]C[白死。])
+(;B[sp]N[失败];W[sr]))

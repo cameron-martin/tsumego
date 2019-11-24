@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[jc][ic][hb][gb][lb]AW[ke][kc][lc][mb][mc][fb][fc][fd][hc][hd][jd]
+N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[kb]MULTIGOGM[0]
+
+(;C[审题：这是边上死活的基本型，必须掌握。]N[审题])
+(;B[ja]C[黑棋在气紧的一边虎是要领，这样就活了]N[正解];W[ib]C[白2断最具迷惑性];B[la]
+C[黑活。])
+(;B[ga]C[黑1立下扩大眼位]N[失败];W[la]LB[ia:A]C[白2扳，黑不活。白2也可走在A位，但不够规范。]
+;B[ja];W[ia];B[ib];W[ma]))

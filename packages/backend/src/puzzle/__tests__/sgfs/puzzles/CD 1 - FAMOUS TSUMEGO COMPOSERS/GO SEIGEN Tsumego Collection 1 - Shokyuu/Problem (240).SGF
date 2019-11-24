@@ -1,0 +1,8 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]GN[第240题]HA[0]EV[吴清源诘棋集（初级编）]AB[ca][cb][cc][dd][de][fd][gd][hd][id][ic][kc][kb]AW[db][ec][gb][gc][hc][ib][jb]C[黑先
+
+这是初级编结业的测验题。
+作出正解的就可以进入高级编了。]
+
+(;B[ea]N[正解图];W[da];B[eb];W[ha];B[fb];W[ja];B[ga]C[打劫是正解])
+(;B[ea]N[变化图];W[fa];B[da];W[ha];B[fb]C[还是打劫])
+(;B[fc]N[失败图];W[fb];B[da];W[ea];B[ja];W[ia]))

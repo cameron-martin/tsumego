@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[kq][lp][np][nq][op][pp][qp][rp][sq][sr][or][qs][ls][ks]AW[lr][mr]
+[nr][os][oq][pq][qq][rq][rr][rs]N[002]AP[MultiGo:4.4.4]SZ[19]AB[kr]MULTIGOGM[0]
+
+(;C[空间小选择少，一定要得到正解。]N[审题])
+(;B[ns]N[正解];W[ms];B[pr];W[ns];B[lq]C[白死。])
+(;B[ns]N[变化];W[pr];B[ms]C[黑棋扑时，白2提子，黑3接回后，白没有两眼。])
+(;B[pr]N[失败1];W[ns];B[lq];W[ps]C[由于白棋多出了一口气，活了。])
+(;B[ms]N[失败2];W[ns]C[黑1直接冲，缺少计算。]))

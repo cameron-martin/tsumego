@@ -1,0 +1,63 @@
+(;
+GM[1]
+SZ[19]
+AW[pm][nj][nh][og][qf]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][jj][nq][oh][ng][nd]
+LB[qf:1][nd:2][pm:3][nq:4][nj:5][oh:6][nh:7][ng:8][og:9]
+C[Problem 13. Black to play.  
+
+White cuts with 9. How should Black respond ? ]
+(;B[ph]
+TE[2]
+C[Correct Answer.  
+
+The proverb advises, 'When caught in a crosscut, extend !'. Black should follow this maxim by extending to 1 and strengthening his stones toward the edge. This gives him two ways to save his stones on the side. ]
+(;W[mh]
+C[If White extends to 2, ... ]
+;B[pg]
+C[... Black ataris with 4. ]
+;W[qc]
+C[It is unreasonable to try and save the stone in atari, so White might jump to the corner with 4. ]
+;B[qd]
+C[Black will block with 5 and ... ]
+;W[rd];B[re];W[rc];B[qe];W[ob];B[nb];W[oc];B[nc];W[od];B[oe]
+C[... confine White to the corner with the sequence to 15. ]
+;W[pc]
+C[White ends in gote, so ... ]
+;B[ok]
+C[... Black can separate White's stones in the center from the one on the side with 17. For this reason, White won't invade at 4 immediately. Instead, she will leave it in reserve as aji and strengthen her stones in the center first. <= ]
+)
+(;W[of]
+C[Variation.  
+
+If White extends to 2 first, ... ]
+;B[ni]
+C[... Black ataris from the other side with 3 and ... ]
+;W[mh];B[mi]
+C[... pushes out into the center with 5, building a wall and influence towards the bottom. ]
+;W[lh];B[nf]
+C[Black 7 now leaves White with two weak groups to defend. This result is bad for White. <= ]
+))
+(;B[ni]
+C[How the game continued.  
+
+Black 1 ... ]
+;W[mh];B[mi]
+C[... and 3 were unrelenting, but ... ]
+;W[oi]
+C[... they gave White the chance to counterattack with 4 ... ]
+;B[ph];W[pi]
+C[... and 6. In the fight to 26, Black made many mistakes - ... ]
+;B[pg]
+LB[qi:A]
+C[... - 7 should be at A - ... ]
+;W[qi];B[pf];W[mg];B[nf]
+LB[li:B]
+C[... - 11 should be at B - ... ]
+;W[li];B[mj];W[mk];B[lj];W[kj];B[lk];W[kk];B[ll];W[kh];B[ji];W[ki];B[nl]
+LB[oj:C]
+C[... - 23 should be at C - ... ]
+;W[oj];B[nk];W[ok]
+C[... - so White got profit on the right and established a position in the center. This sequence was a success for White. <= ]
+)
+)

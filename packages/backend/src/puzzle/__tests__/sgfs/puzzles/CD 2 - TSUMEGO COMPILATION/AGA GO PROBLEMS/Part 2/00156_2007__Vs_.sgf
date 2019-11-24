@@ -1,0 +1,39 @@
+(;
+AB[nr][mr][mq][jq][hq][gq][fq][pp][qo][co][rn][pn][on][fn][dn][qm][mm][fm][fl]
+AW[or][qq][pq][oq][nq][dq][rp][mp][ip][hp][ep][ro][no][fo][in][gn][pm][gm]
+C[White plays.
+
+Source:
+    Tesuji Dictionary, Vol. 1, Tsuke #88,
+    Segoe Kensaku & Go Seigen, Ishi Press]
+(;
+W[kq]
+C[Correct.
+Black looks thin in the original position, but this amazing tesuji is the only way to break through.];
+B[kr];
+W[jr]
+C[White follows up with a simple sacrifice.];
+B[ir]
+C[Otherwise, Black loses the stones to the left.];
+W[lr];
+B[js];
+W[lq]
+TR[mq][mr][nr]
+C[And Black cannot avoid the loss of the 3 marked stones.]
+)
+    (;
+    W[lq]
+    C[Slack.];
+    B[lr]
+    C[Now Black can connect.];
+    W[iq];
+    B[ir];
+    W[kq];
+    B[kr];
+    W[jp];
+    B[jr]
+    TR[mm]
+    C[Black lives with all his stones, and White's wall is not worth much given Black's marked stone.]
+    )
+)
+

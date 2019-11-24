@@ -1,0 +1,56 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dg][cn][dp][jp][nq][no][nr]
+AB[nm][oq][pp][pn][qj][qd][oc][fc][id]
+LB[nr:2][oq:1][nm:3]
+C[Problem 150. White to play.  
+
+Black maps out a huge moyo with 1 and 3. It is now urgent that White reduces the size of this moyo. Where is the weak point of Black's formation ? ]
+(;W[oe]
+LB[pd:B][nc:A]
+
+TE[2]
+C[Correct Answer.  
+
+When Black has a tight small-knight enclosure with extensions on both sides, the weak point is White 1. Depending on how Black answers, White will make sabaki by playing at A of B. <= ]
+)
+(;W[nd]
+C[Not applicable here.  
+
+White plays 1 when she wants to erase the top. ]
+;B[nc]
+C[In this case, Black would push with 2, ... ]
+;W[ld];B[nf]
+LB[nd:1]
+C[... then cap with 4. This move is very severe, since it not only attacks White's two stones, but also expands Black's moyo on the right. Clearly, White 1 is not a good idea in this position. <= ]
+)
+(;W[qh]
+C[The worst move.  
+
+Invading with 1 gibes Black a target to attack. ]
+;B[qf]
+C[Black first pincers with 2, ... ]
+;W[oh];B[mh]
+C[... then caps with 4. Black is strong above and below, so it will be hard for White to escape. <= ]
+)
+(;W[qe]
+C[A heavy shape.  
+
+If White plays 1 ... ]
+;B[pe];W[qf]
+LB[pe:2]
+C[... and 3, she is left with a heavy shape ... ]
+;B[rd]
+LB[pe:2]
+TR[qj]
+C[... after Black 2 and 4. White cannot make a full extension down the side because of the presence of the marked stone. This is a terrible result for White. <= ]
+)
+(;W[dc]
+C[An iron rule.  
+
+Locally, White 1 is a good move, but ... ]
+;B[oe]
+C[... Black then eliminates the weak point of his moyo by jumping to 2. When dealing with a moyo, the iron rule is 'Never let your opponent perfect his moyo.' <= ]
+)
+)

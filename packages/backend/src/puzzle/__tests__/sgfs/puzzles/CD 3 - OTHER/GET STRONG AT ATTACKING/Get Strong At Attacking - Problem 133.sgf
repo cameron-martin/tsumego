@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cf][kc][kd][kf][lg][qc][qd][qf][rf][kq][cq][dp][fq]
+AB[fc][id][jc][jf][kg][pc][pd][pe][og][qh][pp][bp][cn][ck]
+TR[lg]
+C[Problem 133. Black to play.  
+
+White has just played the marked stone (see Problem 57). How should Black counter this move ? ]
+;B[ke]
+TE[2]
+C[Correct Answer.  
+
+Black should atari at 1. ]
+;W[le]
+C[White has no choice but to block with 2. ]
+;B[lf];W[mf];B[kf]
+C[After Black connects with 5, ... ]
+;W[ne];B[pf];W[md]
+C[... the sequence to 8 is inevitable. ]
+;B[lh];W[mg];B[mh];W[qb];B[nc];W[mc];B[ng]
+C[Black now builds a wall in the center. ]
+;W[nb]
+C[White can live with her stones by playing 16, but Black ends in sente. Black's thick wall in the center gives him a huge advantage. <= ]
+)
+)

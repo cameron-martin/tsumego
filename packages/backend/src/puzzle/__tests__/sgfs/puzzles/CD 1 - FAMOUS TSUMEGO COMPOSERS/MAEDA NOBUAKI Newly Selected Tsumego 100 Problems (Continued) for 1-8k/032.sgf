@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qe][pd][pc][pb][pa][nd][rd]AW[qb][qc][qd][rc][rf][qg][pf][pe][qa]
+N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;C[审题：对杀问题。可以入手的点不多。双方都只有三气，但白棋占据了角上的有利位置。]
+N[审题])
+(;B[sc]N[正解];W[sb];B[ra];W[sd];B[se]C[打劫是正解。])
+(;B[sb]N[失败1];W[sc];B[ra];W[se])
+(;B[ra]N[失败2];W[sc]))

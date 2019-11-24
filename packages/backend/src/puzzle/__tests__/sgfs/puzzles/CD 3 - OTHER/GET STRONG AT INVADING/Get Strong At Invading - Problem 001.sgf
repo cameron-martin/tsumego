@@ -1,0 +1,23 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][nc]
+AB[dd][hc][pd][pf]
+C[Problem 1. Black to play.  
+
+With the black stones on the left and on the right, White's three-space extension is vulnerable. Where should Black invade ? ]
+;B[lc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the vital point. No matter what White does after this, Black will have no problem. ]
+;W[md]
+C[If White plays 2, ... ]
+;B[ld]
+C[... Black pushes up with 3 and, ... ]
+;W[le]
+C[... after 4, ... ]
+;B[jd]
+C[... attaches with 5. Black dominates the top. <= ]
+)
+)

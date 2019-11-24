@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][hd][fj][dm][hb][hc][ef][eg][cp][co][md][nc][oc]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][fp][pn][fd][cd][ee][gc][ff][dq][pc][nd][ne][gb]
+LB[cp:1][co:3][dq:2]
+C[Problem 25. Black to play.  
+
+The game in Problem 21 continued with White 1 and 3. How should Black attack ? ]
+(;B[fg]
+TE[2]
+C[Correct Answer.  
+
+Black should first push with 1, ... ]
+;W[eh]
+C[... forcing White to defend with 2, ... ]
+;B[kc]
+LB[el:B][mc:A]
+C[... then play die diagonal move of 3, keeping White's stones at the top separated and aiming at the cut at A. White will have a hard time defending both of her groups at the top. You should note that White has still not secured the territory at the side; Black can still pull his stone out by playing at B. <= ]
+)
+(;B[me]
+C[How the game continued.  
+
+Black pressed White against the top ... ]
+;W[ld];B[le];W[kd];B[ke]
+C[... with the sequence to 5. In some positions, these might be good moves, but in this case Black lost his chance to score a decisive win. ]
+;W[jc]
+C[White secured all her stones at the top and made some territory there as well. ]
+;B[qj]
+C[If Black had made an iron pillar with 7, however, this would be a satisfactory result. See Problem 29 for the continuation. <= ]
+)
+)

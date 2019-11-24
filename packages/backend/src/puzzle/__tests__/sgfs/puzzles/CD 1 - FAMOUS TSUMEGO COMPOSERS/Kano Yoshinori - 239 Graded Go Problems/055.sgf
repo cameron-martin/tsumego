@@ -1,0 +1,5 @@
+
+(;GM[1]AP[GOWrite:2.0.07]SZ[13]FF[4]AW[hm][ge][he]FG[259:]PM[1]PB[ ]LB[hd:1][im:1]PW[ ]GN[ ]C[Problem 55. Remove from the board?
+In the positions at the top and bottom, can Black remove the white stones from the board after he plays at 1?]AB[gd][fl][hg][im][hd][fe][gl][if][ie][hl][fm][il][gf][fd]
+;L[hf][gm]C[In both diagrams, the White stones cannot be taken. If A or B were occupied by either Black or White, then Black 1 would capture White's stones.]
+)

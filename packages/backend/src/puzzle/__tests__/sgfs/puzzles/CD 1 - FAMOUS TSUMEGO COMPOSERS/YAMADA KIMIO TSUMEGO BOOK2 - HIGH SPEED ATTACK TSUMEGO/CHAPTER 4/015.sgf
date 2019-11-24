@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[nd][nc][oc][pc][pb][lb][lc][ld]AW[qc][qd][pd][od][ne][me][le][kd]
+[kc][kb][jb][mc][mb][nb][qb]N[015]AP[MultiGo:4.4.4]SZ[19]AB[md]MULTIGOGM[0]
+
+(;C[黑必须吃住白三子，但是要小心眼位。另外就是要注意：黑气非常非常的紧。]N[审题])
+(;B[ma]N[正解];W[pa];B[oa]C[黑已活。];W[qa]C[白4接上不过是官子而已。双活。])
+(;B[ma]N[变化];W[oa];B[pa];W[qa]C[双活。])
+(;B[la]N[失败1];W[ma];B[pa];W[qa];B[na];W[oa]C[黑死。])
+(;B[na]N[失败2];W[pa]C[黑死。]))

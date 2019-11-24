@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][oc][ob][rb][rc][qd]AW[qb][qc][rd][re][qe][pe][oe][ne][me][mc]
+[nb]N[209]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[白二子已经被吃住，关键是黑棋怎么去吃。要避免吃子后眼位不够的情况。
+
+难度：☆☆]
+N[审题])
+(;B[sb]C[黑1拐好，这样确保两眼活棋。]N[正解])
+(;B[ra]N[失败1];W[qa];B[pa];W[sc];B[pb];W[sb];B[pc];W[qb])
+(;B[pb]N[失败2];W[sb];B[sc];W[ra]))

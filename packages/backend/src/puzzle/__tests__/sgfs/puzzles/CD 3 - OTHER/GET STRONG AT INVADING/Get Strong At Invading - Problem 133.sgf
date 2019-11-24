@@ -1,0 +1,23 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][fd][jc][qd]
+AB[dd][ec][df][mc][pd][qe][qj]
+LB[qe:1]
+TR[qd]
+C[Problem 133. White to play.  
+
+This time Black responds to the marked stone by blocking on the outside with 1. What is White's response here ? ]
+(;W[re]
+TE[2]
+C[Correct Answer.  
+
+Playing hane underneath with 1 is the proper move. <= ]
+)
+(;W[qc]
+TE[2]
+C[Correct Answer.  
+
+It is also possible for White to play 1 here. <= ]
+)
+)

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[sq][rq][qr][pr][nr][mq][lr][lp][lo][ln][mn][nn][on][pm][qm][rm][ro]
+[sn]AW[so][sp][rp][qp][rn][qn][pn][oo][no][mo][nq][oq]N[027]AP[MultiGo:4.4.4]SZ[19]
+AB[sm]MULTIGOGM[0]
+
+(;C[不是很难的题目吧，都不知道从何提示。大不了逐点计算。]N[审题])
+(;B[np]C[黑1挖是手筋]N[正解];W[op];B[pq];W[pp];B[qo];W[po];B[mp]C[白死。])
+(;B[np]N[变化1];W[mp];B[po]C[双打，白死。])
+(;B[np]N[变化2];W[pq];B[op];W[pp];B[qo]))

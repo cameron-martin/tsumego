@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rc][rd][re][qf][pf][of][ne][od][me][le][ld][lc][lb][kb][qa][rb]AW[mb]
+[mc][md][nd][oe][pe][qe][pc][qc][pb][pa]N[005]AP[MultiGo:4.4.4]SZ[19]AB[qb]MULTIGOGM[0]
+
+(;LB[nb:A]C[黑A位夹是第一感，但需要计算确认是否正确。]N[审题])
+(;B[na]N[正解];W[ma];B[nb];W[oc];B[nc];W[pd];B[la]C[白死。])
+(;B[na]N[变化];W[nb];B[oc];W[ma];B[qd])
+(;B[nb]N[失败1];W[na];B[nc];W[ma])
+(;B[ma]N[失败2];W[na];B[nb];W[la]C[与失败1没有本质不同。]))

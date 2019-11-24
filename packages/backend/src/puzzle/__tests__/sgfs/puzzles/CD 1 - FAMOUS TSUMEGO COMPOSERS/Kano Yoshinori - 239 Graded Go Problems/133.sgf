@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[if][ge][eg][fi][hg][fe][ef][gi][gf][gh][ig][eh]GN[ ]AB[gd][fj][ei][dg][gj][ie][df][jg][dh][de][hi][hf][hh][he][jf][ih][ej][fd][ee]PM[1]C[Problem 133. White to play and live. (1 move)
+White has to sacrifice three stones in order to make life.]PW[ ]
+(
+;W[fg]C[Correct Answer
+White 1 is the correct answer...]
+;B[gg]C[...If Black takes three stones with 2...]
+;W[hg]C[...White retakes and is alive.]
+)
+(
+;W[gg]C[Wrong Answer
+White 1...]
+;B[fg]C[...lets Black play 2. Now White cannot make two eyes and is dead.]
+)
+
+)

@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 64. Black to play.
+How should Black play to capture White?]AW[hl][fm][ci][gm][ik][dk][el][gl]PB[ ]PM[1]PW[ ]AB[gk][fl][hk][em][il]
+(
+;B[hm]C[Correct Answer
+By playing at 1, Black can take four white stones.]
+)
+(
+;B[fk]C[Wrong Answer
+If Black plays at 1...]
+;C[...White plays 1 and the four stones can no longer captured.]W[dm]
+)
+
+)

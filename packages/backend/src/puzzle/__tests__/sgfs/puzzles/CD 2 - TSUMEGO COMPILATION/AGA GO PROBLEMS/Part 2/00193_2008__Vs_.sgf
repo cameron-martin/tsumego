@@ -1,0 +1,48 @@
+(;
+AB[cp][ep][cg][ec][fd][ic][je][le][mf][ne][oe][mh][pd][oc][qc][qb][pq][qq][qp][qo][nq][nr][pf][pg][ph]
+AW[dc][de][cd][kc][ke][of][nf][ng][nh][ni][pe][qd][qe][qf][qg][qh][rc][qn][po][pp][pm][np][mq][lp]
+C[White plays.
+
+Source:
+    Blueprint 361, Miyamoto Naoki 9d
+    Go World #1, May-June 1977, p. 50]
+(;
+W[lj]
+C[Inferior.  White's play is certainly on a good point, but White misses a chance to take advantage of Black's weak position along the top.];
+B[kf]
+C[With one move, Black takes care of his weakness along the top.];
+W[gp]
+C[White can try to expand the moyo, but ...];
+B[dj]
+C[... Black only needs to build up the left side here to stay ahead in potential territory.];
+W[gn];B[kk]
+C[Black has no fear invading White's framework here because Black's upper side is very strong.  Black has the lead.]
+)
+    (;
+    W[cj]
+    C[Inferior.  The left side is big, but Black's weakness at the top is even bigger.];
+    B[kf]
+    C[Again, Black protects the top weakness.];
+    W[cm];B[eg]
+    LB[nk:A]
+    TR[ql][on][mo]
+    C[Black only needs to make a simple move here to keep all his groups safe and maintain the lead.
+
+Note that Black could also have played at A, because Black has forcing moves at the marked points.]
+    )
+    (;
+    W[kf]
+    C[Based on the previous variations, a White play here should now be obvious.  The details are somewhat involved, but instructive.];
+    B[kd]
+    C[If Black holds onto the top area here, the next few moves are a one-way street.];
+    W[jd];B[ld];W[jc];B[id];W[ie];B[jf];W[he];B[jg]
+    C[Black has kept the top intact, but must spend a move to prevent White's ladder here.];
+    W[ib]
+    C[But now White has time for a beautiful squeeze.];
+    B[hc];W[gc];B[hb];W[gb];B[jb];W[kb];B[ia];W[gd];B[lc]
+    C[Black must spend another move to prevent the top area from collapsing.  With sente, White can now invade the left side.  White is the one who is leading.
+
+This problem required some reading, but that is true for every plan or blueprint.]
+    )
+)
+

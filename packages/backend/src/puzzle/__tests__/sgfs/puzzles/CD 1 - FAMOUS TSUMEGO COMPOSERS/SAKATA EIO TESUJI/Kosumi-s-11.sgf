@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[do][eo][fo][go][ho][dp][hp][jp][kp][lp][bq][dq][fq][gq][lq][br][fr][lr][cs]AB[ep][fp][gp][eq][hq][iq][jq][kq][cr][dr][er][kr]C[Ex. 11 - Life or Death 
+
+It may surprise you to know that there is room for the 3 W stones to get out. Not only can they get out but, depending on how he plays, W can succeed in killing B.
+]PL[W]
+(;W[fs]LB[fs:1]C[Diag. 1 - Failure
+
+W 1 sagari is inappropriate in this situation. 
+
+]
+;B[gs]LB[fs:1][gs:2]C[After B tsuke 2 ]
+;W[hr]LB[hr:3][fs:1][gs:2]C[if W 3 ]
+;B[es]LB[hr:3][es:4][fs:1][gs:2]C[B 4 leads directly to a semeai which W cannot win.])
+(;W[gs]LB[gs:1]C[Diag 2 - Correct
+
+Allowing the capture of 3 stones. if you do not hit upon this idea you cannot solve the problem.
+
+The kosumi of W 1 ]
+(;B[hr]LB[hr:2][gs:1]C[invites B 2. ]
+;W[es]LB[hr:2][es:3][gs:1]C[Then W 3 hane ]
+;B[gr]LB[gr:4][hr:2][es:3][gs:1]C[B4 ate]
+;W[ds]LB[gr:4][hr:2][ds:5][es:3][gs:1]C[W 5 ]
+;B[fs]LB[gr:4][hr:2][ds:5][es:3][fs:6][gs:1]C[B 6 and the 3 stones are sacrificed.]
+;W[fr]LB[fr:7][gr:4][hr:2][ds:5][es:3][gs:1]C[Now look how W takes back at 7.
+After taking the 3 stones B has no eyes so he is dead as he stands.
+
+You will note that after the capture at 6 B has no time to play ate one point below 2.])
+(;B[es]LB[es:2][gs:1]C[Diag. 3 - Variation
+
+If B 2 sagari in reply to W 1 kosumi 
+]
+;W[cq]LB[cq:3][es:2][gs:1]C[it is good for W to play tsume 3. ]
+;B[hr]LB[cq:3][hr:4][es:2][gs:1]C[After B 4 ]
+;W[fs]LB[cq:3][hr:4][es:2][fs:5][gs:1]C[W wins the semeai with 5. 
+In short, B is dead. ])))

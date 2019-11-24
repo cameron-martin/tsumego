@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][jc][lc][oc][pc][qc][qb][qe][qf]
+AB[dc][cf][hc][nc][pd][pe][ne][pb]
+LB[nd:A][oc:2][ne:1]
+C[Problem 115. Black to play.  
+
+In answer to Black 1, White plays 2, hoping that Black will submissively answer at A. How does Black take the initiative in this position ? ]
+;B[mc]
+TE[2]
+C[Correct Answer.  
+
+Black should play 1 ... ]
+;W[ld];B[me]
+LB[kf:A]
+C[... and 3. aiming to attack the white stones with A. <= ]
+;W[kf]
+C[If White defends with 4, ... ]
+;B[qd];W[rd];B[rc];W[re];B[ob]
+LB[qd:5][rc:7]
+C[... Black forces with the moves to 9, ... ]
+;W[rb];B[mh]
+C[... then jumps to 11. Black has made a beautiful sabaki. <= ]
+)
+)

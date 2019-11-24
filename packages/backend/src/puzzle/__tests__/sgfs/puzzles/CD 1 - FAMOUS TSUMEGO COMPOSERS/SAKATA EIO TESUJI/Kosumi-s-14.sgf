@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fo][fp][ip][eq][cr][dr][bs]AB[dm][jo][dp][ep][jp][bq][cq][fq][jq][br][jr]TR[fq]C[Ex. 14 - Shinogi
+
+Because of B's marked cut W feels ill at ease.
+However, there is a way to escape from this difficult situation.]PL[W]
+(;W[gq]LB[gq:1]C[Diag 1 - Failure
+
+The plays of W 1 ate, ]
+;B[fr]LB[gq:1][fr:2]C[B 2 ]
+;W[gr]LB[gq:1][fr:2][gr:3]C[and W 3 are normal. ]
+;B[er]LB[gq:1][er:4][fr:2][gr:3]C[After B 4 ate W can establish a connection underneath, but this is nothing to be proud of because he is still weak and unsettled.])
+(;W[fr]LB[fr:1]C[Diag. 2 - Failure
+
+The ate from below at W 1 is a good idea, ]
+;B[gq]LB[gq:2][fr:1]C[but after B 2 ]
+(;W[hr]LB[gq:2][fr:1][hr:3]TR[aa]C[W 3 does not work. ]
+;B[hq]LB[gq:2][hq:4][fr:1][hr:3]C[After B 4 ]
+;W[iq]LB[gq:2][hq:4][iq:5][fr:1][hr:3]
+;B[ir]LB[gq:2][hq:4][iq:5][fr:1][hr:3][ir:6]C[and B 6 ]
+;W[gr]LB[gq:2][hq:4][iq:5][fr:1][gr:7][hr:3][ir:6]C[W 7 ]
+;B[dq]LB[dq:8][fq:2][hq:4][iq:5][fr:1][gr:7][hr:3][ir:6]C[B 8 ]
+;W[er]LB[dq:8][gq:2][hq:4][iq:5][er:9][fr:1][gr:7][hr:3][ir:6]C[W 9 ]
+;B[hp]LB[hp:10][dq:8][gq:2][hq:4][iq:5][er:9][fr:1][gr:7][hr:3][ir:6]C[B 10 captures W completely on the lower side.])
+(;W[hq]LB[gq:2][hq:3][fr:1]C[Diag. 3 - Correct
+
+After W 1, B 2 the kosumitsuke of W 3 is a suji. ]
+(;B[gr]LB[gq:2][hq:3][fr:1][gr:4]C[If B 4 ]
+;W[hr]LB[gq:2][hq:3][fr:1][gr:4][hr:5]C[W 5 prevents B from running away and he easily obtains a good eye shape.
+You should learn the way of playing 1 and 3 together.])
+(;B[gp]LB[gp:4][gq:2][hq:3][fr:1]C[Diag. 4 - Correct
+
+Even if B plays 2 and 4 in reply to W 1 and 3, ]
+;W[go]LB[go:5][gp:4][gq:2][hq:3][fr:1]C[W 5 prevents his escape.
+W can be proud of coping in this situation against B's thickness.]))))

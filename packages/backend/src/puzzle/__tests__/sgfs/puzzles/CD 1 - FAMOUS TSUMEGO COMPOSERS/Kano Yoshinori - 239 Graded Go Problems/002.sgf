@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]GOGGPFF[4]PM[1]AW[hl][hk][gm]FG[259:]C[Problem 2. Black to play.
+How does Black play to capture a white stone?]AB[gk][fm][gl]GN[ ]PW[ ]PB[ ]
+(
+;B[hm]C[Correct Answer
+With 1, Black can capture one stone.]
+)
+(
+;B[fl]C[Wrong Answer
+If Black plays at 1 here...]
+;W[hm]C[..White saves his stone by playing at 2.]
+)
+
+)

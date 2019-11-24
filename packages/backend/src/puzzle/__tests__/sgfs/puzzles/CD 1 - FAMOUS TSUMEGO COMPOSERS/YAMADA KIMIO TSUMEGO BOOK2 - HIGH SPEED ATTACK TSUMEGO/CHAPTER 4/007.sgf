@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rc][qc][pc][oc][od][oe][of][ng][mg][lf][ke][kd][kc][kb][ka][qa]AW[lb]
+[lc][ld][le][mf][ne][nd][nc][ob][pb][qb]N[007]AP[MultiGo:4.4.4]SZ[19]AB[rb]MULTIGOGM[0]
+
+(;LB[nf:A][mb:B]C[黑A则白B，白活，因此可以先排除掉。观察棋形，白气紧，黑有硬腿。])
+(;B[na]C[黑1点是手筋，瞄着两边的渡过]N[正解];W[ma]C[白2阻渡，走其他地方简单不行]
+;B[mb];W[la];B[nb];W[mc];B[oa];W[pa];B[nb];W[ra];B[na]LB[mb:A][nf:B]C[以下，白A则黑B，白死]
+;W[nf];B[me]C[白死。])
+(;B[la]N[失败1];W[ma]C[白是活形。])
+(;B[mb]N[失败2];W[na]LB[ma:A]C[白2不能走A位，那样还原到正解图。])
+(;B[pa]N[失败3];W[na]))

@@ -1,0 +1,25 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][ne][oe][oc][pf]
+AB[dd][hc][le][lc][pe][qd][of]
+LB[pd:A][pf:1]
+C[Problem 17. Black to play.  
+
+White cuts with 1. How should Black respond ?  
+
+<See Reference Diagram 17 for White 1 at A.> ]
+;B[qf]
+TE[2]
+C[Correct Answer.  
+
+Black should atari with 1 and ... ]
+;W[pg];B[qg];W[ph];B[qh]
+LB[qg:3]
+C[... take profit by crawling with 3 and 5. ]
+;W[pi]
+C[After White 6, ... ]
+;B[lg]
+C[... Black jumps to 7, and he dominates the top left.  <= ]
+)
+)

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[di][dk][dl][cl][bl][bh][bi]AW[bg][ch][dh][eh][ei][ej][ek][el][em]
+[dm][cm][bm][bo][cf]N[043]AP[MultiGo:4.4.4]SZ[19]AB[ci]MULTIGOGM[0]
+
+(;C[边上基本死活形。正解不难，但失败图的计算同样重要。
+
+难度：☆☆☆]N[审题])
+(;B[bk]C[黑1曲，有此一手，无论如何演变，黑总是活棋。]N[正解];W[cj];B[dj];W[ah];B[al]
+;W[aj];B[ai];W[bj])
+(;B[dj]N[失败];W[ah]C[黑1粘上尽力扩大眼位，但白2一扳，黑就死了。
+
+本题的精华在于：在脑子里计算所有变化。]))

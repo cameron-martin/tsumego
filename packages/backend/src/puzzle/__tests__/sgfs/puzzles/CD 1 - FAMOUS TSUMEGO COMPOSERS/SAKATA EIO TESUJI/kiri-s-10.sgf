@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cl][cm][cn][dn][co][bp][cq][dq]AB[dm][en][do][fo][cp][dp][eq][jq]LB[er:A]C[Ex. 10  - Sabaki
+
+W has the hane "A".
+You would like to prevent this, but how ?]
+(;B[er]CR[er]C[Diag. 1 - Failure
+
+B 1 sagari is of couse a splendid move, and, together with the stone below the star point, it makes some territory.
+However, it has the drawback of having no effect on W and being gote.])
+(;B[dr]LB[dr:1]C[Diag. 2 - Failure
+
+B 1 hane ]
+;W[cr]LB[cr:2][dr:1][er:A]C[inviting W 2 is a vulgar play.
+After this exchange he cannot hope to cope with the W kake at "A" and, since there still remains a certain ammount of aji, B is in a bad way.])
+(;B[bq]LB[bq:1]C[Diag. 3 - Correct
+
+B 1 kiri is the point. ]
+;W[br]LB[bq:1][br:2]C[W 2 kakae is inevitable ]
+;B[cr]LB[bq:1][br:2][cr:3]C[then B 3 is a fine move. ]
+(;W[aq]LB[aq:4][br:2][cr:3]C[If W 4 captures,]
+;B[dr]LB[aq:4][br:2][cr:3][dr:5]C[B plays ate 5 and he has covered up his "open skirt".
+Unless he relentlessly nibbles away with the sequence up to here he achieves nothing of interest.])
+(;W[dr]LB[bq:1][br:2][cr:3][dr:4]C[Diag. 4 - Success
+
+If W 4 kakae against the single stone after B 1 and 3 kiri, ]
+;B[er]LB[bq:1][br:2][cr:3][dr:4][er:5]C[B 5 osae is sente.
+B is successful in having been able to cut here in sente.
+W should play his 4 as in the previous diagram.]
+;W[cs]LB[bq:1][br:2][dr:4][er:5][cs:6]C[So W  takes.])))

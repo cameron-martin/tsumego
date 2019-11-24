@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 102. Black to play.
+Black to play and kill White.]AW[ie][ge][ff][gg][hg][hf][jf][fg][ig][je]PB[ ]PM[1]PW[ ]AB[gd][jh][fh][hd][ke][ef][kg][gh][id][kf][eg][hh][jd][ih][ee][fd]
+(
+;B[he]C[Correct Answer
+Black 1 is the correct answer...]
+;C[...If White plays 2...]W[jg]
+;B[fe]C[...Black 3 kills all the white stones.]
+)
+(
+;B[fe]C[Wrong Answer
+If Black plays at 1 first...]
+;C[...White's stones are absolutely alive after White 2.]W[he]
+)
+
+)

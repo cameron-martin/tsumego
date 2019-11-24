@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[kc][jc][jd][id][hd][gd][gc][hb][ka]AW[ie][he][ge][fd][fc][fb][gb]
+[ic][ib][kd][ld][lc][mb][nc][je]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[lb]MULTIGOGM[0]
+
+(;C[审题：计算仔细一点，找到正解不难。要熟悉双活的各种棋形。]N[审题])
+(;B[ia]N[正解];W[jb];B[kb]C[双活也是活棋。])
+(;B[jb]N[失败];W[ha];B[ia];W[ja]LB[hc:A]C[注意，这里A位黑不能入子，因此形成打劫。]))

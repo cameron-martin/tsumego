@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[nc][qe][od][qd][qc][qb][nd][lc][rc][pe][mb][ma]GN[ ]AB[na][sb][nb][pb][qa][oc][oa][pd][pc][rb]PM[1]C[Problem 224. Black to play.
+How does Black secure life for his stones?]PW[ ]
+(
+;B[ra]C[Correct Answer
+If Black plays at 1, his stones are alive.]
+)
+(
+;W[ra]C[If White Plays First
+If it were White's turn to play, he would sacrifice a stone at 1...]
+;B[sa]C[...After Black captures with 2, his two eyes on the edge are false. He has only one real eye, so he dies.]
+)
+
+)

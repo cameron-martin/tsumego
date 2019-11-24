@@ -1,0 +1,31 @@
+(;
+GM[1]
+SZ[19]
+AW[jd][lc][nd]
+AB[dd][hc][ld][pd][pf]
+LB[lc:1]
+C[Problem 6. Black to play.  
+
+White attaches underneath with 1. How should  Black answer ? ]
+;B[kc]
+TE[2]
+C[Correct Answer.  
+
+Black should hane at 1. ]
+;W[kd];B[mc]
+(;W[lb];B[md];W[mb];B[nc]
+LB[jc:A]
+C[A sharp exchange takes place up to 7. Black now threatens A. <= ]
+)
+(;W[le]
+LB[mc:3]
+C[Variation.  
+
+If White answers 3 with 4, ... ]
+;B[lb]
+C[... Black captures with 5. ]
+;W[md];B[lc]
+LB[me:B][ke:A]
+C[After connecting at 7, Black will aim at A or B. <= ]
+)
+)

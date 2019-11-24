@@ -1,0 +1,27 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][bf][cf][df][ff]
+AW[cc][cd][cg][ch][ed][eh][gf]PL[W]C[White to play.
+
+Attack - Block
+
+Source: YikiruGo Shinbyo.]
+(
+;W[ef]
+(
+;B[ee]
+;W[fe]
+;B[eg]
+;W[fg]C[RIGHT
+Symmetry Occupy Center])
+(
+;B[eg]
+;W[fg]
+;B[ee]
+;W[fe]C[RIGHT
+Symmetry Occupy Center]))
+(
+;W[fe]
+;B[fg])
+(
+;W[fg]
+;B[fe]))

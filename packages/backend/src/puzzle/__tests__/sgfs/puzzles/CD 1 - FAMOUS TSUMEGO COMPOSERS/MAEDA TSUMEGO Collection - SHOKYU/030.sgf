@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[fp][cn][fq][hq][gr][gs][br][cp][dp]AW[fr][fs][es][dr][cr][dq][eq]
+N[030]AP[MultiGo:4.4.4]SZ[19]AB[ep]MULTIGOGM[0]
+
+(;LB[bq:A][cs:B]C[黑A则白B，白活了。黑能在B位扳吗？
+
+难度：☆☆]N[审题])
+(;B[cs]N[正解];W[bq];B[cq];W[ar];B[bs];W[aq];B[bp]C[白死。]))

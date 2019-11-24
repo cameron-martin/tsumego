@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qc][qd][qe][qf][pf][of][nf][na][nb][pa][pb]AW[og][mf][me][mb][mc]
+[md][ng][pg][qg][rf][re][rd][rc][rb][ra][qa][od]N[123]AP[MultiGo:4.4.4]SZ[19]AB[qb]
+MULTIGOGM[0]
+
+(;LB[nc:A][oc:B][pd:C][oe:D][ne:E]C[首先可以排除A、B、C、D和E这五点，明显不行。也就是说，挖是必然的一手。]
+N[审题])
+(;B[nd]C[黑1挖是防守的急所]N[正解];W[nc]C[白2从这里打好];B[oc];W[ob]C[白4扑，重要]
+;B[oa];W[pd];B[ne];W[pc]C[黑劫活正解。])
+(;B[nd]N[变化1];W[ne];B[pd];W[oc];B[oe];W[nc];B[ob]C[黑活。黑的次序很好。])
+(;B[nd]N[变化2];W[oc]LB[oe:A]C[白2长在A位的变化类似];B[nc];W[ne];B[oe]C[黑活。]))

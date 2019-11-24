@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pc][pd][pf][pe][qg][rg][rf][sb][rb][qb]AW[rc][qc][sd][re][qe][qd]
+[qf][sg][pg][ph][pi][ri]N[145]AP[MultiGo:4.4.4]SZ[19]AB[sc]MULTIGOGM[0]
+
+(;LB[sf:A][rh:B]C[黑A立下不行，白B即可眼杀黑。
+
+难度：☆]N[审题])
+(;B[se]N[正解];W[sf];B[sh];W[rh];B[se];W[sf];B[sg]C[本图黑做劫的顺序更自然。])
+(;B[sh]C[黑1打也行]N[变化1];W[rh]C[白只能从外面紧气];B[se]C[黑还得扑进去];W[sf]
+;B[se];W[sf];B[sg])
+(;B[se]C[黑先扑也行]N[变化2];W[sf];B[sh];W[rh];B[se];W[sf];B[sg]))

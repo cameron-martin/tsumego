@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cm][dm][en][fn][gn][bo][co][do][ep][gp][gr]AB[em][fm][gm][cn][dn][hn][go][ho][bp][cp][dp][ip][dq][ir]C[Ex. 3 - Separation
+
+If you can capture the W group on the lower side, the profit will be by no means small.
+Try to find W's weak point.]
+(;B[fo]LB[fo:1]C[Diag. 1 - Failure
+
+B 1 ate]
+;W[eo]LB[eo:2][fo:1]
+;B[fp]LB[eo:2][fo:1][fp:3]C[and 3 de are the most vulgar of moves. ]
+;W[eq]LB[eo:2][fo:1][fp:3][eq:4]C[When W sticks out at 4, B is far from having made enough territory on the lower side.])
+(;B[fq]LB[fq:1]TR[aa]C[Diag. 2 - Failure
+
+B 1 nozoki also fails. ]
+;W[fp]LB[fq:1]C[After W 2 tsugi, ]
+;B[eq]LB[fp:2][eq:3][fq:1]C[B 3 ]
+;W[gq]LB[fp:2][eq:3][fq:1][gq:4]C[and W 4, B has merely helped W to connect.
+1 is wide of the mark and is an impatient move.])
+(;B[fp]LB[fp:1]C[Diag. 3 - Correct
+
+B1 hanekomi is the vital point.]
+(;W[eo]LB[eo:2][fp:1]C[If W 2 tsugi ]
+;B[eq]LB[eo:2][fp:1][eq:3]C[and B 3, W's 2 stones are completely cut off.
+The result is considerable territory for B.])
+(;W[eq]LB[fp:1][eq:2]C[Diag 4 - Correct
+
+If W 2 de in answer to B 1 hanekomi, ]
+;B[eo]LB[eo:3][fp:1][eq:2]C[B plays horikomi 3. ]
+;W[bn]LB[bn:4][eo:3][fp:1][eq:2]C[W must take at 4 ]
+;B[fo]LB[bn:4][eo:3][fo:5][fp:1][eq:2]C[B connects at 5 and takes a large profit.
+B 1 is the vital point of the 3 W stones.
+Because of the snapback W cannot capture at 5 instead of 4.])))

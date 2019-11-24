@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rq][rp][ro][qn][qm][pm][om][nm][mn][ln][lo][lp][lq][lr][mr][qr]AW[mq]
+[mp][mo][nr][ns][oq][pr][qq][qp][qo][po][pn]N[005]AP[MultiGo:4.4.4]SZ[19]AB[rr]
+MULTIGOGM[0]
+
+(;C[白棋看上去眼位很充足的样子，但是却意外地脆弱。]N[审题])
+(;B[op]C[急所一击]N[正解];W[no];B[oo];W[on];B[nn]C[现在两边不入子了];W[nq];B[pq]
+C[白死。白6走另一边一样不活。])
+(;B[op]N[变化];W[oo];B[no]))

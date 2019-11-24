@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[rd][qe][pe][oe][nd][md][ld][lc][kb][jc][rb][qa][ra]AW[lb][mb][mc]
+[nc][oc][od][pa][qb][qc]N[020]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[正解不难得到，失败图同样重要，都需要计算。]N[审题])
+(;B[ob]N[正解];W[pb];B[pd]C[白死。])
+(;B[na]N[失败1];W[ob];B[oa];W[pc])
+(;B[pb]N[失败2];W[ob];B[oa];W[na];B[la];W[pa]))

@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[gn][hn][in][eo][fo][jp][dq][fq][jq][dr][jr]AB[cn][do][ho][dp][cq][gq][iq][cr][gr]C[Ex. 10 -  Watari
+
+You are to find a means of saving B's 4 stones.
+In an actual game many people would probably turn their attention elsewhere and leave the 4 stones to die.]
+(;B[ep]LB[ep:1]TR[aa]C[Diag. 1 - Failure
+
+B 1 ]
+;W[fp]LB[ep:1][fp:2]
+;B[eq]LB[ep:1][fp:2][eq:3]C[and B 3 are vulgar moves. ]
+;W[fr]LB[ep:1][fp:2][eq:3][fr:4]C[After W 4, ]
+;B[er]LB[ep:1][fp:2][eq:3][er:5][fr:4]C[B 5 ]
+;W[fs]LB[ep:1][fp:2][eq:3][fq:4][er:5][fs:6]C[and 6, B simply captures 2 stones.
+To expect W to answer at 5 instead of 4 is unreasonable.])
+(;B[ds]LB[ds:1]C[Diag. 2 - Correct
+
+B 1 hane is a good move. 
+]
+(;W[er]LB[er:2][ds:1]C[If W plays hiki 2, ]
+;B[fr]LB[er:2][fr:3][ds:1]C[B 3 atekomi is good ]
+(;W[eq]LB[eq:4][er:2][fr:3][ds:1]C[and after  W 4 ]
+;B[es]LB[eq:4][er:2][fr:3][ds:1][es:5]C[B completes his connection along the edge with 5..])
+(;W[es]LB[er:2][fr:3][ds:1][es:4]C[Diag. 3 - Variation
+
+W cannot intercept at 4 in reply to 1 and 3. ]
+;B[ep]LB[ep:5][er:2][fr:3][ds:1][es:4]C[B comes out at 5 ]
+;W[fp]LB[ep:5][fp:6][er:2][fr:3][ds:1][es:4]C[and after W 6, ]
+;B[eq]LB[ep:5][fp:6][eq:7][er:2][fr:3][ds:1][es:4]C[B 7 seizes the 4 stones.
+If W 7 tsugi instead of 6, B can stick his head out at 6 and the damage is even greater.
+As for W 3 instead of 2 in answer to B 1, B will play hane below 3 then connect along the edge.]))
+(;W[es]LB[es:2]C[Diag. 4 - Correct
+
+If W answers B 1 hane at 2, ]
+;B[eq]LB[eq:3][ds:1][es:2]C[B plays ate 3.])))

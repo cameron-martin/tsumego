@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]PM[1]C[SECTION 7. LIVING GROUPS AND DEAD GROUPS
+
+Problem 41. Black to play.
+How can Black give his seven stones life?
+(A group of stones is said to be alive if it can make two 'eyes'. Such stones can never be captured. A group of stones is said to be dead if it cannot make two eyes. Such stones will eventually be taken off the board as prisoners.)]GN[ ]AW[dc][ic][fc][ja][db][ec][jc][hc][jb][gc]PW[ ]PB[ ]AB[eb][gb][ib][ia][ga][fb][hb]
+(
+;C[Correct Answer
+Black can make life for his group by playing at 1.]B[ea]
+)
+(
+;C[If White Plays First
+If it is White's turn, White 1 will kill the black group.]W[ea]
+)
+
+)

@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[ps][pq][qp][rq][rr]AW[rs][sq][sp][rp][rn][qo][po][op][no][nq][nr]
+[ns]C[38]N[38]AP[MultiGo:4.4.4]SZ[19]AB[sr]MULTIGOGM[0]
+
+(;TR[rs]C[第38题 成劫争为最佳结果
+
+白在底线点的攻击，锐利。但黑也能艰辛地走成劫争来求活路。
+
+起初一手就能决定结果。]
+N[ 审题])
+(;B[or]C[黑1只能扩大眼位，其他走法都会死。]N[正解];W[pp];B[qr]C[白2打吃时，黑3做劫。])
+(;B[or]N[变化];W[os]C[白2挤也行];B[qr]C[黑3只能做劫];W[oq];B[pp])
+(;B[or]N[失败1];W[pp];B[qq];W[os];B[qs];W[pr]C[黑死。])
+(;B[qs]LB[qq:A][pp:B]C[黑走1位不能活。白走A或B都可杀黑。]N[失败2];W[qq];B[or];W[pp]
+;B[qr];W[os]))

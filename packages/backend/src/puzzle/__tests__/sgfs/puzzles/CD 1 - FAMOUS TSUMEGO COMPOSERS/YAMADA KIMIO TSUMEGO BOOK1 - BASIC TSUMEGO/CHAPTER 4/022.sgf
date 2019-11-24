@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[pd][od][ne][me][le][ld][lc][lb][la][rb][rc]AW[mb][mc][md][nd][oc]
+[ob][qa][qb]N[022]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;C[白气很紧。黑有硬腿。]N[审题])
+(;B[pb]N[正解];W[pc]C[黑1时，白2必然];B[na];W[nb]C[黑3点时，白4只能接上];B[oa]C[黑5冲，充分利用白气紧的缺陷。白死。])
+(;B[na]N[失败1];W[nb];B[oa];W[ma];B[pb];W[pa];B[pc];W[oa])
+(;B[nb]N[失败2];W[na]C[黑1挖大概是搞混淆了类似棋形吧，\:)]))

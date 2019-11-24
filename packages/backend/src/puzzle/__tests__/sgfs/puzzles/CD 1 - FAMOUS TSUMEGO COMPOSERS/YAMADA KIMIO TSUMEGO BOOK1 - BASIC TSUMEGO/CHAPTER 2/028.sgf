@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][nc][ne][me][le][kd][kc][kb][ka][rb][rc][qc]AW[lb][lc][ld][md]
+[nd][oc][ob][pc][qb][pa]N[028]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;LB[mb:A]C[黑A夹能吃住白五子，但这能杀死白棋吗？]N[审题])
+(;B[na]LB[oa:A][nb:B]C[黑1时，白A则黑B，白不活]N[正解];W[nb];B[mb];W[mc];B[ma]C[白死。])
+(;B[mb]N[失败1];W[na]LB[nb:A]C[由于黑不能在A位入子，白活。
+
+这正是027题的内容。])
+(;B[nb]N[失败2];W[na];B[ma];W[mb]C[劫。])
+(;B[ra]N[失败3];W[nb]))

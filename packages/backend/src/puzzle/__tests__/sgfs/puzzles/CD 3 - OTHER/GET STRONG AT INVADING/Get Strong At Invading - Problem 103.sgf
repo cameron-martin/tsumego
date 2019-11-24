@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][jc][lc][je][pc][qc][qb][qe][qf]
+AB[dc][cf][hc][nc][ne][pb][pd][pe]
+LB[je:2][ne:1]
+C[Problem 103. Black to play.  
+
+After Black 1, White reinforces her stones in the center with 2. How should Black continue his operations in the top right ? ]
+;B[qd]
+TE[2]
+C[Correct Answer.  
+
+Black should push through and ... ]
+;W[rd]
+(;B[rc]
+LB[qd:1]
+C[... cut with 1 and 3. However White responds, Black will gain an advantage. c<= ]
+)
+(;B[re]
+C[Failure.  
+
+Black suffers a loss if he cuts on the other side with 3. The reason will become clear in the next few problems. ]
+;W[rf]
+C[White ataris with 4. <= ]
+)
+)

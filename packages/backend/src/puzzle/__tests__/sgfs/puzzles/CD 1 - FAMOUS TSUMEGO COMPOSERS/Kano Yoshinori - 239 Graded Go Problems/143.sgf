@@ -1,0 +1,18 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[fc][fi][gg][hd][cg][dj][ii][ef][gc][if][ie][df][id][hh][ed][ci][ch][gi][ej][ig][ee]GN[ ]AB[gd][ff][hg][fh][fe][ei][dg][fg][eg][dh][hf][he][fd]PM[1]C[Problem 143. Black to play and live. (3 moves)
+The first move is all-important if Black is going to live.]PW[ ]
+(
+;B[gf]C[Correct Answer
+Black 1 is the correct answer...]
+;W[gh]C[...If White 2...]
+;B[di]C[...Black plays 3 and he is alive with two definite eyes.]
+)
+(
+;B[gh]C[Wrong Answer
+If Black plays 1...]
+;W[gf]C[...White gives atari with 2...]
+;B[ge]C[...]
+;W[di]C[...and destroys White's second eye with 4. Black is dead.]
+)
+
+)

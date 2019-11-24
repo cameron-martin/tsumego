@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]AP[GOWrite:2.0.07]FF[4]L[eq][fs]C[Problem 239. Which is bigger?
+Which is the bigger point, A or B?]PB[ ]AW[fq][bn][es][dn][en][go][fn][ao][gs][gr][gp][gq][gn][an][cn]FG[259:]GN[ ]AB[co][do][er][ar][bq][ds][fr][fp][ap][dr][fo][cr][eo][bo]PM[1]PW[ ]
+(
+;B[eq]C[Correct Answer
+Black 1 is the correct answer.]
+)
+(
+;B[fs]C[Wrong Answer
+If Black takes a stone with 1...]
+;W[eq]C[...White plays at 2 and Black's result is inferior to the correct answer by one point.]
+)
+
+)

@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[gd][cn][nc][pb][qb][qc][qd][qf][qg][pg][oh][nh][nk][nn][pn][qm][qo]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][dg][fp][ld][ob][oc][pc][pe][pf][dn][og][mg][ng][pl][np][po][qn]
+LB[qm:14][po:13][qo:12][qn:11][nn:10][pl:9][nk:8][np:7][pn:6]
+TR[pg]
+LB[mg:5][nh:4][ng:3][oh:2][og:1]
+C[Problem 8. Black to play.  
+
+After White turned with the marked stone in Problem 4, Black played 1 and the sequence to 14 followed. How should Black play next ? ]
+(;B[rn]
+TE[2]
+C[Correct Answer.  
+
+Descending to Black 1 and taking the corner ... ]
+;W[pm];B[rm];W[rl];B[ql];W[rk];B[ol];W[nm];B[qp]
+C[... taking the corner with the sequence to 9 is big. ]
+;W[nl]
+LB[nj:B][rj:A]
+C[White's territory above is not yet secure because of the bad aji of A. If Black can play somewhere around B, this aji will come to life.  <= ]
+)
+(;B[on]
+C[How the game continued.  
+
+Black linked up with 1 ... ]
+;W[rn];B[om]
+C[... and 3, but ... ]
+;W[qq]
+C[... White took the corner with 4, gaining more territory than in the Correct Answer. Black's stones were now thin and ... ]
+;B[dc]
+LB[dc:??]
+C[... (Black ?? is necessary here to get "White to move".) ]
+;W[mp]
+C[... White threatened the sequence from White 6 ... ]
+;B[no];W[mq];B[nq];W[jr];B[iq];W[ir];B[hr];W[kp]
+C[... to White 14. <= ]
+)
+)

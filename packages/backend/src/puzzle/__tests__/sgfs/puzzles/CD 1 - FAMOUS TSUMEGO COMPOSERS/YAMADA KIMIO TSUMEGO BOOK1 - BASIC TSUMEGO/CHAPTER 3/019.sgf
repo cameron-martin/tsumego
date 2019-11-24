@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pe][oe][ne][md][ld][lc][lb][nc][oc][rb][rc][rd]AW[nd][od][pd][pc]
+[qc][qb][ra][mc][mb][nb]N[019]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[ma:A][ob:B]C[黑A则白B，这样不行。黑必须另觅他途。]N[审题])
+(;B[qa]N[正解];W[pa];B[ob]LB[oa:A][ma:B]C[接下来，白A则黑B，白死];W[ma];B[oa]LB[la:A]
+C[黑5在A位打也可。
+
+白死。])
+(;B[qa]N[变化];W[ob];B[pa];W[ma];B[oa])
+(;B[ob]N[失败];W[oa];B[qa];W[pb]))

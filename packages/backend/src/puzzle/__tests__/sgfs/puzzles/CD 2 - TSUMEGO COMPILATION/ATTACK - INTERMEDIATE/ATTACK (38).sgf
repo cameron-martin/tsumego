@@ -1,0 +1,59 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ab][bc][cb][ci][da][de][eb][ec][ed]
+AW[bd][cc][cd][ce][db][dc][df]PL[B]C[Black to play.
+
+Attack - Force Opponent into clumsy Shape
+
+Source: YikiruGo Shinbyo.]
+(
+;B[bg]
+(
+;W[ee]
+;B[fe]
+(
+;W[dd]
+;B[ff]C[RIGHT
+])
+(
+;W[ef]
+;B[ff]C[RIGHT
+]))
+(
+;W[cg]
+;B[bf]
+;W[cf]
+;B[ei]
+(
+;W[ee]
+;B[fe]C[RIGHT
+])
+(
+;W[ff]
+;B[eg]
+;W[ef]C[RIGHT
+]))
+(
+;W[bf]
+;B[cg]C[Black Ok])
+(
+;W[cf]
+;B[ff]C[Black Ok]))
+(
+;B[ef]
+;W[dh]
+(
+;B[cf]
+;W[bf]
+(
+;B[cg]
+;W[ch]
+;B[bg]
+;W[bh]
+;B[af]
+;W[ae])
+(
+;B[dg]
+;W[ch]))
+(
+;B[bg]
+;W[cf])))

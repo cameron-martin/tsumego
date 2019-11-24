@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qc][rc][rd][re][qf][qg][pg][oh][nh][mh][lh][lg][kf][ke][kd][kc][mc]
+[ob][nb]AW[ne][me][le][lf][mg][ng][og][pf][pe][qe][qd][nc][nd]N[034]AP[MultiGo:4.4.4]
+SZ[19]AB[md]MULTIGOGM[0]
+
+(;C[黑可选择的点很少，简单计算之后可以排除不少点。]N[审题])
+(;B[pd]N[正解];W[pc];B[of];W[oe];B[nf]C[白死。])
+(;B[oc]N[失败];W[od]C[本题的失败图都很简单，因此只给出一个。]))

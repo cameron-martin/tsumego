@@ -1,0 +1,18 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][oc][qo]
+AB[qd][pe][pq][cp]
+TR[pe]
+C[Problem 24. White to play.  
+
+After Black has played the marked stone, what should White do ? ]
+;W[qj]
+TR[qo]
+
+TE[2]
+C[Correct Answer.  
+
+White should extend along the right side with 1 to reinforce her marked stone and prevent it from being pincered. <= ]
+)
+)

@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[ce][dd][fc][ch][cl][bn][co][dp][fp][iq][ql][nc][nb][pc][qc][rc]
+AB[cj][dl][bl][bm][cn][dn][kq][op][qp][qj][pd][qd][rd][nd][od][lc]
+TR[ql]
+C[Problem 42. Black to play.  
+
+How should Black attack the marked stone ? ]
+(;B[ok]
+TE[2]
+C[Correct Answer.  
+
+The knight's move of Black 1 is a strong attacking move. ]
+;W[qo]
+C[White makes some breathing room for her stones with 2 ... ]
+;B[po];W[qn]
+C[... and 4, but ... ]
+;B[rp]
+LB[po:3]
+C[... this just induces Black to secure the corner with 3 and 5. ]
+;W[om]
+C[When White jumps to 6, ... ]
+;B[ml]
+C[... Black keeps up the attack with 7, and a moyo in the top right suddenly appears that extends well into the center. The important point of this problem is that by attacking a weak white stone, Black has been able to build his moyo and make his territory at the bottom secure, while White busily tries to rescue her stones. <= ]
+)
+(;B[qn]
+C[Failure.  
+
+If Black plays a checking extension to 1, ... ]
+;W[ol]
+LB[mq:A]
+C[... White can easily escape into the center with 2. Later, White can aim to invade at A. <= ]
+)
+)

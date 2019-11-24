@@ -1,0 +1,45 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cd][ci][ec][ef]
+AW[cf][dh]PL[B]C[Black to play.
+
+Attack - Destroy Opponent's Shape
+
+Source: YikiruGo Shinbyo.]
+(
+;B[di]
+(
+;W[eg]
+(
+;B[fg]C[RIGHT
+])
+(
+;B[df]
+(
+;W[dg]
+;B[ff]
+;W[ei]
+;B[ej]C[RIGHT
+])
+(
+;W[ch]
+;B[eh]C[Black Ok])))
+(
+;W[eh]
+;B[ch]
+;W[dg]
+;B[fj]C[RIGHT
+])
+(
+;W[fh]
+;B[dg]C[Black Ok])
+(
+;W[ch]
+;B[eh]C[Black Ok]))
+(
+;B[ch]
+;W[dg]
+;B[ej]
+;W[fh])
+(
+;B[ej]
+;W[ch]))

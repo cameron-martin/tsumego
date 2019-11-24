@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qe][pd][nd][od][nc][nb][mb][sd][se]AW[ob][oc][qb][qc][rd][qd][sc]
+N[009]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;LB[rb:A]C[黑第一手必然是走在A位。计算吧。]N[审题])
+(;B[rb]C[黑1点如，白必须阻渡，黑回家的话，一切都无从谈起。]N[正解];W[ra];B[sb];W[rc]
+;B[oa]LB[pc:A]C[黑5在A位冲也可];W[pa];B[pc]C[白死。])
+(;B[rb]N[变化];W[sb];B[ra];W[pc]C[白4是唯一像样的抵抗];B[oa];W[pa];B[rc]))

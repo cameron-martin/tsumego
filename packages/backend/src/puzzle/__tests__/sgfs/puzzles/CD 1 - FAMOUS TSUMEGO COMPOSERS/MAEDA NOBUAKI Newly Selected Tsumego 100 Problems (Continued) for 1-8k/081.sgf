@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[qd][qb][pc]AW[qc][pb][pa][nb][oc][od][oe][pf][qf][qh]N[黑先]AP[MultiGo:4.4.4]
+SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[审题：找到正解不难，失败图比正解图更重要。]N[审题])
+(;B[rb]C[黑1并就活了。]N[正解];W[rd];B[re]C[白2扳时，黑3可以扳住。])
+(;B[rc]C[黑1提子不行，这可以作为另一道死活题。]N[失败];W[ra];B[rb];W[re]C[黑死。]))

@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[in][jn][bo][co][ho][cp][dp][hp][cq][hq][dr][er]AB[im][fn][gn][hn][eo][bp][gp][bq][dq][eq][br][cr]C[Ex. - 7 - Shinogi
+
+B would like to save his 4 stones on the corner but, since his 2 stones can be put in atari immediately he is at a disadvantage.
+Try and find a loophole somewhere.]
+(;B[fq]LB[fq:1]C[Diag. 1 - Failure
+
+It is clear that B 1 hiki immediately is no good, ]
+;W[fr]LB[fq:1][fr:2]C[allowing W to crawl at 2.
+Even if B plays osae 2 instead of 1, W can cut at 1 and nothing can be done about it.])
+(;B[gq]LB[gq:1]TR[aa]C[Diag. 2 - Failure
+
+In that case how about B 1 ? ]
+;W[fq]LB[fq:2][gq:1]C[This too is impossible after W 2 ate ]
+;B[ep]LB[ep:3][fq:2][gq:1]
+;W[gr]LB[ep:3][fq:2][gq:1][gr:4]C[ and 4 watari.
+Both sequences are too straightforward.])
+(;B[gr]LB[gr:1]C[Diag. 3 - Correct
+
+There is no alternative to B 1, a way of playing which disregards the defect in his own 2 stones. This oki is excellent ]
+;W[fq]LB[fq:2][gr:1]C[and if W plays 2 ]
+;B[ep]LB[ep:3][fq:2][gr:1]
+(;W[gq]LB[ep:3][fq:2][gq:4][gr:1]C[and 4, ]
+;B[fr]LB[ep:3][fq:2][gq:4][fr:5][gr:1]C[B cuts at 5, gobbling up the 2 W stones.
+In a position where the W 2, B 3 exchange has already been played it is easy to point out the oki of 1, but without this exchange it is surprisingly difficult.])
+(;W[fr]LB[ep:3][fq:2][fr:4][gr:1]C[Diag. 4 - Correct
+
+If W 2 ate and 4 tsugi, ]
+;B[gq]LB[ep:3][fq:2][gq:5][fr:4][gr:1]C[B's connection at 5 is good, and B wins the semeai in the corner.])))

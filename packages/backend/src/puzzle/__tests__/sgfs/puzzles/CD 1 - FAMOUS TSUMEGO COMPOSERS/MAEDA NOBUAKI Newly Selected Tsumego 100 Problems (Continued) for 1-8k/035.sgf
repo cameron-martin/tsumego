@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[pd][od][oc][nc][mc][mb][qb][qc]AW[nb][ob][pb][pc][qd][rd][pe][qf]
+[rf][se][sc]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[审题：对杀问题。黑棋在这里有一个基本手筋。]N[审题])
+(;B[ra]C[黑1是对杀手筋]N[正解];W[sb];B[na];W[rb];B[qa]C[对杀黑胜。])
+(;B[qa]N[失败];W[ra];B[sb];W[pa];B[sd]C[打劫，黑失败。]))

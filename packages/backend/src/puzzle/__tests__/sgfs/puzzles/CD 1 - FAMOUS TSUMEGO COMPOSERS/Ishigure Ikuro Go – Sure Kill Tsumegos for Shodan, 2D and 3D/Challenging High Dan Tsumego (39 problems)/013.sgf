@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[or][nq][mr][ns][qp][qo][po][op]AW[pr][qr][ps][lr][kq][mq][mp][np]
+[nn][on][qm][rn][ro][rp]N[013]AP[MultiGo:4.4.4]SZ[19]AB[oq]MULTIGOGM[0]
+
+(;LB[pq:A][os:B][rr:C]C[黑走A或B都不行，这容易计算。那么黑只能走C位。]N[审题])
+(;B[rr]N[正解];W[rq];B[qq];W[rs];B[sr];W[sq];B[pq]LB[os:A]C[由于白A位不能入子，黑活。])
+(;B[rr]N[变化1];W[rq];B[qq];W[rs];B[sr];W[pq]LB[sq:A]C[白6强杀黑，无理，白只能走A位让黑做活。])
+(;B[rr]N[变化2];W[qq];B[rq];W[rs];B[pq];W[sq];B[oo])
+(;B[pq]N[失败1];W[qq])
+(;B[os]N[失败2];W[pq];B[rq];W[rr]))

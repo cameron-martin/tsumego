@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[aq][ap][er][cp][gr][bp][dp][eq]GN[ ]AB[dr][dq][ar][bq][cq]PM[1]C[Problem 223. Black to play.
+How does Black secure life for his stones?]PW[ ]
+(
+;B[bs]C[Correct Answer
+If Black plays at 1, his group gets two eyes and cannot be killed.]
+)
+(
+;B[br]C[Wrong Answer
+In response to 1...]
+;W[cs]C[...White plays 2. Now Black cannot make two eyes and will die.]
+)
+
+)

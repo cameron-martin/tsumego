@@ -1,0 +1,46 @@
+(;
+GM[1]
+SZ[19]
+AW[cn][iq][nq]
+AB[dp][pd][pp][dd][jj][fp][pn]
+LB[cn:1][fp:2][nq:3][pn:4][iq:5]
+C[Problem 98. Black to play.  
+
+White extends to 5, aiming at the weak underbelly of the two black stones at the left. What should Black do ? Note that White 5 is usually played one point to the left. ]
+(;B[co]
+TE[2]
+C[Correct Answer.  
+
+Attaching with 1, ... ]
+;W[dn];B[dk]
+C[... then pincering with 3, leaves White with a heavy shape on the left. ]
+;W[fn]
+C[White jumps to 4, ... ]
+;B[hp]
+C[... but Black makes a shoulder hit with 5. ]
+;W[ip]
+C[White will push up with 6, but ... ]
+;B[ho]
+C[... Black extends into the center with 7. Black's stones below are now strong, ... ]
+;W[fk]
+C[... so White must escape with her three stones on the left by jumping to 8. ]
+;B[di]
+C[But this induces Black to strengthen his territory on the left side with 9. <= ]
+)
+(;B[go]
+C[How the game continued.  
+
+Since the white stone on the bottom left was two spaces away, the diagonal move of Black 1 didn't put much pressure on it, ... ]
+(;W[bp]
+C[... so White took the opportunity to settle her stones with 2 ... ]
+;B[cq];W[ck]
+C[... and 4. ]
+;B[kq]
+C[Black invaded with 5, but this move was not so severe and ... ]
+;W[io]
+C[... White jumped out into the center with 6 and all of Black's stones came under pressure. <= ]
+)
+(;W[dj]
+C[White 2 here would also be feasible. ]
+))
+)

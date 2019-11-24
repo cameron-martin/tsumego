@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[cn][do][eo][fp][gp][hp][ip][iq][hr][gr][fs][bp][bo]AW[br][bq][cq]
+[dq][dp][ep][fq][fr][gq][hq]C[B]N[025]AP[MultiGo:4.4.4]SZ[19]AB[cp]MULTIGOGM[0]
+
+(;LB[ir:A][aq:B][es:C]C[白气很紧，黑有A位的断头，可能形成接不归。黑B扳，白C就可活棋，因此黑进攻的方向必然是下边。
+
+
+难度：B]
+N[审题])
+(;B[dr]C[从棋形上看，黑1就像手筋]N[正解];W[es]C[白的应手，也只有打];B[er];W[eq]
+;B[ds];W[aq];B[bs];W[as];B[ar]C[劫杀正解。
+这是白的缓气劫。])
+(;B[dr]N[变化];W[es];B[er];W[eq];B[ds];W[cs];B[aq];W[ar];B[bs];W[as];B[ap]C[本图重要。只有计算到了本图，才能理解正解图为什么白选择打劫。])
+(;B[er]N[失败1];W[dr];B[cs];W[ds];B[eq];W[aq]LB[es:A][ap:B]C[A、B位松着两气，马上就应知道白是活棋。]
+;B[bs];W[as];B[ar];W[cr])
+(;B[es]N[失败2];W[dr];B[cs];W[ds])
+(;B[ds]N[失败3];W[dr];B[bs];W[cs];B[cr];W[er];B[es];W[ar]))

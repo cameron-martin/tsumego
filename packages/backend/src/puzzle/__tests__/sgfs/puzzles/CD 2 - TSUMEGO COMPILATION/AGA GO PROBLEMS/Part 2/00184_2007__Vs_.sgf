@@ -1,0 +1,96 @@
+(;
+AB[qd][cp][de][cf][nq][iq][cg][cj][dn][eo][fo][co][bq][gp][cr][br][hp][hr]
+AW[pp][ce][cd][qn][df][ef][ep][en][do][dp][cq][fp][dr][dq][gq][fr][gr][dc]
+DT[2007-01-09]
+PC[Tokyo, Japan]
+KM[6.5]
+EV[3rd toyota Denso World Oza, Finals]
+RO[Game 3]
+TR[gr]
+C[Black's response to White's marked move?
+
+Ever notice how game commentaries don't mention a move that you think is clearly better the pro's move?  If so, welcome to my world!
+
+Source:
+    Go World #111, summer 2007
+    Cho U (black) vs. Lee Sedol (white)
+
+Analysis:
+    Myron Souris]
+(;
+B[dm]
+C[The game line.  But the game commentary didn't say anything about White's bottom group only having one eye.  How could Black have overlooked such a simple kill?!];
+W[hq];B[ip];W[ir]
+C[White captures a stone to make life.  How could Black have just sat by and watched?  Maybe pros are overrated and kyu players are underrated?]
+)
+    (;
+    B[gs]
+    C[Doesn't Black have this simple killing move?  Doesn't White only have 1 eye?];
+    W[hq]
+    LB[dm:a]
+    C[In a real game, White would probably atari at A first.]
+    (;
+    B[ir]
+    C[After connecting here, Black's outside stones are safe, and White is surely dead, right?]
+    (;
+    W[ip]
+    C[White could cut here.];
+    B[go]
+    C[But Black connects and is safe.];
+    W[jq]
+    C[White could then try to capture the stones along the bottom.];
+    B[jp]
+    C[But after Black ataris ...];
+    W[io];B[jr]
+    C[... and ataris again ...];
+    W[kq];B[kr];W[fn];B[gn];W[gm];B[hn]
+    C[... White runs out of moves.  White's lower side group dies.]
+    )
+        (;
+        W[go]
+        C[White could also cut here, but how could this be better than the previous cut?];
+        B[fn];W[ip];B[ho]
+        (;
+        W[jq]
+        C[White has made 2 forcing moves and now goes after the stones along the bottom.]
+        (;
+        B[jr];W[eq]
+        C[White goes for 2 eyes.];
+        B[es]
+        C[And if Black resists...];
+        W[ds];B[fs];W[hs];B[is];W[er];B[hs];W[kr]
+        C[Aaaaaack!  White DOES live!  Of course, both pros saw all of this in an instant, along with the correct line of play from the game line.  I hate pros.]
+        )
+            (;
+            B[jp]
+            C[If Black tries to save his stones at the bottom ...];
+            W[io]
+            C[... White makes another forcing move.];
+            B[hn];W[eq];B[es];W[ds];B[fs];W[hs];B[is];W[er]
+            C[And White catches Black in the same shortage of liberties!]
+            )
+        )
+            (;
+            W[gn]
+            C[White can also live by playing the following forcing sequence to try to capture one of the outside Black groups.];
+            B[fm];W[hn];B[io];W[jp];B[jq];W[kp];B[in];W[kq];B[kr];W[lr];B[js];W[hs];B[lq]
+            C[White lives, but Black's outside influence is greater than in the other lines where White lives.];
+            W[eq]
+            C[White has to go back to live in gote.]
+            )
+        )
+        (;
+        W[eq]
+        C[Playing here before the cut also lives, but when Black lets White live by protecting on the outside, White no longer has aji from cutting stones.]
+        )
+    )
+        (;
+        B[jr]
+        C[This play doesn't improve Black's position either.];
+        W[go]
+        C[White follows a similar forcing sequence as before.];
+        B[fn];W[ip];B[ho];W[jq];B[ir];W[eq];B[es];W[ds];B[fs];W[hs];B[is];W[er];B[hs];W[kr]
+        )
+    )
+)
+

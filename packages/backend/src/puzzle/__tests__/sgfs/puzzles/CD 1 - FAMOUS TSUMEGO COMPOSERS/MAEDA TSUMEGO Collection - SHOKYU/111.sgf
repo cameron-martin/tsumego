@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qq][rr][nr][or]AW[qp][pp][oq][nq][mq][mr][kr][sr][rp]N[111]AP[MultiGo:4.4.4]
+SZ[19]AB[pq]MULTIGOGM[0]
+
+(;C[净活？劫活？
+
+难度：☆☆]N[审题])
+(;B[ps]N[正解];W[ns];B[qr];W[rs];B[sq];W[rq];B[ss]C[劫活正解。])
+(;B[qr]N[失败1];W[ps];B[sq];W[rq];B[ss];W[qs])
+(;B[sq]N[失败2];W[rq];B[ss];W[qr];B[pr];W[qs];B[ns];W[ps]))

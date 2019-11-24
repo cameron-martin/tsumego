@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[cl][cj][ci][ch][cg][bi][di][bn][bm]AW[df][dg][dh][bg][bh][ei][ej]
+[dj][dl][em][cm][cn][co][bo][cf]N[040]AP[MultiGo:4.4.4]SZ[19]AB[bl]MULTIGOGM[0]
+
+(;C[如果熟悉边上的基本死活，那么答案呼之欲出。
+
+难度：☆☆]N[审题])
+(;B[ah]N[正解];W[bf];B[ak]C[黑3分割眼位，确保活棋。])
+(;B[ah]N[失败];W[bf];B[ck]C[这是边上的基本死形。
+
+如何攻杀，可以作为另一道初级死活题。]))

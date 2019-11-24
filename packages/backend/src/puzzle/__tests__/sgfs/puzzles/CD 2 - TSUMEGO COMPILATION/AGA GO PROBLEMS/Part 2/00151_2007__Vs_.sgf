@@ -1,0 +1,83 @@
+(;
+AB[eb][ec][de][ef][eg][dg][jd][pc][pd][qe][pf][of][nf][pq][qp][rp][op][jp][gp][eq]
+AW[pb][qc][nc][qf][qg][pg][og][po][qo][pm][mn][mp][do][cp][ch][cf][df][ce][cd][dc]
+LB[ob:a][rb:b][rf:c]
+TR[pb]
+C[Black's response to White's marked play?
+
+Source:
+    Go World #37, Autumn 1984, p. 61
+    The Great Joseki Debate, by Honda Kunihisa]
+(;
+B[ob]
+C[Correct.
+
+Black's move works perfectly
+with the other Black stones
+at the top to form a huge
+moyo.];
+W[qb];
+B[oc];
+W[re];
+B[ng]
+C[Black continues to expand
+his moyo, but with White's
+side moyo open in the lower
+right corner, White is at a
+severe disadvantage.
+
+Black has a large lead.]
+)
+    (;
+    B[rb]
+    C[Wrong direction.
+
+Taking territory in the top
+right corner is relatively
+small.];
+    W[qb];
+    B[rc];
+    W[lc];
+    B[kb];
+    W[lb];
+    B[pj];
+    W[ng]
+    LB[mf:a][nj:b]
+    C[Not only has White made a
+safe group inside Black's
+moyo, but also White makes
+miai of A (further reducing
+Black's potential at the top),
+and B (threatening to squash
+Black's right side invasion).]
+    )
+    (;
+    B[rf]
+    C[Wrong direction.
+
+Black cedes the upper right
+corner to White for attacking
+White 's right side.];
+    W[rb]
+    C[With this one move, White's
+stones are all connected and
+flexible.];
+    B[rg]
+    C[So Black must continue with
+the attack on White.];
+    W[qi];
+    B[ng];
+    W[oi]
+    C[Now White's side group is safe.];
+    B[ni];
+    W[nj];
+    B[mi];
+    W[di];
+    B[fi];
+    W[ld]
+    C[And White greatly reduces the
+territory that Black might
+have made at the top.]
+    )
+)
+

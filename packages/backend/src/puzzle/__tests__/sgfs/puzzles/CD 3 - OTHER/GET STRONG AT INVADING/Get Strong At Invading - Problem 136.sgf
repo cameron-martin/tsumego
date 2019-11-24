@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][fd][fc][qd][re]
+AB[dd][df][ec][mc][pd][qe][pe][qj]
+LB[pe:2][re:1]
+C[Problem 136. White to play.  
+
+Black answers White 1 by connecting at 2. What is White's next move ? ]
+(;W[rd]
+TE[2]
+C[Correct Answer.  
+
+White 1 is the best move. ]
+;B[rf]
+C[If Black blocks with 2, ... ]
+;W[pc];B[oc];W[pb]
+LB[pc:3]
+C[... White lives in the corner with 3 and 5. <= ]
+)
+(;W[qc]
+TE[2]
+C[Correct Answer.  
+
+If White plays 1, ... ]
+;B[rf]
+LB[qc:1]
+C[... Black blocks at 2. In certain positions, White 1 could be a good move. <= ]
+)
+)

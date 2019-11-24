@@ -1,0 +1,52 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][nc][kc][ok][qk][ro][jq][cq][dp][fp]
+AB[pd][pc][qi][oi][po][pq][lq][bp][cn][ck]
+TR[ro]
+C[Problem 9. Black to play.  
+
+White has just slid under Black's corner enclosure with the marked stone. How should Black attack White's position on the right ? ]
+(;B[qn]
+TE[2]
+C[Correct Answer.  
+
+Black 1 and ... ]
+;W[rn]
+(;B[rm]
+C[... 3 stop White from making eyeshape. ]
+(;W[rl];B[qm];W[sm]
+LB[rq:A][pk:B][rl:4]
+C[White links up with 4 and 6, but even if she jumps to A, she doesn't have two eyes yet. Black is also threatening to wedge in with B. <= ]
+)
+(;W[qm]
+TR[rm]
+C[Variation.  
+
+When Black blocks with the marked stone, White might cut with 4. But ... ]
+;B[ql];W[pm];B[rk];W[pl];B[rl]
+C[... Black can link up to his allies above with the sequence to 9. White is now split into two weak groups. <= ]
+))
+(;B[qm]
+LB[rm:@]
+C[Failure.  
+
+The hane @ in the Correct Answer is the key move. It is a mistake for Black to extend to 3. ]
+;W[rm];B[ql];W[rl];B[rk];W[rj];B[pk];W[qj];B[pj];W[ri]
+C[White can live with the sequence to 12 and Black's moyo in the upper right has been erased. <= ]
+))
+(;B[rq]
+C[Failure.  
+
+Black 1 lets White ... ]
+;W[qm]
+C[... settle her group with 2. White now has nothing to worry about. ]
+)
+(;B[qp]
+C[Failure.  
+
+Black 1 here is also bad. ]
+;W[qm]
+C[White responds with 2. <= ]
+)
+)

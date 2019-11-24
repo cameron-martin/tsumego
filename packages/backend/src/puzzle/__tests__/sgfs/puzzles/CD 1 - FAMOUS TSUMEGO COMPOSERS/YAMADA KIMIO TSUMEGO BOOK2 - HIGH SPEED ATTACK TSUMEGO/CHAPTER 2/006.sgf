@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pe][oe][ne][me][ld][kd][kc][kb][ka][rb][rc][rd][qa][pa][pb]AW[la]
+[lb][lc][md][nd][od][pd][pc][qc][qb][ob]N[006]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;LB[oa:A][ra:B]C[黑A是把头凑上去给人拍一下子，当然不行。死活题中，有类似弱点时，不妨考虑冷静自补，但这里黑走B位也行不通。]
+N[审题])
+(;B[mc]N[正解];W[mb];B[nb];W[nc];B[na]LB[ma:A]C[白不能在A位打，死。])
+(;B[mc]N[变化1];W[na];B[mb];W[ma];B[nc])
+(;B[mc]N[变化2];W[oa];B[mb];W[ra];B[nc])
+(;B[nb]N[失败];W[oa]LB[mc:A][nc:B]C[接下来黑A可吃住白三子，但白B先手打之后，提掉黑三子可活。]
+;B[ra];W[na];B[mb];W[nc]))

@@ -1,0 +1,8 @@
+(;AB[rb][qb][qc][pa][pd][pe][oe][ne][me][ld][kd][kc][kb][jb][ja]AW[pb][pc][od][nd]
+[md][nb][lc][lb][ka]C[白先
+
+左右同型走中央。]SZ[19]
+
+(;W[na]C[白先活]N[正解图];B[la];W[nc]C[这是个虽然有差别但又比较接近左右同形的棋形，所以走在中间的白1是此际的好手。当黑2提白一子时，白3位应，冷静地确保两眼又是好手。])
+(;W[oa]N[失败图1];B[oc];W[qa];B[la];W[mb];B[nc];W[mc];B[ma])
+(;W[la]N[失败图2];B[ob];W[oc];B[mc];W[nc];B[mb];W[ma];B[oa]))

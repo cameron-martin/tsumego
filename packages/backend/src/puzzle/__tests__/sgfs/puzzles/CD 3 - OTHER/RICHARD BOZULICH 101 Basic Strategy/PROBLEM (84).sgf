@@ -1,0 +1,8 @@
+(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[dp][pd][rr][qr][pr][pq][qp][rp][qo][sq][on]
+AW[dd][oq][np][pp][po][pn][qn][pm][ro]C[Black to play. White is thick in the lower right. Where should Black play to reduce the effectiveness of this thickness?]
+AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[qf]
+(;W[cn];B[fq];W[bp];B[cq];W[ck]LB[or:A][fq:B]C[CORRECT Black should make a knight's move corner enclosure from his star stone. Because White's position is open at A, Black's corner enclosure at B would be in the wrong direction, as the amount of territory White can make at the bottom is limited.])
+(;W[qh];B[ph];W[pi];B[pg];W[oi]LB[cn:A][qi:B]C[CORRECT White's stones are overconcentrated, White should've made an approach around A. Black has a big endgame capture at B.]))
+(;B[fq];W[qf];B[nd];W[of]C[White's moyo is quite impressive.]))

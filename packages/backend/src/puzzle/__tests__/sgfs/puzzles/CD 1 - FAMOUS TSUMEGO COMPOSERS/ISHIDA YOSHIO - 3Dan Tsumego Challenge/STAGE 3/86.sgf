@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[oo][np][mp][mq][mr][nr][sq][sp][rp][qo][rn]AW[nq][or][oq][op][qp]
+[qq][rq][sr]C[86]N[86]AP[MultiGo:4.4.4]SZ[19]AB[po]MULTIGOGM[0]
+
+(;C[第86题 成劫争则显得太简单
+
+成劫争如为正解，则不用多考虑。
+
+想无条件杀白，走成聚五是一法。]
+N[审题])
+(;B[rs]C[黑1点是急所]N[正解];W[qr];B[pp]C[黑3要冲，这是先手];W[pq];B[rr]LB[os:A]
+C[黑5走A位扳也可];W[qs];B[os]C[白死。])
+(;B[rs]N[变化];W[rr];B[ps];W[os];B[pp]C[黑1、3、5次序井然];W[pq];B[qr]C[白死。])
+(;B[rr]N[失败];W[rs]C[劫。]))

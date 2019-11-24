@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[db][fc][hd][jd][mc][me][oe]
+AB[cc][dd][df][cj][oc][qd][pf][ph]
+LB[pf:2][oe:1]
+C[Problem 99. White to play.  
+
+After the exchange of White 1 for Black 2, Black's position looks very strong. However, there is a way for White to launch a successful invasion. ]
+;W[qc]
+TE[2]
+C[Correct Answer.  
+
+White 1 is a tesuji. ]
+(;B[rc]
+C[If Black blocks at 2, ... ]
+;W[rd]
+C[... White crosscuts with 3. Next, ... ]
+(;B[qb]
+C[... if Black 4, ... ]
+;W[qe]
+C[... White 5. <= ]
+)
+(;B[re]
+C[... if Black 4, ... ]
+;W[pd]
+C[... White 5. White has succeeded. <= ]
+))
+(;B[pd]
+C[Variation.  
+
+If Black plays 2, ... ]
+;W[pb];B[ob];W[rd];B[re];W[rb];B[sd];W[sc]
+C[... White can live in the corner with a ko by playing the moves to 9. ]
+;B[rc]
+C[<= ]
+)
+)

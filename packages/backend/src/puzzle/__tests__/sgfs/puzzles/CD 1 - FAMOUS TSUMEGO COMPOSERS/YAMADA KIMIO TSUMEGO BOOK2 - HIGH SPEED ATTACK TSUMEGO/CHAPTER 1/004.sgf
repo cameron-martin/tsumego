@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pe][oe][nd][md][ld][lc][kb][jc][rc][rb][rd]AW[lb][ma][mc][nc][od]
+[pd][qc][pb]N[004]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[首要考虑从外侧压缩眼位，如果不行就要占据急所。或者，从第一感开始计算。]N[审题])
+(;B[nb]N[正解];W[ob];B[pc];W[oc];B[qb]C[白死。])
+(;B[nb]N[变化];W[mb];B[oc];W[pc];B[ob])
+(;B[ob]N[失败1];W[nb])
+(;B[pc]N[失败2];W[nb]))

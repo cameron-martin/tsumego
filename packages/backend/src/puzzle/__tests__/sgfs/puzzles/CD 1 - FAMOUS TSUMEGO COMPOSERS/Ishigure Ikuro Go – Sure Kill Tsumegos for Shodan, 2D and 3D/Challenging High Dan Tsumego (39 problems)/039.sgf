@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qr][qq][qp][qo][po][oo][no][mo][mn][ln][kn][ko][lp]AW[jq][mp][mq]
+[jo][lm][jn][mm][nm][nn][pm][qn][ro][rp][rq][rr][pq][pp][lq][jp][km][kq]N[039]AP[MultiGo:4.4.4]
+SZ[19]AB[kp]MULTIGOGM[0]
+
+(;C[本题的正解比失败图简单得多。]N[审题])
+(;B[pr]N[正解];W[oq];B[nr];W[nq];B[or];W[mr];B[qs]LB[ns:A]C[黑在A位立也可。])
+(;B[oq]N[失败1];W[pr];B[or];W[qs];B[os];W[ps];B[op];W[rs];B[mr];W[ms]C[白10夹是破眼的手筋。]
+;B[lr];W[kr];B[ns];W[nq];B[ls];W[nr]C[失败图1])
+(;B[nq]N[失败2];W[pr];B[ps];W[os];B[qs];W[nr]C[失败图2])
+(;B[or]N[失败3];W[oq];B[nr];W[pr];B[nq];W[qs]C[失败图3]))

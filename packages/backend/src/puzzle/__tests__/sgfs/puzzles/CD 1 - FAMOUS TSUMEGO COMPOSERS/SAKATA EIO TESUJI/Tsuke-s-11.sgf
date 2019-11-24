@@ -1,0 +1,46 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cp][bq][dq][eq][gq][hq][iq][jq][fr][gr][jr]AB[bo][co][dp][ep][fp][gp][hp][ip][fq][er]C[Ex. 11 - Yose
+
+This is a yose problem but here the stress is on finding the suji to attack the opponent's weak point indirectly.]
+(;B[br]LB[br:1]TR[er]C[Diag.1 - Correct
+
+Let us state the conclusion at once.
+B 1 tsuke is a splendnd move.
+Its charm lies in the fact that it restricts W from a distance and utilises the single marked stone.
+]
+(;W[dr]LB[br:1][dr:2]C[W 2 kakae is also correct 
+]
+;B[bp]LB[bp:3][br:1][dr:2]C[and B connects along the edge with 3 ]
+;W[cq]LB[bp:3][cq:4][br:1][dr:2]
+;B[aq]LB[bp:3][aq:5][cq:4][br:1][dr:2][cs:A]C[and 5.
+After this the kosumi "A"
+is a big move for both players.])
+(;W[cq]LB[cq:2][br:1]C[Diag. 2 - Variation
+
+W cannot stop the connection with 2 in reply to B 1 tsuke. ]
+;B[aq]LB[aq:3][cq:2][br:1]C[B 3 is good]
+;W[ap]LB[ap:4][aq:3][cq:2][br:1]C[and if W resists with 4]
+;B[ar]LB[ap:4][aq:3][cq:2][ar:5][br:1]
+;W[bp]LB[ap:4][aq:3][bq:6][cq:2][ar:5][br:1]C[and 6  
+]
+;B[dr]LB[ap:4][bp:6][aq:3][cq:2][ar:5][br:1][cr:A][dr:7]C[he loses after B 7.
+If W plays the furikami "A" instead of 2, then B 6, W 5, B 2 takes and it turns into a very good ko for B.
+])
+(;W[ar]LB[ar:2][br:1]C[Diag. 3 - Variation
+
+W 2 hane in answer to B 1 is no good. 
+]
+;B[dr]LB[ar:2][br:1][dr:3]C[After B 3 ate ]
+;W[cq]LB[cq:4][ar:2][br:1][dr:3]C[W 4, ]
+;B[cr]LB[cq:4][ar:2][br:1][cr:5][dr:3]C[B can capture W with 5.
+This is a direct result of 1.]))
+(;B[bp]LB[bp:1]TR[aa]C[Diag. 4 - Failure
+
+If B simply plays the ate 1 ]
+;W[cq]LB[bp:1][cq:2]
+;B[aq]LB[bp:1][aq:3][cq:2]C[and the hanetsugi 3  
+]
+;W[ar]LB[bp:1][aq:3][cq:2][ar:4]
+;B[ap]LB[ap:5][bp:1][aq:3][cq:2][ar:4]C[B 5 hanetsugi ]
+;W[bs]LB[ap:5][bp:1][aq:3][cq:2][ar:4][bs:6]C[it is bad yose play. ]))

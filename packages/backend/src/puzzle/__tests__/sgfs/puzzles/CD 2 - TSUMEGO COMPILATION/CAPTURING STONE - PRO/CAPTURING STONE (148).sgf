@@ -1,0 +1,107 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bb][bc][bd][cc][ce][de][fe][ge][hd][id][jd][kb][kc][lc]
+AW[cb][cd][dc][dd][fd][gd][hc][ic][jb]PL[B]C[Black to play.
+
+Capturing stones - Via a Ko Fight
+
+Source: Igo Hatsuyo-ron.]
+;B[fb]
+(
+;W[eb]
+(
+;B[fc]
+(
+;W[ec]
+;B[gc]
+;W[ed]
+;B[hb]
+;W[fa]
+;B[gb]
+;W[ib]
+;B[ja]
+;W[ha]
+;B[ca]
+;W[da]C[RIGHT
+])
+(
+;W[ed]
+;B[ca]
+(
+;W[da]C[RIGHT
+])
+(
+;W[db]
+;B[hb]
+(
+;W[ib]
+;B[gc]
+;W[ha]
+;B[gb]
+;W[fa]
+;B[ja]
+;W[ga]
+;B[da]C[White Death])
+(
+;W[gc]
+(
+;B[da]
+;W[ea]
+;B[ib]
+;W[jc]
+;B[ja]
+;W[ia]
+;B[ha]
+;W[gb]
+;B[ka]C[White Death])
+(
+;B[ib]
+;W[jc]
+(
+;B[ja]
+;W[ia]
+;B[ha]
+;W[gb]
+;B[ka]
+;W[ga]
+;B[ia]
+;W[da]C[Both Alive])
+(
+;B[gb]
+;W[ia]C[White Alive]))))))
+(
+;B[ca]
+;W[gb]
+;B[fc]
+;W[fa]
+;B[ed]
+;W[gc]))
+(
+;W[fc]
+;B[gb]
+;W[eb]
+;B[ca]
+(
+;W[da]C[RIGHT
+])
+(
+;W[db]
+;B[ea]
+;W[da]
+;B[ed]
+;W[fa]
+;B[gc]C[White Death])
+(
+;W[ea]
+;B[hb]
+;W[ib]
+;B[ed]
+(
+;W[ga]
+;B[gc]
+;W[ec]
+;B[ja]C[White Death])
+(
+;W[gc]
+;B[ja]
+;W[ia]
+;B[ga]C[Handle 5]))))

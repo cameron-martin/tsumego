@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[dh][eh][el][em][dm][cn][bm][dj][cj][dk]AW[ck][cl][dl][bj][ci][ch]
+[cf][dg][fg][fi][fk][ek]N[190]AP[MultiGo:4.4.4]SZ[19]AB[di]MULTIGOGM[0]
+
+(;LB[bi:A][bk:B]C[白有A、B两个断点，这是可以利用的地方。
+
+难度：☆☆]N[审题])
+(;B[bk]N[正解];W[bl];B[bi];W[ak];B[bh];W[cg];B[am];W[al];B[aj];W[ai];B[ah]C[两手劫是正解。])
+(;B[bi]N[失败];W[bk];B[bh];W[cg]C[对杀黑负。]))

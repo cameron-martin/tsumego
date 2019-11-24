@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[re][qe][pe][oe][ne][md][ld][lc][lb][la][oa][rb][sb][sc]AW[ma][mb]
+[mc][nb][ob][oc][od][nd][qc][qd][rc]N[032]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;C[观察棋形，黑角上可能存在接不归，另外白随时可以弃掉三子。不过，白的气很紧。]
+N[审题])
+(;B[pb]C[黑1扳，必然]N[正解];W[qb]C[白2冲，也是必然];B[pc]C[黑3反冲是手筋];W[pd]
+;B[qa];W[pa];B[pb]C[由于白气紧，不能吃黑的接不归。白死。])
+(;B[pb]N[失败1];W[qb];B[qa]LB[pc:A][pd:B]C[黑3直接扳过，少了黑A、白B撞紧白气的交换]
+;W[ra];B[sa];W[pc];B[pd]C[劫。])
+(;B[qb]N[失败2];W[pb];B[pd];W[pa])
+(;B[pa]N[失败3];W[qb];B[qa];W[pb]))

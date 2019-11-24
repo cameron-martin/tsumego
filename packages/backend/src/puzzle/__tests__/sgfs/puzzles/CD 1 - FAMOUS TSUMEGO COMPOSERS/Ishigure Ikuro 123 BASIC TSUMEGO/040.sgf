@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qe][pf][ne][me][md][lc][lb][la][qa][rb][rc]AW[ma][mb][mc][nd][od]
+[pd][qc][qb][pb]N[040]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[本题简单。白形有重大缺陷。]N[审题])
+(;B[nc]LB[oa:A][ob:B][oc:C]C[黑1断后，白走A、B、C都不行]N[正解];W[nb]C[白2打是唯一“像样”的抵抗]
+;B[ob];W[oc];B[oa]C[白死。])
+(;B[pa]N[失败1];W[oa]C[黑已没有下一手。])
+(;B[oa]N[失败2];W[ob]))

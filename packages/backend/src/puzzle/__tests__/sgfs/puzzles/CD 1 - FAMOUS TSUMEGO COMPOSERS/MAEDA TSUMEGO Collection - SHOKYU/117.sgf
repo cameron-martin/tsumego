@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[sp][pp][qp][qq]AW[op][oo][po][qo][ro][rn][rp][mq][pq]N[117]AP[MultiGo:4.4.4]
+SZ[19]AB[rq]MULTIGOGM[0]
+
+(;C[黑棋做活的手法也是基本功。
+
+难度：☆☆]N[审题])
+(;B[or]C[黑1飞是这种棋形下的常用手法]N[正解];W[oq];B[pr];W[nr];B[rr])
+(;B[pr]N[失败];W[or];B[oq]C[黑1改走3位打，白仍然在2位反打];W[nr]C[角上黑是基本死形。])
+(;B[or]N[变化];W[oq];B[pr];W[rr]C[白棋改从内部着手，只能走这里吧];B[qr]C[白无法杀死黑。]))

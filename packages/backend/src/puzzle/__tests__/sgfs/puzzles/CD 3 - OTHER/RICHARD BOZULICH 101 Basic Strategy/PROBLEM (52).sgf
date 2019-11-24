@@ -1,0 +1,6 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[pp][jq][pq][po][qo][pn][om][ol][on][dd][dj]
+[dp][jj][pj][pd]AW[pm][pl][rm][jo][nq][qq][qp][ro][qn]TR[jo]C[Black to play. There is a proverb that advises us to respond with a knight's move against a cap. How should Black respond to the cap of the marked white stone?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[hp];W[kq];B[kp];W[jp];B[iq]LB[lp:A]C[CORRECT Black should play the knight's move. If White tries to make sabaki by attaching, Black simply hanes and draws back. White is unable to capture with A because the ladder favors Black. White has not been able to make sabaki\: His stones are split and under attack.])
+(;B[lp];W[iq];B[ir];W[jr];B[kr];W[jp];B[kq];W[hr];B[js];W[fp]C[If Black makes a knight's move towards the right, White can make sabaki on the left. Now Black's stones on the right are overconcentrated.]))

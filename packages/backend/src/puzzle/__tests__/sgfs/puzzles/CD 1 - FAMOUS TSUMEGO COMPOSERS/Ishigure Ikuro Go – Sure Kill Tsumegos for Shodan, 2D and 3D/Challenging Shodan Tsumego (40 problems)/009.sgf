@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pr][pq][pp][po][qo][ro][rp][rq][qq][lr][ms][mq]AW[ks][ls][lp][qr]
+[kq][kr][mp][np][op][oo][pn][qn][rn][so][sp][sq][rr][ps]N[009]AP[MultiGo:4.4.4]
+SZ[19]AB[nq]MULTIGOGM[0]
+
+(;C[黑气紧，白断头多。走出打劫活好像比较容易，能净活吗？]N[审题])
+(;B[os]N[正解];W[or];B[oq];W[ns];B[nr];W[mr];B[os]C[循环劫，黑活。])
+(;B[oq]C[黑1尽力扩大眼位]N[失败1];W[mr];B[nr];W[os];B[lq];W[ns]C[黑死。])
+(;B[or]N[失败2];W[mr];B[nr];W[lq];B[os];W[mr]C[劫。])
+(;B[nr]N[失败3];W[oq];B[or];W[lq];B[os]C[劫。]))

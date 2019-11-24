@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][dc][df][eg][cf][fe][dd][gc][gf][ee]GN[ ]AB[ge][de][ed][hf][gg][he][ce][fd][fg]PM[1]C[Problem 203. Black to play.
+Three white stones can be captured with a snapback.]PW[ ]
+(
+;B[ef]C[Correct Answer
+Black 1 sets up a snapback and catches three white stones.]
+)
+(
+;B[ff]C[Wrong Answer
+Black 1 captures one stone...]
+;W[ef]C[...but lets White save his other two by connecting at 2. Black has failed.]
+)
+
+)

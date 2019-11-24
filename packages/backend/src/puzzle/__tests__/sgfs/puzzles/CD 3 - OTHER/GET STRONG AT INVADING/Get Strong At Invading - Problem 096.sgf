@@ -1,0 +1,24 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][df][ci][lc][md][of][pc][pd][qe]
+AB[ce][dd][fd][jc][od][nc][ne]
+LB[pd:1]
+C[Problem 96. Black to play.  
+
+White defends the corner with 1. What is Black's response ? ]
+;B[oe]
+TE[2]
+C[Correct Answer.  
+
+Black first exchanges 1 ... ]
+;W[pf]
+C[... for White 2, ... ]
+;B[kd]
+C[... then plays on the vital point of 3, attacking the two white stones. ]
+;W[me]
+C[Both White and Black must now move into the center with the moves from 4. ]
+;B[nf];W[mf];B[ng];W[mg];B[nh]
+C[After 9, however, it is Black who has the better position. <= ]
+)
+)

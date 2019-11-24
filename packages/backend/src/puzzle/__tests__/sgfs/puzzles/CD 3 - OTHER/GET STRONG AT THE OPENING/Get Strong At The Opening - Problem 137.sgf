@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ce][dc][fc][dp][cn][cq][cr][jp][ko][kp][kq][mq][qj][ph][qf][rf][re]
+AB[de][df][cf][dj][cl][dr][fq][hp][jq][iq][lp][oq][qp][pn][ql][qe][rd][pd][nd]
+LB[qc:B][lc:A][fe:C]
+C[Problem 137. White to play.  
+
+After Black plays the marked stone, the only interesting points remaining are at the top. Does White have any special stratagem at B or is there something else she should do ? ]
+(;W[lc]
+TE[2]
+C[Correct Answer.  
+
+There are no special tricks that White can pull off in the corner, so it is best for her to play 1, ... ]
+;B[nc]
+C[... forcing Black to defend at 2. ]
+;W[id]
+C[She can take up a position on the top with 3. The middle game now begins. <= ]
+)
+(;W[fe]
+C[Failure.  
+
+A move like 1 does nothing to improve White's position. ]
+;B[kc]
+LB[qd:B][qc:A]
+C[Black 2 strengthens his weak stones at the top and takes profit besides. If White now peeps at A, Black simply connects at B and the stone at A is lost. <= ]
+)
+)

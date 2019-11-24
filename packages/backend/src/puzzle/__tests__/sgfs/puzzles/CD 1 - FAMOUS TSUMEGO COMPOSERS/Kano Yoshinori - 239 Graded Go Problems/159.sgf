@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[cd][be][bb][ba][ce][ad][cc]GN[ ]AB[dc][bf][fc][de][cf][dd][af][cb][ae]PM[1]C[Problem 159. Black to play and kill White. (1 move)
+How does Black kill the white stones?]PW[ ]
+(
+;B[bc]C[Correct Answer
+Black 1 is the correct answer. Not only the four stones in atari but all the white stones will be captured.]
+)
+(
+;B[ac]C[Wrong Answer
+If Black plays at 1...]
+;W[bc]C[...White 2 starts a ko fight. Since White is not unconditionally dead, Black has failed.]
+)
+
+)

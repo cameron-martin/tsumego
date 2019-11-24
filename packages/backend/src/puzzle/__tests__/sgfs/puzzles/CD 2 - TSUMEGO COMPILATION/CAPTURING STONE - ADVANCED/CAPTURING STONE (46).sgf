@@ -1,0 +1,36 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][bd][ce][cf][ch][dd][ed][ee][ef]
+AW[bb][bi][cb][cc][cd][ci][de][di][ec][eg][fb][fd][fe][ff]PL[W]C[White to play.
+
+Capturing stones - Reduce Opponent's Territory]
+;W[dg]
+;B[df]
+(
+;W[ac]
+;B[ae]
+;W[ag]
+;B[bg]
+;W[ah]
+;B[af]
+;W[ab]C[RIGHT
+])
+(
+;W[af]
+;B[ae]
+(
+;W[ac]
+;B[ag])
+(
+;W[ag]
+;B[ac]))
+(
+;W[bg]
+;B[bf])
+(
+;W[ae]
+;B[af]
+;W[bf]
+;B[bg]
+;W[ag]
+;B[ah]
+;W[bh]C[Ko Fight]))

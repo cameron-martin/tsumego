@@ -1,0 +1,8 @@
+(;AB[oa][pb][pc][pd][pe][qe][re][rf]AW[qb][qc][qd][rd][se][ob][nb][mc]C[黑先
+
+必须消除白棋的利用。]
+SZ[19]
+
+(;B[pa]C[黑先白死]N[正解图];W[sb];B[ra];W[qa];B[rb]C[黑在1位粘是解消白棋利用的死活急所，角上白棋无法做活。])
+(;B[sb]N[失败图1];W[rb];B[sc];W[qa];B[pa];W[sa]C[白6扑入成为劫。])
+(;B[rb]N[失败图2];W[ra];B[sb];W[pa]C[仍然是劫。]))

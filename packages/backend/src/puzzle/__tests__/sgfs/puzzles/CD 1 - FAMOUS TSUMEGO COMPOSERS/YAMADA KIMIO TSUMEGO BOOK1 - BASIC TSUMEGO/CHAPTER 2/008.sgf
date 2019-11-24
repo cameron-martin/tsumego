@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nd][od][pd][qd][rd][re][oa][na][nb]AW[ob][oc][pa][pc][qc][rc]N[008]
+AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[基础死活，计算清楚全部变化吧。打劫肯定不是正解。]N[审题])
+(;B[qb]N[正解];W[rb];B[sc];W[sb];B[ra]C[白死。])
+(;B[qb]N[变化];W[ra];B[sb];W[sc];B[rb])
+(;B[sc]N[失败1];W[sb];B[qb];W[ra])
+(;B[sc]N[失败2];W[sb];B[ra];W[qb])
+(;B[rb]N[失败3];W[sb];B[ra];W[qb]))

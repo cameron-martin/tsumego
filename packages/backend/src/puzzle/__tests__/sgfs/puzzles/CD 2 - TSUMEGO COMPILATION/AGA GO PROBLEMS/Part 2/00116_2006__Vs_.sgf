@@ -1,0 +1,44 @@
+(;
+AB[hs][br][cr][gr][ir][jr][bq][fq][kq][nq][cp][gp][kp][io][dn][hn][cm][fm]
+AW[fs][dr][fr][hr][cq][dq][hq][iq][jq][ep][hp][pp][fo][go][qn]
+C[Black plays.
+
+Source:
+    Tesuji Dictionary, Vol. 1, #60,
+    Segoe Kensaku & Go Seigen, Ishi Press]
+(;
+B[es]
+C[Correct.
+
+An amusing tesuji.]
+(;
+W[er];
+B[gq];
+W[gs];
+B[ds]
+C[And even though White has a choice of
+three Black groups to capture, White
+still only has one eye!]
+)
+    (;
+    W[gq]
+    C[This White play looks good, but ...];
+    B[er]
+    C[Black catches White in a snapback.]
+    )
+)
+    (;
+    B[gq]
+    C[Wrong.
+Playing this move first lets White off
+the hook. ];
+    W[gs]
+    LB[es:a][is:b]
+    C[And White lives.
+Black cannot transpose into the correct
+line, because after Black A comes White B.
+
+Have you ever noticed that move order
+is important in Go?]
+    )
+)

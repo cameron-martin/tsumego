@@ -1,0 +1,6 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[co][cd][cg][gd][pn][on][nm][qp][mp]AW[dq][ec]
+[fe][oc][qd][pi][pl][no][oo][oq]C[Black to play. White has just played the marked stone, reinforcing his position on the upper right. How should Black continue?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[pq];W[mo];B[kp];W[ln];B[fq]C[CORRECT Black should attach, depriving the White stones of a base in the corner. White's stones are heavy but too big to sacrifice, so they must escape into the center. Black responds establishing a position at the bottom. White's stones are without eyes and under attack.])
+(;B[ln];W[qq];B[rq];W[qr]TR[pi][pl]LB[mr:A]C[Confining White in to the corner let's him live by attaching and descending. Black's wall on the outside is ineffective because of the marked stones. White can still slide to A, so Black has little chance of making territory at the bottom.]))

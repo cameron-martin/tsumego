@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[od][nd][md][ld][kd][jd][ic][ib][rb][rc][qc][pc]AW[kb][mc][nc][nb]
+[oc][pb][qb]N[031]AP[MultiGo:4.4.4]SZ[19]AB[ob]MULTIGOGM[0]
+
+(;LB[lb:A]C[黑A位跨是很想下的一手，请计算确认之。]N[审题])
+(;B[oa]N[正解];W[na];B[lb];W[lc];B[la];W[ka];B[kc]C[白死。])
+(;B[oa]N[变化];W[na];B[lb];W[lc];B[ka]C[黑5扳，随手];W[ja]LB[la:A][mb:B]C[白6打时，黑A粘则白B吃住黑三子。]
+;B[ma]C[黑7试图打劫];W[kc];B[jb];W[pa];B[ia];W[mb]C[白活。])
+(;B[lb]N[失败];W[oa];B[lc];W[qa]C[黑进攻的次序错误，白活。]))

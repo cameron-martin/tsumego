@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rs][qr][qq]AW[ro][rn][pn][pp][qp][pq][pr][ps]N[006]AP[MultiGo:4.4.4]
+SZ[19]AB[rp]MULTIGOGM[0]
+
+(;C[基本死活
+
+难度：☆]N[审题])
+(;B[sr]N[正解];W[sp];B[rq]C[黑地2目，活了。])
+(;B[sq]C[黑1虎，不对]N[失败];W[sr];B[rr];W[so]C[黑死。]))

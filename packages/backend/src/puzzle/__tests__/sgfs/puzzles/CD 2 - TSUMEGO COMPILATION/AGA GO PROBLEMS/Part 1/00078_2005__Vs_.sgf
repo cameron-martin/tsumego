@@ -1,0 +1,58 @@
+(;
+AB[dd][gc][cl][cp][fq][qm][qj][qf][pf][pe]
+AW[bd][cg][cj][pc][od][qd][qe][qp][op]
+C[White plays.
+
+Source
+    "In the Beginning", pp. 127-130
+    Ikuro Ishigure, Ishi Press]
+(;
+W[lq]
+TR[qm]
+C[Correct.
+
+With Black's strong marked stone
+facing White's shimari, White must
+think carefully about defending his
+rear.];
+B[cc]
+C[And Black takes the next big point
+in the upper left.]
+TR[qm]
+)
+    (;
+    W[kq]
+    C[Too far.
+
+With strong Black positions nearby,
+White should not leave an opening
+for a Black invasion.];
+    B[mq]
+    LB[or:a][mp:b]
+    C[Black will first take the big upper left 3-3
+point, but then come back to invade here.
+
+A White response at A leaves White
+with a cramped corner.
+
+After a White response at B instead of A,
+Black lives underneath and White's shimari
+in the lower right yields little or no
+territory.]
+    )
+    (;
+    W[]
+    C[If White ignores the lower right ...];
+    B[mq]
+    LB[or:a][pq:b]
+    C[Black takes the key point.
+
+White has to defend with A, but Black
+is expanding on a large scale.
+
+If White ignores Black's approach,
+Black dives to B and White will have
+to take emergency measures to make
+some kind of living shape.]
+    )
+)

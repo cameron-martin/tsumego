@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[bp][cp][dp][ep][fp][fq][go][ho][ip][jq][jr][js][ar][br]AW[bs][cr]
+[cq][bq][dq][ds][fr][gq][hq][ir]C[B]N[023]AP[MultiGo:4.4.4]SZ[19]AB[aq]MULTIGOGM[0]
+
+(;LB[er:A]C[看起来，A位扳是黑进攻的必然第一手。
+
+难度：B]N[审题])
+(;B[er]N[正解];W[eq];B[gs]C[黑3点是手筋];W[gr];B[is];W[hs];B[hr]C[劫杀正解。])
+(;B[er]N[变化];W[eq];B[gs];W[hs];B[gr])
+(;B[gr]N[失败1];W[er]C[黑1断，貌似手筋，但白2应后，由于白气不够紧，黑缺乏后续手段。])
+(;B[er]N[失败2];W[eq];B[is];W[hs]C[黑无后续手段。]))

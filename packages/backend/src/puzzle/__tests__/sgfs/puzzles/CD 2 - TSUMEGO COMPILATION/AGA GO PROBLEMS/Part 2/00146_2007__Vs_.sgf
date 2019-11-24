@@ -1,0 +1,31 @@
+(;
+AB[rq][qq][pp][po][np][no][nr]
+AW[pq][qp][rp][qo][qn][pn]
+C[White plays
+
+Source
+    Tesuji, Ch. 5, p. 87,
+    James Davies, Ishii Press];
+W[pr]
+C[White's 1st move is obvious.
+
+But worth remembering are White's
+follow ups to Black's defensive
+resources.]
+(;
+B[qr];
+W[rs]C[White takes the key point,
+and Black loses the semeai.]
+)
+    (;
+    B[rs];
+    W[sr]C[Again, White takes the key point.];
+    B[rr];
+    W[qs]
+    )
+    (;
+    B[rr];
+    W[qs]C[And Black cannot avoid transposing into the previous variation.]
+    )
+)
+

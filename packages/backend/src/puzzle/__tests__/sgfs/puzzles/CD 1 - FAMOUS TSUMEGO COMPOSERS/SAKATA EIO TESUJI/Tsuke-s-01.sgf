@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cq][dq][eq][ar][br][ds]AB[bo][cp][dp][ep][fp][aq][bq][fq][fr]C[3. Tsuke
+
+Ex. 1 - Life and death
+
+Tsuke is a relatively easy suji but it is an effective means, in actual games, of cutting to opponent to the quick.
+In this first example you are to try and capture W in the corner.
+You should look for the vital point.]
+(;B[er]LB[er:1]C[Diag.1 - Failure
+
+B 1 magari is useless ]
+;W[dr]LB[dr:2][er:1]C[after W 2.
+W lives thanks to the rule of "bent four in the corner".])
+(;B[bs]LB[bs:1]C[Diag. 2 - Failure
+
+Although it looks like a tesuji, B 1 tsuke]
+;W[cs]LB[bs:1][cs:2]C[after W 2. ]
+;B[es]LB[bs:1][cs:2][es:3]C[If B 3, ]
+;W[dr]LB[dr:4][bs:1][cs:2][es:3]C[W 4 is correct in order to live.
+B 1 is one kind of vital point but is not applicable to this example.])
+(;B[cs]LB[cs:1]C[Diag. 3 - Correct
+
+B 1 tsuke is a clever move. ]
+(;W[cr]LB[cr:2][cs:1]C[If W 2, ]
+;B[er]LB[cr:2][er:3][cs:1]C[B plays 3 ]
+;W[dr]LB[cr:2][dr:4][er:3][cs:1]
+;B[bs]LB[cr:2][dr:4][er:3][bs:5][cs:1]C[B plays 5 and W dies.
+If he takes at 5 with his 4, he dies after B 4 sashikomi.
+Again, a play at 5 instead of 2 fails after B 4 kakae.])
+(;W[er]LB[er:2][cs:1]C[Diag. 4 - Correct
+
+If, in reply to B 1, W tries to make room with 2, ]
+;B[cr]LB[cr:3][er:2][cs:1]C[B 3 cuts and W cannot play on either side.
+He is dead.])))

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qe][pf][of][nf][me][le][ld][lc][lb][la][nd][ra][rb][qc]AW[md][mc]
+[mb][nb][pa][qb][pc][pd][pe][oe][ne]N[012]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[计算可以从各种失败图开始。要得到正解，必须充分利用两个硬腿以及白气紧的毛病。]
+N[审题])
+(;B[na]N[正解];W[ma];B[ob];W[oa];B[nc];W[na];B[pb];W[oc];B[pb];W[ob];B[qa]C[白死。])
+(;B[na]N[变化1];W[oa];B[ma];W[nc];B[od];W[oc];B[pb])
+(;B[na]N[变化2];W[nc];B[ma];W[od];B[ob];W[oa];B[pb])
+(;B[ma]N[失败1];W[na];B[ob];W[oc])
+(;B[ob]N[失败2];W[oc];B[ma];W[na])
+(;B[qa]N[失败3];W[pb];B[na];W[ma];B[ob];W[oa];B[oc]))

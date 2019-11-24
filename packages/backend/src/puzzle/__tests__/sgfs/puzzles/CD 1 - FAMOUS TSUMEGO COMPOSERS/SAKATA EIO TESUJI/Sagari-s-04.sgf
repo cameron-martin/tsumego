@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bo][co][cp][dq][iq][jq][ar][dr][fr][gr][hr][cs][ds]AB[bp][dp][ep][ip][bq][cq][fq][gq][hq][cr][er][bs]C[Ex. 4 -  Semeai  
+
+The question here is really how to make the connection rather than how to win the semeai.
+If he does not succeed in securing connection with his 4 stones on the lower side, W's entire force will be destroyed.]PL[W]
+(;W[es]LB[es:1]C[Diag. 1 - Failure
+
+W's watari 1 seems good but it has a natural flaw. 
+]
+;B[fs]LB[es:1][fs:2]C[After B 2 horikomi ]
+;W[gs]LB[es:1][gs:3]C[and W 3 ]
+;B[eq]LB[eq:4][es:1][gs:3]C[B 4 is oi otoshi.
+The impossibility of playing 3 and 4 to capture the single stone is heartbreaking.])
+(;W[br]LB[br:1]C[Diag. 2 - Failure
+
+W 1 to bring about a semeai in the corner fails right from the start. ]
+;B[es]LB[br:1][es:2]C[B plays ate 2 and this is a perfect oi otoshi.])
+(;W[fs]LB[fs:1]C[Diag. 3 - Correct
+
+W 1 sagari (or, more correctly, magari) is exquisite.
+]
+;B[eq]LB[eq:2][fs:1]C[If B 2 tsugi, ]
+;W[es]LB[eq:2][es:3][fs:1]C[obviously W 3 is good. B cannot play 2 at 3.
+The proverb says "The enemy's vital point is my own vital point".
+W 1 occupies this vital point and prevents the horikomi saquence by B.]))

@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][fe][hd][fh][dg][fg][eh][if][ie][df][hf][ee][gf]GN[ ]AB[ic][ge][fi][ei][hc][cg][dd][di][gc][gh][je][dh][de][hh][ed][jd][cf][jf][ig][fd]PM[1]C[Problem 160. Black to play and kill White. (1 move)
+How does Black play to kill the white stones?]PW[ ]
+(
+;B[ef]C[Correct Answer
+Giving double atari with 1 is the correct answer. All the white stones will die.]
+)
+(
+;B[id]C[Wrong Answer
+If Black plays 1...]
+;W[he]C[...then White can live by playing 2.]
+)
+
+)

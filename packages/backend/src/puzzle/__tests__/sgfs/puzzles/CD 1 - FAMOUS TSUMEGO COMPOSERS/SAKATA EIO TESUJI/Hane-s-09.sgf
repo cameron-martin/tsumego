@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[em][fm][gm][dn][gn][do][ho][cp][dp][hp][cq][iq][br][fr][ir][kr][bs]AB[en][fn][eo][go][ep][fp][gp][dq][gq][hq][cr][dr][er]SQ[fr]C[Ex. 9  - Life or Death
+
+Anybody can connect the single marked stone along the edge if that is all that is required, but through this B may be given an eye shape. Is there not a way of connecting and taking away the eye on the side at the same time? You are to utilize damezumari against the whole of the B group.
+]PL[W]
+(;W[gr]LB[gr:1]TR[aa]C[Diag. 1 - Failure
+
+W's naive connection with 1 ]
+;B[hr]LB[gr:1][hr:2]C[simply allows B to live with 2, ]
+;W[hs]LB[gr:1][hr:2][hs:3]
+;B[gs]LB[gr:1][hr:2][gs:4][hs:3]C[4, ]
+;W[fs]LB[gr:1][hr:2][fs:5][hs:3]
+;B[es]LB[gr:1][hr:2][es:6][fs:5][hs:3]C[6 ]
+;W[is]LB[gr:1][hr:2][es:6][fs:5][hs:3][is:7]
+;B[cs]LB[gr:1][hr:2][cs:8][es:6][fs:5][hs:3][is:7]C[and 8.
+B is alive.])
+(;W[es]LB[es:1]C[Diag. 2 - Correct
+
+After the exchange W 1 hane
+]
+;B[ds]LB[ds:2][es:1]C[and B 2, ]
+;W[gr]LB[gr:3][ds:2][es:1]C[W 3 watari is a splendid move.]
+;B[hr]LB[gr:3][hr:4][ds:2][es:1]C[After B plays 4 ]
+;W[hs]LB[gr:3][hr:4][ds:2][es:1][hs:5]
+;B[gs]LB[gr:3][hr:4][ds:2][es:1][gs:6][hs:5]C[When B plays horikomi 6 at first it seems like an oi otoshi, ]
+;W[cs]LB[gr:3][hr:4][cs:7][ds:2][es:1][gs:6][hs:5]C[but W keeps cool and his ate 7 against the 4 B stones is exquisite. ]
+(;B[fs]LB[gr:3][hr:4][cs:7][ds:2][fs:8][hs:5]C[B 8 is inevitable, then ]
+;W[es]LB[gr:3][hr:4][cs:7][ds:2][es:9][hs:5]C[W 9 takes 2 stones ]
+;B[fs]LB[gr:3][hr:4][cs:7][ds:2][fs:10][hs:5]C[and B takes back at 10. ]
+;W[is]LB[gr:3][hr:4][cs:7][ds:2][fs:10][hs:5][is:11]C[Now W connects at 11 and B dies.
+It seems as if W is playing with fire, yet his hane 1, which you may think suicidal, is connected with his ate 7, and you can see that he has skillfully achieved life.])
+(;B[eq]LB[eq:8][gr:3][hr:4][cs:7][ds:2][hs:5]C[Diag. - Variation
+
+If B 8 tsugi in reply to W 7 ate ]
+;W[fs]LB[eq:8][gr:3][hr:4][cs:7][ds:2][fs:9][hs:5]C[W takes at 9. B is in damezumari and cannot play ate at the right of 8. ])))

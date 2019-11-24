@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bo][fo][go][ho][bp][fp][hp][ip][bq][dq][eq][cr][er][hr]AB[im][dn][en][fn][gn][jn][ko][cp][dp][ep][gp][kp][cq][fq][gq][kq][fr][jr]C[Ex. 18 - Semeai
+
+Probably some of you will be surprised to hear that there is a means of connecting the 4 B stones along the edge.]
+;B[fs]LB[fs:1]C[Diag. 1  - Failure
+
+B 1 sagari threatens horikomi.]
+;W[dr]LB[dr:2][fs:1]C[After W 2 a second tesuji is required. ]
+(;B[hq]LB[hq:3][dr:2][fs:1]TR[aa]C[The degiri of B 3 
+]
+;W[iq]LB[hq:3][iq:4][dr:2][fs:1]
+;B[ir]LB[hq:3][iq:4][dr:2][hr:5][ir:6][fs:1]C[and 5 fails however, ]
+;W[gs]LB[hq:3][iq:4][dr:2][ir:5][fs:1][gs:6]C[allowing W the kosumi 6])
+(;B[is]LB[dr:2][fs:1][is:3]C[Diag. 2 - Correct
+
+If B 1 and W 2, B 3 kosumi here is good and this is correct. ]
+(;W[ir]LB[dr:2][fs:1][is:3]C[If W 4 ]
+;B[hs]LB[dr:2][ir:4][fs:1][hs:5][is:3]C[B plays 5 watari and his aim is achieved.])
+(;W[hs]LB[dr:2][fs:1][hs:4][is:3]C[Diag. 3 - Correct
+
+If W 4 osae in reply to B 3 kosumi,]
+;B[hq]LB[dr:2][hr:5][fs:1][hs:4][is:3]C[B plays degiri 5 ]
+;W[iq]LB[hq:5][iq:6][dr:2][fs:1][hs:4][is:3]
+;B[ir]LB[hq:5][iq:6][dr:2][ir:7][fs:1][hs:4][is:3]C[and B cuts at 7. ]
+;W[es]LB[hq:5][iq:6][dr:2][ir:7][es:8][fs:1][hs:4][is:3]C[After W 8 it is seki, but this is a temporary seki which will sooner or later fall to B.])
+(;W[gs]LB[dr:2][fs:1][gs:4][is:3]C[Diag. 4 - Variation
+
+If W replies at 4 to B kosumi 3 ]
+;B[hs]LB[dr:2][fs:1][gs:4][hs:5][is:3]C[it is good for B to play 5 atekomi ]
+;W[gr]LB[dr:2][fs:1][gs:4][hs:5][is:3]C[W 6 ]
+;B[hq]LB[hq:7][iq:A][dr:2][gr:6][ir:B][es:C][fs:1][gs:4][hs:5][is:3]C[and B 7.
+B 7 instead of 5 is too hasty.
+After W "A", B "B" degiri, W "C" and B loses.])))

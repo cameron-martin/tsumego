@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pr][pq][qq][rq][rp]AW[or][oq][op][mr][po][qp][ro][rn][rr]N[201]AP[MultiGo:4.4.4]
+SZ[19]AB[so]MULTIGOGM[0]
+
+(;C[本题是第200题的衍生。
+
+难度：☆☆]N[审题])
+(;B[rs]N[正解1];W[sr];B[ps];W[qr];B[sp])
+(;B[rs]N[正解2];W[qs];B[qr];W[ss];B[ps]C[这个劫是黑的缓气劫。])
+(;B[sr]N[失败];W[rs]LB[ps:A][sp:B]C[A、B见合，黑死。]))

@@ -1,0 +1,38 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[co][cp][fp][gp][hp][ip][cq][eq][iq][cr][er][ds]AB[dn][gn][in][fo][jo][dp][ep][jp][dq][fq][gq][jq][lq][dr]C[Ex. 8 - Semeai
+
+Depending on how you play, the 2 B stones, which are about to be captured, can play an important role on capturing the 5 W stones.
+You must make adequate provision against W's counter attack and pay attention to the order of moves.
+Try to see the variations through to the very end.]
+(;B[fr]LB[fr:1]C[Diag 1 - Failure
+
+If B1 ]
+;W[es]LB[fr:1][es:2]C[W 2 ]
+;B[hr]LB[fr:1][hr:3][es:2]C[and 3, directly starting a semeai with the W group,  ]
+;W[ir]LB[fr:1][hr:3][ir:4][es:2]C[this is out of the question immediately because of the number of liberties.])
+(;B[gs]LB[gs:1]C[Diag. 2 - Correct
+
+B 1 tobi stares at the weak point in W's watari. ]
+(;W[es]LB[es:2][gs:1]C[W 2 connects ]
+(;B[ir]LB[ir:3][es:2][gs:1]C[B plays 3 hane. ]
+;W[hr]LB[hr:4][ir:3][es:2][gs:1]C[If now W 4 hanedashi,]
+;B[gr]LB[gr:5][hr:4][ir:3][es:2][gs:1]C[B 5 tsugi is the vital point in this example. ]
+;W[hq]LB[hq:6][gr:5][hr:4][ir:3][es:2][gs:1]C[After W 6 ]
+;B[hs]LB[hq:6][gr:5][hr:4][ir:3][es:2][gs:1][hs:7]C[B 7, B wins.
+If B carelessly plays at 7 instead of 5, he fails after W de 5. ])
+(;B[js]LB[es:2][gs:1][js:3]C[Diag. 3 - Failure
+
+After B 1 and W 2,  B 3 may seem like a tesuji,]
+;W[hr]LB[hr:4][es:2][gs:1][js:3]C[But after W 4 ]
+;B[hs]LB[hr:4][es:2][gs:1][hs:5][js:3]
+;W[gr]LB[gr:6][hr:4][es:2][gs:1][hs:5][js:3]
+;B[fr]LB[fr:7][gr:6][hr:4][es:2][gs:1][hs:5][js:3]
+;W[hq]LB[hq:8][fr:7][gr:6][hr:4][es:2][gs:1][hs:5][js:3]C[up to 8 ate, B cannot connect.]))
+(;W[hr]LB[hr:2][gs:1]C[Diag. 4 - Variation
+
+If W 2 prevents the watari in answer to B1 tobi, ]
+;B[es]LB[hr:2][es:3][gs:1]C[B 3 ]
+;W[fs]LB[hq:A][hr:2][fs:4][gs:1][js:B]
+;B[fr]LB[hq:A][fr:5][hr:2][fs:4][gs:1][js:B]C[and B 5 are an oi otoshi.
+One more variation:  if W "A" instead of 2, B plays 5, W 3 and now B connects at "B".])))

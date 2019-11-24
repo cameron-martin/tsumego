@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[oc][nd][ne][pd][of][pf][qf][rf][sf][se][qa][pb]AW[od][oe][pe][qe]
+[re][pc][qc][rb][ra]N[016]AP[MultiGo:4.4.4]SZ[19]AB[ob]MULTIGOGM[0]
+
+(;C[失败的手段很容易计算。第一感能够得到正解就太好了。]N[审题])
+(;B[rc]N[正解];W[rd];B[sc];W[sb];B[sd]LB[qb:A][qd:B]C[白不能兼顾A、B位，死。])
+(;B[rc]N[变化];W[sd];B[qb];W[qd];B[sb])
+(;B[sc]N[失败];W[sb]C[本题的失败图都很简单，因此只给出一个。]))

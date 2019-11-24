@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[ra][rb][rc][rd][qe][pf][qf][og][ng][mf][me][le][ke][je][jd][jc][jb]
+[kb][lc][mb]AW[nf][of][pe][pd][od][qd][qc][qb][nb][kc][kd][ld][md][nd][ne]N[111]
+AP[MultiGo:4.4.4]SZ[19]AB[mc]MULTIGOGM[0]
+
+(;LB[na:A][ob:B][qa:C][pb:D]C[空间不大，选择不多，但是需要计算。你的第一感呢？不要低估了白的抵抗。
+
+黑A则白B，黑C则D，白都能做活，计算时可不予考虑。]
+N[审题])
+(;B[nc]N[正解];W[oc];B[pb];W[ma];B[lb];W[oa];B[ob];W[pc];B[na]C[劫杀正解。])
+(;B[nc]N[变化];W[ob];B[oc];W[na];B[pa];W[qa];B[pb]C[白气紧的毛病暴露无遗。])
+(;B[ob]N[失败1];W[ma];B[la];W[na];B[nc];W[oc]C[白棋利用弃子成活。])
+(;B[pb]N[失败2];W[ob];B[qa];W[pc];B[nc];W[pa]LB[oc:A][na:B]C[A、B见合，白活。])
+(;B[pa]N[失败3];W[pb];B[oc];W[nc];B[ob];W[na]))

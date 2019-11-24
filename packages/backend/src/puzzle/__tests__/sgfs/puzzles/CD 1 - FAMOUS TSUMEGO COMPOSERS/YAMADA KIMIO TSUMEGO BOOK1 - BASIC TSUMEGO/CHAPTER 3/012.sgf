@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qd][qe][qf][pf][of][nf][me][le][ld][lc][lb][nd][sb][rb]AW[md][mc]
+[ne][oe][pe][pd][pc][pb][qb][ra][nb]N[012]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;LB[nc:A]C[黑A打是先手，肯定要利用这一点，但如何利用却需要计算。]N[审题])
+(;B[oa]N[正解];W[ob];B[na]LB[mb:A]C[黑3爬回，冷静。如果随手在A位打吃，则白活。])
+(;B[oa]LB[na:A][ob:B][nc:C]C[黑1点时，白不能在A位挡，B位在正解图中研究过了，C位比B位还要不堪]
+N[变化];W[mb];B[ma];W[na];B[ob])
+(;B[nc]N[失败];W[mb];B[ma];W[oa]))

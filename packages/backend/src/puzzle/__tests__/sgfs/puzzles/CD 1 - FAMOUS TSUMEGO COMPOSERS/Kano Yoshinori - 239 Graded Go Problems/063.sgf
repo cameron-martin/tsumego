@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]SZ[13]GM[1]FF[4]PW[ ]PM[1]VW[]FG[259:]C[Problem 63. White to play.
+Which black stone should White take?]GN[ ]AW[eg][dh][de][gg][fe][fh][dd][ef][fd][fg][eh]PB[ ]AB[df][ge][ff][fi][hf][hg][ei][dg][ch][di][ee][gh]
+(
+;C[Correct Answer
+Taking one black stone with 1 is the correct answer.]W[ed]
+)
+(
+;C[Wrong Answer
+Taking with 1 here is wrong. Black can capture eight white stones by playing immediately to the left of 1.]W[gf]
+)
+
+)

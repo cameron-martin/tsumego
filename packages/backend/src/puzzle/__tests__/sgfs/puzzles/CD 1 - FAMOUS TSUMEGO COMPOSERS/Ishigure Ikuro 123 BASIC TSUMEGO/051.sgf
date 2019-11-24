@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rc][rd][re][qb][pb][nb][ob][mb][lb][kc][kd][ke][kf][lg][mg][ng][og]
+[od][qf]AW[ld][le][lf][mf][nf][of][pe][qe][qd][pc][oc][mc][lc]N[051]AP[MultiGo:4.4.4]
+SZ[19]AB[pf]MULTIGOGM[0]
+
+(;LB[nc:A]C[黑A冲是显见的着手，但后续变化要计算。失败图也要计算。]N[审题])
+(;B[nc]N[正解];W[nd];B[md];W[me];B[oe]C[白死。])
+(;B[nc]N[失败1];W[nd];B[qc];W[oe];B[pd];W[me])
+(;B[nd]N[失败2];W[nc]LB[md:A][ne:B][qc:C]C[接下来，黑A则白B，黑B则白C，白是活形]
+;B[qc];W[ne];B[md]C[白活。])
+(;B[qc]N[失败3];W[nc];B[oe];W[pd];B[nd];W[ne]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nb][qc][pd][od][rb][qb][pb]AW[mb][mc][kc][qa][ra][sb][rc][rd][qd]
+[pe][oe][ne][qf]N[007]AP[MultiGo:4.4.4]SZ[19]AB[ob]MULTIGOGM[0]
+
+(;C[黑在中间已有一眼，如何在边上找出另外一只眼？
+
+难度：☆]N[审题])
+(;B[na]N[正解];W[pa];B[oa]C[黑提3子之后，有一眼。
+
+打二还一没有眼，打三还一有一眼。很多死活题都用了这个技巧。])
+(;B[pa]N[失败];W[na];B[sa];W[ra]C[黑死。]))

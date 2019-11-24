@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[le][ke][jd][id][ic][ib][qb][pb][qd][pd][oe][ne][me]AW[pa][ob][nd][od][oc][mc][ld][kd][jb]C[黑先 第三步有好棋。]
+
+(;B[lb];W[kb];B[ja];W[ka];B[kc];W[lc];B[jc]C[正解 黑先白死])
+(;B[kb];W[lb];B[kc];W[nb]C[失败])
+(;B[kc];W[kb];B[lc];W[lb];B[md];W[mb]C[失败])
+(;B[ja];W[lb]C[失败]))

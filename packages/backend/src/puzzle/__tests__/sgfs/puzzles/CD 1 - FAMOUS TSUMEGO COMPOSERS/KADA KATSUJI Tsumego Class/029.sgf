@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[cq][cp][co][do][dq][eq][fq][gr][bs]AW[bq][bp][bo][cn][dn][eo][fo]
+[go][dp][er][hp][hq][hr][hs][br]C[A]N[029]AP[MultiGo:4.4.4]SZ[19]AB[cr]MULTIGOGM[0]
+
+(;LB[ep:A][fr:B]C[黑A则白B，没得玩了。所以黑必须在下面动手。在下面，黑连走两手是怎么个情况？
+
+难度：A]
+N[审题])
+(;B[es]N[正解];W[ep]C[黑1夹时，白最好的应手是不与黑在边上纠缠];B[cs];W[fs];B[dr]
+C[劫活正解。])
+(;B[es]N[变化1];W[ep];B[cs];W[dr];B[gs];W[fr];B[gq])
+(;B[es]N[变化2];W[fs];B[gs];W[ds];B[ep];W[cs];B[dr];W[as];B[fr])
+(;B[gs]N[失败];W[ep];B[es];W[fr];B[dr];W[cs]))

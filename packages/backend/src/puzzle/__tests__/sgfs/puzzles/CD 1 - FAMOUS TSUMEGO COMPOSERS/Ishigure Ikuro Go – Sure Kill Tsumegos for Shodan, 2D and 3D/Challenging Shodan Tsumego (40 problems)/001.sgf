@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[qr][qq][qp][pp][po][pn][on][nn][no][mo][mp][mq]AW[rp][rq][np][nm]
+[oo][ln][lo][lp][lq][lr][mr][rr][nq][qo][qm][mm][qn][pm][om]N[001]AP[MultiGo:4.4.4]
+SZ[19]AB[rs]MULTIGOGM[0]
+
+(;LB[op:A][oq:B][or:C][nr:D]C[只有A、B、C、D四个选择，空间也不大。很容易得到正解。你的第一感呢？]
+N[审题])
+(;B[nr]C[黑1断，应该是第一感。]N[正解];W[or]C[黑1断时，白2必然];B[oq];W[ns]C[黑3打时，白4提子也是必然的着手。
+
+可以说，黑1至白4都是必然的进行。——必然，就意味着有比较明显的计算。]
+;B[pr]C[黑活。])
+(;B[nr]N[变化];W[or];B[oq];W[pr]LB[mn:A]C[请注意，如果A位没有松着气，白4是可以长出的，这可以作为另一道死活题。]
+;B[op];W[nq];B[ns])
+(;B[op]N[失败1];W[oq]C[黑1提子，白2之后，黑棋不活];B[or];W[nr];B[os]C[边上没有眼。]
+;W[pq])
+(;B[oq]N[失败2];W[nr];B[op];W[pr];B[or];W[os];B[ps]C[黑棋劫活。])
+(;B[or]N[失败3];W[nr];B[op];W[oq]C[黑棋明显不行。]))

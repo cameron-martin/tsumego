@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[es][cr][bq][bp][gr][fr][eq]AW[ao][bo][cn][cp][dp][ep][fq][gq][hq]
+[hr][hs][gs][br][ap]C[B]N[033]AP[MultiGo:4.4.4]SZ[19]AB[dq]MULTIGOGM[0]
+
+(;C[很有趣的题目。黑气紧，白两边都是硬腿。
+
+难度：B]N[审题])
+(;B[ar]N[正解];W[bs];B[cs];W[cq];B[dr];W[fs];B[aq];W[er];B[fr];W[gr];B[as];W[er]
+C[劫杀正解。])
+(;B[ar]N[变化];W[bs];B[cs];W[cq];B[dr];W[fs];B[aq];W[er];B[fr];W[as];B[bq];W[gr]
+C[还是劫。与正解没有什么区别。])
+(;B[ar]N[失败1];W[bs];B[dr];W[cs])
+(;B[ar]N[失败2];W[bs];B[cq];W[cs]))

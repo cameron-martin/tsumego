@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[bj][ck][cl][cm][bm][df][cf][bf]AW[bn][cn][dn][dm][dl][dk][dj][di]
+[dh][dg][bh]N[139]AP[MultiGo:4.4.4]SZ[19]AB[af]MULTIGOGM[0]
+
+(;C[黑棋的眼位太小，只有盘渡这一策。
+
+难度：☆☆]N[审题])
+(;B[ah]C[只有黑1托，没有别的选择]N[正解];W[ai];B[bi];W[ag];B[ch]C[接下来黑5挖又是手筋]
+;W[cg];B[bg];W[ci];B[aj])
+(;B[ch]N[失败];W[bi]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qr][qq][rp][ro][mm][qm][pm][om][nm][po][lm][ln][ko][kp][kq][lq][lr]
+[ls][mp][np][nq]AW[lp][mr][nr][on][pn][qn][qo][qp][oo][op][pq][pr][ps][lo][mo][mn]
+N[024]AP[MultiGo:4.4.4]SZ[19]AB[rn]MULTIGOGM[0]
+
+(;C[白在中间已经有一眼，因此黑必须想办法破掉白下边的眼。注意白气很紧，选点少空间小，应该能够得到正解。]
+N[审题])
+(;B[or]LB[oq:A][ns:B]C[黑1挖，对此，白A则黑B，白死]N[正解];W[os];B[ns];W[ms];B[oq])
+(;B[or]N[变化];W[ns];B[oq];W[mq];B[nn]C[白气紧的毛病暴露无遗。])
+(;B[ns]N[失败];W[or];B[ms];W[mq]))

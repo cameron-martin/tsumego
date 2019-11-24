@@ -1,0 +1,54 @@
+(;
+AB[pd][qj][ok][nk][mk][lk][ji][jl][jm][kl][pp][qo][pn][op][np][mp][nq][or][kp][jp][iq][hq][hr][ir][gr][fr][eq][ep][do][en][em][ek]
+AW[dd][hi][hk][hm][im][jn][kn][km][ll][ml][nl][ol][pl][no][ip][hp][gp][gq][jq][jr][is][oq][pq][pr][qs][qp][rp][rq][rr][cm][dn][co][dq][dr]
+C[Black plays.
+
+Source:
+    Go World #37 Autumn p. 6
+    "Test Your Rating", Nihon Ki-in]
+(;
+B[jd]
+C[Best.
+
+Black cannot effectively attack the center
+White group, so the game's focal point is
+what Black can do with his moyo.
+
+Black 1 works best with both Black's wall
+and Black's upper right corner stone.];
+W[qc]
+C[If White tries to invade...];
+B[qd]
+C[Black blocks on this side to create an ideal
+box like moyo shape.]
+)
+    (;
+    B[pf]
+    C[Second best.
+
+Black 1 is solid, but doesn't use all of Black's
+stones as effectively.
+The top center is wide open for White.]
+    )
+    (;
+    B[fc]
+    C[Inferior.
+
+Black expects White to respond in the
+upper left corner, but ...];
+    W[jd]
+    C[White will pincer here, which nips Black's
+moyo in the bud.]
+    )
+    (;
+    B[ig]
+    C[Bad.
+
+Black's strategy is misguided.
+Black's move "leans" on the White center group
+that is fairly immune to attack.];
+    W[jc]
+    C[White ignores Black to make the ideal
+extension here.]
+    )
+)

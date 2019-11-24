@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bk][ck][dl][el][fl][eo][fo][bp][dp][ip][aq][cq][dq][iq][br][fr][gr]AB[cl][cm][dm][en][bo][co][do][cp][ep][fp][gq]C[Kake
+
+Ex.  1  - Shinogi
+
+Kake is mainly a tesuji for capturing the opponent's stones or for restricting him.
+It is impossible to describe the great delight one feels when capturing one of the opponent's pivotal stones with this tesuji.
+If he can capture just the 2 W stones, B can settle his 2 groups at a stroke.]
+(;B[fn]LB[fn:1]C[Diag.  1  -  Failure
+
+B's direct ate 1 is the worst possible move. ]
+;W[go]LB[fn:1][go:2]C[W plays nobi 2 ]
+;B[gn]LB[fn:1][gn:3][go:2]C[Then, after B3]
+;W[ho]LB[fn:1][gn:3][go:2][ho:4]C[W 4, he cannot be caught.
+The B group on the lower side is abandoned.])
+(;B[go]LB[go:1]TR[aa]C[Diag.  2  -  Failure
+
+B1]
+;W[fn]LB[fn:2][go:1]
+;B[fm]LB[fm:3][fn:2][go:1]C[and B3 ate are useless moves. ]
+;W[gn]LB[fm:3][fn:2][gn:4][go:1]C[After 4 ]
+;B[gm]LB[fm:3][gm:5][fn:2][gn:4][go:1]
+;W[hn]LB[fm:3][gm:5][fn:2][gn:4][hn:6][go:1]C[and W 6 nobi, B has simply made his loss on the lower side even greater.])
+(;B[gn]LB[gn:1]C[Diag.  3  -  Correct
+
+In a case like this, B 1 kake is effective and, having read this collection, you will  be able to point out this suji eaily.
+W's 2 stones cannot move any further and B has settled his 2 groups.]
+;W[go]LB[gn:1][go:2]C[Diag.  4  - W  Failure
+
+W cannot play 2 de in reply to B 1 kake.]
+;B[ho]LB[gn:1][go:2][ho:3]C[B resists with 3,]
+;W[fn]LB[fn:4][gn:1][go:2][ho:3]C[then after W 4]
+;B[fm]LB[fm:5][fn:4][gn:1][go:2][ho:3]C[and B 5 there is no means of escape.]))

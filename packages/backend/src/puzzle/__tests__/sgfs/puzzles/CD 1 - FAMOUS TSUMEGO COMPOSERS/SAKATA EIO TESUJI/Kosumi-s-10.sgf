@@ -1,0 +1,37 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[co][do][eo][bp][fp][gp][bq][gq][dr][gr][gs]AB[cp][dp][ep][cq][fq][ar][br][er][fr]C[Ex. 10 - Life or death
+
+W's single stone occupies the vital point and it is difficult for B to get good eye shape.
+However, there ought to be a way to give him life.
+Take care not to follow W's way of thinking.]PL[B]
+(;B[cr]LB[cr:1]C[Diag. 1 - Failure
+
+If the tsugi of B were good, there would be no problem. 
+]
+;W[es]LB[cr:1][es:2]TR[aa]C[After the W hane there is no good move for B to prevent the watari, and he inevitably dies.])
+(;B[es]LB[es:1]TR[aa]C[Diag. 2 - Failure
+
+B 1 sagari is one way of stopping the watari but, ]
+;W[cr]LB[cr:2][es:1]C[after the cut at W 2 it is no good. 
+]
+;B[eq]LB[eq:3][cr:2][es:1]
+;W[bs]LB[eq:3][cr:2][bs:4][es:1]C[ ]
+;B[bo]LB[bo:5][eq:3][cr:2][bs:4][es:1]
+;W[bn]LB[bn:6][bo:5][eq:3][cr:2][bs:4][es:1]
+;B[ds]LB[bn:6][bo:5][eq:3][cr:2][bs:4][ds:7][es:1]
+;W[cs]LB[bn:6][bo:5][eq:3][cr:2][bs:4][cs:8][ds:7][es:1]C[By the time W plays 8, B is helpless and so he dies.])
+(;B[ds]LB[ds:1]TR[aa]C[Diag. 3 - Ko
+
+B 1 ]
+;W[cs]LB[cs:2][ds:1]
+;B[fs]LB[cs:2][ds:1][fs:3]C[and 3 are strong resistance, ]
+;W[es]LB[cs:2][es:4][fs:3]C[but since this is ko it is not the correct answer])
+(;B[cs]LB[cs:1]C[Diag. 4 - Correct
+
+There is no alternative to B 1 kosumi and the rest. ]
+;W[es]LB[cs:1][es:2]C[If B plays 2 ]
+;B[ds]LB[cs:1][ds:3][es:2]
+;W[fs]LB[cs:1][ds:3][es:2][fs:4]C[W plays 4 ]
+;B[eq]LB[eq:5][cs:1][ds:3][es:2][fs:4]C[B answers at 5, stopping the watari and, at the same time, getting complete life.
+An explanation is hardly necessary since the value of kosumi 1 is obvious.]))

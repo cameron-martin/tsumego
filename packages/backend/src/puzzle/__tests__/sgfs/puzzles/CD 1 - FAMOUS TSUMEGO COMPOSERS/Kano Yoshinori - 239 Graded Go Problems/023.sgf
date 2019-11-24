@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 3. RECOGNIZING ATARI
+
+Problem 23. Black to play.
+How should Black give atari to the two white stones on the edge? (atari - check, i.e. a move threatening to capture on the next move)]AW[hm][jk][kl][hl][ik]PB[ ]PM[1]PW[ ]AB[jl][hk][hj][il][gl]
+(
+;B[gm]C[Correct Answer
+If Black gives atari with 1, there is no way for White to escape.]
+)
+(
+;B[im]C[Wrong Answer
+If Black gives atari from the wrong side with 1 here....]
+;C[...White will capture three stones with 2.]W[jm]
+)
+
+)

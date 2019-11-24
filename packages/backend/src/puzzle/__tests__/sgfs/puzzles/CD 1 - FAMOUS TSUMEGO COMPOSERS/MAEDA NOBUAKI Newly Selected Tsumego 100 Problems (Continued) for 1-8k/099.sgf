@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[ma][me][hb][ha][ia][jb][jc][jd][kd][ke][le][md][mb]AW[nf][mf][lf]
+[kf][kc][ld][je][ie][he][ic][hc][gc][fb][ja][na][nb][nc][nd][ne][ib][lc]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[mc]MULTIGOGM[0]
+
+(;C[审题：黑棋做活的手法也是基本功，在很多死活题里面都有遇见。]N[审题])
+(;B[lb]N[正解];W[ka];B[la];W[gb];B[kb];W[ja];B[lc]C[黑活。])
+(;B[ka]N[失败1];W[lb])
+(;B[kb]N[失败2];W[ka]))

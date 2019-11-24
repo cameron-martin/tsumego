@@ -1,0 +1,38 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cg][ch][ci][cj][dd][fd]
+AW[cf][ck][dg][dh][di][dk][fk]PL[B]C[Black to play.
+
+Defense - Connect Underneath]
+(
+;B[ce]
+(
+;W[df]
+;B[bf]C[RIGHT
+])
+(
+;W[bf]
+;B[df]C[Black Ok])
+(
+;W[cc]
+(
+;B[dc]
+;W[bf]
+;B[df]
+;W[be])
+(
+;B[df]))
+(
+;W[ee]
+(
+;B[ed]
+;W[bf])
+(
+;B[df])))
+(
+;B[df]
+;W[de]
+;B[ef]
+;W[ce])
+(
+;B[bf]
+;W[ce]))

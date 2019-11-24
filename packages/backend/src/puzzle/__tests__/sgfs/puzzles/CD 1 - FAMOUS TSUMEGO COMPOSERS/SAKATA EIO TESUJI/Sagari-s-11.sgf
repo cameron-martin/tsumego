@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[do][eo][fo][bp][dp][cq][gq][cr][fr]AB[cm][dn][bo][co][cp][ep][dq][fq][dr][er]C[Ex. 11 - Semeai
+
+This is an interesting semeai.
+The question is where to attack because you want to capture not only 2 stones but the whole of the B group.]PL[W]
+(;W[fp]LB[fp:1]TR[aa]C[Diag. 1 - Failure
+
+If this were an actual game most people would probably play W 1 ate ]
+;B[br]LB[fp:1][br:2]C[B is satisfied with sente to take 2 stones after B 2 ]
+;W[eq]LB[fp:1][br:2]C[W 3 ]
+;B[bq]LB[fp:1][bq:4][br:2]C[B 4.
+In fact in real games there are many instances of this way of playing, but here it fails.])
+(;W[gr]LB[gr:1]TR[aa]C[Diag. 2 - Failure
+
+W tsugi 1 on the outside is out of the question. ]
+;B[br]LB[br:2][gr:1]C[If B 2, ]
+;W[cs]LB[br:2][gr:1][cs:3]C[W 3 sagari ]
+;B[bq]LB[bq:4][br:2][gr:1][cs:3]C[Then B 4 
+]
+;W[es]LB[bq:4][br:2][gr:1][cs:3][es:5]C[W 5, ]
+;B[bs]LB[bq:4][br:2][gr:1][bs:6][cs:3][es:5]C[and B 6 are oi otoshi.])
+(;W[fs]LB[fs:1]C[Diag. 3 - Correct
+
+Try W 1 sagari. ]
+(;B[gr]LB[gr:2][fs:1]C[B's cut at 2 is the maximum resiatance ]
+;W[fp]LB[fp:3][gr:2][fs:1]C[but W 3 ate is good ]
+;B[br]LB[fp:3][br:4][gr:2][fs:1]C[and in reply to B 4 tsuke ]
+;W[bq]LB[fp:3][bq:5][br:4][gr:2][fs:1]C[W 5 connects. ]
+;B[cs]LB[fp:3][bq:5][br:4][gr:2][cs:6][fs:1]C[If B 6 , ]
+;W[ds]LB[fp:3][bq:5][br:4][gr:2][cs:6][ds:7][fs:1]C[then W plays 7 horikomi and it is an oi otoshi position, the result of sagari 1.])
+(;B[br]LB[br:2][fs:1]C[Diag. 4 - Variation
+
+If B 2 tsuke in reply to W 1 sagari ]
+;W[ds]LB[br:2][ds:3][fs:1]C[W now plays 3 hane. ]
+;B[bq]LB[bq:4][br:2][ds:3][fs:1]C[After B 4 ]
+;W[cs]LB[bq:4][br:2][cs:5][ds:3][fs:1]
+;B[bs]LB[bq:4][br:2][bs:6][cs:5][ds:3][fs:1]C[and with B 6 ]
+;W[es]LB[bq:4][br:2][bs:6][cs:5][ds:3][es:7][fs:1]C[W can connect.
+This is the difference between this diagram and diagram 2.
+W's sagari 1 works well])))

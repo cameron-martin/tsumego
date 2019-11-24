@@ -1,0 +1,52 @@
+(;
+AB[pq][qp][qo][pj][pd][pe][pc][oc][ob][kd][dd][de][cf][bf][ef][ec][cc][cb][jp][co][do][cm][cl][bk][lc][mc][nd][lb][jd][jc][jb][fe][eg][eh][ei][ej][dj][dk][el][fl][em][cn][eo][pn]
+AW[cp][dq][ep][po][qn][qf][qd][qb][qc][pb][nc][dc][bc][cd][ce][be][df][dg][cg][bg][dm][dl][ck][kc][ld][mb][md][ke][je][ie][hd][hg][fh][fi][fj][fk][ek][gl][cj][ci][bo][bn][fp][pk]
+C[Black's response to the marked stone?
+
+Source:
+    "Go World", #31, Spring 1983, p. 25
+    Kobayashi Koichi  vs.  Hane Yasumasa, 7th Kisei Stage 2 Final
+    Iwata Tatsuaki commentary.]
+TR[pk]
+(;
+B[oj]
+C[Too solid.  White settles his group
+nicely in this sequence from the game.];
+W[ok];
+B[nj];
+W[on];
+B[pm];
+W[om];
+B[oo];
+W[no];
+B[pp];
+W[mn];
+B[mq];
+W[qm];
+B[lj];
+W[pl]
+)
+    (;
+    B[ok]C[Correct.]
+    (;
+    W[pl]C[If White reinforces against the right side...];
+    B[on];
+    W[qj];
+    B[ol];
+    W[qi];
+    B[jm]
+    C[Black expands his bottom area.]
+    )
+        (;
+        W[ol]C[If White tries to maintain center presence...];
+        B[on];
+        W[ql];
+        B[oj];
+        W[ml];
+        B[mj];
+        W[mn];
+        B[mp]
+        C[... Black attacks the whole group.]
+        )
+    )
+)

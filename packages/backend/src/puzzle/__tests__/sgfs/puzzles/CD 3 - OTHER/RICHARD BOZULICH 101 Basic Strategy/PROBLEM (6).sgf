@@ -1,0 +1,9 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[dd][dn][en][dp][cq][dq][hq][kq]AW[pd][cj][pj]
+[dm][cn][co][cp][pp][fq]LB[do:A]C[Black to play. Later in the game, White A could become troublesome. How can Black eliminate this bad aji?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+;B[cm]
+(;W[cl];B[bm];W[bl];B[nc];W[qf];B[pb];W[qc];B[kc];W[gp];B[hp]
+(;W[do];B[eo];W[ep];B[bn]C[CORRECT If White still tries to cut in the bottom right corner, Black turns and captures four stones.])
+(;W[gn];B[dl];W[em];B[fm];W[el];B[fn];W[ho];B[jo]TR[bm][cm]C[CORRECT White's attempts at the bottom are premature because of Black's forcing moves caused by the marked aji stones. White ends up being under attack]))
+(;W[bm];B[cl];W[bl]LB[sa:A]C[If White decides to atari from this side... Please play tenuki with A]
+;B[sa];W[do];B[eo];W[ep];B[bp];W[bo];B[ao];W[bn];B[br]TR[cl][cm]C[CORRECT Black can still live in the corner if White decides to cut, because of the aji of the marked stones.]))

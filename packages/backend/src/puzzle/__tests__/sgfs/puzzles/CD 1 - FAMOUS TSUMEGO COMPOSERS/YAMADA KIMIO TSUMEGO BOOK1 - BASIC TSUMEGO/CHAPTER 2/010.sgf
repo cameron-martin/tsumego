@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[mc][nc][oc][pc][qc][qb][ra][lb]AW[rc][rd][qd][pd][od][nd][md][ld]
+[lc][kb][jc][na][rb]N[010]AP[MultiGo:4.4.4]SZ[19]AB[mb]MULTIGOGM[0]
+
+(;C[基础死活。]N[审题])
+(;B[ob]N[正解];W[pa];B[qa];W[oa]C[白后手双活。]N[正解])
+(;B[qa]N[失败1];W[la];B[ma];W[ob])
+(;B[oa]N[失败2];W[pa];B[qa];W[ob]))

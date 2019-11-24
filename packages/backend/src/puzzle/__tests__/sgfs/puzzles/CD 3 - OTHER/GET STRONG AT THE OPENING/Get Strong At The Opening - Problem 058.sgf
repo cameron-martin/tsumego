@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][dd][fd][hd][jd][nc][fq][dp][cg][dg][dh][di][ei]
+AB[pd][pf][pj][pp][jp][bd][bf][cf][df][ef][gf][eh][fh]
+C[Problem 58. Black to play.  
+
+Black's stones in the upper left are a bit cramped. How should he play so as to take the lead in this game ? ]
+(;B[gj]
+TE[2]
+C[Correct Answer.  
+
+Black should play the knight's move at 1. This move threatens the five white stones in the upper left side, ... ]
+;W[dm]
+C[... so White must respond with 2. If White omits this move, Black 3 at 2 is a severe attack. ]
+;B[pn]
+LB[np:A]
+C[Next, Black strengthens his moyo on the right with 3 (or A). <= ]
+)
+(;B[pn]
+C[Failure.  
+
+If Black immediately strengthens the right side with 1, ... ]
+;W[gj]
+C[... White will take the initiative with the knight's move of 2, expanding her moyo in the left and attacking the black stones in the upper left. Moreover, the potential scale of Black's moyo has been greatly reduced. <= ]
+)
+)

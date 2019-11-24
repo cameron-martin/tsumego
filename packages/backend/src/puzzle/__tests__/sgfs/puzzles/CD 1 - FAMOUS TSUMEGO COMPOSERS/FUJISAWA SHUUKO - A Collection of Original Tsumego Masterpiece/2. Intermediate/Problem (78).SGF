@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[oe][of][og][qf][rf][rg][sb][ob][pb][pc][od]AW[sc][qb][qc][pe][qe][re]C[黑先 怎样利用白棋气紧的问题。]
+
+(;B[se]
+(;B[pd];W[qd];B[rc];W[sf];B[ra];W[qa];B[rb]C[变化])
+(;W[rd];B[rb];W[pd];B[rc];W[sd];B[qa]C[变化]))
+(;B[qa];W[rd];B[ra];W[rb];B[pd];W[sa]C[失败]))

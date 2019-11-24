@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][oc][po][qn][pm]
+AB[qd][cp][pq][nq][qp][qo]
+LB[nq:6][pm:5][qp:4][qn:3][qo:2][po:1][pe:A]
+C[Problem 48. White to play.  
+
+This time White has made a high approach with 1. Instead of the diagonal move at A, Black plays the joseki to 6. How should White continue ? ]
+(;W[qg]
+TE[2]
+C[Correct Answer.  
+
+White should pincer the black stone in the upper right corner with 1. ]
+;B[pe]
+C[If Black plays 2, ... ]
+;W[og]
+C[... White will jump to 3 and make a moyo on the right side. Black's stones are still under attack, so White will end in sente. <= ]
+)
+(;W[qi]
+C[Failure.  
+
+Playing the joseki move of White 1 is not good. ]
+;B[qg]
+LB[ql:A]
+C[Black can settle his stones in the upper right corner by extending to 2 and threaten to invade White's position at the bottom with a move at A. (See Problems 30, 33, 36, 39, and 42 in Get Strong at Invading.) <= ]
+)
+)

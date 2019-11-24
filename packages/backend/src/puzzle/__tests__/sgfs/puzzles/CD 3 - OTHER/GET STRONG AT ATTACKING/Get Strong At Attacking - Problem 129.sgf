@@ -1,0 +1,25 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][cg][dg][ef][ee][cd][co][od][ie][hd][hf][hg][ih][jf][kf][kg][lg][mg][mf]
+AB[cb][ec][fd][fe][ff][eg][dh][di][ci][pp][qd][mc][me][le][ke][je][ld][lf][jc][ig][if]
+TR[ih]
+C[Problem 129. Black to play.  
+
+White has just secured the center with the marked stone (White 16 in the Correct Answer of Problem 85). What should Black do next ? ]
+;B[bd]
+TE[2]
+C[Correct Answer.  
+
+Attaching with Black 1 is a severe attack on the white stones. ]
+(;W[be];B[bc];W[cf];B[dd];W[de];B[bh];W[bg];B[bi];W[af]
+C[White can live with the sequence to 10, but she ends in gote, while Black expands his corner territory and increases his influence facing down on the left side. <= ]
+)
+(;W[bc]
+C[Variation.  
+
+White can't resist with 2. ]
+;B[be];W[cc];B[ce];W[de];B[bb];W[ad];B[dd]
+C[The sequence to Black 9 will follow and the white stones are dead. <= ]
+)
+)

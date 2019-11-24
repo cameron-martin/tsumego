@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ep][fp][gq][hq][hr][br][bp][cp]AW[cs][cr][cq][dq][eq][fq][gr]N[108]
+AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[0]
+
+(;LB[fr:A][bq:B]C[黑A打肯定不行。如果黑走B位，白棋就做成板六的活形。必须另想办法。
+
+难度：☆☆]
+N[审题])
+(;B[gs]N[正解];W[er];B[bq];W[fs]C[劫杀正解。])
+(;B[gs]N[变化];W[bq];B[es]C[黑3跳入后，白棋在边上没有眼。]))

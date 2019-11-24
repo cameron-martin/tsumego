@@ -1,0 +1,36 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][pc][pe][rf]
+AB[dc][cf][hc][qg][qj]
+C[Problem 126. Black to play.  
+
+This time the white enclosure is facing the other direction. Where should Black invade ? ]
+;B[lc]
+TE[2]
+C[Correct Answer.  
+
+Invading at 1 is the vital point. ]
+(;W[kd]
+C[White 2 is the standard response. ]
+(;B[oc]
+C[Next, Black attaches at 3, and, ... ]
+;W[od];B[nc]
+C[... after 5, ... ]
+;W[pb];B[me]
+C[... jumps to 7. <= ]
+)
+(;B[me]
+LB[oc:@]
+C[Variation.  
+
+Instead of @, playing directly at 3 is also possible. <= ]
+))
+(;W[nc]
+C[Variation.  
+
+If White defends from the other side with 2, ... ]
+;B[kd]
+C[... Black attacks the lone white stone with 3. <= ]
+)
+)

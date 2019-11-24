@@ -1,0 +1,43 @@
+(;
+AB[hc][pq][qq][qp][qo][qn][qd][qe][qf][qg][pg][ng]
+AW[lc][qc][pc][pd][pe][pf][ip][gq][oq][np][pp][po][pr]
+C[White plays.
+
+Source:
+    Attack and Defense, Ch. 7
+    Akira Ishida & James Davies, Ishi Press]
+(;
+W[om]
+(;
+B[pl];
+W[ol];
+B[pk];
+W[ok];
+B[pj]
+C[Black has big solid territory, but white has sente
+and even bigger potential.]
+)
+    (;
+    B[kp]
+    C[Black will only come under attack while black's
+right side territory is open for invasion.]
+    )
+)
+    (;
+    W[pn]
+    C[Not quite as good.];
+    B[pm];
+    W[om];
+    B[ol]
+    )
+    (;
+    W[qk]
+    C[Bad.];
+    B[pn];
+    W[ok];
+    B[no];
+    W[mp];
+    B[mk]
+    C[And white is in trouble.]
+    )
+)

@@ -1,0 +1,98 @@
+(;
+AB[ec][fc][fd][ge][cg][bg][cj][cl][bl][ek][el][bn][cp][cq][dq][fo][ho][fq][fr][jp][mp][mq][mr][pq][qp][ro][on][pl][pk][ql][pj][pi][qi][rh][si][sk][rd][qd][pd][od][oc][nd][ld][kc][lb][jd]
+AW[db][dc][ed][de][fe][ff][cf][bf][lc][mc][nc][mb][md][na][ob][pc][qc][rc][me][qg][ri][rj][rk][rl][qk][qj][sl][sn][rn][qn][lr][lq][lp][lo][lm][jr][hq][gr][dp][cn][dn][bo][bm][em][fl][gm][dk][ok]
+C[Black's response to White's marked play?
+
+Source:
+    Go World #35, Spring 1984, p. 43
+    Miyazawa Goro  vs.  Yoda Norimoto]
+TR[qg]
+(;
+B[qh]
+LB[sh:a]
+C[Correct.
+
+Black defends the cut, and Black A is sente
+against the White group below.
+
+Black is still in the game.]
+)
+    (;
+    B[rg]
+    C[The losing move.];
+    W[of]
+    C[Now this move is sente.]
+    (;
+    B[pf];
+    W[pg];
+    B[qf];
+    W[oh]
+    LB[qh:a]
+    C[And White still has sente against the upper
+right Black group, with the threat of A.
+
+Black is out of the running in this game.]
+    )
+        (;
+        B[pg]
+        C[But doesn't this move keep more of
+the right side territory?]
+        (;
+        W[pf];
+        B[qf];
+        W[og];
+        B[qh]
+        C[White keeps sente, but is worse off from
+when Black played Q14.]
+        )
+            (;
+            W[og];
+            B[pf]
+            C[White keeps sente, but Black has several
+more points, and White's outside influence
+is not as great.]
+            )
+            (;
+            W[re]
+            C[Best?
+
+Looks scary, but doesn't pan out.];
+            B[se]
+            (;
+            W[qf];
+            B[pf];
+            W[pe];
+            B[qh]
+            )
+                (;
+                W[sf];
+                B[sd];
+                W[qf];
+                B[pf]
+                )
+                (;
+                W[qe];
+                B[pf];
+                W[pe];
+                B[rf];
+                W[oe]
+                C[White ends in gote.]
+                )
+            )
+            (;
+            W[qf];
+            B[pf]
+            (;
+            W[qh];
+            B[rf]
+            )
+                (;
+                W[pe];
+                B[qh];
+                W[qe];
+                B[oe]
+                )
+            )
+        )
+    )
+)

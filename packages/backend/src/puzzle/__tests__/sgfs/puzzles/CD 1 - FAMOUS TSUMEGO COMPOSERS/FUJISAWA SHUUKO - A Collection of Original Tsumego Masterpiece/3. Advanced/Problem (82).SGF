@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[qe][re][rf][mb][nb][oc][od][oe][pe]AW[rb][rd][pd][pc][ob]C[黑先 第三步是手筋，]
+
+(;B[sd]
+(;W[rc];B[qd];W[pb];B[qc];W[qb];B[oa]C[变化])
+(;W[qc];B[sc];W[sb];B[pb]C[变化]))
+(;B[qd];W[qc];B[sd];W[sc]C[失败]))

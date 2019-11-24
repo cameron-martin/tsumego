@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[md][me][le][ke][jd][jc][jb][ja][ka][rb][rc][qc][pc][oc]AW[la][kb]
+[kc][ld][mc][nc][ob][pb][qb]N[002]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[lb:A]C[很想在A位打吧？这种明显的地方，在死活题中多半不行。
+
+本题从外围压缩眼位不行，请计算确认之。]
+N[审题])
+(;B[na]LB[nb:A][oa:B]C[黑1点是急所。白应在A、B位肯定不行，黑棋一打吃就回家了。]
+N[正解];W[lb];B[nb];W[mb];B[qa]LB[kd:A][oa:B]C[黑5走A位也可，白走5位的话，黑B即可杀白。
+
+白死。])
+(;B[na]N[变化1];W[ma];B[nb]LB[mb:A][lc:B]C[以下，白A则黑B扑，白B则黑A打，白死];W[qa]
+;B[oa];W[lc];B[mb];W[lb];B[ra];W[pa];B[nb])
+(;B[na]N[变化2];W[ma];B[nb];W[qa];B[oa];W[mb];B[lc])
+(;B[na]N[变化3];W[mb]LB[ma:A][lc:B]C[接下来，黑A打则白B做劫。];B[lc])
+(;B[lb]N[失败1];W[ma];B[mb];W[na])
+(;B[qa]N[失败2];W[na]))

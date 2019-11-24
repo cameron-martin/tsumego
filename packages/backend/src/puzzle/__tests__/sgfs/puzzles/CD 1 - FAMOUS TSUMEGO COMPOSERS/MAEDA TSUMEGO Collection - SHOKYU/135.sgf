@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ro][so][qp][os][or][oq][op][oo]AW[sp][rp][rq][rr][qq][pr]N[135]AP[MultiGo:4.4.4]
+SZ[19]AB[qo]MULTIGOGM[0]
+
+(;C[空间很小，计算也不复杂。找出正解吧。
+
+难度：☆☆])
+(;B[ps]N[正解];W[qs];B[sr];W[pq];B[rs]C[劫杀正解。])
+(;B[sr]N[失败];W[ps];B[rs];W[pq];B[qs]C[这是双活，不是盘角曲四。
+
+其他的失败图都很容易，就不给出了。]))

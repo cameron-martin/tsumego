@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[of][nf][mf][oe][le][ld][lc][lb][rb][rc][rd][re][pb][qf]AW[mc][nb]
+[me][ne][od][pc][qc][qd][qe][pe]N[090]AP[MultiGo:4.4.4]SZ[19]AB[pf]MULTIGOGM[0]
+
+(;C[先看简单的手段能不能杀白，然后再考虑一些看上去比较“非常”的手段。]N[审题])
+(;B[ob]C[黑1必然]N[正解];W[oc]C[白2也必然];B[nc]C[黑3扑，手筋];W[qb];B[na];W[nd]
+;B[mb];W[pa];B[nc]C[劫杀正解。])
+(;B[ob]N[变化];W[qb];B[oc])
+(;B[qb]N[失败1];W[ob]C[黑缺少计算。])
+(;B[ob]N[失败2];W[oc];B[mb];W[qb]LB[na:A][nc:B]C[白4之后，黑A则白B，白活。];B[nc]
+C[黑现在扑已经晚了];W[na]))

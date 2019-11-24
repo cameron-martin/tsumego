@@ -1,0 +1,50 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cf][kc][qc][qd][qf][rf][kq][dp][cq][fq]
+AB[fc][id][pc][pd][pe][og][qh][pp][bp][cn][ck]
+TR[kc]
+C[Problem 57. Black to play.  
+
+White has just invaded with the marked stone. How should Black respond ? ]
+(;B[jc]
+TE[2]
+C[Correct Answer.  
+
+Denying your opponent's stones a base makes attacking easy. Black 1 here ... ]
+(;W[ke]
+C[... forces White to escape with 2, so ... ]
+;B[jf]
+C[... Black can continue the chase with 3. ]
+;W[ne]
+C[White 4 ... ]
+;B[pf]
+C[... forces Black to defend with 5, but, ... ]
+;W[lg]
+C[... after White 6, ... ]
+;B[li]
+C[... Black caps with 7 and White's stones are under siege. See Problem 134 for the continuation. <= ]
+)
+(;W[kd]
+C[Variation.  
+
+White 2 leaves the white stones heavy. With Black's wall on the right, White has no room to develop her stones. ]
+;B[jf]
+C[The knight's move of Black 3 is now a strong attack. ]
+;W[kf];B[kg];W[lf]
+LB[lg:A]
+C[White 6 at A is also possible. For this variation, see Problem 133. ]
+;B[lg];W[ne];B[pf];W[mg];B[mh];W[ng];B[nh];W[nc];B[ob]
+LB[lp:B][qb:A]
+C[After the sequence to Black 15, the white stones on the top are under attack and Black is threatening the white corner with a hane at A, In addition, Black has made a wall on the outside from which he can now map out a huge moyo with a shoulder hit at B. <= ]
+))
+(;B[ke]
+C[Failure.  
+
+The cap of Black 1 is ineffective. ]
+;W[ib]
+C[White slides to 2 and ... ]
+;B[hc];W[hb];B[gb];W[gd];B[gc];W[mc]
+C[... easily lives at the top with the sequence to 8. <= ]
+)
+)

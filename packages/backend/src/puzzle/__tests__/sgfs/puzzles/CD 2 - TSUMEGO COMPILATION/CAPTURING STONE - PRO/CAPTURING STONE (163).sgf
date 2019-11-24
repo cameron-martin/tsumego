@@ -1,0 +1,71 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[aa][ab][ah][ba][bb][bd][bg][cc][cd][cf][cg]
+AW[bh][bj][ca][cb][ch][dc][dd][de][df][dg][eb]PL[W]C[White to play.
+
+Capturing stones - Via a Ko Fight
+
+Source: Igo Hatsuyo-ron.]
+(
+;W[af]
+(
+;B[ce]
+(
+;W[ae]
+;B[ag]
+;W[ad]
+;B[be]
+;W[bc]
+;B[ac]
+;W[bc]
+;B[bb]
+;W[ba]
+;B[ac]
+;W[ab]
+;B[aa]C[RIGHT
+Loose Liberity Ko])
+(
+;W[ad]
+;B[ae]
+;W[be]
+;B[bf]
+;W[ai]
+;B[ae]C[Ko Fight]))
+(
+;B[ag]
+;W[ac]
+;B[bc]
+;W[be]
+;B[ce]
+;W[ad]
+;B[ae]
+;W[ad]))
+(
+;W[ac]
+(
+;B[bc]
+(
+;W[be]
+;B[ce]
+;W[af]
+;B[ad])
+(
+;W[af]
+;B[ce]
+;W[ag]
+;B[ae]))
+(
+;B[ad]
+;W[ce]
+;B[be]
+;W[af]
+;B[ag]
+;W[ai]
+;B[bf]
+;W[bc]C[Black Death]))
+(
+;W[ad]
+;B[be]
+;W[bc]
+;B[ae]
+;W[ac]
+;B[bb]))

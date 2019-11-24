@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cm][co][do][dq][eq][gq][ar][br][fr]AB[cp][cq][cr][dr][er][bs]C[Ex. 1 Life or death
+
+Tobi belongs to the category of "light"
+tesuji.
+It is indispensable in life-and-death problems, semeais, shinogi and so on and, in its various aspects, it covers a wide field of applications in actual games.
+How can W connect with his 2 stones ?
+If he achieves this connection, B's fate is decided.]PL[W]
+(;W[bp]LB[bp:1]C[Diag. 1 - Failure
+
+If W tries to connect immediately at 1, ]
+;B[bq]LB[bp:1][bq:2]C[ B plays 2 ]
+;W[aq]LB[bp:1][aq:3][bq:2]
+;B[bo]LB[bo:4][bp:1][aq:3][bq:2]C[and 4 kiri and W is lost.])
+(;W[bo]LB[bo:1]C[Diag. 2 - Failure
+
+W 1 sagari is not appreciated here. ]
+;B[ap]LB[bo:1][ap:2]C[When B answers with tobi 2 ]
+;W[bp]LB[bo:1][ap:2][bp:3]C[after W 3 ]
+;B[bq]LB[bo:1][ap:2][bp:3][bq:4]C[and B 4 nothing more can be done.])
+(;W[ao]LB[ao:1]C[Diag. 3 - Correct
+
+W 1 tobi is correct. ]
+(;B[bp]LB[ao:1][bp:2]C[If B 2, ]
+;W[ap]LB[ao:1][ap:3][bp:2]C[W connects along the edge at 3 and B dies.
+Because B cannot play in the extreme corner, he cannot produce an oi otoshi.
+If B plays his 2 at 3, a tsuke, W will capture it with 2.])
+(;B[bo]LB[ao:1][bo:2]C[Diag 4 - Correct
+
+If B plays hanekomi 2 in reply to W 1, ]
+;W[bn]LB[ao:1][bo:2]C[W plays ate on the outside. ]
+;B[bp]LB[bn:3][ao:1][bo:2][bp:4]C[After B 4 ]
+;W[ap]LB[bn:3][ao:1][bo:2][ap:5][bp:4]C[and W 5, B is again dead.])))

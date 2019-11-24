@@ -1,0 +1,8 @@
+(;AB[rc][rd][qd][pd][od][nd][mc][mb][lb][qa]AW[sb][rb][qc][pc][oc][nc][nb]C[黑先白死
+
+金鸡独立。]
+SZ[19]
+
+(;B[na]C[黑先白死]N[正解图1];W[oa];B[qb];W[pb];B[sc];W[ma];B[ra]C[黑1扳和白2打吃交换之后，黑3断是好次序，。这样就形成了白棋两面不入子的“金鸡独立”之形，到黑7白死。])
+(;B[na]C[黑先白死]N[正解图2];W[pb];B[oa];W[pa];B[ra])
+(;B[qb]N[失败图];W[pb];B[na];W[ra]))

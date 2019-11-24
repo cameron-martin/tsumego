@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[qe][pe][oe][ne][me][ld][lc][lb][la][ra][rb][rc]AW[mb][mc][md][nd]
+[oc][pd][qc][qb][qa]N[019]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;TR[la]LB[od:A]C[黑有硬腿，另外就是空间非常小。黑A位打明显是陷阱，多半不行，不过也要计算确认。]
+N[审题])
+(;B[nb]C[黑1夹，要求渡过。]N[正解];W[ma]C[白2阻渡，必须的。];B[od];W[ob];B[pc];W[pb]
+;B[oa]C[白死。
+
+只要走出了黑1夹，变化就很少了。])
+(;B[nb]N[变化];W[ma];B[od];W[nc];B[pc];W[pb];B[oa])
+(;B[od]N[失败1];W[nb];B[pc];W[pb])
+(;B[ma]N[失败2];W[nb];B[oa];W[na];B[od];W[ob])
+(;B[oa]N[失败3];W[nb]))

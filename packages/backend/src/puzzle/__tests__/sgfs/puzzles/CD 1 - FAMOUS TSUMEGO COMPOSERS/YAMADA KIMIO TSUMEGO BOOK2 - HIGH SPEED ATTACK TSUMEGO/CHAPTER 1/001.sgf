@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[pd][od][nd][mc][mb][qc][qd][rd]AW[ob][oc][pc][qb][rc][sd]N[001]AP[MultiGo:4.4.4]
+SZ[19]AB[re]MULTIGOGM[0]
+
+(;LB[rb:A]C[第一感就是A位打。但这样会不会成劫？有没有净杀的可能？]N[审题])
+(;B[pa]N[正解];W[oa];B[rb];W[sb];B[ra]C[没有劫。白死。])
+(;B[pa]N[变化];W[ra];B[sb])
+(;B[rb]N[失败];W[sb];B[ra];W[qa];B[pa]C[现在打就迟了];W[pb]))

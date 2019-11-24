@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][nd][md][ld][kd][jd][ic][jb][lb][qa][rb][rc][qc]AW[kb][kc][lc]
+[mb][ob][oc][pb][qb]N[022]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;LB[ka:A][mc:B][nc:C]C[黑走A、B或C位都不行，请计算确认之。]N[审题])
+(;B[la]N[正解];W[ma];B[pa];W[oa];B[nb];W[nc];B[mc]C[白死。])
+(;B[la]N[变化1];W[ka];B[nc];W[nb];B[pa];W[oa];B[ma])
+(;B[la]N[变化2];W[ma];B[pa];W[nc];B[mc];W[ka];B[oa])
+(;B[la]N[变化3];W[ma];B[pa];W[nc];B[mc];W[na];B[ra])
+(;B[nb]N[失败1];W[nc];B[mc];W[la])
+(;B[pa]N[失败2];W[nc]))

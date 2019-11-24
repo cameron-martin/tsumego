@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[qd][pd][oe][ne][me][ld][lc][lb][mb][sb][rc]AW[na][nb][mc][nd][od]
+[pc][qc][rb][ra]N[022]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;C[白棋看上去眼位很充足，但却有重大缺陷。
+
+从外侧压缩白眼位不行。]N[审题])
+(;B[pb]N[正解];W[qb];B[pa];W[md];B[oc];W[nc];B[ob]C[白死。])
+(;B[pb]N[变化1];W[qb];B[pa];W[nc];B[ob])
+(;B[pb]N[变化2];W[ob];B[qb];W[oc];B[pa];W[md];B[ma])
+(;B[pb]N[变化3];W[ob];B[pa];W[qb];B[nc])
+(;B[pb]N[变化4];W[pa];B[qb];W[oc];B[ob])
+(;B[md]N[失败1];W[pb])
+(;B[pa]N[失败2];W[pb]))

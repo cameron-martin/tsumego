@@ -1,0 +1,47 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][ce][gc][kd][mc][qg][qj][pk][qm][dp]
+AB[id][oc][qe][pd][og][oj][nl][ql][oq][qp]
+TR[qm]
+C[Problem 39. Black to play.  
+
+White attaches with the marked stone in order to rescue her stones under siege. How should Black respond ? ]
+(;B[pl]
+TE[2]
+C[Correct Answer.  
+
+Black should push up with 1 and separate the white stones. ]
+(;W[ok]
+C[If White 2, ... ]
+;B[ol]
+C[... Black could play 3 and secure the territory on the lower right side. <= ]
+)
+(;W[rl]
+C[Variation.  
+
+But White could hane with 2, ... ]
+;B[rk]
+C[... Black will block with 3 and, ... ]
+;W[qk]
+C[... if White cuts with 4, ... ]
+;B[rj]
+C[... Black will crawl to 5. This is quite a severe move. ]
+(;W[ri]
+C[If White 6 here, ... ]
+;B[rm]
+C[... Black will capture a stone by playing at 7. <= ]
+)
+(;W[rm]
+C[If White connects at 6, ... ]
+;B[qi]
+C[... Black plays 7. Either way, White's position has collapsed. <= ]
+)))
+(;B[rm]
+C[Failure.  
+
+If Black hanes at 1, ... ]
+;W[pl];B[qn];W[pm];B[rk];W[pn];B[po];W[nn]
+C[... White will escape into the center with the sequence to 8. <= ]
+)
+)

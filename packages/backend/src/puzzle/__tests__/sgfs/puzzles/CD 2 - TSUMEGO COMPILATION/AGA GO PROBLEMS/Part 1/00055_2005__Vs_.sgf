@@ -1,0 +1,38 @@
+(;
+AW[bs][dr][er][aq][bq][cq]
+AB[cs][fs][fr][dq][eq][fq][ap][bp][cp][do]
+C[Black plays.
+
+Source:  unknown.]
+(;
+B[as]
+C[Black's move gives White an
+eye in gote, yet is the only
+killing move!
+
+Finding a more counter-intuitive
+move for another simple tsume-go
+problem would be difficult.]
+(;
+W[ar]
+C[White says, "Thank you."
+But...];
+B[cr]
+C[Black's response exposes a
+shortage of liberties.  White dies.]
+)
+    (;
+    W[cr]
+    C[If White takes the key point...];
+    B[br]
+    C[Black can form a bulky 5.]
+    )
+)
+    (;
+    N[Fails]
+    B[br]
+    C[The obvious move fails.];
+    W[ar]
+    C[White is happy with a ko.]
+    )
+)

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[pn][on][nn][np][mp][lp][kq][jq][jr][rr][qr][qp]AW[kr][ls][lq][mq]
+[nq][op][oo][pq][pr]C[42]N[42]AP[MultiGo:4.4.4]SZ[19]AB[pp]MULTIGOGM[0]
+
+(;LB[oq:A][ns:B]C[第42题 从外侧攻击
+
+黑A也好，黑B也好，已知白都能活。那黑应如何攻杀呢？只好从外侧攻击了。
+
+是左边还是右边呢？请无条件杀白。]
+N[审题])
+(;B[js]C[黑1立下巧妙]N[正解];W[ps]C[白2尽力扩大眼位];B[oq];W[or];B[ns]C[黑3、5是好次序，白死。])
+(;B[js]N[变化1];W[oq];B[ns];W[nr];B[os];W[ps];B[lr];W[mr];B[ks])
+(;B[js]N[变化2];W[ns];B[mr];W[nr];B[ps];W[os];B[oq])
+(;B[ps]N[失败];W[os];B[js];W[nr]LB[oq:A][ms:B]C[A、B见合，白活了。]))

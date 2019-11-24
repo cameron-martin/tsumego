@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[fp][gp][hp][ip][jp][jq][ir][hr][ao][bo][co][cp][cq][dr]AW[bp][bq]
+[cr][cs][dq][eq][fq][gq][hq][iq]C[A]N[032]AP[MultiGo:4.4.4]SZ[19]AB[ep]MULTIGOGM[0]
+
+(;LB[jr:A]C[黑有A位的弱点，可能出现接不归。黑首先考虑是从边上还是从角上动手破眼。
+
+难度：A]
+N[审题])
+(;B[br]N[正解];W[ar];B[bs];W[as];B[br]C[黑5扑是常用的破眼手筋，既破眼，又能促白气紧]
+;W[bs];B[ap];W[er];B[fs];W[aq];B[es]C[白死。这里，白边上数子气紧，因此没有办法吃黑的接不归。])
+(;B[br]N[变化1];W[er]C[白2先在边上应];B[fs];W[ar];B[bs];W[as];B[br]C[还是要回到正解图。次序的改变没有实质性的意义。])
+(;B[br]N[变化2];W[es];B[ar];W[gr];B[gs])
+(;B[br]N[失败1];W[ar];B[bs];W[as];B[ap];W[br];B[es];W[fr];B[fs];W[gs];B[gr];W[ds]
+;B[hs];W[er])
+(;B[fs]C[从边上动手的话，小飞破眼不够紧凑]N[失败2];W[es];B[br];W[ar];B[bs];W[as]
+;B[br];W[aq])
+(;B[es]N[失败3];W[ar];B[ap];W[bs];B[aq];W[fr];B[fs];W[gs];B[gr];W[ds]))

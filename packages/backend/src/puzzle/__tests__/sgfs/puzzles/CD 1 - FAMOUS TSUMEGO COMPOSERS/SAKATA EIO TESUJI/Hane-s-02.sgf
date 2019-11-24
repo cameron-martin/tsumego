@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ep][fp][cq][gq][hq][jq][dr][er]AB[fn][do][go][cp][gp][bq][fq][br][cr][fr]C[Ex. 2 - Watari
+
+This can be called either watari or semeai but either way there is a means of turning the tables on W.]
+(;B[eq]LB[eq:1]TR[aa]C[Diag. 1 - Failure
+
+B cannot win by playing the semeai at once. ]
+;W[dq]LB[dq:2][eq:1]
+;B[dp]LB[dp:3][dq:2][eq:1]
+;W[gr]LB[dp:3][dq:2][eq:1][gr:4]C[W 4. Failure!])
+(;B[es]LB[es:1]TR[aa]C[Diag. 2 - Failure
+
+Hane with B 1 also fails. ]
+;W[ds]LB[ds:2][es:1]
+;B[eq]LB[eq:3][ds:2][es:1]C[Even if B plays 3 ]
+;W[dq]LB[dq:4][eq:3][ds:2][es:1]
+;B[dp]LB[dq:4][eq:3][ds:2][es:1]C[then tsugi at 5, ]
+;W[fs]LB[fs:6]C[W can capture at 6.
+With this capture the 3 B stones are automatically in atari and B loses.
+Those of you who have B 1 hane as the answer have not passed the test.])
+(;B[ds]LB[ds:1]C[Diag. 3 - Correct
+
+B 1 must be hane on this side. ]
+(;W[es]LB[ds:1][es:2]C[If W 2 prevents the watari ]
+;B[eq]LB[eq:3][ds:1][es:2]C[B comes out at 3 ]
+;W[dq]LB[dq:4][eq:3][ds:1][es:2]
+;B[dp]LB[dp:5][dq:4][eq:3][ds:1][es:2]C[and connects at 5.
+Now the 5 stones are in atari and B will win.
+The hane 1, after W osae 2, helps to put the W group in damezumari.])
+(;W[gr]LB[gr:2][ds:1]C[Diag. 4 - Correct
+
+If W 2 osae in reply to B 1 ]
+;B[es]LB[gr:2][ds:1][es:3]C[B can connect at 3.
+The hane 1 aims at this watari.])))

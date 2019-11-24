@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[hp][ip][io][jr][kq][lq][ko][lo][mo][mp][mr][hr]AW[gp][gq][lr][iq]
+[ir][hs][gr][go][hn][jn][km][mm][nm][no][np][nq][nr][mq]N[096]AP[MultiGo:4.4.4]
+SZ[19]AB[hq]MULTIGOGM[0]
+
+(;C[黑棋在下边搞事的手法，也很常用。
+
+难度：☆☆]N[审题])
+(;B[ks]N[正解];W[ms];B[is];W[js];B[jq]C[黑活。])
+(;B[ks]N[变化];W[is];B[ms]C[选择本图还是正解图，是白棋的权力。])
+(;B[jq]N[失败];W[is]C[黑死。]))

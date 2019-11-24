@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[do][co][bn][bp][aq][ao][fs][fr][fq][fp]AW[cp][ep][eq][er][es][ar]
+[br]C[A]N[009]AP[MultiGo:4.4.4]SZ[19]AB[eo]MULTIGOGM[0]
+
+(;C[首先要找到进攻的第一手，然后要计算到底，看看白棋的最强抵抗是什么。黑有希望成功的选点并不多。
+
+难度：A]
+N[审题])
+(;B[dq]N[正解];W[dr];B[cr];W[cq];B[cs];W[bs];B[dp];W[ds];B[cr];W[bq];B[cs];W[ap]
+C[劫杀正解。])
+(;B[dq]LB[dr:A][cq:B]C[黑1点入，白的应手，只能是A或B]N[变化];W[cq];B[dp];W[dr];B[cs]
+;W[bs];B[cr];W[ds];B[cr];W[bq];B[cs];W[ap]C[还原到正解图。])
+(;B[cr]N[失败];W[cq];B[bs];W[cs];B[ds];W[dr]))

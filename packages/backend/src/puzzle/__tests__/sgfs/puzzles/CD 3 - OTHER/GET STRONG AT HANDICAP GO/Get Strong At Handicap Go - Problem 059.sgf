@@ -1,0 +1,55 @@
+(;
+GM[1]
+SZ[19]
+AW[gd][nc][mf][lp][mp][nq][mr][or][pq][qq][qn][ph][rh]
+AB[pj][dj][dp][pd][pp][dd][df][pf][qp][op][np][oq][no][mo][lo][jp][qj][gf]
+LB[rh:2][qj:1]
+TR[ph]
+C[Problem 59. Black to play.  
+
+When White played the marked stone in Problem 55, Black defended with the iron pillar of 1. What should he do if White jumps down with 2 ? ]
+(;B[og]
+TE[2]
+C[Correct Answer.  
+
+The diagonal move of Black 1 is severe. ]
+;W[oi]
+C[White must escape into the center with 2 ... ]
+;B[oj];W[ni]
+C[... and 4. ]
+;B[mg]
+C[Black keeps up the pressure by leaning on the white stone above with 5 ... ]
+;W[lg];B[mh]
+C[... and 7, ... ]
+;W[nj]
+C[... forcing White to run away with 8 ... ]
+;B[nk];W[mk];B[nl];W[lj]
+C[... to 12. But these moves induce Black to make a large territory on the lower left. ]
+;B[lf]
+C[Next, Black cuts at 13. ]
+;W[nf]
+C[If White extends to 14, ... ]
+;B[oh]
+C[... Black exchanges 15 ... ]
+;W[pi]
+C[... for 16, ... ]
+;B[kg]
+C[... then ataris with 17 ... ]
+;W[lh];B[li];W[kh];B[ki]
+C[... to 21. ]
+;W[jh];B[mi]
+C[After Black exchanges 23 ... ]
+;W[mj]
+C[... for 24, ... ]
+;B[kl]
+C[... Black casts a net with 25 and the white group on the right is in trouble. <= ]
+)
+(;B[ng]
+LB[og:@]
+C[Variation.  
+
+Black could also play the knight's move of 1, but it is not as decisive as the move @ in the Correct Answer. ]
+;W[oi];B[nk];W[mi];B[mg];W[lg];B[lf]
+C[Still, White is in trouble when Black cuts with 7. <= ]
+)
+)

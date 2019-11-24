@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[od][nb][mb][rb][qb][pc]AW[lb][kc][mc][nc][ne][oe][pd][qe][qc][rc]
+[sb]N[014]AP[MultiGo:4.4.4]SZ[19]AB[oc]MULTIGOGM[0]
+
+(;C[黑棋的棋形，如果是在边上不那么靠近角部，就是基本死形。现在由于靠近角部，情况有所不同。]
+N[审题])
+(;B[oa]N[正解];W[pb];B[ra]LB[sa:A]C[黑3立下。由于是在角部，白无法走A位。];W[pa]
+;B[ma]C[黑活。])
+(;B[pa]N[失败1];W[ob])
+(;B[ma]N[失败2];W[oa];B[pa];W[ob];B[pb];W[ra]))

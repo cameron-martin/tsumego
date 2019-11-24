@@ -1,0 +1,41 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][bg][cc][cg][ck][dc][dg][di][eh][fc][fh][gc]
+AW[bd][bf][ce][dd][df][ee][eg][fg][gg]PL[W]C[White to play.
+
+Endgame moves - Kill two birds with One Stone]
+(
+;W[ag]
+;B[ah]
+(
+;W[ac]
+(
+;B[ab]
+;W[ae]C[RIGHT
+])
+(
+;B[bb]
+;W[af]
+;B[bh]C[Black Disadvantage]))
+(
+;W[ae]
+;B[bh]
+;W[ac]
+;B[bb]))
+(
+;W[ac]
+;B[ab]
+(
+;W[ag]
+(
+;B[ah]
+;W[ae]C[RIGHT
+])
+(
+;B[bh]
+;W[ad]
+;B[bb]C[Black Disadvantage]))
+(
+;W[ae]
+;B[bb]
+;W[ag]
+;B[bh])))

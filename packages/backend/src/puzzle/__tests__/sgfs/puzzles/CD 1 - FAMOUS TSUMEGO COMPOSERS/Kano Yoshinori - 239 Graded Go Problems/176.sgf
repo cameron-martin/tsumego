@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[id][mc][ld][ga][jd][ke][hd][fb][lb][hc][hb][ma]GN[ ]AB[kb][ic][ib][kc][ia][ja][jc][lc][ha]PM[1]C[Problem 176. Black to play and get a ko. (2 moves)
+Black's stones will live only he can start a ko. How can Black do this?]PW[ ]
+(
+;B[la]C[Correct Answer
+Black should start a ko fight by sacrificing a stone with 1...]
+;W[ka]C[...The life or death of the black group will no depend on the outcome of this ko.]
+)
+(
+;B[ka]C[Wrong Answer
+If Black plays 1...]
+;W[md]C[...White will connect at 2. The black group now has only one eye and is unconditionally dead.]
+)
+
+)

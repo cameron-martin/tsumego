@@ -1,0 +1,11 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[jq][eq][dc][dd][jp][iq][de][db][fd][hc][nc]
+[qj][qm][cp][ep]AW[pd][qf][qp][oq][lq][cj][cm][cd][cf][cc][fc][cb][jo][ip][hp][gq]
+TR[jo]C[Black to play. White has just played the marked stone. How can Black make sabaki?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[lp]
+(;W[mq];B[ko];W[jn];B[lm]C[CORRECT Black should attach. If White extends, Black hanes forcing White to extend. Next Black jumps out with the knight's move making sabaki.])
+(;W[kp];B[kq];W[ko];B[mq];W[lr];B[mr]C[CORRECT If White tries to wedge in, Black lives on the side and White's corner enclosure has become thin.])
+(;W[ko];B[mq];W[lr];B[mr];W[mp];B[lo];W[nq];B[kp];W[km];B[lm];W[ll];B[mm];W[kl]
+;B[np]C[CORRECT White used his strongest attack, but Black manages to capture the cutting stone, and is in no danger.]))
+(;B[kp];W[ln];B[lp];W[mq]C[Black gets a heavy group which is under attack.]))

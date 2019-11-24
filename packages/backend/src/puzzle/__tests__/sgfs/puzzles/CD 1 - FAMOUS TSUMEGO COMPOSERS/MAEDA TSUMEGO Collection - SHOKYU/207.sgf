@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oo][no][np][nq][nr][or][ps][ro][qo]AW[qr][pr][oq][op][pp][qp][rr]
+N[207]AP[MultiGo:4.4.4]SZ[19]AB[po]MULTIGOGM[0]
+
+(;C[只能从外边压缩白棋的眼位，从哪边入手呢？
+
+难度：☆☆]N[审题])
+(;B[qs]N[正解];W[rs];B[sr]LB[rq:A][sq:B]C[黑3点进去破眼之后，白不活。以下，白A则黑B，白B则黑A。])
+(;B[qs]N[变化];W[rp];B[rs]C[白是死形。])
+(;B[sq]C[黑1换一侧压缩白眼位，仍是先手]N[失败];W[sr];B[qs];W[rp];B[sp];W[rs]))

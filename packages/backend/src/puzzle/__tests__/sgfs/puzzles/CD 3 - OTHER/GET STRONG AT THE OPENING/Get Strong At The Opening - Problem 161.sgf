@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[ce][dd][df][ef][cg][cn][dp][rr][rs][qq][qp][qn][rn][oj][pj][qj][jc][mc][qg][og]
+AB[cc][dc][fc][cf][dg][fq][jp][qr][pr][pq][pp][po][pn][qm][ql][ol][pi][pd][qe][nd]
+C[Problem 161. Black to play.  
+
+Black has made a moyo in the bottom that may need some tending to, but his three stones in the upper right corner are under siege. What should Black do ? ]
+(;B[fo]
+TE[2]
+C[Correct Answer.  
+
+Black must complete his moyo at the bottom by jumping to 1. The black stones at the top are not in great danger. ]
+;W[ob]
+C[The best White can do is to play 2 ... ]
+;B[pb];W[oc]
+C[... and 4, ... ]
+;B[pc]
+LB[pb:3]
+C[... but Black secures a large corner with 3 and 5. <= ]
+)
+(;B[nc]
+C[Failure.  
+
+If Black defends the upper right corner with 1 ... ]
+;W[nb];B[ob]
+C[...and 3, ... ]
+;W[hq]
+C[... White will invade with 4 and ... ]
+;B[hp];W[iq];B[ip];W[jq];B[kq];W[gq];B[gp];W[eq]
+C[... wipe out most of Black's moyo with the sequence to 12. This is a big loss for Black. <= ]
+)
+)

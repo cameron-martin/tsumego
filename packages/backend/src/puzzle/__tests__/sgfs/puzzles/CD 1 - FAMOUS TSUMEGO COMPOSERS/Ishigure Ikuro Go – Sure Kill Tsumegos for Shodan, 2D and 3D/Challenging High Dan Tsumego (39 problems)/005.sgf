@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qr][oo][no][np][nq][nr][oq][po][qo][qp][rp]AW[pq][pr][or][ms][ns]
+[qq][mr][mq][mp][mn][mo][nn][on][pn][qn][rn][so][ro]N[005]AP[MultiGo:4.4.4]SZ[19]
+AB[rq]MULTIGOGM[0]
+
+(;C[打劫就是失败。]N[审题])
+(;B[rs]N[正解];W[sr];B[pp];W[rr];B[qs];W[os];B[sq])
+(;B[pp]N[失败1];W[qs]LB[rr:A][rs:B];B[rs];W[rr];B[sr])
+(;B[sr]N[失败2];W[qs];B[rs])
+(;B[qs]N[失败3];W[pp]C[角上黑是死形。]))

@@ -1,0 +1,38 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cd][ch][db][dc][dd][dg][dh][di][eb][ed][fb][fd][fg][fh][ge][he][hf][hg][hi]
+AW[cb][cf][ci][cj][cl][df][dj][ec][ef][ei][fc][fe][ff][gb][gc][gd][gf][ic][jd]PL[W]C[White to play.
+
+Defense - Connect Underneath
+
+Source: Xuan-Xuan-Qi-Jin.]
+(
+;W[bh]
+;B[bg]
+;W[bf]
+;B[bi]
+;W[af]
+(
+;B[ah]
+;W[bc]
+;B[bd]
+;W[ad]
+;B[da]
+;W[ba]
+;B[ab]
+;W[ac]
+;B[fa]C[RIGHT
+Both Alive])
+(
+;B[bc]
+;W[ah]C[RIGHT
+]))
+(
+;W[bf]
+;B[bh]
+;W[bc]
+;B[bd])
+(
+;W[bd]
+;B[bc]
+;W[bg]
+;B[bh]))

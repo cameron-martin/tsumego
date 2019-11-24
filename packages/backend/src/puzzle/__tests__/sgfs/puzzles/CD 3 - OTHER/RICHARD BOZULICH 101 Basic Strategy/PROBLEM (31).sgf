@@ -1,0 +1,8 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[oi][df][pp][cf][de][pd][pc][ne][qi][cj][on]
+[jo][mo][lp][mp][qp][jq]AW[ln][mn][qn][nc][dq][gq][lo][dc][kc][cd][ed][ce][mk][ok]
+[qk][cl][cn]LB[ch:A][cl:1]C[Black to play. White makes a checking extension to 1, threatening to invade at A. How should Black defend?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+;B[dd]
+(;W[ec];B[cc];W[bc];B[cb];W[bb];B[bf];W[ad];B[ae];W[bd]LB[sa:A]C[Black's position is now secure, play A for tenuki]
+;B[sa];W[ch];B[ci];W[dh];B[bh]TR[bf]C[CORRECT Black should first push and cut, protecting his position. With the marked stone in place, White can't split Black's stones.])
+(;W[cc];B[ej]LB[ic:A][gc:B][ec:C]C[CORRECT Black defends against the invasion and threatens to attack at A or cut at C. A is a severe attack against the two white stones, while C threatens to capture the white stone in a ladder. If White defends against this aji at B, the cut at C is no longer available.]))

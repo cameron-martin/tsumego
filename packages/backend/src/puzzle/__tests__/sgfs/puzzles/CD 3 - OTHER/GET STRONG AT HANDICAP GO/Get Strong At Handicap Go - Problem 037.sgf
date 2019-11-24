@@ -1,0 +1,40 @@
+(;
+GM[1]
+SZ[19]
+AW[dg][fj][cl][cn][dn][en][fn][gn][hm][il][di][ei][fk][dl][ek]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][fd][dm][em][fm][gm][fp][gp][hl][hk][jj][ej][cj][fi][gi][gl]
+TR[ek]
+C[Problem 37. Black to play.  
+
+This was the position reached in Problem 34. How should Black respond after White turns with the marked stone ? ]
+(;B[cm]
+TE[2]
+C[Correct Answer.  
+
+Black should cut through with 1 ... ]
+;W[bm];B[bn]
+C[... and 3. ]
+;W[bl]
+C[Since Black is now threatening to rescue his three stones above, White must connect at 4. Next ... ]
+;B[bo]
+C[... Black draws back with 5, securing a big profit in the corner. ]
+;W[ep]
+C[Black has to be careful of the wedge-in of White 6; ... ]
+;B[dq]
+C[... Black 7 is the best response. ]
+;W[in]
+C[In the end, White has to go back and defend with 8, ... ]
+;B[eq]
+C[... while Black secures the bottom with 9. White's stones in the bottom left still have no eyes, so Black can expect to make additional gains by attacking them. <= ]
+)
+(;B[im]
+C[How the game continued.  
+
+By cutting with 1 ... ]
+;W[hn];B[jm]
+C[... and extending to 3, Black lost his chance for a big gain in the lower left corner. ]
+;W[bp]
+LB[bl:D][bn:C][bm:B][cm:A]
+C[White slid to 4 and now the sequence Black A - White B - Black C no longer works because White connects at D and the black stone at C can be captured. <= ]
+)
+)

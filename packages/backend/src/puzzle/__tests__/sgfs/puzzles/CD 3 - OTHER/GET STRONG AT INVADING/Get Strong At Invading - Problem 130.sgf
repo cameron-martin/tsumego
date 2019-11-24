@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][fd][jc][qd][qe][of]
+AB[dd][ec][df][mc][pd][qc][rc][qg][qj]
+LB[qg:1]
+TR[of]
+C[Problem 130. White to play.  
+
+After White plays the marked stone, Black attacks with 1. How does White handle this move ? ]
+;W[od]
+TE[2]
+C[Correct Answer.  
+
+Attaching at 1 is the correct move. ]
+(;B[oc];W[pe];B[pc];W[mf]
+C[White makes sabaki with the moves to 5. <= ]
+)
+(;B[pe]
+C[Variation.  
+
+If Black tries to push through with 2, ... ]
+;W[pf]
+C[... White stops him with 3. ]
+;B[pc]
+C[Black must connect with 4. ]
+;W[qf]
+C[Next, White connects at 5. This result is not at all bad for her. <= ]
+)
+)

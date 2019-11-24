@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 17. Black to play.
+Two black stones are in danger. How can Black save them?]AW[le][mf][jf][ke][lg]PB[ ]PM[1]PW[ ]AB[kf][jg][hg][kh][lf]
+(
+;B[kg]C[Correct Answer
+Black can save his two stones by connecting at 1.]
+)
+(
+;B[if]C[Wrong Answer
+If Black plays at 1...]
+;C[...White will capture two black stones with 2.]W[kg]
+)
+
+)

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[oe][re][se][nb][nc][oc][qc]AW[rc][rd][qb][pb][ob][sb]N[080]AP[MultiGo:4.4.4]
+SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[黑棋破眼的手法也也基本功。
+
+难度：☆☆]N[审题])
+(;B[ra]N[正解];W[qa];B[rb];W[oa];B[sc];W[sa];B[rb]C[白死。])
+(;B[ra]N[变化];W[oa]LB[rb:A][qa:B][sc:C]C[黑1、白2时，黑A、白B、黑C也能杀死白棋，但黑有后面的走法]
+;B[qa];W[rb];B[sd])
+(;B[sd]N[失败1];W[ra])
+(;B[oa]N[失败2];W[sd]))

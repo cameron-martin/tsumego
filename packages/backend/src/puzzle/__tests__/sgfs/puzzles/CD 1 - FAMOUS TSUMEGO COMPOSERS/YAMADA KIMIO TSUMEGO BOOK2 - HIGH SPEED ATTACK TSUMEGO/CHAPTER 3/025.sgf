@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[oe][nd][md][ld][lc][kb][ka][rb][rc][qd][qe]AW[la][lb][mc][nc][nb]
+[pd][pc][qc][qb]N[025]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[很经典的边上死活题。可以逐点计算得到正解，从你的第一感开始计算吧。]N[审题])
+(;B[qa]N[正解];W[pa];B[ob];W[oc];B[na]LB[ra:A][mb:B]C[黑5扳时，白A位提子则黑B位扑，白死]
+;W[mb];B[ra]C[白死。])
+(;B[qa]N[变化1];W[oa];B[ma];W[mb];B[oc])
+(;B[qa]N[变化2];W[ob];B[pa])
+(;B[na]N[失败1];W[oa];B[ob];W[oc];B[pa];W[qa];B[mb];W[pb])
+(;B[na]N[失败1变化];W[ob]LB[mb:A][od:B][oa:C]C[白2单平也能活。以下，黑A则白B，黑B则白C。])
+(;B[ob]N[失败2];W[oc];B[na];W[pb])
+(;B[oc]N[失败3];W[ob]))

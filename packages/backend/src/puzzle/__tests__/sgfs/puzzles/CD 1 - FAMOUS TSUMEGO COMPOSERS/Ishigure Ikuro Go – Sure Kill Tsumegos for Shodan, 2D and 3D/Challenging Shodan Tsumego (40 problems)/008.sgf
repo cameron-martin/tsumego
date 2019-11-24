@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pn][on][nn][mn][lo][lp][lq][mr][nr][rq][qp][ro]AW[mq][mp][mo][no]
+[oo][op][pp][nq][pr][qq]N[008]AP[MultiGo:4.4.4]SZ[19]AB[po]MULTIGOGM[0]
+
+(;C[走出打劫很容易，能更进一步吗？]N[审题])
+(;B[pq]N[正解];W[oq];B[rr]C[白死。])
+(;B[pq]N[变化];W[qr];B[or];W[oq];B[rr]C[白死。])
+(;B[rr]N[失败1];W[or])
+(;B[or]N[失败2];W[rr];B[sr];W[qs];B[os];W[ps];B[rs]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[dp][ep][fp][gp][gq][gr][gs][ar][bq][bp]AW[cq][dq][eq][fq][fr][fs]
+[br][bs]N[032]AP[MultiGo:4.4.4]SZ[19]AB[cp]MULTIGOGM[0]
+
+(;C[边上板六一般是活形。仔细观察，白气很紧很紧。
+
+难度：☆☆]N[审题])
+(;B[dr]N[正解];W[ds];B[cr]LB[er:A]C[白气紧，不能在A位入子，死了。])
+(;B[dr]N[变化];W[cr];B[ds]C[白是死形])
+(;B[ds]N[失败];W[dr]))

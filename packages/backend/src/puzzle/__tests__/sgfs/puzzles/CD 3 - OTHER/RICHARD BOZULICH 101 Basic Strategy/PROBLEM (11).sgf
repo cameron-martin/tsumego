@@ -1,0 +1,8 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[jp][ql][ph][pg][pm][oe][pd][jd][of][nm][om]
+[qm][fn][on][po][qo][fp][pp][fq][pq][or]AW[dp][qp][sp][ce][mq][qq][rq][eq][dc][nc]
+[pc][qc][pf][og][rm][cn][pn][rn][qn][sn][no][ro]TR[no]C[Black to play. White has just peeped with the marked stone, threatening to cut at A. Is this a forcing move? How should Black respond?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[oo];W[ko];B[km];W[jo];B[ip];W[io];B[im];W[hp];B[hq];W[jm];B[jl];W[hm];B[hl]
+;W[in];B[il];W[gm]C[If Black connects, then the marked stone has become a forcing move. White next plays a shoulder hit and escapes. Black's territory at the bottom has been wiped out.])
+(;B[kq];W[oo];B[nq]LB[mp:A][mr:B]C[CORRECT Because Black's stones are thick, Black can let White cut and attack with the diagonal move. If White cuts, Black attacks. If White A, Black can link up with B; if White B, Black A traps the white stones. Either way, White will be under attack.]))

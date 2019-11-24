@@ -1,0 +1,9 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[kp][lq][ko][jq][jr]GN[ ]AB[pq][kr][mp][nq][lp][kq][lr]PM[1]C[Problem 211. Good or bad?
+(please move one step forward to see the problem diagram...)]PW[ ]
+;B[mq]C[Black has taken a stone with 1. Is this a good or a bad move?]
+;FG[259:]LB[mq:1]PM[2]C[Black 1 Is Bad
+Black 1 is a bad move. It's not necessary for Black to play this move yet.]
+;FG[259:]AE[mq]AW[lq]PM[2]L[mq]C[For Reference
+Even if White plays at A he cannot escape, so there is no need to play a move here.]
+)

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[qp][rp][sp][ns][nr][nq][np][op]AW[sr][qr][pq][or][os]C[35]N[35]AP[MultiGo:4.4.4]
+SZ[19]AB[pp]MULTIGOGM[0]
+
+(;LB[qq:A][rs:B][oq:C]C[第35题 造成白不入子
+
+黑A则白B，黑C则白B，白都可以活出。因此需要在内部寻找急所。起初一手用第一感就可以了，但要算清白的抵抗。]
+N[审题])
+(;B[rs]C[只有首先从内部的急所黑1来攻击。黑1是凭第一感就可明白与掌握的。]N[正解]
+;W[qq]LB[rr:A][rq:B][sq:C][qs:D]C[白2为最强抵抗。对此，黑若A位冲，白B、黑C、白D，白活，如失败图1。]
+;B[qs];W[oq];B[rr];W[rq];B[sq]LB[ps:A]C[黑3爬是好手。白因不入子，不能走A位。白死。])
+(;B[rs]N[变化];W[rr];B[oq];W[qs];B[pr]C[白死。])
+(;B[rs]N[失败1];W[qq];B[rr];W[rq];B[sq];W[qs])
+(;B[rr]N[失败2];W[rq];B[rs];W[qq];B[sq];W[qs]))

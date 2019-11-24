@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 65. Black to play.
+Which white stones should Black take?]AW[ek][dl][fl][ck][dm][bl][ej]PB[ ]PM[1]PW[ ]AB[cj][cm][em][dk][dj][cl]
+(
+;B[el]C[Correct Answer
+If Black takes two white stones with 1, the two white stones in the corner cannot escape.]
+)
+(
+;B[bk]C[Wrong Answer
+If Black takes one stone with 1...]
+;C[...White plays 2 and saves two of his stones.]W[el]
+)
+
+)

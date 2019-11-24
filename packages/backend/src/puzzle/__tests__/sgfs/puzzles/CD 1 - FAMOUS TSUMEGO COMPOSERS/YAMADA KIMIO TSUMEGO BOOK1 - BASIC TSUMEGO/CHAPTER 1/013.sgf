@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[mc][nc][ne][oe][pd][qe][qc][rc][sb][ma][lb]AW[rb][qb][pc][oc][od]
+[nb][mb][oa][ra]N[013]AP[MultiGo:4.4.4]SZ[19]AB[kc]MULTIGOGM[0]
+
+(;C[本题展示基本破眼手法。]N[审题])
+(;B[pa]N[正解];W[pb];B[la]LB[na:A]C[白不能在A位落子，死。])
+(;B[la]N[失败];W[pa]))

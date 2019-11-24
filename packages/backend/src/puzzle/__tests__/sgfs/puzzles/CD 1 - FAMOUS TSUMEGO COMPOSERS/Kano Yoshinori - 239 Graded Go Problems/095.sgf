@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 95. Black to play.
+How can Black cut off the four white stones at the bottom from the ones above?]AW[fl][gk][hl][fj][dh][ci][dj][gl][ej]PB[ ]PM[1]PW[ ]AB[hm][ek][jk][cj][hk][hj][ck][il][dk][gj]
+(
+;B[fk]C[Correct Answer
+Black 1 cuts off the four white stones from the ones above and they will now die.]
+)
+(
+;C[If White Plays First
+If it is White's turn, he will connect all his stones together with 1.]W[fk]
+)
+
+)

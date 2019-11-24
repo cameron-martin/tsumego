@@ -1,0 +1,8 @@
+(;AB[rb][qb][qd][pd][oe][ne][mf][lf][ke][kd][kc][kb][jb][oa]AW[pa][pb][oc][nc][nb]
+[me][le][lc][lb]C[黑先白死
+
+次序是关键。]SZ[19]
+
+(;B[la]C[黑先白死]N[正解图1];W[ma];B[mc];W[md];B[ld])
+(;B[la]C[黑先白死]N[正解图1];W[ma];B[mc];W[ld];B[nd])
+(;B[ld]N[失败图];W[mc];B[ma];W[la];B[na];W[pc]C[至此成双活。]))

@@ -1,0 +1,45 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][bg][cb][cd][cg][dc][dg][ed][ef][ff][gd]
+AW[bh][ce][ch][cl][de][df][dh][eg][fg][gg]PL[B]C[Black to play.
+
+Endgame moves - Defend
+
+Source: Gokyo Shumyo.]
+(
+;B[af]
+;W[ah]
+;B[ag]C[RIGHT
+])
+(
+;B[be]
+;W[ag]
+(
+;B[bf])
+(
+;B[af]
+;W[ah]
+;B[bf]))
+(
+;B[ah]
+(
+;W[bf]
+;B[bi]
+;W[af]
+;B[ag]
+;W[cf]
+;B[ai]
+;W[cj])
+(
+;W[ai]
+;B[ag]
+;W[bj]
+;B[be]C[White Disadvantage]))
+(
+;B[ag]
+;W[bf]
+;B[ah]
+;W[af]
+;B[bi]
+;W[cf]
+;B[ai]
+;W[cj]))

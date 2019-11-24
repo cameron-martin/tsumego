@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dp][ep][fp][cq][fq][gq][cr][hr][ir]AB[dn][co][fo][go][cp][gp][dq][hq][iq][kq][br][dr][jr]LB[aa:1]C[Ex. 7 - Life or death 
+
+The 2 W stones in the corner are in a position to be captured.
+You will have to be very skillful to get 2 eyes on the cramped lower side.]PL[W]
+(;W[bq]LB[bq:1]C[Diag. 1 - Failure
+
+Most people would try the magari W 1, but there is a fundamental flaw in the idea. ]
+;B[cs]LB[cs:2]C[When B plays 2, ]
+;W[er]LB[er:3]C[W is too late even if he plays kosumitsuke 3. ]
+;B[bp]LB[bp:4]C[After B 4 ]
+(;W[gs]LB[gs:5]
+;B[is]LB[is:6]C[and 6, W is dead.])
+(;W[is]LB[bp:4][bq:1][er:3][cs:2][is:5]C[Diag. 2 - Failure
+
+Even if he tries this magari 5 instead, it has no effect. ]
+;B[gs]LB[bp:4][bq:1][er:3][cs:2][gs:6][is:5]C[The sequence up to B 6 ensures W's death]))
+(;W[cs]LB[cs:1]C[Diag. 3 - Correct
+
+If you want to play a lot of kikashi moves from the outside,  the general principle is to add sute ishe. W 1 sagari is an appropriate suji for this purpose. ]
+(;B[bq]LB[bq:2][cs:1]C[If B plays 2 ]
+;W[er]LB[bq:2][er:3][cs:1]C[W 3 ]
+;B[bs]LB[bq:2][er:3][bs:4][cs:1]
+;W[es]LB[bq:2][er:3][bs:4][cs:1][es:5]C[and W 5 osae are effective.]
+;B[ds]LB[bq:2][er:3][bs:4][ds:6][es:5]C[B captures 3 stones ]
+;W[gs]LB[bq:2][er:3][bs:4][ds:6][es:5][gs:7]C[When W plays 7, allowing B to capture 3 stones at 6, he has cleverly secured life.
+If you want more kikashi moves, you should increase the number of sute ishi.])
+(;B[er]LB[er:2][cs:1]C[Diag 4 - Variation
+
+By way of precaution, I will show that B's resistance in reply to W 1 sagari is not possible. ]
+;W[bq]LB[bq:3][er:2][cs:1]
+;B[fr]LB[bq:3][er:2][fr:4][cs:1]
+;W[gr]LB[bq:3][er:2][fr:4][gr:5][cs:1]
+;B[bp]LB[bp:6][bq:3][er:2][fr:4][gr:5][cs:1]
+;W[aq]LB[bp:6][aq:7][bq:3][er:2][fr:4][gr:5][cs:1]C[W wins with the sequence up to 7.])))

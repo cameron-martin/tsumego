@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 97. Black to play.
+White's position is defective. How should Black take advantage of it?]AW[bh][ek][cj][dh][dm][ei][el][ch][ej]PB[ ]PM[1]PW[ ]AB[jk][fl][fj][em][fm][fk][ij][gi]
+(
+;B[dl]C[Correct Answer
+If Black gives atari with 1, White can't escape...]
+;C[...White 2 does not help...]W[cm]
+;B[cl]C[...Black 3 drives him to the corner and eventual capture.]
+)
+(
+;L[cl]C[If White Plays First
+If it were White's turn, he would play at either 1 or A]W[dl]
+)
+
+)

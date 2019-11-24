@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][jd][nc][ld]
+AB[dd][df][pd][pf][lc][kc]
+LB[ld:2][kc:3][lc:1]
+C[Problem 35. White to play.  
+
+Black 3 is straightforward and avoids complications, but it is a bit lukewarm. How should White respond ? ]
+;W[kd]
+TE[2]
+C[Correct Answer.  
+
+White should play 1 ... ]
+;B[mc];W[md]
+C[... and 3. ]
+;B[oc]
+LB[mc:2]
+C[Black is still able to link up his stones with 2 and 4, but ... ]
+;W[nb];B[nd];W[ob]
+LB[nb:5]
+C[White keeps the pressure up with 5 and 7, ... ]
+;B[pb];W[qc];B[pc];W[ne];B[od];W[jc]
+LB[qc:9][ne:11]
+C[... enabling her to play the forcing moves of 9, 11, and 13. The result for Black is not so good as in Problem 32. <= ]
+;B[mb])
+)

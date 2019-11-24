@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ch][di][dj][ck][cl][cm][bn][co][af][bf][cf]AW[bm][bl][bk][bj][cj]
+[ci][bh][bg][ag][ah][dk]N[112]AP[MultiGo:4.4.4]SZ[19]AB[cg]MULTIGOGM[0]
+
+(;C[小心白棋的抵抗。
+
+难度：☆☆]N[审题])
+(;B[ai]N[正解];W[aj];B[bi];W[bh];B[am]C[白棋气紧，无法做眼，死。])
+(;B[aj]N[失败];W[ak];B[bi];W[am];B[ai];W[bh]C[倒脱靴，白棋活了。])
+(;B[ai]N[变化];W[bi];B[am]C[白死。]))

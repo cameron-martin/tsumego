@@ -1,0 +1,29 @@
+(;
+GM[1]
+SZ[19]
+AW[kc][od][pc][qc]
+AB[dc][ce][ic][rc][qd][re][pf]
+TR[pf][ic]
+C[Problem 37. Black to play.  
+
+Since Black has played the two marked stones, he dominates the top of the board. From this strength, where should he invade ? ]
+;B[mc]
+TE[2]
+C[Correct Answer.  
+
+Jumping into the middle of White's formation with 1 is the vital point. ]
+;W[md]
+C[If White attaches with 2, ... ]
+;B[lc];W[ld];B[kb]
+(;W[kd];B[jc]
+C[... Black links up his stones with the moves to 7. <= ]
+)
+(;W[nc]
+C[Variation.  
+
+If White settles herself with 6, ... ]
+;B[kd];W[ke];B[jd]
+LB[kd:7]
+C[... Black is more than happy to play 7 and 9. <= ]
+)
+)

@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[ed][dg][dp][oq][ra][rb][qc][pc][oc][nc][pd][mb][na][oe][nf][pf][pg]
+AB[cd][hd][po][qp][lb][mc][md][nd][od][pe][qe][qd][qf][rc][sb][sd][rh]
+TR[ra]
+C[Problem 59. Black to play.  
+
+White has just secured the corner with the marked stone. What should Black do now ? ]
+(;B[pi]
+TR[nf][oe][pf][pg]
+
+TE[2]
+C[Correct Answer.  
+
+Attacking the marked stones with Black 1 is severe. With this move, Black maps out territory on the right side. ]
+;W[lf]
+C[White must escape with 2, but ... ]
+;B[kd]
+C[... this induces Black to fix up his shape on the top with 3. White's stones are still without a base. <= ]
+)
+(;B[lf]
+C[Failure.  
+
+Black 1 is the wrong direction. ]
+;W[pi]
+C[White forces Black ... ]
+;B[qj];W[pj];B[qk];W[pk];B[ql]
+C[... to crawl along the third line up to 7. ]
+;W[li]
+C[She then jumps to 8 in good style. Black's position at the top is still defective. <= ]
+)
+)

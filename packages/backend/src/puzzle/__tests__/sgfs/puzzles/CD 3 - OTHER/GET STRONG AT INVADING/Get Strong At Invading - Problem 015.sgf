@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[jd][lc][nd][oc][pc]
+AB[dd][hc][ld][pd][qc][qd][pf]
+TR[pc][oc]
+C[Problem 15. Black to play.  
+
+Having played the marked stones, White returns to attach at 1. How should Black reply ? ]
+(;B[kc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the vital point. ]
+;W[kd];B[mc];W[lb];B[md];W[mb];B[jc]
+C[The exchange continues up to 7 and the white stones have become separated. Moreover, the white group at the top is still not completely alive. <= ]
+)
+(;B[mc]
+C[Unsatisfactory.  
+
+If Black hanes on the other side with 1, ... ]
+;W[md];B[kc];W[lb];B[kd];W[kb]
+C[... White can make life at the top up to 6 ... ]
+;B[jc]
+C[... in sente. <= ]
+)
+)

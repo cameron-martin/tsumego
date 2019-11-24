@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qf][pd][oe][nf][nd][md][lc][kc][kb][mb][rb][rc][rd]AW[lb][la][na]
+[mc][nc][oc][od][qd][qc][qb][ra]N[085]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[压缩眼位貌似不行，但需要计算确认。从棋形上看，白气比较紧，黑角上不存在接不归。]
+N[审题])
+(;B[pa]N[正解];W[qa];B[ob];W[nb];B[pc])
+(;B[pa]N[变化];W[pb];B[nb];W[ob];B[qa])
+(;B[pc]N[失败1];W[pb];B[qa];W[pa])
+(;B[ka]N[失败2];W[ma];B[oa];W[nb];B[pb];W[pc];B[qa];W[pe];B[sa];W[ob]))

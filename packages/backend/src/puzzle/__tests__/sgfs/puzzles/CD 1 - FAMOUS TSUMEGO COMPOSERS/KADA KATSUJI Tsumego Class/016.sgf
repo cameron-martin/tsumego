@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[co][do][dp][an][cm][dm][en][fn][gp][gq][gr][eq][ap]AW[bq][bp][cp]
+[dq][ep][eo][dn][cn][cr]C[B]N[016]AP[MultiGo:4.4.4]SZ[19]AB[bo]MULTIGOGM[0]
+
+(;C[本题很有趣味，开动脑筋吧。
+
+难度：B]N[审题])
+(;B[ar]N[正解];W[aq];B[dr];W[er];B[br];W[ao];B[cq]C[循环劫杀白。])
+(;B[ar]N[变化1];W[er];B[br]C[白提子后也无法成活。])
+(;B[ar]N[变化2];W[br];B[er];W[aq];B[dr])
+(;B[dr]N[失败];W[er]C[已经是劫了];B[ar]C[黑3再点就迟了];W[br]LB[aq:A]C[白4当然不会再应在A位。
+
+劫。]))

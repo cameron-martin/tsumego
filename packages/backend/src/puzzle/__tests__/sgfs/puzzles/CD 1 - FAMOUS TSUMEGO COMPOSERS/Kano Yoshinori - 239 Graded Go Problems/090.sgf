@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 90. Black to play.
+How should Black play so as to capture two white stones?]AW[fj][fi][hh][ij][ii][gi]PB[ ]PM[1]PW[ ]AB[jj][hk][hi][ik][ji][gj]
+(
+;B[ih]C[Correct Answer
+Giving atari at 1 guarantees the capture of two white stones.]
+)
+(
+;B[hj]C[Wrong Answer
+Giving atari with 1 here...]
+;C[...lets White save his two stones by connecting at 2.]W[ih]
+)
+
+)

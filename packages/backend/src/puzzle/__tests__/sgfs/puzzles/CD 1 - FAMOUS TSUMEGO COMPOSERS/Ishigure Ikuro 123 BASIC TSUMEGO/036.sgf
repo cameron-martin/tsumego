@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[sc][rd][sd][qe][pe][oe][ne][md][ld][kc][jc][jb][ja][mb][lb][qb]AW[ka]
+[kb][la][ma][na][lc][mc][nc][pb][pc][qc][rc]N[036]AP[MultiGo:4.4.4]SZ[19]AB[rb]
+MULTIGOGM[0]
+
+(;LB[od:A][pa:B]C[黑A则白B，白活了。计算吧。]N[审题])
+(;B[nd]N[正解];W[od];B[pd];W[oc]LB[pa:A]C[接下来，黑A扳也能杀死白];B[oa];W[nb];B[pa]
+C[白死。])
+(;B[nd]N[变化];W[nb];B[oc])
+(;B[pa]N[失败1];W[od];B[oa];W[nb];B[ob];W[qa])
+(;B[oa]N[失败2];W[nb];B[pa];W[od];B[ob];W[qa]))

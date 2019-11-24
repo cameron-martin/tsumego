@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][dd][cf][cg][cn][dp][nq][mr][ns][or][pr][qq][qc][qd][qf][rf][jd][ke][jf][lg]
+AB[dg][di][fq][lq][mq][np][pp][pn][pc][pd][pe][og][qh][db][fc][ic][id][ie][je]
+TR[jd][ke][jf][lg]
+C[Problem 27. Black to play.  
+
+White has played lightly with the marked stones. How should Black attack them ? ]
+(;B[li]
+TE[2]
+C[Correct Answer.  
+
+Capping with Black 1 is the best way to attack. ]
+;W[jh];B[jj]
+C[White will probably live, but, even if she does, Black will build a large moyo below while attacking, and White will get minimum territory. <= ]
+)
+(;B[kd]
+C[Failure.  
+
+If Black cuts at 1, ... ]
+;W[ld]
+C[... White ataris at 2 and ... ]
+;B[kc];W[le];B[lc];W[jh]
+C[... makes eye shape with the sequence to 6. White will now have no trouble making a living group in the center and Black has no prospects of making a moyo. <= ]
+)
+(;B[kf]
+TR[jd][ke]
+C[Failure.  
+
+Black can capture the two marked stones by cutting at 1, but ... ]
+;W[kg];B[lf];W[mf];B[le];W[me]
+C[... White can force with the sequence to 6, then ... ]
+;B[ld];W[nh]
+LB[md:A]
+C[... make shape with the knight's move of 8. White should have no trouble getting eyes for her group. It is now her privilege to play at A and Black's three stones at the top are in danger of being cut off. <= ]
+)
+)

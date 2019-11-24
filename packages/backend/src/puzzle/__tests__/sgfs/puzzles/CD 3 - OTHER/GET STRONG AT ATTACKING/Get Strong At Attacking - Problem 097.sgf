@@ -1,0 +1,36 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][gc][dj][cn][dp][po][pn][qn][qj][oj]
+AB[cc][fq][jp][op][pq][qp][qo][qh][qd][od][kc]
+TR[cc]
+C[Problem 97. White to play.  
+
+Black invades the corner with the marked stone. How should White respond ? ]
+;W[cd]
+TE[2]
+C[Correct Answer.  
+
+White should block at 1 and build a moyo in the upper left. ]
+;B[dc];W[ec];B[eb];W[fb];B[ed]
+C[After Black exchanges 6 ... ]
+;W[fc]
+C[... for 7, ... ]
+;B[bd];W[be];B[bc];W[cf]
+(;B[db]
+C[... Black lives in the corner with the sequence to 12, but ... ]
+;W[ee]
+LB[mc:A]
+C[... White gets a thick position after playing 13. Since she is thick on the left side, White can now aim to invade at A. <= ]
+)
+(;B[ee]
+LB[db:@]
+C[Variation.  
+
+Instead of @ in the preceding diagram, Black might first extend to 12 ... ]
+;W[df];B[db]
+C[... before connection at 14. ]
+;W[ff]
+C[Next, White traps the two black stones with 15. <= ]
+)
+)

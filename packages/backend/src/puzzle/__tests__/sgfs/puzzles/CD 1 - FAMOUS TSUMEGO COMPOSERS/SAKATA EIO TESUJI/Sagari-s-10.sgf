@@ -1,0 +1,47 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cl][cn][co][eo][ep][fq][br][cr][fr][hr][es]AB[dp][bq][cq][eq][dr][er][ds]C[Ex. 10 - Life or death
+
+You are to prevent 2 eyes in the corner and to destroy the single eye in the centre. Also a stone must be played at the vital point.]PL[W]
+(;W[cp]LB[cp:1]TR[aa]C[Diag. 1 - Failure
+
+Frankly, W 1 to take away the eye in the centre is useless ]
+;B[ar]LB[cp:1][ar:2]C[after B 2 hane. ]
+(;W[bs]LB[bs:3]C[If W 3, ]
+;B[bp]LB[bp:4][cp:1][ar:2][bs:3]C[with B 4]
+;W[bo]LB[bo:5][bp:4][cp:1][ar:2][bs:3]
+;B[ap]LB[bo:5][ap:6][bp:4][cp:1][ar:2][bs:3]C[and 6 B easily gets another eye.
+If Black plays osae 4 instead of 3, needless to say B gets life with 3.
+
+])
+(;W[bp]LB[bp:3][cp:1][ar:2]C[If W plays osae 3 ]
+;B[bs]LB[bp:3][cp:1][ar:2][bs:4]C[needless to say B gets life with 4 ]))
+(;W[ar]LB[ar:1]C[Diag. 3 - Correct
+
+W 1 sagari is a tesuji. ]
+(;B[cp]LB[cp:2][ar:1]C[If B keeps the eye in the centre with 2 ]
+;W[aq]LB[cp:2][aq:3][ar:1]C[W 3 is a good move ]
+;B[bo]LB[bo:4][cp:2][aq:3][ar:1]C[and if B 4 ]
+;W[bn]LB[bn:5]
+;B[ap]LB[bn:5][bo:4][ap:6][cp:2][aq:3][ar:1]C[and B 6 ]
+;W[an]LB[an:7][bn:5][bo:4][ap:6][cp:2][aq:3][ar:1]C[W 7 sagari wins the semeai.
+W 1 is the vital point to prevent the 2 eyes in the corner, then the magari 3 aims at connection, thus diverting B's attention and skillfully finding a suji to bring about a semeai.
+If you cannot see move 3 you can never play it.])
+(;B[bo]LB[bo:2][ar:1]C[Diag. 4 - Variation
+
+If B 2 in response to W 1,]
+;W[cp]LB[bo:2][cp:3][ar:1]C[Then by the sequence W 3 up to W 11 B dies]
+;B[bp]LB[bo:2][bp:4][cp:3][ar:1]
+;W[bn]LB[bn:5][bo:2][bp:4][cp:3][ar:1]
+;B[ao]LB[bn:5][ao:6][bo:2][bp:4][cp:3][ar:1]
+;W[aq]LB[bn:5][ao:6][bo:2][bp:4][cp:3][aq:7][ar:1]
+;B[cs]LB[bn:5][ao:6][bo:2][bp:4][cp:3][aq:7][ar:1][cs:8]
+;W[bs]LB[bn:5][ao:6][bo:2][bp:4][cp:3][aq:7][ar:1][bs:9][cs:8]
+;B[fs]LB[bn:5][ao:6][bo:2][bp:4][cp:3][aq:7][ar:1][bs:9][cs:8][fs:10]
+;W[an]LB[an:11][bn:5][ao:6][bo:2][bp:4][cp:3][aq:7][ar:1][bs:9][cs:8][fs:10]C[because W has one eye and he has none.]))
+(;W[bp]LB[bp:1]C[Diag. 2 - Failure
+
+W1 kosumitsuke fails too. ]
+;B[ar]LB[bp:1][ar:2]C[After B 2 hane, ]
+;W[bs]LB[bp:1][ar:2][bs:3]C[W3, ]
+;B[cp]LB[bp:1][cp:4][ar:2][bs:3]C[and B4, B easily lives.]))

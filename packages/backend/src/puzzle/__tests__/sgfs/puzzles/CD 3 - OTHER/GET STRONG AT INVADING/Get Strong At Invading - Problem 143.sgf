@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[db][fc][hc][jc][qf][pf][qj]
+AB[cc][dd][df][lc][nd][pd][qe]
+C[Problem 143. White to play.  
+
+Black's position here is much tighter. Where should White invade ? ]
+(;W[nb]
+TE[2]
+C[Correct Answer.  
+
+Invading with 1 is a good move. ]
+(;B[pb]
+C[If Black defends the corner with 2, ... ]
+;W[mc];B[md];W[lb]
+LB[mc:3]
+C[... White links up with 3 and 5. <= ]
+)
+(;B[mc]
+C[Variation.  
+
+If Black prevents White from linking up on the left by playing 2, ... ]
+;W[qc]
+LB[mc:2][nb:1]
+C[... White plays on the 3-3 point with 3. With the exchange of 1 for 2 in place, this is an effective move. <= ]
+))
+(;W[qc]
+TE[2]
+C[Correct Answer.  
+
+A direct invasion here is also possible. <= ]
+)
+)

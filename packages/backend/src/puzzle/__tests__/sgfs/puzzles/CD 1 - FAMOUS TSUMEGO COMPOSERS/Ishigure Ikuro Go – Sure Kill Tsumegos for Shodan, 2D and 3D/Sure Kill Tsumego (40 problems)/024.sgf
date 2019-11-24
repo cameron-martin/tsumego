@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pp][rp][ro][rn][qn][pn][on][nn][mo][mp][mq][mr][nr][os][sq][qq]AW[nq]
+[np][no][oo][po][qo][qp][rq][rr][oq][or][pr]N[024]AP[MultiGo:4.4.4]SZ[19]AB[pq]
+MULTIGOGM[0]
+
+(;LB[ps:A][qs:B]C[黑A、白B，这样的攻杀肯定不行，必须另觅它途。]N[审题])
+(;B[qs]N[正解];W[qr];B[rs];W[ps];B[sr]C[白死。])
+(;B[qs]N[变化];W[ps];B[qr];W[ns];B[sr])
+(;B[sr]N[失败1];W[qs];B[rs];W[ss])
+(;B[rs]N[失败2];W[qs];B[sr])
+(;B[ps]N[失败3];W[qs];B[sr];W[ns];B[rs]))

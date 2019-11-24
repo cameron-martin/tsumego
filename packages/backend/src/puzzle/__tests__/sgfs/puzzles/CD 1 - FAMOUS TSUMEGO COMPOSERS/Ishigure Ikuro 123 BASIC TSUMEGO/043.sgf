@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[lc][mc][nc][oc][ob][od][pd][qd][rd][sd][re][pe][qf]AW[qg][rf][sf]
+[pg][ne][og][oe][nd][ld][kd][kc][lb][mb][nb][oa][pa][pb][rc][se][ng][rg]N[043]AP[MultiGo:4.4.4]
+SZ[19]AB[pf]MULTIGOGM[0]
+
+(;LB[qb:A][rb:B]C[黑的选择，只能是A或B。]N[审题])
+(;B[rb]N[正解];W[qc];B[qb];W[pc]C[黑1至白4是必然的进行];B[sb]LB[sc:A][na:B]C[黑5立下冷静，白不能走A位，那样黑B位扑，白接不归]
+;W[na];B[sc]C[黑活。])
+(;B[rb]N[变化];W[qc];B[qb];W[pc];B[sc];W[sb];B[sa];W[qa]C[黑死。])
+(;B[qb]N[失败];W[rb]C[黑1、白2交换后，不可能出棋了];B[ra]C[作为例子，看看黑3扳吧]
+;W[qc];B[pc];W[sb]C[黑死。]))

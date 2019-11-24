@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[po][oo][no][mo][mq][lq][kq][kr][ls][pq][rs][rr][rq][rp]AW[lr][mr]
+[nq][np][op][pp][or][qq][qr][qs]N[025]AP[MultiGo:4.4.4]SZ[19]AB[qo]MULTIGOGM[0]
+
+(;LB[ns:A]C[黑A位点是容易想到的，但这是正确的吗？这可以作为计算的入手点。或者，相信你的第一感。]
+N[审题])
+(;B[pr]C[黑1冲是先手]N[正解];W[ps];B[ns]C[白死。])
+(;B[pr]N[变化];W[oq];B[ns]C[白2从另一侧叫吃，一样是徒劳。白死。])
+(;B[ns]N[失败1];W[os];B[pr];W[nr]C[黑1点、3冲的次序错误，白活。])
+(;B[qp]N[失败2];W[pr]C[黑缺少计算。]))

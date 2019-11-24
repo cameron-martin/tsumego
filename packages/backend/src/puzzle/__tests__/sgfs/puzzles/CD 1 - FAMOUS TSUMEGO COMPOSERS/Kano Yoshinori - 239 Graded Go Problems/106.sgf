@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 106. Black to live.
+Black to play and live.]AW[im][fh][ei][dj][di][gl][gh][dl][hk][hj][hi][hh][il][dm][dk]PB[ ]PM[1]PW[ ]AB[ek][gk][hl][fi][fm][em][gm][el][fk][gj][ej][gi]
+(
+;B[hm]C[Correct Answer
+If Black plays 1, all of his stones are alive.]
+)
+(
+;B[fl]C[Wrong Answer
+If Black takes a stone with 1...]
+;C[...White plays at 2 and all the black stones are dead.]W[hm]
+)
+
+)

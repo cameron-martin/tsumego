@@ -1,0 +1,7 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[qg][qm][pp][dc][nk][kc][jc][hd][fd][bj][bh]
+[dj][cg][dm][jp][pf][pe][pd][pc][oc][ob]AW[ce][de][cp][kd][qj][oj][nj][mj][eq][cm]
+[cn][bi][ch][bg][dh][ef][nc][pb][qb][qc][qe][qd]C[Black to play. How should Black attack the four white stones in the middle of the right side?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[mh];W[kj];B[kh]C[CORRECT Black attacks the White group while building a moyo at the top.])
+(;B[oq];W[mg]LB[nb:A]C[If Black secures the bottom right corner, White will jump neutralizing Black's thickness at the top. A white move at A next will put the seven black stones under attack.]))

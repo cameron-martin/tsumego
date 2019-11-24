@@ -1,0 +1,74 @@
+(;
+AB[qd][qe][od][oc][ob][na][la][ka][jb][jc][jd][je][jf][jg][mc][lc][ld][le][ne][mf][nf][of][og][ng][mg][lg][nh][rg][qh][pi][ok][mk][mj][ki]
+AW[nb][mb][lb][kb][kc][kd][ke][kf][kg][jh][ig][lh][mh][ni][oh][pg][pf][oe][nd][md]
+C[Black plays.
+
+Source:
+    Igo Hatsuyo-ron #68a:  300 year old problem set for
+    student professionals.
+Analysis:
+    Myron Souris];
+B[kh]
+C[Otherwise, White plays here to escape.]
+(;
+W[lf]
+C[Forced.];
+B[nc]
+C[Forced];
+W[me];B[mf]
+(;
+W[ne];B[ng]
+(;
+W[nf];B[mg]
+(;
+W[lg];B[pe]
+C[White has only 1 eye.]
+)
+    (;
+    W[og];B[pe]
+    )
+)
+    (;
+    W[mg];B[nf]
+    C[And no matter where White plays, Black can create a dead shape.]
+    (;
+    W[oi];B[oj]
+    C[White has only 1 eye.]
+    )
+        (;
+        W[ph];B[qi]
+        C[Good enough.]
+        )
+    )
+)
+    (;
+    W[mg];B[nf]
+    (;
+    W[ng];B[of]
+    C[And White can only make one eye in the center.]
+    )
+        (;
+        W[ne];B[ng]
+        C[Transposes.  White has only 1 eye.]
+        )
+    )
+    (;
+    W[ng];B[ne]
+    (;
+    W[nf];B[mg]
+    C[White only has 1 eye.]
+    )
+        (;
+        W[mi];B[oi];W[mg];B[nf]
+        C[White only has 1 eye.]
+        )
+    )
+)
+    (;
+    W[nc]
+    C[Fails.];
+    B[ma]
+    C[And White dies immediately due to a shortage of liberties.]
+    )
+)
+

@@ -1,0 +1,11 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[go][gp][eq][fq][hq][er][hr][es]AB[ep][fp][dq][gq][dr][gr]C[Diag. 4 - Reference
+
+Another example where kosumi is essential.
+]
+;B[fs]LB[fs:1]C[After B 1 kosumi 
+]
+;W[hs]LB[fs:1][hs:2]
+;B[ds]LB[ds:3][fs:1][hs:2]C[ comes 3.
+A play at any other point than this 1 fails.])

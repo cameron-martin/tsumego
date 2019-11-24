@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[pd][od][nd][mc][lc][lb][la][qa][sb][rc]AW[mb][nb][oc][pb][qb][rb]
+[ra]N[056]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[ma:A][oa:B]C[黑走A、B都不行，很容易计算。因此，把目光集中在别处吧。]N[审题])
+(;B[pc]N[正解];W[ma];B[oa];W[pa];B[ob];W[na];B[ob])
+(;B[nc]N[失败];W[ma];B[oa];W[pa];B[ob];W[na];B[ob];W[pc];B[oa];W[nb]C[失败图]))

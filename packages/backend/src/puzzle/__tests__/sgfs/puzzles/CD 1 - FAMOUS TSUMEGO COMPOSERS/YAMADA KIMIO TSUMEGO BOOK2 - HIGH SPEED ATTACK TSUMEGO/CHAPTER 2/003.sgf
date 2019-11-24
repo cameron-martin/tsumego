@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qd][pd][od][nd][md][lc][kc][kb][rb][rc]AW[la][lb][mc][nc][ob][pc]
+[qc][qb]N[003]AP[MultiGo:4.4.4]SZ[19]AB[pb]MULTIGOGM[0]
+
+(;C[白气紧。
+空间很小，选点不多。]N[审题])
+(;B[oc]N[正解];W[pa];B[nb];W[mb];B[na];W[oa];B[ra]C[计算的关键是5、7两手。
+
+白死。])
+(;B[oc]N[变化1];W[mb];B[na];W[pa];B[nb];W[oa];B[ra])
+(;B[oc]N[变化2];W[na];B[mb])
+(;B[na]N[失败];W[nb]))

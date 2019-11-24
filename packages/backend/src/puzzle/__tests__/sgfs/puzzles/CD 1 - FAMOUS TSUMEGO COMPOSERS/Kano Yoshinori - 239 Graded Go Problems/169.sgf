@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][ek][fj][fc][cl][gj][hm][ie][cm][hl][hk][ja][ck][he][jd][fb][jc][dk][jb][fa][fd]GN[ ]AB[gb][ic][ia][gm][hd][fk][gl][gc][id][dl][ib][gk][ga][dm][el]PM[1]C[Problem 169. Black to play and White to play. (1 move)
+What happens in these positions if Black moves first? White first?]PW[ ]
+(
+;B[hb]C[If Black Plays First
+If Black plays 1 in the upper position...]
+;B[fm]C[...and 3 in the lower position, he makes two eyes and lives.]
+)
+(
+;W[hb]C[If White Plays First
+If it's White's turn, White 1 in the upper position...]
+;W[fm]C[...and White 3 in the lower position kills the black groups.]
+)
+
+)

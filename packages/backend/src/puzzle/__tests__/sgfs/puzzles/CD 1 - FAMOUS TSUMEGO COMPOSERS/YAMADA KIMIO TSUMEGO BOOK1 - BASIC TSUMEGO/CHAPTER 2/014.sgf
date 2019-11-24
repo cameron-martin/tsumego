@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[nc][nd][oe][pe][qd][rd][qf][pb][nb]AW[ob][oc][pd][qc][qb][rc]N[014]
+AP[MultiGo:4.4.4]SZ[19]AB[mb]MULTIGOGM[0]
+
+(;LB[oa:A]C[先要搞清楚黑A位渡过会出现什么状况。]N[审题])
+(;B[sb]N[正解];W[sc];B[oa]C[白死。])
+(;B[oa]N[失败];W[pa];B[qa];W[ra];B[sb];W[pa]C[劫。])
+(;B[oa]N[失败变化];W[pa];B[qa];W[ra];B[sb];W[pc];B[sc];W[pa];B[rb]C[白死。]))

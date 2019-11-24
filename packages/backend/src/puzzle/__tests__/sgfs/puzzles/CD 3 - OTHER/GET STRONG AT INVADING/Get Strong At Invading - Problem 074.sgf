@@ -1,0 +1,31 @@
+(;
+GM[1]
+SZ[19]
+AW[db][fc][ic][qj][rc][rd][qc][pc][pb][ob][od]
+AB[cc][dd][df][cj][nb][oc][nc][mc][pd][qd][qf][re]
+LB[oe:8]
+C[Problem 74. White to play.  
+
+Black has omitted 8 in the Correct Answer of Problem 71. How should White continue ? ]
+;W[oe]
+TE[2]
+C[Correct Answer.  
+
+White first exchanges 1 ... ]
+(;B[pf]
+C[... for 2, ... ]
+;W[me]
+C[... then jumps to 3. Black is now separated into two weak groups. <= ]
+)
+(;B[le]
+C[Failure.  
+
+If Black jumps to 2, ... ]
+;W[pf]
+C[... White attaches at 3. ]
+;B[qe]
+C[If Black 4, ... ]
+;W[qg]
+C[... White 5 captures the black stones on the right. <= ]
+)
+)

@@ -1,0 +1,40 @@
+(;
+GM[1]
+SZ[19]
+AW[ed][gf][kd][nd][nc][pp][po][pq][oq][or][kp][cq][cr][dp][do][dj]
+AB[dc][cd][df][if][id][oc][pd][pf][pr][qr][qq][qn][qp][nq][dq][eq]
+TR[ed][gf]
+C[Problem 89. Black to play.  
+
+How should Black attack the two marked stones ? ]
+(;B[hh]
+TE[2]
+C[Correct Answer.  
+
+Attacking with the knight's move of Black 1 is the correct direction. ]
+;W[gh];B[gi];W[fh];B[hi];W[dh]
+C[After White 6, ]
+;B[ic]
+LB[fe:A]
+C[... Black makes an iron pillar at 7, aiming at A as well as the three white stones on the right. <= ]
+)
+(;B[ei]
+C[Failure.  
+
+Black 1 is not a good move because it doesn't have a good follow-up. ]
+;W[hg]
+C[After White escapes into the center, ... ]
+;B[ej]
+C[... Black exchanges 3 ... ]
+;W[dl]
+C[... for 4, ... ]
+;B[ek]
+C[... then extends to 5. ]
+;W[ig]
+TR[id][if]
+C[White extends to 6 and the two marked stones are under siege. ]
+;B[dk]
+LB[jf:A]
+C[If Black tries to press his advantage on the left side, White can take control of the top with A. <= ]
+)
+)

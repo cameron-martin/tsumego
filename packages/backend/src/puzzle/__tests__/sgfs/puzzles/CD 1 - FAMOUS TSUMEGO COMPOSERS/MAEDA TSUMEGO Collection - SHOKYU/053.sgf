@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pd][pe][pf][qf][rf][sb][rc][qc]AW[rg][qg][pg][og][ri][of][oe][od]
+[oc][pb][qb][rb]N[053]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[本题与角上特性无关，是边上基本死活。
+
+难度：☆☆]N[审题])
+(;B[rd]C[黑1在有扳的一方曲是要领]N[正解];W[qe];B[sc];W[se];B[sf];W[re]C[黑活。])
+(;B[rd]N[变化];W[sc];B[qe];W[se];B[sf])
+(;B[re]N[失败];W[sf]))

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pc][qc][qd][rc][ob]AW[rd][re][qe][pd][od][nd][nc][nb][rb]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[oc]MULTIGOGM[0]
+
+(;C[审题：紧带钩。]N[审题])
+(;B[sb]N[正解];W[qb];B[ra];W[qa];B[oa];W[sa];B[sc]C[万年劫是正解。])
+(;B[sb]N[变化1];W[ra];B[qb]C[黑活。])
+(;B[sb]N[变化2];W[qb];B[qa]C[黑3是在松气带钩时才成立的手段，紧带钩没有这种走法]
+;W[pa];B[ra];W[sa];B[ra];W[oa]LB[pb:A]C[由于气紧，黑A位不能入子。]))

@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[pn][mp][pp][qq][rr]AB[jp][nq][pq][qr]
+;B[qp]CR[qp]
+;W[rq]CR[rq]
+;B[po]CR[po]
+;W[op]CR[op]
+;B[np]CR[np]
+(;W[oo]CR[oo]
+;B[no]CR[no]
+;W[on]CR[on]
+(;B[nn]CR[nn]C[this is one good way to finish the driving tesuji])
+(;B[oq]CR[oq])
+(;B[pr]CR[pr]))
+(;W[oq]CR[oq]
+;B[oo]CR[oo]))

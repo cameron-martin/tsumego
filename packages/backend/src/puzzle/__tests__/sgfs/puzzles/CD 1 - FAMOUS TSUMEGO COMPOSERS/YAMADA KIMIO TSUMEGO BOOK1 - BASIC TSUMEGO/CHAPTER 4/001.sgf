@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[pd][od][ne][me][le][kd][jd][jc][jb][ja][mb][rb][rc]AW[kb][lb][kc]
+[ld][md][nd][oc][nb][pc][pb][qb]N[001]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;TR[mb]C[简单的死活题。黑一子必须渡过，但如何渡过呢？]N[审题])
+(;B[ma]C[黑1立下，冷静]N[正解];W[la];B[ka];W[lc];B[nc]C[白死。])
+(;B[la]N[失败];W[ma];B[na];W[oa];B[ka];W[qa]))

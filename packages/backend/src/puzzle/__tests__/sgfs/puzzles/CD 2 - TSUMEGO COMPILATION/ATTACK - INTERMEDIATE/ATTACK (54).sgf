@@ -1,0 +1,34 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cb][cc][cg][dd][ec][ee][fe]
+AW[bb][bc][cd][cf][de][ef]PL[B]C[Black to play.
+
+Attack - Seize Opponent's Base
+
+Source: YikiruGo Shinbyo.]
+(
+;B[be]
+(
+;W[bf]
+;B[ce]
+;W[df]
+;B[bd]
+;W[ff]C[RIGHT
+])
+(
+;W[ce]
+;B[bf]
+;W[bd]
+;B[dg]
+;W[df]
+;B[di]C[RIGHT
+]))
+(
+;B[bd]
+;W[ce]
+;B[dg]
+;W[df])
+(
+;B[dg]
+;W[df]
+;B[be]
+;W[bf]))

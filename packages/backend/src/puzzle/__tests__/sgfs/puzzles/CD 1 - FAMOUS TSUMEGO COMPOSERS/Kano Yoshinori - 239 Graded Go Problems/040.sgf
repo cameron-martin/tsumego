@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 40. White to play.
+(Please move one step forward to see the problem diagram...)]AW[hg][fh][fe][ik][dd][ce][df][eg][hj][ed][ji][gi][ih][gf]PB[ ]PM[1]PW[ ]AB[cd][ff][gg][ii][ef][fg][gh][cc][dc][de][hi][hh][ij][ee]
+;B[fd]C[Black plays double atari with 1. How should White respond?]
+(
+;C[Correct Answer
+If White takes ten stones with 2, there is no longer a double atari on the white stones.]W[jj]
+)
+(
+;C[Wrong Answer
+If White runs away with 2 to save his two stones...]W[ec]
+;B[ge]C[...Black captures with 3 and ten black stones are no longer in atari.]
+)
+
+)

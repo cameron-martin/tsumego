@@ -1,0 +1,32 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][be][bf][bg][cd][db][dc]
+AW[bc][bh][cc][ce][cf][cg][ci][dd][ed][fb][fd]PL[W]C[White to play.
+
+Capturing stones - Sacrificing Stones]
+;W[ab]
+(
+;B[bb]
+;W[cb]
+;B[ba]
+;W[ca]
+;B[ad]
+;W[da]
+;B[ea]
+;W[aa]
+;B[ac]
+;W[eb]
+;B[bb]
+;W[ec]
+;B[ba]
+;W[ab]C[RIGHT
+])
+(
+;B[ad]
+;W[bb]
+;B[cb]
+;W[ag]
+;B[ba]
+;W[af]
+;B[ca]
+;W[ac]C[RIGHT
+Handle 5]))

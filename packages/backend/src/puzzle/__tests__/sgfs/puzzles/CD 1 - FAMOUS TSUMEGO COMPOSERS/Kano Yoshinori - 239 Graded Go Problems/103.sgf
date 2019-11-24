@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 103. Black to play.
+How does Black play to kill the white stones?]AW[gd][gb][ib][ja][fc][hc][ha][fd]PB[ ]PM[1]PW[ ]AB[ie][kb][eb][ge][ed][ec][he][jd][fb][fe][jc][jb]
+(
+;B[hd]C[Correct Answer
+Black 1 kills all of the white stones.]
+)
+(
+;B[ka]C[Wrong Answer
+If Black plays 1 here...]
+;C[...this will allow White to play 2 and his stones are alive.]W[hd]
+)
+
+)

@@ -1,0 +1,46 @@
+(;
+AB[qd][pd][me][ld][ke][lf][jf]
+AW[lb][jc][jd][je][if][he]
+C[Black's response to the marked White move?
+Source:
+   The Endgame, Chap. 5, pp. 80-81
+   Tomoko Ogawa & James Davies, Ishi Press]
+TR[lb]
+(;
+B[mc]
+C[Failure.];
+W[nb]
+C[White simply jumps out ahead of
+Black toward the corner.]
+)
+    (;
+    B[mb]
+    C[Inferior.];
+    W[mc];
+    B[lc];
+    W[nb];
+    B[kb];
+    W[ma];
+    B[kc];
+    W[pb]
+    C[White lives in the upper right, and
+Black will probably not be able to do
+as much damage to White's upper
+left area. ]
+    )
+    (;
+    B[nb]
+    C[Correct.]
+    (;
+    W[mb];
+    B[nc]
+    C[And Black completes his defense.]
+    )
+        (;
+        W[mc]
+        C[If White tries to slip past Black...];
+        B[nc]
+        C[Black can seal off White.]
+        )
+    )
+)

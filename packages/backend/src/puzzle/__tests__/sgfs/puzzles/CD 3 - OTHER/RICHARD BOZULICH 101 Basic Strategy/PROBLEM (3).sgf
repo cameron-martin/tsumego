@@ -1,0 +1,10 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[pd][ph][qh][qi][qm][qp][rp][oq][pq]AW[dd][pi]
+[pj][qj][pm][qn][qo][dp][pp]C[Black to play. Black has a weakness. Where is it and how can Black eliminate it?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[pc]C[CORRECT It is urgent for Black to close off the corner and prevent White from invading.])
+(;B[cj];W[qc]
+(;B[qd];W[pc]
+(;B[oc];W[ob];B[nc];W[rd];B[re];W[rc]C[Splitting White's position on the left side is a big move, but White will invade. If Black blocks, his stones will become overconcentrated.])
+(;B[nc];W[nb];B[mc];W[oc];B[od];W[mb];B[lc]LB[rd:A][re:B][rc:C]C[It is better for Black to choose this joseki because White A - Black B - White C is no longer sente.]))
+(;B[pc];W[qd];B[qe];W[re];B[rf];W[qf];B[pe];W[rg];B[pf];W[sf];B[jc]LB[rj:A]C[It is better for Black to block from the other side and take the side extension. However this sequence is still inferior to the correct answer because White has taken the corner territory and White's stones below are immune from attack, since White A threatens to connect.])))

@@ -1,0 +1,95 @@
+(;
+AB[pc][qd][pf][md][cp][iq][pq][oo]
+AW[dd][eq][ld][me][ne][oc][po][qq]
+TR[qq]
+C[Black's response to the marked stone?
+
+Source:
+    "Go World", #29, Autumn 1982, pp. 53-58.]
+(;
+B[op]
+C[Correct.
+Black emphasizes the bottom and treats
+the right side lightly.];
+W[pn];
+B[on];
+W[pm];
+B[qr];
+W[qp];
+B[dq]
+C[With sente Black attacks the lower left stone.
+Black's lone lower center stone becomes both
+an excellent extension and pincer.];
+W[ep];
+B[dn];
+W[ho];
+B[jp];
+W[jo];
+B[ko];
+W[jn];
+B[gq];
+W[fo];
+B[dl]
+C[Black has solid territory at the bottom,
+good shape on the left, and a White group
+to attack.]
+)
+    (;
+    B[pn]
+    C[Poor judgement.];
+    W[pp];
+    B[op];
+    W[oq];
+    B[pr];
+    W[qr]
+    (;
+    B[ro];
+    W[or];
+    B[qp];
+    W[ps];
+    B[pq];
+    W[lq]
+    C[Now the Black lower middle stone has less
+use as a pincer and no use as an extension.]
+    )
+        (;
+        B[nq]
+        C[Closing off White on this side does not
+give Black full value for his sacrificed stones.];
+        W[or];
+        B[nr];
+        W[ps];
+        B[on];
+        W[rn]
+        C[And Black cannot keep White out of the
+right side.]
+        )
+    )
+    (;
+    B[pp]
+    C[A fighting move that does not work as
+well as the correct move.];
+    W[qp];
+    B[qo];
+    W[pn];
+    B[ro];
+    W[pr];
+    B[qr];
+    W[rr];
+    B[rq];
+    W[qs];
+    B[rp];
+    W[qr];
+    B[nq];
+    W[or];
+    B[on];
+    W[pm];
+    B[ql];
+    W[mq];
+    B[op];
+    W[nr]
+    C[White links up and again Black's lower
+middle stone is again made much less
+effective.]
+    )
+)

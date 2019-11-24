@@ -1,0 +1,20 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 49. White to play.
+(Please move one step forward to see the problem diagram...)]AW[dc][ck]PB[ ]PM[1]PW[ ]AB[jj][jd]
+;B[dj]C[Where does White answer Black 1?]
+(
+;C[Correct Answer 1
+White 2 here or White 2 in Correct Answer 2 are the best moves.]W[cj]
+)
+(
+;C[Correct Answer 2
+White 2 here or White 2 in Correct Answer 1 are the best moves.]W[dk]
+)
+
+(
+;C[Wrong Answer
+If White plays at 2 or in another corner...]W[de]
+;B[dk]C[...Black 2 puts White at a disadvantage.]
+)
+
+)

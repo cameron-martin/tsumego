@@ -1,0 +1,60 @@
+(;
+AB[cm][em][bn][cn][en][fn][ao][fo][go][ho][io][jo][bp][cp][fp][jp][cq][fq][jq][cr][hr][jr][gs][hs][js]
+AW[bl][cl][dl][el][gl][bm][fm][gn][hn][in][jn][bo][co][do][ko][dp][kp][dq][eq][gq][hq][iq][kq][er][fr][gr][ir][kr][es][is][ks]
+C[Black plays.
+
+Source:
+    Qi Jing Zhong Miao #493, an ancient collection of mostly kyu level life and death problems.
+
+Analysis:
+    Myron Souris
+
+This kind of semeai problem, in which both sides have an internal eye and shared freedoms, is more an exercise in simple logic than tedious reading.  To win, Black simply creates a bigger eye in the corner than White's at the bottom.  After that, Black fills all but 1 of the shared internal freedoms, captures the corner stones, and then ruthlessly fills White's remaining liberties.]
+(;
+B[bs]
+C[First, Black threatens 2 eyes!];
+W[ar];B[ap]
+C[Black forms a 5-point eye, while White only forms a 4-point eye.  Even a seki is hopeless for White.];
+W[ds]
+C[For example ...];
+B[cs];W[br];B[an];W[aq];B[dn];W[bq];B[dr];W[am];B[eo];W[dm];B[ep];W[ip];B[gp];W[];B[as];W[ar];B[hp];W[fs];B[hs];W[bq];B[hr]
+C[And Black wins the semeai.]
+)
+    (;
+    B[cs]
+    C[Fails.  White can now force a seki.];
+    W[ap];B[aq];W[br];B[an];W[ar]
+    (;
+    B[bs]
+    C[Black must settle for a 4-point eye to prevent White from forming an eye in the corner.  Black and White's eyes are the same size.  Translation:  seki.]
+    )
+        (;
+        B[ap]
+        C[Black makes the fatal mistake of letting White form an eye in the corner.];
+        W[bs]
+        C[Now Black must eventually capture the corner stones, after which Black is 1 move behind in the semeai.];
+        B[dn]
+        C[For example ...];
+        W[am];B[eo];W[dm];B[ep];W[ip];B[gp];W[hp];B[bq]
+        C[Black must capture to postpone a shortage of liberties.];
+        W[dr];B[as];W[br];B[ds];W[fs];B[hs];W[bs]
+        C[But Black still winds up 1 move behind.]
+        )
+    )
+    (;
+    B[ap]
+    C[Also fails.  White can force another seki.];
+    W[bs]
+    C[White takes the key point.];
+    B[cs];W[br];B[ar]
+    C[Black cannot let White form an eye in the corner.];
+    W[bq]
+    LB[aq:A]
+    C[And eventually Black must connect with A to form a 4-point eye.  A seki results.];
+    B[am]
+    C[For example ...];
+    W[al];B[an];W[dm];B[dn];W[ip];B[eo];W[hp];B[ep];W[gp];B[];W[dr];B[aq]
+    C[Seki]
+    )
+)
+

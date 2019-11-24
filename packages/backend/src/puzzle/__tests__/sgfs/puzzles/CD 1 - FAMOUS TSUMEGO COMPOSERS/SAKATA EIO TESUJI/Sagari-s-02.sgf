@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[hp][ip][cq][dq][fq][gq][jq][kq][er][gr]AB[hn][jo][dp][ep][fp][gp][jp][eq][hq][hr]C[Ex. 2 - Strategem 
+
+You are to find a loophole within the W group.
+The 2 B stones are not yet completely captured.]
+(;B[iq]LB[iq:1]C[Diag. 1 - Failure
+
+B cannot win with a move such as the immediate cut. ]
+;W[ir]LB[iq:1][ir:2]C[After W 2 kakae he has put a noose around his own neck])
+(;B[gs]LB[gs:1]C[Diag. 2 - Failure
+
+The ate-at-all-costs type of move, B 1, is too aimless. ]
+;W[fr]LB[fr:2][gs:1]C[After W 2 tsugi it is unreasonable to expect anything further.])
+(;B[hs]LB[hs:1]C[Diag. 3 - Correct
+
+You will probably recognise this immediately under the previous heading of "kosumi, Ex 18", but there the sagari B 1 is not given its full scope. ]
+(;W[fr]LB[fr:2][hs:1]C[There is no alternative to tsugi W 2, ]
+;B[iq]LB[iq:3][fr:2][hs:1]C[Then when B cuts at 3 he can gobble up the 2 W stones.
+You should learn the calm way of playing sagari B 1 within the opponent's group])
+(;W[iq]LB[iq:2][hs:1]C[Diag. 4 - Variation 
+
+If W 2 tsugi here in reply to B 1 sagari, 
+]
+;B[fr]LB[iq:2][fr:3][hs:1]C[B 3 ]
+;W[fs]LB[iq:2][fs:4][hs:1]
+;B[gs]LB[iq:2][fs:4][gs:5][hs:1]C[and B 5 win the 3 W stones by an oi otoshi.
+The points in this diagram and the previous one are miai.])))

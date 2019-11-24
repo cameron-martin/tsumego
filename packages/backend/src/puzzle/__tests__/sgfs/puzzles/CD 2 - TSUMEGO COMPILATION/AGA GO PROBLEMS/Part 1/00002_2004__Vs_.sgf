@@ -1,0 +1,39 @@
+(;
+AB[ah][bh][ai][aj][ak][al][bl][cl][dl][dh][ch]
+AW[ag][bg][cg][dg][eg][eh][ei][ej][ek][el][em][dm][cm][bm][am]
+C[Black plays.
+Source:  Unknown.  Does anyone know?]
+(;
+B[bj]
+C[The only move!];
+W[cj];
+B[dj]
+C[Again, the only move.
+Isn't Go amazing?]
+(;
+W[dk];
+B[ck];
+W[di];
+B[ci]
+)
+    (;
+    W[ck];
+    B[dk];
+    W[ci];
+    B[di]
+    )
+)
+    (;
+    B[dj]
+    C[Fails.];
+    W[bj]
+    (;
+    B[cj];
+    W[dk]
+    )
+        (;
+        B[dk];
+        W[di]
+        )
+    )
+)

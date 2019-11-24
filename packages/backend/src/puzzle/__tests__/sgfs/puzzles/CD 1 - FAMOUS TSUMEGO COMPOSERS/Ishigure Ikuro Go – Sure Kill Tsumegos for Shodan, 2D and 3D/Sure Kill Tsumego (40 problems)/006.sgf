@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pr][pp][qo][oo][mp][mq][mr][qq][rq]AW[nq][oq][pq][qr][rr][ps]N[006]
+AP[MultiGo:4.4.4]SZ[19]AB[sq]MULTIGOGM[0]
+
+(;C[空间小，选择少。]N[审题])
+(;B[rs]N[正解];W[sr];B[os];W[or];B[ns])
+(;B[rs]N[变化];W[sr];B[os];W[ns];B[qs])
+(;B[os]N[失败];W[ns];B[qs];W[or]LB[ps:A]C[白4时，黑走其他地方，让白在A位提子，白都将成活]
+;B[ps]C[接上会如何？];W[rs];B[sr];W[ps]C[白活。]))

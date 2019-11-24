@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[rp][ro][rn][sn][rs][nr][nq][np][op][pp]AW[qr][rq][sp][so][pq][oq]
+[or][os]C[66]N[66]AP[MultiGo:4.4.4]SZ[19]AB[qp]MULTIGOGM[0]
+
+(;TR[rs][pq]LB[qs:A]C[第66题 成劫争为最佳结果
+
+从第65题可知，黑△点时，白A位应是不行的。白▲扩大地域是好手。
+
+还要想办法走成劫争。]
+N[审题])
+(;B[sr]N[正解];W[sq]C[黑1尖是角上二二处的急所，白2只得接上，别无其他抵抗办法。]
+;B[qq];W[rr];B[qs]C[劫。])
+(;B[qq]N[变化];W[rr];B[sr]C[黑1、3的次序也可，刚好与正解的次序交换了一下。];W[sq]
+;B[qs])
+(;B[rr]C[一般情况下，是从黑1挤开始攻击，但本题不行。]N[失败1];W[qq];B[sq];W[sr]
+C[白活。])
+(;B[sq]N[失败2];W[sr];B[rr];W[qq]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qf][pg][nf][mf][me][nd][ld][lc][lb][la][rc][rd][qd]AW[mb][mc][md]
+[ne][oe][od][oc][qc][qb]N[003]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[显然，慢慢从外侧压缩白的眼位已经来不及了，必须占据眼形的急所。]N[审题])
+(;B[ob]N[正解];W[ma]C[黑1点，白2阻渡];B[pc];W[pb];B[oa]C[现在成为黑二子与白三子的对杀，轮到白走。
+
+黑有4气，白只有3气，对杀白负。等等，白占据角上的有利位置对对杀没有帮助吗？这就需要计算了。]
+;W[rb];B[sb];W[nb]LB[ra:A]C[白8如果走A位，仍然无济于事];B[ra]C[白死。])
+(;B[ob]N[变化];W[na];B[nb];W[nc];B[ma];W[pb];B[oa]LB[pc:A]C[由于白需要在A位走子，因此没有办法在角上做出眼来。])
+(;B[rb]N[失败];W[ob]))

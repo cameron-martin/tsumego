@@ -1,0 +1,17 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 2. HOW TO SAVE ENDANGERED STONES
+
+Problem 71. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[ek][fj][dh][dj][di][dg][gi][ef]PB[ ]PM[1]PW[ ]AB[ge][eg][fi][ed][gg][ei][ej][gh][eh]
+;C[How should Black answer White 1?]W[fg]
+(
+;B[fh]C[Correct Answer
+Black should play at 2, saving his five stones that are in atari.]
+)
+(
+;B[ff]C[Wrong Answer
+If Black plays any other move...]
+;C[...White will capture five black stones with 3.]W[fh]
+)
+
+)

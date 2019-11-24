@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[re][qf][pe][oe][od][nc][nb][lb][pb][qd]AW[qc][pc][oc][ob][pd][sd]
+[rc]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;C[审题：两种杀法，都要找出。]N[审题])
+(;B[sb]LB[sc:A][oa:B]C[黑1点时，白不能A位粘，否则黑B渡过，白就死了。]N[正解1];W[rb]
+LB[oa:A][qa:B]C[白2挡后，黑A则白B，白活。];B[qa];W[oa];B[sc]C[白死。
+这种杀法很潇洒。])
+(;B[oa]N[正解2];W[pa];B[qa];W[ra]LB[qb:A]C[白4走A位打的变化类似];B[sb];W[qb];B[pa]
+;W[na];B[pa]C[白死。]))

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qd][qb][pb][ob][pc]AW[qc][rc][re][qe][pe][oe][ne][nc][oc][nb]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[审题：不难的题目，仔细一点就能得到正解。]N[审题])
+(;B[rd]C[冲是必然的一手]N[正解];W[sd];B[sb]C[黑3要紧];W[sc];B[rb];W[se];B[oa]C[黑活])
+(;B[rd]N[失败1];W[sd];B[rb];W[sb];B[sc];W[rc]C[黑死])
+(;B[rb]N[失败2];W[rd];B[sb];W[oa]C[黑缺少计算]))

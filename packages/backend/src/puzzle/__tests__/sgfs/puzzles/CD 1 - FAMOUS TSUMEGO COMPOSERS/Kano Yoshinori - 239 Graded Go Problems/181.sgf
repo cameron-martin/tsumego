@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ie][gd][id][gb][kc][ga][he][jc][fb][gc]GN[ ]AB[eb][ic][ge][ec][fe][hd][hc][jb][hb][ha][fd]PM[1]C[Problem 181. White to play. (3 moves)
+How does White play so as to capture five black stones?]PW[ ]
+(
+;W[ia]C[Correct Answer
+The sequence White 1...]
+;B[ib]C[...]
+;W[kb]C[...followed by White 3 is the correct answer. White will capture seven stones on the next move.]
+)
+(
+;W[kb]C[Wrong Answer
+If White plays 1...]
+;B[fc]C[...Black will play 2 and capture five white stones on the next move.]
+)
+
+)

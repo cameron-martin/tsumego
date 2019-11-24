@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pp][po][oo][no][nq][oq][pr][qq]AW[qr][qs][rr][rq][rp][qo][qn][pn]
+[nn][mn][mo][ko][mq][lq][nr][kr]N[034]AP[MultiGo:4.4.4]SZ[19]AB[qp]MULTIGOGM[0]
+
+(;LB[np:A][or:B]C[黑走A位肯定不行。那么黑走B位行吗？算清楚了B位的变化之后，就能得到正解。]
+N[审题])
+(;B[mr]C[黑1断是好手]N[正解];W[lr];B[or];W[ms];B[np]C[黑活。])
+(;B[mr]N[变化];W[np];B[ms]LB[ns:A][or:B]C[黑1断时，已经算到了3位立下的手段。黑3走A或B均不行。])
+(;B[np]N[失败1];W[or]C[黑缺乏计算。])
+(;B[or]N[失败2];W[np];B[mr];W[ps]C[白4冲，黑在下边做不出眼来。]))

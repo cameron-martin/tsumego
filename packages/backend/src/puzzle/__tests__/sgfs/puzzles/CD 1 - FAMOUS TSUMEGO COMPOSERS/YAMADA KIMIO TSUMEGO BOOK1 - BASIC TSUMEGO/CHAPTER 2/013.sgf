@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nd][md][mf][kf][je][jd][jc][jb][ja][ka][rb][rc][qc][pc]AW[kb][kc]
+[la][ld][mc][nc][ob][pb][qb]N[013]AP[MultiGo:4.4.4]SZ[19]AB[oc]MULTIGOGM[0]
+
+(;LB[lb:A]C[A位有打吃，这可以作为计算的入手点。另外，就是白的气很紧。]N[审题])
+(;B[mb]N[正解];W[lb];B[nb];W[lc];B[qa]C[白死。])
+(;B[mb]N[变化];W[ma];B[nb];W[lc];B[qa])
+(;B[na]N[失败1];W[mb];B[kd];W[lc];B[ma])
+(;B[na]N[失败1变化];W[ma];B[kd])
+(;B[lb]N[失败2];W[ma];B[mb];W[na]))

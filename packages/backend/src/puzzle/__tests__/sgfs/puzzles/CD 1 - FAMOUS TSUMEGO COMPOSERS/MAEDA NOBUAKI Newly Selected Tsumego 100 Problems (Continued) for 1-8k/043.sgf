@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[ne][md][ld][lc][lb][rc][qc][qe][oe]AW[mb][mc][nd][od][pc][qb][rb]
+[sb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[审题：毫无疑问，黑棋必须点进去，从外围缩小眼位是不行的。]N[审题])
+(;B[ob]C[黑1点是急所]N[正解];W[pb];B[na]C[黑3尖又是手筋];W[oc];B[ma];W[pa];B[ra]
+C[仔细看，没有接不归，白死。])
+(;B[ob]N[变化1];W[pb];B[na];W[ma];B[nc];W[oc];B[la])
+(;B[ob]N[变化2];W[nb];B[pb]C[黑3断后，杀气吃掉白。]))

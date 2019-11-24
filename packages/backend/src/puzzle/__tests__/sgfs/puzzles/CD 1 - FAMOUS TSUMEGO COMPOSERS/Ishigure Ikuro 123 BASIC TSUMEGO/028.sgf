@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[rf][qg][pg][og][ng][nf][me][md][mb][nb][pe][qa][rb][rc][rd]AW[ob]
+[pa][qb][qc][pd][od][of][pf][qf][qe]N[028]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;C[计算吧，抓住白形的弱点。]N[审题])
+(;B[pc]LB[qd:A]C[黑1，瞄着A位的双打]N[正解];W[pb];B[nd]LB[oc:A][oe:B]C[黑3顶，这样A、B见合]
+;W[oe];B[oc];W[nc];B[oc]C[白死。])
+(;B[pc]N[变化];W[qd]LB[nd:A]C[白2时，黑可走A位];B[oc]C[黑3直接冲也行];W[nc];B[nd]
+C[白死。])
+(;B[oc]C[黑1挖貌似手筋]N[失败1];W[pc]LB[nc:A]C[白2不能在A位打];B[nc]LB[nd:A]C[黑3也不能走A位，只能粘。黑必须粘，否则白在3位提子，边上成眼。]
+;W[ra];B[oe];W[ne]C[白活。])
+(;B[nd]N[失败2];W[oe]))

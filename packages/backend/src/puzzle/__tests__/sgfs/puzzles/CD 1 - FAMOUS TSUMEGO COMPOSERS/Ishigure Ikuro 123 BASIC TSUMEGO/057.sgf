@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[rb][rc][qd][pd][od][nc][nb][pf][of][nf][mf][le][ke][je][jd][jc][jb]
+[ja][ka]AW[mb][ma][na][oa][oc][pc][qc][nd][ne][kb][kc][kd][ld][lb]N[057]AP[MultiGo:4.4.4]
+SZ[19]AB[la]MULTIGOGM[0]
+
+(;N[审题])
+(;B[mc]LB[md:A]C[黑1是先手，A位冲能够回家]N[正解];W[md];B[qa]C[黑3尖是手筋];W[pa]
+;B[pb]C[白死。])
+(;B[pb]N[失败1];W[qb])
+(;B[pb]C[黑1走这里如何？]N[失败1变化];W[ob]C[黑期待的是白2位应];B[mc];W[md];B[qb]
+C[这样白死，但这是黑的一厢情愿。])
+(;B[md]N[失败2];W[mc];B[me];W[ob];B[nc];W[qb]))

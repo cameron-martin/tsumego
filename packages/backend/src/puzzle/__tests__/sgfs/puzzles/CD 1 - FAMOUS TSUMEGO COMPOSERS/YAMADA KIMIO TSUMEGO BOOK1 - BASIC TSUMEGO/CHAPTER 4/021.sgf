@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qf][pf][of][nf][me][le][lc][kc][kb][qa][qb][rb][rc][rd]AW[mb][nc]
+[pb][pa][qc][qd][pe][oe][ne]N[021]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;C[从外侧压缩白的眼位，貌似不能成功。]N[审题])
+(;B[pc]N[正解];W[oc];B[ob];W[pd];B[oa];W[pc];B[nd]C[白死。])
+(;B[pc]N[变化];W[ob];B[na]LB[oc:A][ma:B]C[黑3点，以下白A则黑B，白做不出两眼];W[ma]
+;B[pd])
+(;B[ob]N[失败];W[pc]C[黑棋的进攻难以为继。]))

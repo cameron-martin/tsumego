@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qe][pf][og][ng][mg][lf][le][ld][lc][lb][mc][qb][qc]AW[mb][nb][pb]
+[pc][nd][md][me][nf][mf][oe]N[006]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[nc:A][pd:B]C[A、B都是黑的先手。]N[审题])
+(;B[pd]LB[oc:A]C[黑1冲时，白走A位不行，可自行演算]N[正解];W[od];B[pa];W[nc];B[ob]
+C[白死。])
+(;B[pd]N[变化];W[nc];B[od];W[of];B[oc];W[ob]C[二线四子，如果轮到对手走的话，是没有眼的]
+;B[pa])
+(;B[nc]N[失败1];W[oc])
+(;B[pa]N[失败2];W[oa];B[pd];W[oc]C[黑1、3次序搞反了之后，白4就可做活。];B[od];W[nc]))

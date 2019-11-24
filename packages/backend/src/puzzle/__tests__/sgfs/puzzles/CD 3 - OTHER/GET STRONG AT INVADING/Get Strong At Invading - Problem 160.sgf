@@ -1,0 +1,57 @@
+(;
+GM[1]
+SZ[19]
+AW[dp][fp][oq][qp][qb][qc][pd][pe][oc][of]
+AB[dc][ce][dj][cn][pg][pf][qh][qe][qd][rc][kc]
+C[Problem 160. Black to play.  
+
+There are a lot of point where you can invade, but any invasion you make should take into account White's thickness on the right. ]
+(;W[hd]
+LB[hb:A]
+
+TE[2]
+C[Correct Answer.  
+
+Playing on the fourth line with White 1 is the best move. With a high move, escaping will be easy. For Black to try to link up at A would be submissive, so it is out of the question. ]
+(;B[ke]
+C[Black's best course is to jump out with 2. ]
+;W[hf]
+C[However, White also jumps into the center with 3 ... ]
+;B[kg];W[hh]
+C[... and 5, and Black's moyo is erased. <= ]
+)
+(;B[hf]
+C[Variation.  
+
+Black might cap with 2 intending to build a moyo at the top. ]
+;W[jd]
+C[However, White replies with the shoulder hit at 3 and ... ]
+;B[kd];W[je];B[ke];W[jf];B[lg];W[jh]
+LB[hf:2][lg:8][ke:6][kd:4]
+C[... escapes into the center with the moves to 9. Black's wall of 4, 6, and 8 is now neutralised by White's wall on the right and, with White's thickness in the center, Black 2 has failed to increase the size of his moyo on the left. <= ]
+))
+(;W[ic]
+C[Failure. A deep invasion with White 1 is dubious. ]
+(;B[ie];W[jd];B[nd]
+LB[ie:2]
+C[After Black 2 and 4, which hit White at her vital points, you will probably agree that the momentum of the game is in Black's favour. ]
+;W[ne]
+LB[nd:4]
+C[For example, if White answers 4 with 5, ... ]
+;B[nc];W[ob];B[me]
+C[... the sequence will continue up to 8. Black clearly has the advantage. <= ]
+)
+(;W[ee]
+C[Failure.  
+
+White 1 here is also a bad move, ... ]
+;B[fd]
+C[... because Black can answer with the knight move at 2, eliminating his thinness on the upper side. <= ]
+)
+(;B[gc]
+LB[ic:1]
+C[Variation.  
+
+Another way for Black to refute White 1 is to play 2 in response. This is a good move because it is in the right direction from the corner enclosure. <= ]
+))
+)

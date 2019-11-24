@@ -1,0 +1,50 @@
+(;
+GM[1]
+SZ[19]
+AW[db][ec][fd][fe][dd][de][df][ef][dg][co][pp]
+AB[cb][bc][dc][cc][cd][ce][dq][ep][qj][pd]
+C[Problem 111. Black to play.  
+
+White has a very thick position at the top left. Black wants to counter this thickness. What is the best move for him to do this ? ]
+(;B[mc]
+TE[2]
+C[Correct Answer.  
+
+The large knight's move of black 1 is the ideal extension. In does not approach White's thickness too closely, yet it does not allow White to make a full extension from it. ]
+;W[kc]
+C[White 2 is as far as White can extend, but ... ]
+;B[kd]
+C[... Black will attach with 3. ]
+;W[jd];B[ke];W[lc];B[md]
+LB[jd:4][kc:2][lc:6]
+C[White's stones at 2, 4, and 6 do not fully utilise her thickness, so they are not working efficiently. <= ]
+)
+(;B[jc]
+C[Failure.  
+
+Black 1 is too near to White's thickness. ]
+;W[lc]
+C[White will take the initiative by invading at 2. ]
+;B[je];W[le];B[jg];W[lg]
+LB[lc:2][le:4]
+C[White now gets influence facing the right with the stones at 2, 4, and 6. <= ]
+)
+(;B[kc]
+C[Failure.  
+
+If Black 1 here, ... ]
+;W[mc]
+C[... White will invade at 2. <= ]
+)
+(;B[lc]
+C[A bit dangerous.  
+
+Black 1 is also a bit thin because ... ]
+;W[nc]
+C[... White can invade at 2. ]
+;B[nd]
+C[If Black next attaches at 3, ... ]
+;W[od]
+C[... White 4 is a good counterattack. <= ]
+)
+)

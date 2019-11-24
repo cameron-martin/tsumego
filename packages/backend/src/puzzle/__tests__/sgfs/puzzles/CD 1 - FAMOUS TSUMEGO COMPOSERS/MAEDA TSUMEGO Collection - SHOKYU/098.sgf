@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[cp][co][do][dm][fn][hn][hp][hq][jq][dq][eq]AW[cq][dp][ep][fp][fq]
+[fr][bq]N[098]AP[MultiGo:4.4.4]SZ[19]AB[cr]MULTIGOGM[0]
+
+(;C[黑两子已经被吃住。但是，白棋真的活了吗？
+
+难度：☆☆]N[审题])
+(;B[br]N[正解];W[dr];B[aq];W[er];B[dq]C[白无法做出两眼。])
+(;B[bp]N[失败];W[br]C[黑缺少计算。哪怕是收官子也不能这么走啊。]))

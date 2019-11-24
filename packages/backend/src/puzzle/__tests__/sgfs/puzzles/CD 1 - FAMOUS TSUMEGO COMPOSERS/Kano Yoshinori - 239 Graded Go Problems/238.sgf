@@ -1,0 +1,13 @@
+
+(;GM[1]SZ[19]AP[GOWrite:2.0.07]FF[4]L[pe][na]C[Problem 238. Which is bigger?
+Which is the bigger point, A or B?]PB[ ]AW[og][md][mf][la][lb][lc][pf][pg][ma][mg][qg][rg][me][ng]FG[259:]GN[ ]AB[nc][pa][mc][qd][qc][qf][mb][rb][of][qe][od][rf][pb][oc][nd][ne][pc][sf][nf]PM[1]PW[ ]
+(
+;B[na]C[Correct Answer
+Black 1 is the correct answer. If it were White's turn to play, this is where he would play too.]
+)
+(
+;B[pe]C[Wrong Answer
+If Black plays at 1, he gains one point less than the move in the correct answer.]
+)
+
+)

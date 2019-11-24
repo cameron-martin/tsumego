@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[mp][mq][mr][ro][qo][po][pp]AW[ns][nr][nq][oq][pq][rp]N[198]AP[MultiGo:4.4.4]
+SZ[19]AB[np]MULTIGOGM[0]
+
+(;C[白角空虚。
+
+难度：☆☆]N[审题])
+(;B[qq]N[正解];W[qr];B[rr];W[rq];B[sr];W[qp];B[sp])
+(;B[rr]LB[qq:A][rq:B]C[黑1先点也行。以下白若A则黑B。]N[变化];W[rq];B[qq];W[qr];B[sr]
+C[还原到正解])
+(;B[rq]N[失败];W[rr];B[sr];W[qq];B[sp]))

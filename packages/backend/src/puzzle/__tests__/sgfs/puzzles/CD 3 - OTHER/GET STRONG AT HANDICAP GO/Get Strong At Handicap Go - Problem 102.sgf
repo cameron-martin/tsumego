@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[qf][fc][fq][lq][qn]
+AB[dp][pd][pp][dd][mc][cg][cm][np]
+LB[qf:1][mc:2][fc:3][cg:4][fq:5][cm:6][qn:7][np:8][lq:9]
+C[Problem 102. Black to play.  
+
+After 9, White's stones are widely spaced, while Black's are tight and strong. What should Black do next ? ]
+(;B[pj]
+TE[2]
+C[Correct Answer.  
+
+Since Black's stones are strong relative to White's, Black should invade the right side with 1 and ... ]
+;W[rp];B[qq];W[pl]
+LB[qq:3][rp:2]
+C[... let White settle her stones with 2 and 4, because Black also settles his stones in the corner by occupying the important 3-3 point with 3. ]
+;B[qd]
+C[Next, Black defends the top right corner with 5, aiming at the white stone. White is not making any territorial gains: she is only struggling to keep her stones alive. <= ]
+)
+(;B[dq]
+C[How the game continued.  
+
+Black 1 was passive - it ran away from the real scene of battle. ]
+;W[oq]
+C[White took the opportunity to settle her stones at the bottom ... ]
+;B[op];W[pr];B[pk];W[qq];B[qp];W[rp];B[ro];W[rq]
+C[... with the sequence to 10, ... ]
+;B[qo];W[on];B[pm];W[pn];B[rm]
+C[... while Black settled his position on the right side with 15. White ended in sente and her group of three stones still had aji. <= ]
+)
+)

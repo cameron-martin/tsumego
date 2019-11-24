@@ -1,0 +1,13 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[dc][dn][dk][dp][ce]GN[ ]AB[fq][pp][pj][pd][jp]PM[1]C[Problem 235. Black to play.
+Where should Black make his next move? (There is more than one correct answer.)]PW[ ]
+(
+;B[jd]L[jc][ic][id]C[Correct Answer
+In a position such as this, extending along the side is the usual way to play. Instead of Black 1, playing at A, B or C would also be good.]
+)
+(
+;W[jc]L[pg][pm][mp]C[For Reference
+Playing on such points as A, B, or C is not good. White takes the big point on the side first and has the advantage.]
+)
+
+)

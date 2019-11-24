@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pc][ob][od][md][nd][le][ke][jd][ic][ib][rb][rc]AW[kb][lc][nb][nc]
+[oc][pb][qb]N[014]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;LB[qa:A][oa:B][mc:C][la:D]C[黑A则白B，白活。重点考虑B、C、D三点吧。]N[审题])
+(;B[oa]N[正解];W[na];B[mc]C[黑3先冲一下是次序];W[mb];B[la];W[ka];B[lb];W[ma];B[lb]
+;W[la];B[kc]C[白死。])
+(;B[oa]N[变化];W[mb];B[la])
+(;B[oa]N[失败1];W[na];B[la];W[mc];B[ka];W[ja];B[jb];W[lb])
+(;B[mc]N[失败2];W[mb];B[oa];W[la]))

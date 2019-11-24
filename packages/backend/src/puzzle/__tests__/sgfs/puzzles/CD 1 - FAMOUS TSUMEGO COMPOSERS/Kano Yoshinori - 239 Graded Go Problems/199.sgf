@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[df][dc][be][fi][ci][ei][di][ef][ce][cc]GN[ ]AB[ff][de][ed][ec][cf][dd][cg]PM[1]C[Problem 199. Black to play.
+How does Black catch two white stones?]PW[ ]
+(
+;B[eg]C[Correct Answer
+Black 1 here also catches White in a net. The two white stones cannot escape.]
+)
+(
+;B[ee]C[Wrong Answer
+Black 1 fails...]
+;W[eg]C[...White escapes by playing at 2.]
+)
+
+)

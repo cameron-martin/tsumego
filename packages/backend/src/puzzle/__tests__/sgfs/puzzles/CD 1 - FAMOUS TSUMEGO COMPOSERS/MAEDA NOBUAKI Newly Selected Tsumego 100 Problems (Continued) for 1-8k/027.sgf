@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[nc][oc][pc][qc][rb][ra][mb]AW[rc][qd][re][od][nd][md][ld][lc][lb]
+[ma][nb][sb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[mc]MULTIGOGM[0]
+
+(;C[审题：空间实在有限，黑棋必须动点脑筋。]N[审题])
+(;B[na]N[正解];W[oa];B[pa];W[la];B[ob];W[na];B[qb]C[黑活。刚好两眼。])
+(;B[na]N[变化];W[oa];B[pa];W[pb];B[ob];W[qa];B[qb]C[没有劫。黑活。])
+(;B[ob]N[失败];W[na]C[黑棋做眼的空间不够，死了。]))

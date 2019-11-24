@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[op][nq][mq][mr][kr][rs][sq][rq][qq][qo]AW[nr][or][pq][qr][qs][rr]
+[sr]C[14]N[14]AP[MultiGo:4.4.4]SZ[19]AB[pp]MULTIGOGM[0]
+
+(;C[第14题 次序很重要
+
+想无条件杀白，要求走出好次序来。]N[审题])
+(;B[ns]N[正解];W[os];B[pr]C[先黑1扳，缩小白的眼位。白2应必然。这时黑3再扑入，这里的一眼被夺走了。])
+(;B[pr]N[失败];W[oq];B[ns];W[ps]C[如不掌握手筋的话，白就无条件活出了。]))

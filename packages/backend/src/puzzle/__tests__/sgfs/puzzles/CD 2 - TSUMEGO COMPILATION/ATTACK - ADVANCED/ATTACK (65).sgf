@@ -1,0 +1,32 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[df][dh][di][dj]
+AW[ce][dc][dk][eh][ei][ej][ek]PL[W]C[White to play.
+
+Attack - Probe the Opponent]
+(
+;W[cf]
+(
+;B[eg]
+;W[cg]
+;B[dg]
+;W[fg]
+;B[ff]
+;W[gf]C[RIGHT
+])
+(
+;B[cg]
+;W[eg]
+;B[dg]
+;W[fe]C[RIGHT
+])
+(
+;B[dg]
+;W[ff]C[White Ok]))
+(
+;W[ff]
+;B[cf])
+(
+;W[de]
+;B[eg]
+;W[cf]
+;B[gg]))

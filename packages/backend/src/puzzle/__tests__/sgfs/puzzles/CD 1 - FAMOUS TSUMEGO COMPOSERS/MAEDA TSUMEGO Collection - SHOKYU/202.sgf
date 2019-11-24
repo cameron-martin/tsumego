@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[cj][bk][dh][eh][df][ce][bf][ai][bi]AW[ch][bh][ah][di][dj][dk][cl]
+[cm][cn][cg]N[202]AP[MultiGo:4.4.4]SZ[19]AB[ci]MULTIGOGM[0]
+
+(;C[对杀问题。白有4气，黑必须想办法长气，因为直接收气不行。
+
+难度：☆☆]N[审题])
+(;B[aj]C[黑1团眼好。现在数气：
+白4气，黑5气。]N[正解];W[bl];B[dg]C[对杀黑胜。])
+(;B[dg]N[失败];W[aj]C[可见2位是双方的要点。]))

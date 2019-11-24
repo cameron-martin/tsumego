@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pp][qp][rp][sp][os][ps][nr][lr][nq][np]AW[rs][sq][rq][qq][pq][oq]
+[or][ns][ms]C[61]N[61]AP[MultiGo:4.4.4]SZ[19]AB[op]MULTIGOGM[0]
+
+(;TR[ps][rs]C[第61题 计算的盲点
+
+对黑△长，白▲应为最强。这时，黑如不坠入计算的盲点之中，就可无条件杀白。第一手是妙手。]
+N[审题])
+(;B[rr]LB[qr:A][sr:B]C[黑1挖是漂亮的手筋。接下来A、B见合。]N[正解];W[sr];B[qr]C[白死。])
+(;B[sr]N[失败1];W[rr]LB[pr:A][qs:B]C[黑1点，与白2交换后，白就活了。
+
+接下来，黑无法在A、B处破眼，只能从外侧收气，白走A位或B位即活。])
+(;B[mr]N[失败2];W[qs]LB[pr:A]C[黑1从外侧收气，白走A位或2位均可。];B[ls];W[pr]C[白活。]))

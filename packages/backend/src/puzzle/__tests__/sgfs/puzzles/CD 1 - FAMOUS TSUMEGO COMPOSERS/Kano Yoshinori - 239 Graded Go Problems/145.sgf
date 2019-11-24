@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[fc][hg][fe][fh][hc][dd][dg][gc][gh][if][ie][df][id][eg][de][ec][gf]GN[ ]AB[gd][ff][ed][gg][hf][he][ef][fd][ee]PM[1]C[Problem 145. Black to play and live. (1 move)
+Black can give his stones life with one move.]PW[ ]
+(
+;B[fg]C[Correct Answer
+Black 1 is the correct answer. The two white stones inside Black's area cannot move, so Black will capture them and live with two eyes.]
+)
+(
+;B[ge]C[Wrong Answer
+Capturing two stones with Black 1...]
+;W[fg]C[...lets White destroy one of Black's eyes with 2, so the black group is dead.]
+)
+
+)

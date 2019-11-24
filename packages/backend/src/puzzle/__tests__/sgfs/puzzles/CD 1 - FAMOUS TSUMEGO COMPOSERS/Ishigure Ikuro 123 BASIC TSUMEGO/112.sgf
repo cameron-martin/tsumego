@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[rb][rc][rd][re][qf][qg][qh][ph][oh][nh][mg][mf][me][md][mc][lb][ne]
+AW[nd][nc][ob][qb][qd][oe][pe][pf][pg][og][ng][nf]N[112]AP[MultiGo:4.4.4]SZ[19]
+AB[od]MULTIGOGM[0]
+
+(;LB[pc:A]C[黑A必然，但不要忽略了白棋的抵抗，计算是需要的。]N[审题])
+(;B[pc]N[正解];W[qc];B[pb];W[na]C[白4倒虎，顽强抵抗];B[qa];W[pa];B[oa]C[劫杀正解。])
+(;B[pc]N[变化];W[qc];B[pb];W[oa];B[pa];W[qa];B[nb]))

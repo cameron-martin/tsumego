@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[nd][od][pd][qd][rd][rc][mb][lc]AW[rb][qc][pc][nc][nb][sb]N[176]AP[MultiGo:4.4.4]
+SZ[19]AB[md]MULTIGOGM[0]
+
+(;LB[mc:A]C[角上基本死活。要彻底掌握。A位松一气是劫杀，一气不松是死，松两气是活棋。
+
+难度：☆☆]
+N[审题])
+(;B[pa]N[正解];W[ob];B[qb]LB[ra:A][na:B][oa:C][oc:D]C[接下来，白不能走A位。那样的话，黑B与白C交换之后，有D位的打]
+;W[pb];B[ra])
+(;B[pa]N[变化];W[na];B[oc];W[ob];B[qb];W[pb];B[ra])
+(;B[na]N[失败1];W[pa])
+(;B[ob]N[失败2];W[oc];B[na];W[pb];B[oa];W[pa]))

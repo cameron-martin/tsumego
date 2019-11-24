@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pe][od][nd][md][ld][lc][lb][la][ra][rb][qc]AW[ma][mb][mc][nc][ob]
+[pc][qb][qa]N[002]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[很简单的死活题。逐点计算也能得到正解。]N[审题])
+(;B[na]C[黑1是急所，无论白怎样挣扎，都不能做活了。]N[正解];W[oa];B[oc];W[nb];B[pb])
+(;B[oc]N[失败1];W[na])
+(;B[oa]N[失败2];W[na])
+(;B[pb]N[失败3];W[pa];B[oc];W[na]))

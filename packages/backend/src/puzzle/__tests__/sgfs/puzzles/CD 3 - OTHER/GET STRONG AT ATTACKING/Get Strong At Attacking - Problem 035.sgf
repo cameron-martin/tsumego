@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][de][lc][pb][ob][qh][qk][jq][cr][dr][dq][dp][do][ci][di][dj][ck][cl][em]
+AB[ec][gd][jc][qb][pc][pd][qf][qm][qp][oq][br][cq][cp][cn][bn][bl][bk][bj][cj]
+LB[lc:E][pb:A][ob:C][pc:B][qb:D]
+C[Problem 35. Black to play.  
+
+After White plays the sequence from A to E, her stones at the top are not completely settled. How should Black continue ? ]
+;B[oh]
+TE[2]
+C[Correct Answer.  
+
+Black should cap with 1. ]
+;W[le]
+C[If White defends her stones at the top by jumping to 2, ... ]
+;B[ok]
+C[... a second cap at 3 is severe. ]
+;W[rf]
+C[White attempts to live with 4 ... ]
+;B[re];W[rg]
+C[... and 6. ]
+;B[rj]
+C[After Black 7, ... ]
+;W[qj];B[rk];W[oi];B[pi];W[ph];B[nh];W[oj];B[nj];W[ni];B[mi];W[pj];B[nk];W[ql];B[rl];W[pm];B[pl];W[mh];B[of];W[mg];B[nf];W[ri]
+C[... White lives in gote with the sequence to 28. ]
+;B[li]
+C[After Black extends to 29, ... ]
+;W[je]
+C[... White runs away with 30. ]
+;B[kc]
+C[Black exchanges 31 ... ]
+;W[lb]
+LB[hc:A]
+C[... for 32 to defend against the invasion at A, ... ]
+;B[kp]
+C[... then maps out a large moyo in the lower right with 33. <= ]
+)
+)

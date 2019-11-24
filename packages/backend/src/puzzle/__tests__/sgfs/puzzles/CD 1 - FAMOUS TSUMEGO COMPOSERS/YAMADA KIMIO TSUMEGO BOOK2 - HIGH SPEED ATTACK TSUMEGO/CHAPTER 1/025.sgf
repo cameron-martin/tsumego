@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[na][qd][pe][re][rf][pc][oc][nc]AW[se][rd][rc][qc][pb][oa]N[025]AP[MultiGo:4.4.4]
+SZ[19]AB[nb]MULTIGOGM[0]
+
+(;C[白形怪怪的吧？逐点计算吧。从外侧压缩白眼位的话，多半要成劫。]N[审题])
+(;B[sb]N[正解];W[rb];B[qa];W[qb];B[ob];W[pa];B[ra]C[白死。])
+(;B[sb]N[变化];W[ra];B[ob])
+(;B[rb]N[失败1];W[sb];B[ra];W[qa];B[ob];W[sd])
+(;B[ra]N[失败2];W[qa])
+(;B[qa]N[失败3];W[ra];B[rb];W[sb];B[sa])
+(;B[ob]N[失败4];W[qa];B[pa];W[rb]))

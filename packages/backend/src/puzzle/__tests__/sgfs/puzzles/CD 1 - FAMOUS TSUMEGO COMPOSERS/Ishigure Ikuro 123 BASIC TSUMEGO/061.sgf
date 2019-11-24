@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pd][oe][rd][sd][rb][qc][pc][oc]AW[pb][ob][nb][mc][md][me][nf][of]
+[pf][qe][re][se][qd]N[061]AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;LB[nd:A]C[黑走A位做眼如何？从这里开始计算吧。]N[审题])
+(;B[sb]LB[nd:A][qb:B]C[黑1并，接下来，白A则黑B，黑活；白B位挤眼，黑粘上就是]N[正解]
+;W[rc];B[qb]LB[nd:A][qa:B]C[黑3接上后，A、B两点见合];W[sc];B[nd]C[黑活。])
+(;B[sb]N[变化];W[ra];B[qb];W[qa];B[nd]C[黑活。白损官子。])
+(;B[nd]N[失败1];W[sb];B[rc];W[ra];B[qa];W[qb];B[sa]C[失败图1])
+(;B[qb]N[失败2];W[sb];B[rc];W[nd]C[失败图2]))

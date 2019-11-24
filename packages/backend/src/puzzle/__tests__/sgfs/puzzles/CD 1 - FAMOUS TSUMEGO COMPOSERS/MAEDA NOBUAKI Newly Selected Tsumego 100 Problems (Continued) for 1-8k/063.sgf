@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[nd][md][mc][mb][la][kb][rc][rd][qd]AW[ma][nb][nc][pc][qc][rb][sb]
+N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[审题：这是从基本死活衍生出来的棋形。计算并不复杂。]N[审题])
+(;B[pa]N[正解];W[ob];B[oa];W[na];B[qb];W[ra];B[sc]C[白死。])
+(;B[pa]N[失败1];W[ob];B[qb];W[pb];B[ra]C[这样与第62题一样了。黑失败。])
+(;B[pa]N[失败2];W[ob];B[na];W[oa];B[qb];W[ra];B[sc];W[ma]C[黑失败。
+如果计算到这种程度，再坚持一下，应该能够找出正解吧。]))

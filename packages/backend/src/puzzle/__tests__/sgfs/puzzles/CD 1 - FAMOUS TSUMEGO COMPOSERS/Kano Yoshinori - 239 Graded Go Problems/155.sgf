@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ge][eg][fi][hf][hg][he][ei][gh][fg][eh]GN[ ]AB[gd][fj][hd][di][dg][ef][ie][if][dh][hi][hh][gi][ej][ig][fd][ee]PM[1]C[Problem 155. Black to play and kill White. (1 move)
+How does Black play to kill the white stones?]PW[ ]
+(
+;B[ff]C[Correct Answer
+Black 1 is the correct answer. White now has only one real eye and is dead.]
+)
+(
+;B[fe]C[Wrong Answer
+If Black plays at 1...]
+;W[ff]C[...White 2 makes two eyes and secures life for the white group.]
+)
+
+)

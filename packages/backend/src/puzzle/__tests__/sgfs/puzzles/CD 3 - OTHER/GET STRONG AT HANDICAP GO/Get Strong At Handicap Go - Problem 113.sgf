@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[md][eb][fc][gd][eg][ch][dn][ej]
+AB[dp][pd][pp][dd][pg][df][fd][fe][ck][el][cc]
+LB[ej:3][el:2][dn:1]
+C[Problem 113. Black to play.  
+
+After White 1 in the game continuation of Problem 109, Black 2 and White 3 were exchanged. What should Black do now ? ]
+(;B[ek]
+TE[2]
+C[Correct Answer.  
+
+Black 1 makes thick shape and prevents White's stones on the left separated. ]
+;W[fn]
+C[If White 2, ... ]
+;B[fj]
+C[... Black forces once with 3, ... ]
+;W[ei];B[fp]
+LB[gh:A]
+C[... then jumps to 5. White is left with weak stones above and below. Black is aiming at A. If White A, Black attacks the two stones below. <= ]
+)
+(;B[cm]
+LB[dl:A]
+C[How the game continued.  
+
+Black jumped to 1, defending his weak point at A, but ... ]
+;W[cn]
+C[... this move induced White to block with 2, weakening Black's stones below. ]
+;B[fp];W[fn];B[gl];W[hn]
+LB[cj:B]
+C[Up to 6, White escaped into the center, leaving the black stones above and below weak. If Black defends the bottom, White can settle her stones by attaching at B. <= ]
+)
+)

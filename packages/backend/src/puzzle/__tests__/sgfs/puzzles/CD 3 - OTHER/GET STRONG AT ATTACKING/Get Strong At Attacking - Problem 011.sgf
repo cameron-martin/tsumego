@@ -1,0 +1,59 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][cp][cn][dq][eq][qn][qk][nc][kd]
+AB[ep][fq][fp][jp][pq][qp][qi][pd][pc]
+LB[pc:B][nc:A][kd:C]
+C[Problem 11. Black to play.  
+
+White has just extended to C. How should Black continue ? ]
+;B[on]
+TE[2]
+C[Correct Answer.  
+
+Black should cap at 1, ... ]
+;W[ok]
+C[... forcing White to jump to 2. ]
+;B[oi]
+C[This induces Black to reinforce his moyo above with 3. ]
+;W[mk]
+C[Jumping to 4 is natural. ]
+;B[ic]
+C[Black now invades the top with 5. ]
+(;W[gc]
+C[White has to play forcefully and pincer with 6. ]
+;B[ie];W[jc]
+C[If White attaches with 8, ... ]
+;B[jb];W[kb];B[jd];W[kc];B[ke];W[le];B[kf];W[lf];B[lg]
+C[... Black presses the white stones with the sequence to 17. ]
+;W[ne]
+C[White then makes shape with 18 and ... ]
+;B[of]
+C[... Black secures the upper right with 19.  <= ]
+)
+(;W[je]
+LB[ic:5]
+C[Variation.  
+
+White 6 here is another response to Black 5. ]
+;B[he]
+C[Black jumps to 7 and ... ]
+;W[gc]
+C[... White pincers with 8. ]
+;B[gd];W[fc];B[hc]
+LB[gd:9]
+C[Black makes shape with 9 and 11, after which ... ]
+;W[de];B[ig];W[kg];B[ii]
+LB[ig:13]
+C[... Black attacks with 13 and 15. ]
+(;W[ki]
+C[After White 16, ... ]
+;B[ne]
+C[... Black secures the territory on the right with 17.  <= ]
+)
+(;W[ne]
+C[If White 12 here, ... ]
+;B[of]
+C[... Black will play 17 here.  <= ]
+))
+)

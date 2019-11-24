@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 19. Black to play.
+Three black stones are in danger. How can Black save them?]AW[ge][ff][fc][ed][hd][gc]PB[ ]PM[1]PW[ ]AB[gd][de][fe][ef][fd][eh]
+(
+;B[ee]C[Correct Answer
+Black can save his three stones by playing at 1.]
+)
+(
+;B[gf]C[Wrong Answer
+Black 1 is unresonable since...]
+;C[...White will capture the three black stones with 2.]W[ee]
+)
+
+)

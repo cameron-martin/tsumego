@@ -1,0 +1,28 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ag][bc][bg][cc][ce][cg][dh][ee][ef][eh][fe][fg][gf]
+AW[ah][bb][bh][cb][ch][cj][dc][dg][di][ed][ei][fd][gd][ge][gh][hf][hg]PL[W]C[White to play.
+
+Endgame moves - Force Opponent to Reduce Liberties
+
+Source: Guan-Zhi-Pu.]
+;W[df]
+;B[de]
+;W[be]
+;B[bf]
+;W[fh]
+;B[eg]
+;W[cd]
+;B[bd]
+;W[ae]
+(
+;B[dd]
+;W[ac]
+;B[gg]C[RIGHT
+])
+(
+;B[ac]
+;W[dd]
+;B[ab]
+;W[aa]
+;B[ba]
+;W[ca]C[White Ok]))

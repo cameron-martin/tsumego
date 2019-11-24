@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 74. White to play.
+What is the best way for White to give atari?]AW[lh][gk][ki][jg][hj][hi][ih][kg][kj]PB[ ]PM[1]PW[ ]AB[jk][jh][hl][hk][kh][kk][ji][ij]
+(
+;C[Correct Answer
+If White gives atari with 1, there is no way for Black to save his three stones.]W[jj]
+)
+(
+;C[Wrong Answer
+If White gives atari with 1 as here...]W[ii]
+;B[jj]C[...Black cannot be captured after he connects with 2.]
+)
+
+)

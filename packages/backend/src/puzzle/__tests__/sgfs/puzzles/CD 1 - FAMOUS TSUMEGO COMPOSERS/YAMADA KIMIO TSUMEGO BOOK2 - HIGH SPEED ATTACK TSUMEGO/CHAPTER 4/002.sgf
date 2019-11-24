@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nc][nd][ne][of][pf][qf][rf][re][qc][ob]AW[pe][qe][od][oc][qb][pb]
+[rb][rd]N[002]AP[MultiGo:4.4.4]SZ[19]AB[nb]MULTIGOGM[0]
+
+(;LB[oe:A]C[黑A挤不行，这很容易计算。]N[审题])
+(;B[rc]N[正解];W[qd];B[sd];W[pc]LB[sc:A]C[现在黑不能在A位接，那样白活];B[sb];W[ra]
+;B[sc]C[白死。])
+(;B[rc]N[变化];W[qd];B[sd];W[pc];B[sb];W[sc];B[rc]C[白在中间是后手眼，在角上做不出眼，死。])
+(;B[sd]N[失败1];W[rc])
+(;B[qd]N[失败2];W[rc];B[oe];W[sa]))

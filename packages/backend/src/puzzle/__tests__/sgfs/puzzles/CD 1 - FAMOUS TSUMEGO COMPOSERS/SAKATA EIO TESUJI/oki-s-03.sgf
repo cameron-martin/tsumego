@@ -1,0 +1,40 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bp][cp][dq][fq][dr]AB[cn][do][dp][bq][cq][cr]C[Ex. 3 - Semeai
+
+This is perhaps a little difficult for beginners.
+If direct action fails you should try to attack indirectly.]PL[W]
+(;W[cs]LB[cs:1]C[Diag 1 - Failure
+
+After W 1]
+;B[bs]LB[bs:2][cs:1]C[and B 2]
+;W[aq]LB[aq:3][bs:2][cs:1]C[W would like to play hane 3 ]
+;B[ds]LB[aq:3][bs:2][ds:4]C[but this is a failure after B's capture at 4. ]
+;W[ar]LB[aq:3][ar:5][bs:2][ds:4]C[if W 5 nobi ]
+;B[es]LB[aq:5][ar:3][bs:2][ds:4][es:6]C[after B 6 ]
+;W[fr]LB[aq:5][ar:3][fr:7][bs:2][ds:4][es:6]C[and W 7]
+;B[bo]LB[bo:8][aq:3][eq:A][ar:5][er:B][fr:7][bs:2][ds:4][es:6]C[B checks at 8 and W loses.
+B ate at "A" instead of 6, followed by W "B" and B 7 shibori, coming round the outside, is also possible.
+])
+(;W[bs]LB[bs:1]TR[aa]C[Diag. 2 - Failure
+
+W 1 oki is indeed an indirect attack ]
+;B[bo]LB[bo:2][bs:1]C[but after B 2 ]
+;W[cs]LB[bo:2][bs:1][cs:3]C[W 3]
+;B[ap]LB[bo:2][ap:4][bs:1][cs:3]C[and B 4 it proves unsuccessful.
+This point 1 is not directly related to the semeai.])
+(;W[ar]LB[ar:1]C[Diag. 3 - Correct
+
+W 1 oki is the suji.]
+(;B[aq]LB[aq:2][ar:1]C[It forces B 2 osae]
+;W[cs]LB[aq:2][ar:1][cs:3]C[Then look at W 3 ]
+;B[bs]LB[aq:2][ar:1][bs:4][cs:3]C[B 4 ]
+;W[ds]LB[aq:2][ar:1][bs:4][cs:3][ds:5]C[and W 5 hanetsugi.
+B is suddenly short of liberties -- he only has 2 -- and W wins])
+(;B[bo]LB[bo:2][ar:1]C[Diag. 4 - Correct
+
+If B 2 kosumitsuke in reply to W 1 oki, ]
+;W[aq]LB[bo:2][aq:3][ar:1]C[W 3 watari is good.]
+;B[cs]LB[bo:2][aq:3][ar:1][cs:4]C[If B 4 sagari, ]
+;W[bs]LB[bo:2][aq:3][ar:1][bs:5][cs:4]C[W wins with 5.
+Try as he might B cannot win.])))

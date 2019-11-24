@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[oe][od][nd][md][mc][mb][rb][rc][qc][qd][qe]AW[nc][nb][ma][lb][ld]
+[lc][le][me][ne][of][pf][qf][rf][re][rd][qb][pb][qa]N[001]AP[MultiGo:4.4.4]SZ[19]
+AB[pe]MULTIGOGM[0]
+
+(;C[第一感在哪里？通过计算，排除失败图，也能找到正解。]N[审题])
+(;B[ob]N[正解];W[oc];B[pc];W[oa];B[ra]C[这是双方最佳进行。])
+(;B[ob]N[变化1];W[pc];B[oc];W[oa];B[ra]C[白四子接不归，黑活。])
+(;B[ob]N[变化2];W[oa]LB[oc:A][ra:B]C[白2底线打吃时，黑不能随手在A位接，那样白B爬角，黑死。]
+;B[ra]LB[oc:A][pc:B]C[以后白A黑B，还原到正解图。])
+(;B[pc]N[失败1];W[ra];B[ob];W[oa];B[oc];W[la];B[na];W[nb]C[没有接不归。])
+(;B[ra]N[失败2];W[pc]C[黑缺少计算。]))

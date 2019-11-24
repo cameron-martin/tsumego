@@ -1,0 +1,6 @@
+(;CA[utf-8]GM[1]FF[4]ST[2]AB[kd][md][mc][lb][pd][qc][pf][pj][pp]AW[dc][dq][mb][nb]
+[nc][nd][ne][pb][hd]TR[nb]C[Black to play. White has just connected with the marked stone. How should Black continue?]
+AP[CGoban:3]SZ[19]RU[Japanese]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[lg];W[ng];B[ph];W[ni];B[nk]LB[qb:A]C[CORRECT Black should jump. If White doesn't run away, Black will play at A, and White's stones won't have eyeshape. White runs away playing on points of no value, while Black secures territory and builds a moyo.])
+(;B[gp];W[me];B[jd];W[co];B[kq];W[le];B[jf];W[hf];B[jh];W[lh]LB[lc:A]C[If Black doesn't play like in the correct answer, and approaches bottom left, White will turn threatening to cut at A, so Black must defend. Black's sphere of influence on the right is thin, and it is White who is making profit by attacking.]))

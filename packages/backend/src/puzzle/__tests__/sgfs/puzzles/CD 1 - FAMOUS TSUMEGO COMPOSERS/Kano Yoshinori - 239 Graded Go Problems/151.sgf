@@ -1,0 +1,17 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][cd][ge][ff][db][da][cb][hb][ef][gc][cc][df][ib][de][jb]GN[ ]AB[eb][dc][gb][fc][ia][ec][fe][dd][ha][fa][ee][fd]PM[1]C[Problem 151. White to play and kill Black. (1 move)
+
+How does White kill all the black stones?]PW[ ]
+(
+;W[ea]C[Correct Answer
+White 1 is the correct answer. This make the eye at the top a false eye. Since Black has only one real eye he is dead.]
+)
+(
+;W[ja]C[Wrong Answer
+Going after two stones with 1...]
+;B[ea]C[...lets Black play 2...]
+;W[ga]C[...After 3...]
+;B[ha]C[...Black retakes with 4 and he is alive.]
+)
+
+)

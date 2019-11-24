@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[es][fs][gr][hr][fq][fp][fo][eo][do][co][bo][ap][bm][cs]AW[br][aq]
+[bp][cp][dp][ep][er][fr][bs]C[C]N[018]AP[MultiGo:4.4.4]SZ[19]AB[ds]MULTIGOGM[0]
+
+(;LB[cq:A]C[黑在A位点是第一感，但要计算是否正确。
+
+难度：C]N[审题])
+(;B[ar]N[正解];W[cq];B[bq]C[劫杀正解。])
+(;B[ar]N[变化];W[ao];B[cq];W[cr];B[dq];W[dr];B[eq];W[gs];B[bq]C[现在能够看到黑1扑的作用了。])
+(;B[cq]N[失败1];W[cr];B[dq];W[dr];B[eq];W[gs];B[bq];W[ar])
+(;B[cr]N[失败2];W[cq];B[ao];W[dr];B[gs];W[eq]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oe][ne][me][le][ke][jd][jc][jb][kb][la][qb][qc][qd]AW[lb][mb][kc]
+[kd][ld][md][nd][od][pc][pb]N[019]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;LB[nb:A]C[观察棋形：白气很紧；从眼形的角度看，A位是急所。]N[审题])
+(;B[nb]N[正解];W[oa];B[mc];W[na];B[oc]C[白死。])
+(;B[nb]N[变化];W[ma];B[oa];W[pa];B[oc])
+(;B[ob]N[失败1];W[oc])
+(;B[ma]N[失败2];W[nb])
+(;B[pa]N[失败3];W[nb]))

@@ -1,0 +1,24 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ad][bc][bd][bh][bj][cc][cf][cg][ci][dd][de][df]
+AW[ab][ac][bb][bg][cb][ch][dc][dg][dh][ec][ed][ee][ef]PL[W]C[White to play.
+
+Endgame moves - Force Opponent to Reduce Liberties]
+(
+;W[ah]
+;B[bi]
+;W[be]
+;B[cd]
+;W[ae]
+;B[bf]
+;W[af]C[RIGHT
+Ko Fight])
+(
+;W[be]
+;B[bf]
+;W[ae]
+;B[cd]
+;W[ag]
+;B[ah])
+(
+;W[bf]
+;B[be]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qs][rq][qq]AW[sr][or][oq][pq][qp][qo][qm]C[73]N[73]AP[MultiGo:4.4.4]
+SZ[19]AB[pr]MULTIGOGM[0]
+
+(;TR[sr]LB[rp:A][ro:B]C[第73题 黑无条件成活
+
+与第71题相比，少了黑A、白B的交换，事情就完全两样了。即使白▲点入，黑也能无条件成活。]
+N[审题])
+(;B[rr]N[正解];W[os];B[ss];W[ps];B[qr];W[rs];B[sq]C[胀牯牛，黑活。])
+(;AB[rp]AW[ro]TR[rp][ro]C[如果多了黑△与白▲的交换的话……]N[参考];B[rr];W[os];B[ps]
+;W[rs];B[ss]C[劫。]))

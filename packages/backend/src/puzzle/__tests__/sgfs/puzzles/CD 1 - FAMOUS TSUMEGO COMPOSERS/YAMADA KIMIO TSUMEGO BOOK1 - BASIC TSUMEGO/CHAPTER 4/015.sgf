@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[oe][ne][mf][lf][ke][kd][kb][mb][ma][lc][rb][rc][qc][pd]AW[ld][mc]
+[nd][od][nb][na][pb][qb][pc]N[015]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;LB[oc:A][ob:B][qa:C]C[黑A、B肯定不行，C位也不行，请计算确认。]N[审题])
+(;B[md]N[正解];W[me];B[le];W[qa];B[oa];W[ob];B[nc];W[oc];B[md])
+(;B[md]N[变化1];W[nc];B[qa])
+(;B[md]N[变化2];W[me];B[le];W[ob];B[nc])
+(;B[qa]N[失败];W[oc]))

@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[jd][kd][lc][nd]
+AB[dd][hc][kc][ld][pd][pf]
+LB[kd:2][kc:1]
+C[Problem 9.Black to play.  
+
+If you didn't like the result in Problem 6, there's an even stronger way for Black to play. What is Black's strongest replay to White 2 ? ]
+;B[le]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a very strong move. ]
+(;W[mc]
+C[If White draws back to 2, ... ]
+;B[jc]
+C[... Black links up to his allies on the left with 3. White's stones are now separated and Black has a superior position. <= ]
+)
+(;W[jc]
+C[Variation.  
+
+Against White 2 ... ]
+;B[mc];W[kb]
+C[... and 4 ... ]
+;B[lb]
+LB[mc:3]
+C[... Black plays 3 and 5, taking a big chunk of territory on the right. It is going to be very hard for White to make sabaki now. <= ]
+)
+)

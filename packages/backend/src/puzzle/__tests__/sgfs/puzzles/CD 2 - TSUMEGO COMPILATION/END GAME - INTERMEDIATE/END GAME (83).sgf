@@ -1,0 +1,20 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][be][cb][cc][ce][ch]
+AW[bb][bc][cd][dc][dd][fc]PL[B]C[Black to play.
+
+Endgame moves - Force Opponent to Reduce Liberties]
+(
+;B[ab]
+(
+;W[db]
+;B[ac]
+;W[ca]C[RIGHT
+])
+(
+;W[ac]
+;B[ba]C[Black Ok]))
+(
+;B[ac]
+;W[ab]
+;B[ad]
+;W[db]))

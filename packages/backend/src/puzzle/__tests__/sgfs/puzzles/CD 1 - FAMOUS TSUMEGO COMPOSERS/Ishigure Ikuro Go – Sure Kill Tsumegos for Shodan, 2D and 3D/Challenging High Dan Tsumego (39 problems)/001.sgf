@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[nr][ns][mq][lr][ls][pq][pp][np]AW[ks][kr][kq][lp][mp][no][oo][po]
+[qo][qp][qq][pr]N[001]AP[MultiGo:4.4.4]SZ[19]AB[nq]MULTIGOGM[0]
+
+(;LB[or:A][op:B]C[黑A、白B的进行，黑棋没有办法做活。必须另觅它途。]N[审题])
+(;B[qr]N[正解];W[rr];B[or];W[qs];B[op])
+(;B[qr]N[变化];W[op];B[ps];W[oq];B[rr])
+(;B[or]N[失败];W[op];B[qr];W[ps]))

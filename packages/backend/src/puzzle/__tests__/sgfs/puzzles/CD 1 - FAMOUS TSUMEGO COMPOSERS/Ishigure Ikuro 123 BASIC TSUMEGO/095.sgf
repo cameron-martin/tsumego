@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[od][of][nf][lf][le][ld][lc][lb][rb][rc][rd][qe]AW[mc][md][nd][nb]
+[oc][oe][qc][qb]N[095]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;LB[pd:A][mb:B]C[黑A则白B，白是活形，这是基本死活。黑棋必须另觅它途。]N[审题])
+(;B[pb]N[正解];W[pa];B[pd];W[pc];B[mb]C[白死。])
+(;B[pb]N[变化];W[pd];B[qa]LB[mb:A][ne:B]C[接下来，白A则黑B，白死];W[pc];B[ne];W[ob]
+;B[pa];W[oa];B[ra];W[mb];B[ma]C[白死。])
+(;B[mb]N[失败];W[pd]C[白活。]))

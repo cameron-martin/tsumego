@@ -1,0 +1,43 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cm][em][bp][cp][ep][jp][aq][dq][br][cr]AB[bo][co][do][dp][eq][er]C[Ex.  4  - Sabaki 
+
+It is impossible to capture the W cutting stone at once.
+If W is split into two groups, he will be at a loss to know how to settle his groups.]
+(;B[eo]LB[eo:1]C[Diag.  1  -  Failure
+
+Direct ate usually fails.
+B 1 is no good ]
+;W[fp]LB[eo:1][fp:2]C[after W 2 nobi. ]
+;B[fo]LB[eo:1][fo:3][fp:2]C[After  B 3 ]
+;W[gp]LB[eo:1][fo:3][fp:2][gp:4]C[W 4,]
+;B[go]LB[eo:1][fo:3][go:5][fp:2][gp:4]C[B 5 ]
+;W[hp]LB[eo:1][fo:3][go:5][fp:2][gp:4][hp:6]C[and W 6, B has abandoned rather a lot on the lower side.
+He should aim at more connected use of his stones.])
+(;B[en]LB[en:1]C[Diag. 2 - Failure
+
+B 1 kosumi is the "motare" move, but in this position it is not good. 
+]
+;W[fp]LB[en:1][fp:2]C[After W 2 nobi, B is still separated ]
+;B[fm]LB[fm:3][en:1][fp:2]C[B 3 ]
+;W[el]LB[el:4][fm:3][en:1][fp:2]
+;B[gn]LB[el:4][fm:3][en:1][gn:5][fp:2]C[and 5 are a little better than in the previous diagram, ]
+;W[hp]LB[el:4][fm:3][en:1][gn:5][fp:2][hp:6]C[but, since W takes the territory on the lower side, B's losses are by no means small..])
+(;B[fo]LB[fo:1]C[Diag.  3  -  Correct
+
+B 1 kake is the way to cope with this difficult situation. ]
+(;W[gq]LB[fo:1][gq:2]C[If W approaches at 2, ]
+;B[gp]LB[fo:1][gp:3][gq:2]C[B plays kosumitsuke, ensuring his connection.])
+(;W[fp]LB[fo:1][fp:2]C[Diag.  4  -  Variation
+
+W falls into a trap with nobidashi in reply to B 1 kake. 
+]
+;B[gp]LB[fo:1][fp:2][gp:3]C[After B's sacrifice of 2 stones with 3, ]
+;W[fq]LB[fo:1][fp:2][gp:3][fq:4]
+;B[gq]LB[fo:1][fp:2][gp:3][fq:4][gq:5]C[B 5 and so on, ]
+;W[fr]LB[fo:1][fp:2][gp:3][fq:4][gq:5][fr:6]
+;B[gr]LB[fo:1][fp:2][gp:3][fq:4][gq:5][fr:6][gr:7]
+;W[dr]LB[fo:1][fp:2][gp:3][fq:4][gq:5][dr:8][fr:6][gr:7]
+;B[eo]LB[eo:9][fo:1][fp:2][gp:3][fq:4][gq:5][dr:8][fr:6][gr:7]
+;W[es]LB[eo:9][fo:1][fp:2][gp:3][fq:4][gq:5][dr:8][fr:6][gr:7][es:10]
+;B[hn]LB[hn:11][eo:9][fo:1][fp:2][gp:3][fq:4][gq:5][dr:8][fr:6][gr:7][es:10]C[and the defensive move of 11, the result is bad for W.])))
