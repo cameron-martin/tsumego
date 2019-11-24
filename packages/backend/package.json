@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "@tsumego/backend",
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/parsimmon": "^1.10.0",
+    "express": "^4.17.1",
+    "parsimmon": "^1.13.0"
+  }
+}

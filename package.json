@@ -1,6 +1,9 @@
 {
   "private": true,
   "browserslist": "> 5%",
+  "workspaces": [
+    "packages/*"
+  ],
   "dependencies": {
     "@types/react": "^16.9.11",
     "@types/react-dom": "^16.9.3",

@@ -1,0 +1,2147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot example sgf file 1`] = `
+Object {
+  "status": true,
+  "value": Array [
+    Object {
+      "gameTrees": Array [
+        Object {
+          "gameTrees": Array [],
+          "sequence": Array [
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  15,
+                  3,
+                ],
+              },
+              Object {
+                "ident": "N",
+                "value": "Moves, comments, annotations",
+              },
+              Object {
+                "ident": "C",
+                "value": "Nodename set to: \\"Moves, comments, annotations\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  3,
+                  15,
+                ],
+              },
+              Object {
+                "ident": "GW",
+                "value": "1",
+              },
+              Object {
+                "ident": "C",
+                "value": "Marked as \\"Good for White\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  15,
+                  15,
+                ],
+              },
+              Object {
+                "ident": "GB",
+                "value": "2",
+              },
+              Object {
+                "ident": "C",
+                "value": "Marked as \\"Very good for Black\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  3,
+                  2,
+                ],
+              },
+              Object {
+                "ident": "GW",
+                "value": "2",
+              },
+              Object {
+                "ident": "C",
+                "value": "Marked as \\"Very good for White\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  15,
+                  9,
+                ],
+              },
+              Object {
+                "ident": "DM",
+                "value": "1",
+              },
+              Object {
+                "ident": "C",
+                "value": "Marked as \\"Even position\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  2,
+                  8,
+                ],
+              },
+              Object {
+                "ident": "UC",
+                "value": "1",
+              },
+              Object {
+                "ident": "C",
+                "value": "Marked as \\"Unclear position\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  9,
+                  3,
+                ],
+              },
+              Object {
+                "ident": "TE",
+                "value": "1",
+              },
+              Object {
+                "ident": "C",
+                "value": "Marked as \\"Tesuji\\" or \\"Good move\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  9,
+                  15,
+                ],
+              },
+              Object {
+                "ident": "BM",
+                "value": "2",
+              },
+              Object {
+                "ident": "C",
+                "value": "Marked as \\"Very bad move\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  6,
+                  3,
+                ],
+              },
+              Object {
+                "ident": "DO",
+                "value": "",
+              },
+              Object {
+                "ident": "C",
+                "value": "Marked as \\"Doubtful move\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  3,
+                  4,
+                ],
+              },
+              Object {
+                "ident": "IT",
+                "value": "",
+              },
+              Object {
+                "ident": "C",
+                "value": "Marked as \\"Interesting move\\"",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  9,
+                  9,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "C",
+                "value": "White \\"Pass\\" move",
+              },
+              Object {
+                "ident": "W",
+                "value": "",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "C",
+                "value": "Black \\"Pass\\" move",
+              },
+              Object {
+                "ident": "B",
+                "value": Array [
+                  19,
+                  19,
+                ],
+              },
+            ],
+          ],
+        },
+        Object {
+          "gameTrees": Array [],
+          "sequence": Array [
+            Array [
+              Object {
+                "ident": "AB",
+                "value": Array [
+                  Array [
+                    3,
+                    3,
+                  ],
+                  Array [
+                    3,
+                    4,
+                  ],
+                  Array [
+                    3,
+                    5,
+                  ],
+                  Array [
+                    3,
+                    6,
+                  ],
+                  Array [
+                    Array [
+                      3,
+                      14,
+                    ],
+                    Array [
+                      6,
+                      16,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "AW",
+                "value": Array [
+                  Array [
+                    9,
+                    3,
+                  ],
+                  Array [
+                    9,
+                    4,
+                  ],
+                  Array [
+                    9,
+                    5,
+                  ],
+                  Array [
+                    9,
+                    6,
+                  ],
+                  Array [
+                    Array [
+                      10,
+                      13,
+                    ],
+                    Array [
+                      11,
+                      16,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      15,
+                      13,
+                    ],
+                    Array [
+                      15,
+                      16,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "N",
+                "value": "Setup",
+              },
+              Object {
+                "ident": "C",
+                "value": "Black & white stones at the top are added as single stones.
+
+Black & white stones at the bottom are added using compressed point lists.",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "AE",
+                "value": Array [
+                  Array [
+                    4,
+                    15,
+                  ],
+                  Array [
+                    5,
+                    15,
+                  ],
+                  Array [
+                    10,
+                    13,
+                  ],
+                  Array [
+                    11,
+                    14,
+                  ],
+                  Array [
+                    11,
+                    16,
+                  ],
+                  Array [
+                    Array [
+                      15,
+                      13,
+                    ],
+                    Array [
+                      15,
+                      16,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "AddEmpty
+
+Black stones & stones of left white group are erased in FF[3] way.
+
+White stones at bottom right were erased using compressed point list.",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "AB",
+                "value": Array [
+                  Array [
+                    15,
+                    3,
+                  ],
+                ],
+              },
+              Object {
+                "ident": "AW",
+                "value": Array [
+                  Array [
+                    15,
+                    15,
+                  ],
+                ],
+              },
+              Object {
+                "ident": "PL",
+                "value": "B",
+              },
+              Object {
+                "ident": "C",
+                "value": "Added two stones.
+
+Node marked with \\"Black to play\\".",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "PL",
+                "value": "W",
+              },
+              Object {
+                "ident": "C",
+                "value": "Node marked with \\"White to play\\"",
+              },
+            ],
+          ],
+        },
+        Object {
+          "gameTrees": Array [],
+          "sequence": Array [
+            Array [
+              Object {
+                "ident": "AB",
+                "value": Array [
+                  Array [
+                    3,
+                    3,
+                  ],
+                  Array [
+                    3,
+                    4,
+                  ],
+                  Array [
+                    3,
+                    5,
+                  ],
+                  Array [
+                    3,
+                    6,
+                  ],
+                  Array [
+                    3,
+                    7,
+                  ],
+                  Array [
+                    3,
+                    8,
+                  ],
+                  Array [
+                    3,
+                    9,
+                  ],
+                  Array [
+                    13,
+                    9,
+                  ],
+                  Array [
+                    13,
+                    8,
+                  ],
+                  Array [
+                    13,
+                    7,
+                  ],
+                  Array [
+                    13,
+                    5,
+                  ],
+                  Array [
+                    13,
+                    4,
+                  ],
+                  Array [
+                    13,
+                    3,
+                  ],
+                  Array [
+                    8,
+                    9,
+                  ],
+                  Array [
+                    8,
+                    8,
+                  ],
+                  Array [
+                    8,
+                    7,
+                  ],
+                  Array [
+                    7,
+                    16,
+                  ],
+                  Array [
+                    6,
+                    16,
+                  ],
+                  Array [
+                    5,
+                    16,
+                  ],
+                  Array [
+                    4,
+                    16,
+                  ],
+                  Array [
+                    3,
+                    17,
+                  ],
+                  Array [
+                    3,
+                    18,
+                  ],
+                  Array [
+                    3,
+                    16,
+                  ],
+                  Array [
+                    3,
+                    15,
+                  ],
+                  Array [
+                    2,
+                    15,
+                  ],
+                  Array [
+                    1,
+                    15,
+                  ],
+                  Array [
+                    0,
+                    15,
+                  ],
+                  Array [
+                    8,
+                    16,
+                  ],
+                  Array [
+                    8,
+                    17,
+                  ],
+                  Array [
+                    8,
+                    18,
+                  ],
+                  Array [
+                    1,
+                    14,
+                  ],
+                  Array [
+                    1,
+                    13,
+                  ],
+                  Array [
+                    0,
+                    13,
+                  ],
+                  Array [
+                    12,
+                    18,
+                  ],
+                  Array [
+                    12,
+                    17,
+                  ],
+                ],
+              },
+              Object {
+                "ident": "AW",
+                "value": Array [
+                  Array [
+                    15,
+                    3,
+                  ],
+                  Array [
+                    15,
+                    4,
+                  ],
+                  Array [
+                    15,
+                    5,
+                  ],
+                  Array [
+                    15,
+                    6,
+                  ],
+                  Array [
+                    15,
+                    7,
+                  ],
+                  Array [
+                    15,
+                    8,
+                  ],
+                  Array [
+                    15,
+                    9,
+                  ],
+                  Array [
+                    5,
+                    3,
+                  ],
+                  Array [
+                    5,
+                    4,
+                  ],
+                  Array [
+                    5,
+                    5,
+                  ],
+                  Array [
+                    5,
+                    7,
+                  ],
+                  Array [
+                    5,
+                    8,
+                  ],
+                  Array [
+                    5,
+                    9,
+                  ],
+                  Array [
+                    10,
+                    7,
+                  ],
+                  Array [
+                    10,
+                    8,
+                  ],
+                  Array [
+                    10,
+                    9,
+                  ],
+                  Array [
+                    14,
+                    18,
+                  ],
+                  Array [
+                    14,
+                    17,
+                  ],
+                  Array [
+                    14,
+                    16,
+                  ],
+                  Array [
+                    14,
+                    15,
+                  ],
+                  Array [
+                    15,
+                    15,
+                  ],
+                  Array [
+                    16,
+                    15,
+                  ],
+                  Array [
+                    17,
+                    15,
+                  ],
+                  Array [
+                    18,
+                    15,
+                  ],
+                  Array [
+                    17,
+                    14,
+                  ],
+                  Array [
+                    17,
+                    13,
+                  ],
+                  Array [
+                    18,
+                    13,
+                  ],
+                  Array [
+                    13,
+                    16,
+                  ],
+                  Array [
+                    12,
+                    16,
+                  ],
+                  Array [
+                    11,
+                    16,
+                  ],
+                  Array [
+                    10,
+                    16,
+                  ],
+                  Array [
+                    10,
+                    17,
+                  ],
+                  Array [
+                    10,
+                    18,
+                  ],
+                  Array [
+                    5,
+                    18,
+                  ],
+                  Array [
+                    6,
+                    18,
+                  ],
+                  Array [
+                    6,
+                    17,
+                  ],
+                  Array [
+                    4,
+                    17,
+                  ],
+                ],
+              },
+              Object {
+                "ident": "N",
+                "value": "Markup",
+              },
+              Object {
+                "ident": "C",
+                "value": "Position set up without compressed point lists.",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "TR",
+                "value": Array [
+                  Array [
+                    3,
+                    3,
+                  ],
+                  Array [
+                    3,
+                    4,
+                  ],
+                  Array [
+                    3,
+                    5,
+                  ],
+                  Array [
+                    4,
+                    3,
+                  ],
+                  Array [
+                    4,
+                    4,
+                  ],
+                  Array [
+                    4,
+                    5,
+                  ],
+                  Array [
+                    Array [
+                      5,
+                      3,
+                    ],
+                    Array [
+                      5,
+                      5,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "MA",
+                "value": Array [
+                  Array [
+                    3,
+                    7,
+                  ],
+                  Array [
+                    3,
+                    8,
+                  ],
+                  Array [
+                    3,
+                    9,
+                  ],
+                  Array [
+                    4,
+                    9,
+                  ],
+                  Array [
+                    4,
+                    8,
+                  ],
+                  Array [
+                    4,
+                    7,
+                  ],
+                  Array [
+                    Array [
+                      5,
+                      7,
+                    ],
+                    Array [
+                      5,
+                      9,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "CR",
+                "value": Array [
+                  Array [
+                    13,
+                    3,
+                  ],
+                  Array [
+                    13,
+                    4,
+                  ],
+                  Array [
+                    13,
+                    5,
+                  ],
+                  Array [
+                    14,
+                    3,
+                  ],
+                  Array [
+                    14,
+                    4,
+                  ],
+                  Array [
+                    14,
+                    5,
+                  ],
+                  Array [
+                    Array [
+                      15,
+                      3,
+                    ],
+                    Array [
+                      15,
+                      5,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "SQ",
+                "value": Array [
+                  Array [
+                    13,
+                    7,
+                  ],
+                  Array [
+                    13,
+                    8,
+                  ],
+                  Array [
+                    13,
+                    9,
+                  ],
+                  Array [
+                    14,
+                    7,
+                  ],
+                  Array [
+                    14,
+                    8,
+                  ],
+                  Array [
+                    14,
+                    9,
+                  ],
+                  Array [
+                    Array [
+                      15,
+                      7,
+                    ],
+                    Array [
+                      15,
+                      9,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "SL",
+                "value": Array [
+                  Array [
+                    8,
+                    7,
+                  ],
+                  Array [
+                    8,
+                    8,
+                  ],
+                  Array [
+                    8,
+                    9,
+                  ],
+                  Array [
+                    9,
+                    9,
+                  ],
+                  Array [
+                    9,
+                    8,
+                  ],
+                  Array [
+                    9,
+                    7,
+                  ],
+                  Array [
+                    Array [
+                      10,
+                      7,
+                    ],
+                    Array [
+                      10,
+                      9,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "TW",
+                "value": Array [
+                  Array [
+                    Array [
+                      15,
+                      16,
+                    ],
+                    Array [
+                      18,
+                      18,
+                    ],
+                  ],
+                  Array [
+                    18,
+                    14,
+                  ],
+                  Array [
+                    Array [
+                      11,
+                      17,
+                    ],
+                    Array [
+                      13,
+                      18,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "TB",
+                "value": Array [
+                  Array [
+                    Array [
+                      0,
+                      16,
+                    ],
+                    Array [
+                      2,
+                      18,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      4,
+                      17,
+                    ],
+                    Array [
+                      7,
+                      18,
+                    ],
+                  ],
+                  Array [
+                    0,
+                    14,
+                  ],
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "Markup at top partially using compressed point lists (for markup on white stones); listed clockwise, starting at upper left:
+- TR (triangle)
+- CR (circle)
+- SQ (square)
+- SL (selected points)
+- MA ('X')
+
+Markup at bottom: black & white territory (using compressed point lists)",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "LB",
+                "value": Array [
+                  Array [
+                    Array [
+                      3,
+                      2,
+                    ],
+                    "1",
+                  ],
+                  Array [
+                    Array [
+                      5,
+                      2,
+                    ],
+                    "2",
+                  ],
+                  Array [
+                    Array [
+                      13,
+                      2,
+                    ],
+                    "3",
+                  ],
+                  Array [
+                    Array [
+                      15,
+                      2,
+                    ],
+                    "4",
+                  ],
+                  Array [
+                    Array [
+                      3,
+                      9,
+                    ],
+                    "a",
+                  ],
+                  Array [
+                    Array [
+                      5,
+                      9,
+                    ],
+                    "b",
+                  ],
+                  Array [
+                    Array [
+                      13,
+                      9,
+                    ],
+                    "c",
+                  ],
+                  Array [
+                    Array [
+                      15,
+                      9,
+                    ],
+                    "d",
+                  ],
+                  Array [
+                    Array [
+                      6,
+                      18,
+                    ],
+                    "ABCDEFGH",
+                  ],
+                  Array [
+                    Array [
+                      6,
+                      17,
+                    ],
+                    "ABCDEFG",
+                  ],
+                  Array [
+                    Array [
+                      6,
+                      16,
+                    ],
+                    "ABCDEF",
+                  ],
+                  Array [
+                    Array [
+                      6,
+                      15,
+                    ],
+                    "ABCDE",
+                  ],
+                  Array [
+                    Array [
+                      6,
+                      14,
+                    ],
+                    "ABCD",
+                  ],
+                  Array [
+                    Array [
+                      6,
+                      13,
+                    ],
+                    "ABC",
+                  ],
+                  Array [
+                    Array [
+                      6,
+                      12,
+                    ],
+                    "AB",
+                  ],
+                  Array [
+                    Array [
+                      12,
+                      12,
+                    ],
+                    "12",
+                  ],
+                  Array [
+                    Array [
+                      12,
+                      13,
+                    ],
+                    "123",
+                  ],
+                  Array [
+                    Array [
+                      12,
+                      14,
+                    ],
+                    "1234",
+                  ],
+                  Array [
+                    Array [
+                      12,
+                      15,
+                    ],
+                    "12345",
+                  ],
+                  Array [
+                    Array [
+                      12,
+                      16,
+                    ],
+                    "123456",
+                  ],
+                  Array [
+                    Array [
+                      12,
+                      17,
+                    ],
+                    "1234567",
+                  ],
+                  Array [
+                    Array [
+                      12,
+                      18,
+                    ],
+                    "12345678",
+                  ],
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "Label (LB property)
+
+Top: 8 single char labels (1-4, a-d)
+
+Bottom: Labels up to 8 char length.",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "DD",
+                "value": Array [
+                  Array [
+                    Array [
+                      10,
+                      16,
+                    ],
+                    Array [
+                      14,
+                      18,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      3,
+                      16,
+                    ],
+                    Array [
+                      7,
+                      18,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "AR",
+                "value": Array [
+                  Array [
+                    Array [
+                      0,
+                      0,
+                    ],
+                    Array [
+                      18,
+                      2,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      18,
+                      0,
+                    ],
+                    Array [
+                      0,
+                      2,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      0,
+                      0,
+                    ],
+                    Array [
+                      18,
+                      0,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      0,
+                      0,
+                    ],
+                    Array [
+                      0,
+                      2,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      2,
+                      3,
+                    ],
+                    Array [
+                      2,
+                      9,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      6,
+                      3,
+                    ],
+                    Array [
+                      12,
+                      3,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      5,
+                      7,
+                    ],
+                    Array [
+                      8,
+                      9,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      10,
+                      9,
+                    ],
+                    Array [
+                      13,
+                      7,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "LN",
+                "value": Array [
+                  Array [
+                    Array [
+                      15,
+                      9,
+                    ],
+                    Array [
+                      15,
+                      3,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      13,
+                      5,
+                    ],
+                    Array [
+                      5,
+                      5,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      8,
+                      7,
+                    ],
+                    Array [
+                      5,
+                      9,
+                    ],
+                  ],
+                  Array [
+                    Array [
+                      10,
+                      7,
+                    ],
+                    Array [
+                      13,
+                      9,
+                    ],
+                  ],
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "Arrows, lines and dimmed points.",
+              },
+            ],
+          ],
+        },
+        Object {
+          "gameTrees": Array [
+            Object {
+              "gameTrees": Array [
+                Object {
+                  "gameTrees": Array [],
+                  "sequence": Array [
+                    Array [
+                      Object {
+                        "ident": "B",
+                        "value": Array [
+                          15,
+                          15,
+                        ],
+                      },
+                      Object {
+                        "ident": "N",
+                        "value": "B q4",
+                      },
+                    ],
+                  ],
+                },
+                Object {
+                  "gameTrees": Array [],
+                  "sequence": Array [
+                    Array [
+                      Object {
+                        "ident": "B",
+                        "value": Array [
+                          3,
+                          15,
+                        ],
+                      },
+                      Object {
+                        "ident": "N",
+                        "value": "B d4",
+                      },
+                    ],
+                  ],
+                },
+                Object {
+                  "gameTrees": Array [],
+                  "sequence": Array [
+                    Array [
+                      Object {
+                        "ident": "B",
+                        "value": Array [
+                          15,
+                          16,
+                        ],
+                      },
+                      Object {
+                        "ident": "N",
+                        "value": "B q3",
+                      },
+                    ],
+                  ],
+                },
+                Object {
+                  "gameTrees": Array [],
+                  "sequence": Array [
+                    Array [
+                      Object {
+                        "ident": "B",
+                        "value": Array [
+                          14,
+                          16,
+                        ],
+                      },
+                      Object {
+                        "ident": "N",
+                        "value": "B p3",
+                      },
+                    ],
+                  ],
+                },
+              ],
+              "sequence": Array [
+                Array [
+                  Object {
+                    "ident": "W",
+                    "value": Array [
+                      3,
+                      3,
+                    ],
+                  },
+                  Object {
+                    "ident": "N",
+                    "value": "W d16",
+                  },
+                  Object {
+                    "ident": "C",
+                    "value": "Variation C is better.",
+                  },
+                ],
+              ],
+            },
+            Object {
+              "gameTrees": Array [],
+              "sequence": Array [
+                Array [
+                  Object {
+                    "ident": "W",
+                    "value": Array [
+                      3,
+                      15,
+                    ],
+                  },
+                  Object {
+                    "ident": "N",
+                    "value": "W d4",
+                  },
+                ],
+              ],
+            },
+            Object {
+              "gameTrees": Array [],
+              "sequence": Array [
+                Array [
+                  Object {
+                    "ident": "W",
+                    "value": Array [
+                      15,
+                      15,
+                    ],
+                  },
+                  Object {
+                    "ident": "N",
+                    "value": "W q4",
+                  },
+                ],
+              ],
+            },
+            Object {
+              "gameTrees": Array [],
+              "sequence": Array [
+                Array [
+                  Object {
+                    "ident": "W",
+                    "value": Array [
+                      2,
+                      2,
+                    ],
+                  },
+                  Object {
+                    "ident": "N",
+                    "value": "W c17",
+                  },
+                ],
+              ],
+            },
+            Object {
+              "gameTrees": Array [],
+              "sequence": Array [
+                Array [
+                  Object {
+                    "ident": "W",
+                    "value": Array [
+                      2,
+                      16,
+                    ],
+                  },
+                  Object {
+                    "ident": "N",
+                    "value": "W c3",
+                  },
+                ],
+              ],
+            },
+            Object {
+              "gameTrees": Array [],
+              "sequence": Array [
+                Array [
+                  Object {
+                    "ident": "W",
+                    "value": Array [
+                      16,
+                      16,
+                    ],
+                  },
+                  Object {
+                    "ident": "N",
+                    "value": "W r3",
+                  },
+                ],
+              ],
+            },
+          ],
+          "sequence": Array [
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  16,
+                  3,
+                ],
+              },
+              Object {
+                "ident": "N",
+                "value": "Style & text type",
+              },
+              Object {
+                "ident": "C",
+                "value": "There are hard linebreaks & soft linebreaks.
+Soft linebreaks are linebreaks preceeded by '\\\\' like this one >ok<. Hard line breaks are all other linebreaks.
+Soft linebreaks are converted to >nothing<, i.e. removed.
+
+Note that linebreaks are coded differently on different systems.
+
+Examples (>ok< shouldn't be split):
+
+linebreak 1 \\"\\\\n\\": >ok<
+linebreak 2 \\"\\\\n\\\\r\\": >o
+k<
+linebreak 3 \\"\\\\r\\\\n\\": >o
+k<
+linebreak 4 \\"\\\\r\\": >ok<",
+              },
+            ],
+          ],
+        },
+        Object {
+          "gameTrees": Array [],
+          "sequence": Array [
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  16,
+                  17,
+                ],
+              },
+              Object {
+                "ident": "N",
+                "value": "Time limits, captures & move numbers",
+              },
+              Object {
+                "ident": "BL",
+                "value": 120,
+              },
+              Object {
+                "ident": "C",
+                "value": "Black time left: 120 sec",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  17,
+                  17,
+                ],
+              },
+              Object {
+                "ident": "WL",
+                "value": 300,
+              },
+              Object {
+                "ident": "C",
+                "value": "White time left: 300 sec",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  17,
+                  16,
+                ],
+              },
+              Object {
+                "ident": "BL",
+                "value": 105.6,
+              },
+              Object {
+                "ident": "OB",
+                "value": 10,
+              },
+              Object {
+                "ident": "C",
+                "value": "Black time left: 105.6 sec
+Black stones left (in this byo-yomi period): 10",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  16,
+                  16,
+                ],
+              },
+              Object {
+                "ident": "WL",
+                "value": 200,
+              },
+              Object {
+                "ident": "OW",
+                "value": 2,
+              },
+              Object {
+                "ident": "C",
+                "value": "White time left: 200 sec
+White stones left: 2",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  18,
+                  17,
+                ],
+              },
+              Object {
+                "ident": "BL",
+                "value": 87,
+              },
+              Object {
+                "ident": "OB",
+                "value": 9,
+              },
+              Object {
+                "ident": "C",
+                "value": "Black time left: 87 sec
+Black stones left: 9",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  16,
+                  18,
+                ],
+              },
+              Object {
+                "ident": "WL",
+                "value": 13.2,
+              },
+              Object {
+                "ident": "OW",
+                "value": 1,
+              },
+              Object {
+                "ident": "C",
+                "value": "White time left: 13.2 sec
+White stones left: 1",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  17,
+                  18,
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "One white stone at s2 captured",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  15,
+                  18,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  15,
+                  17,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  14,
+                  17,
+                ],
+              },
+              Object {
+                "ident": "MN",
+                "value": 2,
+              },
+              Object {
+                "ident": "C",
+                "value": "Set move number to 2",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  14,
+                  18,
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "Two white stones captured
+(at q1 & r1)",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "MN",
+                "value": 112,
+              },
+              Object {
+                "ident": "W",
+                "value": Array [
+                  15,
+                  16,
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "Set move number to 112",
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  18,
+                  16,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  17,
+                  15,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  15,
+                  18,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  13,
+                  18,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  18,
+                  18,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  13,
+                  17,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  17,
+                  17,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  18,
+                  15,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  16,
+                  18,
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "Suicide move
+(all B stones get captured)",
+              },
+            ],
+          ],
+        },
+      ],
+      "sequence": Array [
+        Array [
+          Object {
+            "ident": "FF",
+            "value": 4,
+          },
+          Object {
+            "ident": "AP",
+            "value": Array [
+              "Primiview",
+              "3.1",
+            ],
+          },
+          Object {
+            "ident": "GM",
+            "value": 1,
+          },
+          Object {
+            "ident": "SZ",
+            "value": 19,
+          },
+          Object {
+            "ident": "GN",
+            "value": "Gametree 1: properties",
+          },
+          Object {
+            "ident": "US",
+            "value": "Arno Hollosi",
+          },
+        ],
+      ],
+    },
+    Object {
+      "gameTrees": Array [
+        Object {
+          "gameTrees": Array [],
+          "sequence": Array [
+            Array [
+              Object {
+                "ident": "PW",
+                "value": "W. Hite",
+              },
+              Object {
+                "ident": "WR",
+                "value": "6d",
+              },
+              Object {
+                "ident": "RO",
+                "value": "2",
+              },
+              Object {
+                "ident": "RE",
+                "value": "W+3.5",
+              },
+              Object {
+                "ident": "PB",
+                "value": "B. Lack",
+              },
+              Object {
+                "ident": "BR",
+                "value": "5d",
+              },
+              Object {
+                "ident": "PC",
+                "value": "London",
+              },
+              Object {
+                "ident": "EV",
+                "value": "Go Congress",
+              },
+              Object {
+                "ident": "W",
+                "value": Array [
+                  3,
+                  15,
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "Game-info:
+Black: B. Lack, 5d
+White: W. Hite, 6d
+Place: London
+Event: Go Congress
+Round: 2
+Result: White wins by 3.5",
+              },
+            ],
+          ],
+        },
+        Object {
+          "gameTrees": Array [],
+          "sequence": Array [
+            Array [
+              Object {
+                "ident": "PW",
+                "value": "T. Suji",
+              },
+              Object {
+                "ident": "WR",
+                "value": "7d",
+              },
+              Object {
+                "ident": "RO",
+                "value": "1",
+              },
+              Object {
+                "ident": "RE",
+                "value": "W+Resign",
+              },
+              Object {
+                "ident": "PB",
+                "value": "B. Lack",
+              },
+              Object {
+                "ident": "BR",
+                "value": "5d",
+              },
+              Object {
+                "ident": "PC",
+                "value": "London",
+              },
+              Object {
+                "ident": "EV",
+                "value": "Go Congress",
+              },
+              Object {
+                "ident": "W",
+                "value": Array [
+                  2,
+                  15,
+                ],
+              },
+              Object {
+                "ident": "C",
+                "value": "Game-info:
+Black: B. Lack, 5d
+White: T. Suji, 7d
+Place: London
+Event: Go Congress
+Round: 1
+Result: White wins by resignation",
+              },
+            ],
+          ],
+        },
+        Object {
+          "gameTrees": Array [
+            Object {
+              "gameTrees": Array [],
+              "sequence": Array [
+                Array [
+                  Object {
+                    "ident": "PW",
+                    "value": "S. Abaki",
+                  },
+                  Object {
+                    "ident": "WR",
+                    "value": "1d",
+                  },
+                  Object {
+                    "ident": "RO",
+                    "value": "3",
+                  },
+                  Object {
+                    "ident": "RE",
+                    "value": "B+63.5",
+                  },
+                  Object {
+                    "ident": "PB",
+                    "value": "B. Lack",
+                  },
+                  Object {
+                    "ident": "BR",
+                    "value": "5d",
+                  },
+                  Object {
+                    "ident": "PC",
+                    "value": "London",
+                  },
+                  Object {
+                    "ident": "EV",
+                    "value": "Go Congress",
+                  },
+                  Object {
+                    "ident": "W",
+                    "value": Array [
+                      4,
+                      3,
+                    ],
+                  },
+                  Object {
+                    "ident": "C",
+                    "value": "Game-info:
+Black: B. Lack, 5d
+White: S. Abaki, 1d
+Place: London
+Event: Go Congress
+Round: 3
+Result: Balck wins by 63.5",
+                  },
+                ],
+              ],
+            },
+            Object {
+              "gameTrees": Array [],
+              "sequence": Array [
+                Array [
+                  Object {
+                    "ident": "PW",
+                    "value": "A. Tari",
+                  },
+                  Object {
+                    "ident": "WR",
+                    "value": "12k",
+                  },
+                  Object {
+                    "ident": "KM",
+                    "value": -59.5,
+                  },
+                  Object {
+                    "ident": "RO",
+                    "value": "4",
+                  },
+                  Object {
+                    "ident": "RE",
+                    "value": "B+R",
+                  },
+                  Object {
+                    "ident": "PB",
+                    "value": "B. Lack",
+                  },
+                  Object {
+                    "ident": "BR",
+                    "value": "5d",
+                  },
+                  Object {
+                    "ident": "PC",
+                    "value": "London",
+                  },
+                  Object {
+                    "ident": "EV",
+                    "value": "Go Congress",
+                  },
+                  Object {
+                    "ident": "W",
+                    "value": Array [
+                      2,
+                      3,
+                    ],
+                  },
+                  Object {
+                    "ident": "C",
+                    "value": "Game-info:
+Black: B. Lack, 5d
+White: A. Tari, 12k
+Place: London
+Event: Go Congress
+Round: 4
+Komi: -59.5 points
+Result: Black wins by resignation",
+                  },
+                ],
+              ],
+            },
+          ],
+          "sequence": Array [
+            Array [
+              Object {
+                "ident": "W",
+                "value": Array [
+                  4,
+                  15,
+                ],
+              },
+            ],
+            Array [
+              Object {
+                "ident": "B",
+                "value": Array [
+                  15,
+                  15,
+                ],
+              },
+            ],
+          ],
+        },
+      ],
+      "sequence": Array [
+        Array [
+          Object {
+            "ident": "FF",
+            "value": 4,
+          },
+          Object {
+            "ident": "AP",
+            "value": Array [
+              "Primiview",
+              "3.1",
+            ],
+          },
+          Object {
+            "ident": "GM",
+            "value": 1,
+          },
+          Object {
+            "ident": "SZ",
+            "value": 19,
+          },
+          Object {
+            "ident": "C",
+            "value": "Gametree 2: game-info
+
+Game-info properties are usually stored in the root node.
+If games are merged into a single game-tree, they are stored in the node where the game first becomes distinguishable from all other games in the tree.",
+          },
+        ],
+        Array [
+          Object {
+            "ident": "B",
+            "value": Array [
+              15,
+              3,
+            ],
+          },
+        ],
+      ],
+    },
+  ],
+}
+`;
