@@ -1,4 +1,4 @@
-import Parsimmon, { Parser } from 'parsimmon';
+import P, { Parser } from 'parsimmon';
 
 enum Color {
   Black = 'B',
@@ -13,47 +13,41 @@ enum Double {
 const letterToNumber = (letter: string) =>
   letter.charCodeAt(0) - 'a'.charCodeAt(0);
 
-const ucLetter = Parsimmon.range('A', 'Z');
-const lineBreak = Parsimmon.alt(
-  Parsimmon.cr,
-  Parsimmon.lf,
-  Parsimmon.crlf,
-  Parsimmon.seq(Parsimmon.lf, Parsimmon.cr).tie(),
-);
+const ucLetter = P.range('A', 'Z');
+const lineBreak = P.alt(P.cr, P.lf, P.crlf, P.seq(P.lf, P.cr).tie());
 
-const none = Parsimmon.string('').result(null);
-const number = Parsimmon.regex(/[+-]?\d+/).map(Number.parseInt);
-const real = Parsimmon.regex(/[+-]?\d+(\.\d+)?/).map(Number.parseFloat);
-const double = Parsimmon.alt(
-  Parsimmon.string('1').result(Double.Normal),
-  Parsimmon.string('2').result(Double.Emphasised),
+const none = P.string('').result(null);
+const number = P.regex(/[+-]?\d+/).map(Number.parseInt);
+const real = P.regex(/[+-]?\d+(\.\d+)?/).map(Number.parseFloat);
+const double = P.alt(
+  P.string('1').result(Double.Normal),
+  P.string('2').result(Double.Emphasised),
 );
-const color = Parsimmon.alt(
-  Parsimmon.string('B').result(Color.Black),
-  Parsimmon.string('W').result(Color.White),
+const color = P.alt(
+  P.string('B').result(Color.Black),
+  P.string('W').result(Color.White),
 );
 const text = (isComposed: boolean) =>
-  Parsimmon.alt(
-    Parsimmon.noneOf(isComposed ? ']\\:' : ']\\'),
-    Parsimmon.string('\\').then(lineBreak.result('').or(Parsimmon.any)),
+  P.alt(
+    P.noneOf(isComposed ? ']\\:' : ']\\'),
+    P.string('\\').then(lineBreak.result('').or(P.any)),
   )
     .many()
     .tie();
 // TODO: Implement different rules for this.
 const simpleText = text;
-const point = Parsimmon.range('a', 'z')
+const point = P.range('a', 'z')
   .times(2)
   .map(([x, y]) => [letterToNumber(x), letterToNumber(y)] as const);
 const stone = point;
 const move = point.or(none);
 
 const single = <T>(parser: Parser<T>) =>
-  Parsimmon.string('[')
+  P.string('[')
     .then(parser)
-    .skip(Parsimmon.string(']'));
+    .skip(P.string(']'));
 
-const listOf = <T>(parser: Parser<T>) =>
-  single(parser).sepBy1(Parsimmon.optWhitespace);
+const listOf = <T>(parser: Parser<T>) => single(parser).sepBy1(P.optWhitespace);
 const eListOf = <T>(parser: Parser<T>) =>
   single(none)
     .result([])
@@ -61,8 +55,7 @@ const eListOf = <T>(parser: Parser<T>) =>
 const composed = <A, B>(
   parser1: Parser<A>,
   parser2: Parser<B>,
-): Parser<[A, B]> =>
-  Parsimmon.seq(parser1.skip(Parsimmon.string(':')), parser2);
+): Parser<[A, B]> => P.seq(parser1.skip(P.string(':')), parser2);
 
 // Compressed point lists
 const maybeComposed = <T>(parser: Parser<T>) =>
@@ -142,30 +135,30 @@ const property = propIdent.chain(ident => {
     ? propertyParsers[ident as PropertyType]
     : undefined;
 
-  if (!parser) return Parsimmon.fail(`Unknown property type ${ident}`);
+  if (!parser) return P.fail(`Unknown property type ${ident}`);
 
   return (parser as Parser<any>).map(value => ({ ident, value } as Property));
 });
 
-const node = Parsimmon.string(';')
-  .then(Parsimmon.optWhitespace)
-  .then(property.sepBy(Parsimmon.optWhitespace));
-const sequence = node.sepBy1(Parsimmon.optWhitespace);
+const node = P.string(';')
+  .then(P.optWhitespace)
+  .then(property.sepBy(P.optWhitespace));
+const sequence = node.sepBy1(P.optWhitespace);
 
 interface GameTree {
   sequence: Property[][];
   gameTrees: GameTree[];
 }
 
-const gameTree: Parser<GameTree> = Parsimmon.lazy(() =>
-  Parsimmon.seqMap(
-    Parsimmon.string('(')
+const gameTree: Parser<GameTree> = P.lazy(() =>
+  P.seqMap(
+    P.string('(')
       .then(sequence)
-      .skip(Parsimmon.optWhitespace),
+      .skip(P.optWhitespace),
     gameTree
-      .sepBy(Parsimmon.optWhitespace)
-      .skip(Parsimmon.string(')'))
-      .skip(Parsimmon.optWhitespace),
+      .sepBy(P.optWhitespace)
+      .skip(P.string(')'))
+      .skip(P.optWhitespace),
     (sequence, gameTrees) => {
       return {
         sequence,
@@ -175,10 +168,10 @@ const gameTree: Parser<GameTree> = Parsimmon.lazy(() =>
   ),
 );
 
-const collection = gameTree.sepBy1(Parsimmon.optWhitespace);
+const collection = gameTree.sepBy1(P.optWhitespace);
 
 export const parseSgf = (sgf: string) =>
   collection
-    .skip(Parsimmon.optWhitespace)
-    .skip(Parsimmon.eof)
+    .skip(P.optWhitespace)
+    .skip(P.eof)
     .parse(sgf);
