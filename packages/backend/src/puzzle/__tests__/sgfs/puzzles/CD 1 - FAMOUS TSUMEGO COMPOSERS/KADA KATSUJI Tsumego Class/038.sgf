@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[gq][fp][fo][en][dn][co][bn][bp][ap][bq][cs][dq][gs]AW[br][cr][cq]
+[dp][eq][fq][fr][aq]C[A]N[038]AP[MultiGo:4.4.4]SZ[19]AB[gr]MULTIGOGM[0]
+
+(;C[很容易就把白棋给杀活了，\:)。
+
+难度：A]N[审题])
+(;B[fs]N[正解];W[es]C[黑1冲是先手，白2必挡];B[dr]C[黑3必着];W[er]C[白4只能打吃]
+;B[bs]C[黑5爬是致命一击。计算时能够想到黑5这一手就能得到正解。];W[ar];B[ep];W[ds]
+;B[dq]C[白死。])
+(;B[fs]C[黑1冲是先手，白只能挡住，走其他地方简单不行。比如……]N[变化1];W[ds];B[es]
+;W[bs];B[ar];W[er];B[ep];W[dr];B[cp])
+(;B[fs]N[变化2];W[es];B[dr];W[ep];B[bs])
+(;B[fs]N[失败1];W[es];B[dr];W[er];B[ep];W[ds];B[dq];W[bs])
+(;B[es]N[失败2];W[fs];B[dr];W[ep];B[bs];W[er]))

@@ -1,0 +1,9 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][ea][db][hd][da][hb][dc][id][ja][ed][jc][jb][fd]GN[ ]AB[eb][gb][ic][ib][fc][ia][ga][ec][hc][gc][fa]PM[1]C[Problem 210. Good or bad?
+(please move one step forward to see the problem diagram...)]PW[ ]
+;B[ha]C[Black has taken a stone with 1. Is this a good or a bad move?]
+;FG[259:]LB[ha:1]PM[2]C[Black 1 is Bad
+Black 1 is a bad move. It is completely unnecessary.]
+;FG[259:]AE[ha]AW[hb]PM[2]C[For Reference
+Black should leave the situation as it is. By playing at 1 he loses one point of territory.]
+)

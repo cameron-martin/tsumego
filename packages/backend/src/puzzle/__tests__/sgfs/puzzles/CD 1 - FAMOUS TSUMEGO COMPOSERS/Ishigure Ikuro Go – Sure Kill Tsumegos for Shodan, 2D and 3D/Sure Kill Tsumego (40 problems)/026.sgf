@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[js][jr][kq][lq][ko][lo][mn][nn][on][po][qo][rn][rp][sp][sq][oq][or]
+[qr]AW[mp][mo][no][oo][op][pp][qp][qq][rq][lr][mq][nq][nr]N[026]AP[MultiGo:4.4.4]
+SZ[19]AB[rr]MULTIGOGM[0]
+
+(;C[正解不难，但失败图不容易。]N[审题])
+(;B[os]C[黑1立下冷静，这样白死]N[正解];W[ns];B[ls];W[pr];B[qs])
+(;B[ls]N[失败1];W[pr];B[ps];W[pq];B[ns];W[ms];B[mr];W[os];B[or];W[ms])
+(;B[ns]N[失败2];W[pr];B[ps];W[pq];B[ls];W[ms]))

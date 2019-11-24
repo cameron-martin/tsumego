@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[dp][ep][fp][gp][hp][hq][hr][hs][bn][fr][er][bq][bp]AW[aq][br][cq]
+[dq][eq][fq][gq][gr][fs][ap]C[B]N[039]AP[MultiGo:4.4.4]SZ[19]AB[cp]MULTIGOGM[0]
+
+(;LB[gs:A][dr:B]C[黑A则白B，白活。必须想点办法。
+
+难度：B]N[审题])
+(;B[bs]N[正解];W[cs];B[ds];W[dr];B[cr]C[劫杀正解。这是黑的先手劫，紧劫。
+
+阿文：个人以为，白棋不应选择本图抵抗。])
+(;B[bs]N[变化1];W[cs];B[ds];W[as];B[gs]C[白死。])
+(;B[bs]N[变化2];W[dr];B[ar];W[as]C[站在白方的立场考虑，应选择本图抵抗。白先提劫。])
+(;B[bs]N[变化3];W[ar];B[gs];W[dr];B[es];W[cs];B[fs]LB[ds:A]C[A位不能入子，白死。])
+(;B[ar]N[失败];W[as]C[黑1扑，白2提子，黑的进攻难以为继。]))

@@ -1,0 +1,35 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bc][cd][cg][ci][dd][de][dg]
+AW[bb][cb][ce][dc][ec][ed][ee][ef]PL[W]C[White to play.
+
+Endgame moves - Break into]
+(
+;W[be]
+;B[bd]
+(
+;W[ac]
+;B[df]
+;W[ad]C[RIGHT
+])
+(
+;W[ad]
+;B[ac]
+;W[df]
+;B[cf]
+(
+;W[ae]
+;B[bf])
+(
+;W[cc]
+;B[ae])))
+(
+;W[df]
+(
+;B[be])
+(
+;B[cf]
+;W[be]
+;B[bd]))
+(
+;W[bd]
+;B[be]))

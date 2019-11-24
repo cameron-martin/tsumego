@@ -1,0 +1,42 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][ce][dp][dn][pn][qn][ql][qc][pc][nc][nb][rj]
+AB[fq][jp][np][pp][qo][pj][ok][lc][me][od][pd][qd]
+LB[ok:A][rj:B]
+C[Problem 101. Black to play.  
+
+The diagonal move of Black A looks slack, since it seems as if White can slide into Black's moyo at the top with B. How should Black continue ? ]
+;B[ri]
+TE[2]
+C[Correct Answer.  
+
+Black should attach with 1, ... ]
+(;W[qi];B[rk]
+C[... then clamp with 3. ]
+;W[rh]
+LB[ri:1]
+C[White traps the stone at 1, but ... ]
+;B[qk]
+LB[qj:A]
+C[... after Black 5 the white stones below and above are under attack. Note that Black has avoided to play an atari at A because if White captures this stone she will have an easier time making a second eye. <= ]
+)
+(;W[qj]
+LB[ri:1]
+C[Variation.  
+
+In answer to Black 1, White might try to secure her stones ... ]
+;B[qi];W[nl];B[ol];W[om]
+C[... with the sequence to 6. ]
+;B[ro]
+C[But Black secures the corner with 7, while denying White room to make two eyes. ]
+;W[pi]
+C[White tries to get some play above with 8 ... ]
+;B[oi];W[ph];B[qg];W[pg];B[qf];W[mj]
+C[...to 14, but ... ]
+;B[oh];W[mm]
+C[... she must eventually come back and defend with 16 to ensure that her stones in the lower right are connected. ]
+;B[lp]
+C[Black ends the sequence with 17, having secured the territory at the bottom and in the upper right. For all of White's intense maneuvers, she has only managed to escape with her stones. <= ]
+)
+)

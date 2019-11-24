@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qo][pq][op][oo][no][mo][mp][lq][kq][jq][jr][ks][rs][rr][rq]AW[kr]
+[lr][ms][nr][mq][nq][np][pr][qr][qq]N[003]AP[MultiGo:4.4.4]SZ[19]AB[qp]MULTIGOGM[0]
+
+(;C[失败图很容易得到。正解图也不难。如果第一感就能得到正解就太好了。]N[审题])
+(;B[or]N[正解];W[oq];B[os];W[ns];B[js]C[白死。])
+(;B[ps]N[失败1];W[or])
+(;B[js]N[失败2];W[os]C[白棋始终是三眼两做的形，活。]))

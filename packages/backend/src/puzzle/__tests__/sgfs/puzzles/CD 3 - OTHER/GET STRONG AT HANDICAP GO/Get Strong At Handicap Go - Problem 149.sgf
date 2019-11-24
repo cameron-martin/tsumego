@@ -1,0 +1,49 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ec][dc][cf][qf][oh]
+AB[dp][pd][pp][ed][fd][fc][jd][qh]
+LB[oh:1]
+TR[qh]
+C[Problem 149. Black to play.  
+
+Capping with 1 was an unorthodox response to the pincer of the marked stone. How should Black respond ? ]
+(;B[pf]
+TE[2]
+C[Correct Answer.  
+
+Black should take advantage of White's thin position and attach at 1. ]
+;W[pe];B[oe];W[qe];B[pg];W[qd];B[pc];W[qc];B[qb];W[rb];B[pb];W[rg]
+C[The sequence to 12 is almost inevitable. White lives in the corner, but ... ]
+;B[nf]
+TR[oh]
+C[... Black gets a thick position in the top right when he connects at 13. The marked capping stone (White 1 in the Problem Diagram) is now cut off. <= ]
+)
+(;B[nd]
+C[How the game continued.  
+
+Although not as severe as the Correct Answer, Black 1 was also a good move, but, ... ]
+;W[qi]
+C[... when White attached with 2, ... ]
+(;B[pi]
+C[... Black 3 enabled White to secure her stones and ... ]
+;W[ph];B[qj];W[ri];B[pj];W[rj];B[rk];W[qg]
+C[... make a thick position with the sequence to 10. <= ]
+)
+(;B[ri]
+C[Variation.  
+
+Playing a hane with Black 3 would be better. ]
+;W[pi]
+C[White will draw back with 4 ... ]
+;B[qj]
+C[... and Black will play 5. ]
+;W[pk]
+C[White will probably play elsewhere, but, if she were to play around here, ... ]
+;B[qk];W[pl];B[ql];W[pm];B[qm];W[pn]
+C[... making thickness with the sequence to 12 gives her the best prospects. ]
+;B[ro]
+LB[qd:C][qc:B][pg:A]
+C[If Black A, White will invade the corner with B, so Black C is the biggest point for Black in this position. <= ]
+))
+)

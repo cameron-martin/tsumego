@@ -1,0 +1,4 @@
+(;AB[ca][cb][cc][cd][dd][ed][fd][gd][hd][id][jc][kc][kb][ka]AW[da][db][dc][ec][gb][hb][ic][jb][ja]C[黑先]
+
+(;B[fb]N[失败图];W[fc];B[ea];W[gc];B[ib];W[ia];B[hc];W[eb];B[fa];W[ga];B[fa];W[ib])
+(;B[fb];W[fc];B[ga];W[gc];B[ib];W[ia];B[hc];W[ea]N[正解图]C[失败图中的关键是黑3。正解图中，即使无法劫胜，黑也可粘住走成双活。]))

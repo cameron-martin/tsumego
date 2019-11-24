@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[mc][lb][kb][qc][pc][nb]AW[mb][jb][jc][kc][lc][md][ne][oe][pd][qd]
+[rc][rb][pb]N[001]AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;LB[ma:A]C[A位提子是不是黑必然的一手？提子以后呢？]N[审题])
+(;B[ma]N[正解];W[ka];B[qb];W[qa];B[oa]C[黑活。])
+(;B[ma]N[变化];W[oa];B[ka];W[na];B[ob])
+(;B[qb]N[失败1];W[ma];B[ob];W[pa])
+(;B[ob]N[失败2];W[ma]))

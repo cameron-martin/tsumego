@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qf][rf][ob][oc][od][oe][qd]AW[re][qe][pd][pc][qc]N[022]AP[MultiGo:4.4.4]
+SZ[19]AB[pf]MULTIGOGM[0]
+
+(;LB[ra:A][pb:B][qb:C][qa:D]C[黑很想A位大飞进角破白眼位，这可以作为计算的开始。黑B、C、D之类，不可能成功，但应计算确认。]
+N[审题])
+(;B[rd]N[正解];W[rc];B[ra]C[白做不出两眼来，死。])
+(;B[rd]LB[pb:A][rb:B]C[黑1时，白不叫吃，走其他地方如何？比较有前途的是A和B点，但黑老实吃住白二子，白即不活。]
+N[变化];W[ra]LB[pe:A][rc:B]C[白2很飘逸地飞一下，黑如A则白B可活];B[rc]C[白死。])
+(;B[ra]N[失败1];W[rb];B[rd];W[qa];B[pb];W[rc])
+(;B[rd]N[失败2];W[rc];B[pe];W[ra];B[se];W[sb]))

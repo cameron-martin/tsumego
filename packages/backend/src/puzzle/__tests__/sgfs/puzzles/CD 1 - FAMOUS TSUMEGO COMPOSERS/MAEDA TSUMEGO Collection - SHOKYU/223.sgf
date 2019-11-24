@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[el][ek][ej][ei][eh][dh][cg][df][bf][bj][cj][ck][cn][dn]AW[ah][ai]
+[bi][ci][di][ch][dj][dk][dl][dm][bg]N[223]AP[MultiGo:4.4.4]SZ[19]AB[em]MULTIGOGM[0]
+
+(;TR[bj][cj][ck]C[黑三子如何安全回家？
+
+难度：☆☆]N[审题])
+(;B[bl]N[正解];W[bm];B[cm];W[cl]C[到此是必然的进行];B[bk]C[黑安全回家，白死。])
+(;B[bm]N[失败1];W[bl];B[cl];W[cm])
+(;B[cm]N[失败2];W[cl];B[bl];W[bk]))

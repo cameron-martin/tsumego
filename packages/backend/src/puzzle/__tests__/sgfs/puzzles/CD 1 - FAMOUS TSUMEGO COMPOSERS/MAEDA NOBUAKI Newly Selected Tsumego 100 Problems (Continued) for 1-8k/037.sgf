@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qf][qd][pd][oc][nc][nb][na][sd][se]AW[ob][pc][pa][qc][rc][rd][ra]
+N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;C[审题：空间不大，可选点不多，要求计算全面。]N[审题])
+(;B[sb]N[正解];W[sc]C[黑1点，白2必挡];B[oa];W[qb];B[pb]C[打劫是正解。])
+(;B[sb]N[失败1];W[sc];B[qb];W[rb]C[白活。])
+(;B[oa]N[失败2];W[sb];B[pb];W[qb]))

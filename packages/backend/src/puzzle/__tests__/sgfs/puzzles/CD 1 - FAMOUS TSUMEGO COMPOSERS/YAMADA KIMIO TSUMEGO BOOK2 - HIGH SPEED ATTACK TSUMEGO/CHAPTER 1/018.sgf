@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[of][nf][mf][md][ld][lc][lb][kb][rb][ra][qc][qd][qe]AW[mb][mc][nd]
+[pe][pd][pc][pb][qb][qa]N[018]AP[MultiGo:4.4.4]SZ[19]AB[pf]MULTIGOGM[0]
+
+(;C[从外侧压缩白的眼位，貌似不能成功。棋形上看，白气紧。
+
+本题与017题密切相关。有了017题的经验，解决本题应该不难。]
+N[审题])
+(;B[oa]N[正解];W[ma];B[ob];W[nb];B[od];W[oe];B[oc];W[ne];B[nc]C[计算时，白4的抵抗以及黑5的挖，是比较重要之处。
+
+白死。])
+(;B[oa]N[变化];W[nb];B[ma];W[na];B[ob];W[nc];B[oe])
+(;B[oa]N[失败1];W[ma];B[ob];W[nb];B[oc];W[od]C[双活。])
+(;B[ma]N[失败2];W[oa]C[这正是017题的内容。])
+(;B[ob]N[失败3];W[nb];B[oa];W[oc];B[ma];W[pa])
+(;B[nb]N[失败4];W[nc];B[ob];W[oa]))

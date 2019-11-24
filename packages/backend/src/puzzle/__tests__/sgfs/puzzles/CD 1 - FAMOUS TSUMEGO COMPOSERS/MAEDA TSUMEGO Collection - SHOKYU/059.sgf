@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qe][rf][rg][rh][si][rc][qc][pd]AW[qb][pb][oc][od][md][of][rd][qf]
+[qg][qh][qi][ri][rk][rb]N[059]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[正解容易。失败图的计算同样重要。难在失败图。
+
+难度：☆☆☆]N[审题])
+(;B[se]N[正解])
+(;B[sc]N[失败1];W[re];B[se];W[sj]C[白4打后，黑只有做劫了。])
+(;B[sd]N[失败2];W[se];B[sc];W[re];B[sh];W[sf];B[qd];W[sj];B[sg];W[re]))

@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cn][cq][eq][fq][gq][dr][gr][hr]AB[dj][do][dp][fp][gp][hp][dq][hq][jq][ir]LB[bp:A]C[Ex. 7 - Sabaki
+
+You are not specially trying to capture W but rather to prevent W's good connection on the side with "A".
+A tesuji is again required.]
+(;B[cp]LB[cp:1]C[Diag. 1 - Failure
+The usual B 1 ]
+;W[bq]LB[cp:1][bq:2]C[followed by W 2 ]
+;B[bp]LB[bp:3][cp:1][bq:2]C[and B 3 prevent the connection but they are uninspired.])
+(;B[bq]LB[bq:1]C[Diag. 2 - Correct
+
+The correct answer is the tesuji B 1 tsuke -- a flash of inspiration.]
+(;W[cr]LB[bq:1][cr:2]C[When W 2 connects ]
+;B[bo]LB[bo:3][bq:1][cr:2]C[B plays 3 tobi.
+Although this is a similar way of preventing thje connection, it is far more effective.
+Because of the extra profit possible in the next diagram, it is substantially superior to the sequence in the previous diagram.
+]
+;B[br]LB[bo:3][bq:1][br:4][cr:2]C[Diag. 3 - Reference
+
+After the previous diagram, if W tenuki, B 4 osae is sente. ]
+;W[es]LB[bo:4][bq:1][br:3][cr:2][es:5]C[After W 5 ]
+;B[cs]LB[bo:3][bq:1][br:4][cr:2][bs:A][cs:6][es:5]C[ B 6 and B tsugi at "A" are effective in making inroads into the W position. ]
+;W[fr]LB[bo:3][bq:1][br:4][cr:2][fr:7][cs:6][es:5]C[W 7 is gote.
+])
+(;W[cp]LB[cp:2][bq:1]C[Diag. 4 - Failure
+
+W 2 in reply to B 1 is a vulgar play, ]
+;B[co]LB[co:3][cp:2][bq:1]C[allowing B to separate him cleanly with B 3 ]
+;W[bp]LB[co:3][bp:4][cp:2][bq:1]
+;B[bo]LB[bo:5][co:3][bp:4][cp:2][bq:1]C[and B 5, ]
+;W[br]LB[bo:5][co:3][bp:4][cp:2][bq:1][br:6]C[while W captures a single stone in gote.
+If W plays his 2 at 6, he loses sente after B 2 ate.
+Although it is hard for him he must be patient and play the tsugi 2 in Diagram 2.])))

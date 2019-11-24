@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pc][pb][nd][md][ld][kd][jd][jc][jb][ra][rb][rc][rd][qe][pe]AW[kc]
+[lc][nc][oc][ob][od][pd][qd][qc][qb][qa]N[110]AP[MultiGo:4.4.4]SZ[19]AB[oe]MULTIGOGM[0]
+
+(;LB[mb:A]C[黑A位点入是必然的，关键是以后。注意，白气紧。]N[审题])
+(;B[mb]N[正解];W[mc];B[la];W[ka];B[kb];W[lb];B[na]LB[nb:A][ja:B][oa:C]C[注意，由于白气紧，没有办法吃黑的接不归。要吃接不归，必然是白A、黑B，但白C不能入子。]
+;W[ma]C[劫杀正解。])
+(;B[mb]N[失败1];W[mc];B[lb];W[kb];B[ka];W[la];B[ma];W[na];B[ja];W[pa])
+(;B[mb]N[失败2];W[mc];B[ka];W[la];B[lb];W[kb];B[ma];W[na]C[还原为失败1。]))

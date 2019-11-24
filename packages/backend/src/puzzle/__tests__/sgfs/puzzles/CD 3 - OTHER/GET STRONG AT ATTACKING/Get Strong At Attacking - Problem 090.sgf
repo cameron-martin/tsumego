@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][ce][de][df][gd][gf][hf][je][fh][ck][ek][gk][pq][qn]
+AB[cf][dg][eg][ef][gg][hg][ig][ei][fi][cm][cp][eq][qd][oc]
+C[Problem 90. Black to play.  
+
+The white stones on the left are thin. How can Black attack them while strengthening his own stones ? ]
+;B[fl]
+TE[2]
+C[Correct Answer.  
+
+Since the Black stones are not at all that secure themselves, Black should first peep at 1, then, ... ]
+;W[fk]
+C[... after White connects with 2, ... ]
+;B[ik]
+C[... cap with 3. White's stones are in danger, so she has to scramble to make life on the left side. ]
+;W[dm]
+C[White now attaches with 4. ]
+;B[dn]
+C[After exchanging 5 ... ]
+;W[em]
+C[... for White 6, ... ]
+;B[cl]
+C[... Black bumps against the white stone with 7. Next ... ]
+;W[gi]
+C[... White hanes with 8 and ... ]
+;B[hj];W[di];B[ci];W[cj];B[gj];W[en];B[do];W[fp];B[fq];W[hp]
+C[... manages to extricate her stones with the sequence to 18. In the process, however, Black has secured the lower left corner and his stones above are no longer in danger. ]
+;B[lc]
+C[Black now takes the big points of 19 ... ]
+;W[jc];B[pi]
+C[... and 21, and he has a good game. <= ]
+)
+)

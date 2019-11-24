@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[dj][dp][jd][jc][nc][nd][od][pp][qo][on][pn][qm]
+AB[cd][dh][hd][oc][pc][qd][qf][pm][qn][qq][pq][nq]
+LB[cj:C][ed:A][fh:B]
+C[Problem 134. Black to play.  
+
+The joseki in the lower right corner has ended with sente for Black. He must now turn his attention to his thin position at the top. Where should he play ? ]
+(;B[ed]
+LB[cn:C][cl:B][ec:A]
+
+TE[2]
+C[Correct Answer.  
+
+Even though Black's position at the top is open  from the side, he must make a corner enclosure with 1 and not at A. Next, he can aim at B or C, ... ]
+;W[dn]
+C[... so White defends with 2. ]
+;B[kq]
+C[In response to Black 3, ... ]
+;W[ip]
+C[... White 4 is a good move. <= ]
+)
+(;B[cj]
+C[Failure.  
+
+Black 1... ]
+;W[ck];B[ci]
+C[... and 3 are not good because they strengthen White's position on the left. ]
+;W[dk]
+C[This is a big loss for Black. <= ]
+)
+)

@@ -1,0 +1,55 @@
+(;
+AB[qd][nc][qj][pq][qq][op][nq][eq]
+AW[ed][po][ql][qp][mq][nn][mp][cp]
+C[Black plays.
+
+Source:
+American Go Journal, Vol. 17, No. 1, March 1982, p.17.]
+TR[cp]
+(;
+B[iq]
+C[Asking for problems.]
+(;
+W[gq]
+C[White accepts the invitation to split
+Black.];
+B[eo];
+W[dn];
+B[hp];
+W[dq];
+B[er];
+W[en];
+B[fo];
+W[ci]
+C[And White's left side potential is preferable
+to to Black's lower side potential.]
+)
+    (;
+    W[do]
+    C[Another good idea.];
+    B[gp]
+    LB[cj:a][qh:b]
+    C[Black has no other choice but to
+respond.  After which White has
+two excellent choices at A or B.]
+    )
+    (;
+    W[dq]
+    C[Horrible.
+White, an amateur shodan, played
+this move in the actual game.];
+    B[ep]
+    C[White forces Black to make the
+perfect shape.]
+    )
+)
+    (;
+    B[hq]
+    C[Better.
+Given the good choices that White has
+available in the previous lines, Black
+would have been better off with the more
+solid two space jump here.]
+    )
+)
+

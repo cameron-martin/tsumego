@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dg][cn][dp][jp][no][nq][nr][mb][nc][od][oe]
+AB[oq][pp][pn][nm][qj][fc][id][qd][oc][pf][pc][pb][oa][nb]
+LB[oa:4][pc:2][mb:3][od:1]
+TR[ob]
+C[Problem 154. White to play.  
+
+The white stone that has been at the marked point has been working overtime: White has been able to make two ataris pivoting on this stone. However, the next move is the really important one and, if White misses it, all her good work could go to waste. ]
+(;W[le]
+TE[2]
+C[Correct Answer.  
+
+When you are trying to make sabaki, you must play lightly. White 1 makes a resilient shape. This is a beautiful move. ]
+;B[mc]
+C[There is nothing to worry about if Black cuts at 2. ]
+;W[lc]
+TR[nc]
+C[Just atari at 3 and sacrifice the marked stone. ]
+;B[nd]
+C[After Black captures with 4, ... ]
+;W[ne]
+C[... White plays 5 and all of her stones are working efficiently. When you are trying to make sabaki, you have no responsibility to save all your stones. All you want to do is to establish a viable presence in the area you are fighting. <= ]
+)
+(;W[md]
+C[Failure.  
+
+White 1 may look like an efficient move, since it protects all the cutting points, but ... ]
+;B[lc]
+C[... it results in a heavy shape after Black peeps at 2. ]
+;W[mc]
+C[Because White has tried to save all of her stones, they will all come under attack. <= ]
+)
+)

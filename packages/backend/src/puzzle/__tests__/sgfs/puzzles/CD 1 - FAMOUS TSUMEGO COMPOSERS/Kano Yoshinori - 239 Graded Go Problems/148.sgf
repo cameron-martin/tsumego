@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ek][gk][fl][fj][hl][hj][il][im][el][ik][gj]GN[ ]AB[jl][jk][jj][fi][em][jm][gm][ei][dj][dl][fm][hi][dk][ij][gi]PM[1]C[Problem 148. Black to play and kill White. (1 move)
+How does Black play to kill the white stones?]PW[ ]
+(
+;B[gl]C[Correct Answer
+If Black plays at 1, the eye on the right becomes a false eye, so White is dead.]
+)
+(
+;B[ej]C[Wrong Answer
+Black 1...]
+;W[gl]C[...lets White form two perfect eyes with 2, so he can never be killed.]
+)
+
+)

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[me][md][nc][nb][ob][pb][re][rf][qf][pf][of]AW[oc][pc][ne][oe][pe]
+[qe][rd][rb]N[022]AP[MultiGo:4.4.4]SZ[19]AB[nf]MULTIGOGM[0]
+
+(;C[打劫很容易，能不能净杀？]N[审题])
+(;B[sd]N[正解];W[sc];B[qc];W[qb];B[od]LB[pd:A][nd:B]C[接下来，白A、黑B，白接不归。
+
+白死。])
+(;B[sd]N[变化];W[rc];B[qb];W[ra];B[qc];W[qd];B[od])
+(;B[qb]N[失败1];W[qc];B[ra];W[sc];B[se];W[sd];B[sb])
+(;B[qc]N[失败2];W[qb];B[od];W[pd];B[nd];W[qd];B[sd];W[rc])
+(;B[ra]N[失败3];W[qb];B[qa];W[qd]))

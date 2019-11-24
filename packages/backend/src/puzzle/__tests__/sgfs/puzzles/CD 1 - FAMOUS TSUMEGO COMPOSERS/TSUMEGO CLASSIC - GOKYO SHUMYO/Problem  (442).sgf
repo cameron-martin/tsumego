@@ -1,0 +1,28 @@
+(;GM[1]FF[3]AB[sq][ms][ks][sr][fp][cp][bp][ro][qo][do][on][dn][cn][rm][dm][am][rl]
+[gn][go][rj][bj][ai][ah][cg][sf][rf][re][ae][dq][aa][ca][da][ja][ac][sb][qa][fb]
+[jb]AW[eq][gr][ep][dp][eo][co][bo][ao][sn][fn][en][sm][qm][pm][gm][em][sl][el][sk]
+[ak][ci][bh][rg][df][se][sd][rd][cd][rc][cc][ib][la][ka][lq][gq]PL[W]C[White to play.
+Start at A.
+
+(林元美创作）]
+LB[bq:A]AP[MultiGo:3.9.3]SZ[19]
+;W[bq];B[cq];W[dr];B[cr];W[br];B[cs];W[ap];B[er];W[bs];B[ds];W[fs];B[fr];W[gs];B[fq]
+;W[es];B[dr];W[gp];B[fo];W[hn];B[ho];W[io];B[hp];W[hq];B[ip];W[jp];B[iq];W[ir];B[jq]
+;W[kq];B[jr];W[kr];B[js];W[ls];B[lr];W[is];B[ls];W[mr];B[ns];W[nr];B[os];W[or];B[ps]
+;W[pr];B[qs];W[qr];B[rs];W[rr];B[ss];W[sp];B[rq];W[rp];B[qq];W[qp];B[pq];W[pp];B[oq]
+;W[op];B[nq];W[mq];B[np];W[no];B[mp];W[mo];B[lp];W[kp];B[lo];W[ln];B[ko];W[jo];B[kn]
+;W[km];B[jn];W[in];B[jm];W[jl];B[im];W[hm];B[il];W[ik];B[hl];W[gl];B[hk];W[hj];B[gk]
+;W[fk];B[gj];W[gi];B[fj];W[ej];B[fi];W[fh];B[ei];W[di];B[eh];W[eg];B[dh];W[ch];B[dg]
+;W[bg];B[cf];W[ce];B[bf];W[be];B[af];W[ad];B[ag];W[aj];B[bi];W[bk];B[cj];W[dj];B[ck]
+;W[cl];B[dk];W[ek];B[dl];W[bn];B[bd];W[cm];B[ad];W[bc];B[ab];W[ba];B[bb];W[cb];B[ba]
+;W[ea];B[db];W[eb];B[dc];W[ec];B[dd];W[de];B[ed];W[fd];B[ee];W[ef];B[fe];W[ge];B[ff]
+;W[fg];B[gf];W[hf];B[gg];W[gh];B[hg];W[ig];B[hh];W[hi];B[ih];W[jh];B[ii];W[ij];B[ji]
+;W[ki];B[jj];W[jk];B[kj];W[lj];B[kk];W[kl];B[lk];W[mk];B[ll];W[lm];B[ml];W[nl];B[mm]
+;W[mn];B[nm];W[om];B[nn];W[oo];B[pn];W[qn];B[po];W[so];B[rn];W[rk];B[ql];W[qk];B[pl]
+;W[ol];B[pk];W[pj];B[ok];W[nk];B[oj];W[oi];B[nj];W[mj];B[ni];W[nh];B[mi];W[li];B[mh]
+;W[mg];B[lh];W[kh];B[lg];W[lf];B[kg];W[jg];B[kf];W[ke];B[jf];W[if];B[je];W[jd];B[ie]
+;W[he];B[id];W[ic];B[hd];W[gd];B[hc];W[gc];B[hb];W[gb];B[ha];W[ga];B[ia];W[jc];B[kb]
+;W[lb];B[kc];W[kd];B[lc];W[mc];B[ld];W[le];B[md];W[nd];B[me];W[mf];B[ne];W[oe];B[nf]
+;W[ng];B[of];W[pf];B[og];W[oh];B[pg];W[qg];B[ph];W[pi];B[qh];W[qi];B[rh];W[ri];B[sh]
+;W[si];B[sg];W[qf];B[qe];W[pe];B[qd];W[qc];B[pd];W[od];B[pc];W[pb];B[oc];W[nc];B[ob]
+;W[nb];B[oa];W[na];B[pa];W[ra];B[qb];W[rb])

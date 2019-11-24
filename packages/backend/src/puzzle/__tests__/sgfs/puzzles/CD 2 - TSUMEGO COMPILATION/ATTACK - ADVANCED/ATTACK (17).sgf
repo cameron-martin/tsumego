@@ -1,0 +1,27 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[be][cd][cg][dc][dd][dh]
+AW[ce][df][ec][ed][ee][jc]PL[W]C[White to play.
+
+Attack - Threaten Opponent with a Ko Fight]
+(
+;W[bd]
+(
+;B[bc]
+;W[bf]
+;B[cf]
+;W[ae]
+;B[de]
+;W[db]C[RIGHT
+])
+(
+;B[bf]
+;W[db]
+;B[cb]
+;W[eb]
+;B[bc]C[RIGHT
+]))
+(
+;W[bf]
+;B[cf]
+;W[de]
+;B[bd]))

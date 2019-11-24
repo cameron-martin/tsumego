@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[kd][ld][md][mc][mb][nb][ne][kb]AW[pd][nd][nc][ob][me][nf][le][ke]
+[je][jd][jc][jb][qd]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[kc]MULTIGOGM[0]
+
+(;C[审题：净活很难，争取打劫活吧。]N[审题])
+(;B[oc]N[正解];W[od];B[pb];W[pc];B[oa]LB[qb:A]C[接下来，白A位打就成劫。
+看看白一路退让会是什么样子。]
+;W[oc];B[rb];W[qb];B[qa];W[qc];B[rc];W[rd];B[sc];W[pa]C[还是打劫。])
+(;B[na]LB[pb:A]C[黑1立下，或者走A位，都是净死。]N[失败];W[la];B[oc];W[od];B[pb]
+;W[pc];B[oa];W[qb]))

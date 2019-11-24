@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qd][pd][rd][sd][sc][nb][nc][mc]AW[rc][qc][qb][ob][oc][sb]N[041]AP[MultiGo:4.4.4]
+SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[ra:A]C[白棋占据A位就活了，所以黑第一手肯定要走那里，关键是后续手段。
+
+难度：☆☆]
+N[审题])
+(;B[ra]N[正解];W[pc];B[rb];W[qa];B[oa])
+(;B[ra]N[变化];W[pc];B[oa]C[黑3从外面扳也行];W[pa];B[rb]))

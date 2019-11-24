@@ -1,0 +1,24 @@
+(;
+GM[1]
+SZ[19]
+AW[ja][jb][jc][kc][ld][me][od][pc][qc]
+AB[dc][ce][ic][ib][kb][lb][mc][md][rc][qd][re][pf]
+LB[ja:2][ib:1]
+C[Problem 43. Black to play.  
+
+White stops Black from linking up by descending to 2. What should Black do ? ]
+;B[ne]
+TE[2]
+C[Correct Answer.  
+
+Black should play 1, isolating the three white stones on the right. ]
+;W[nd]
+C[If White cuts with 2, ... ]
+;B[nb]
+C[... Black makes shape with 3. ]
+;W[le]
+C[White must defend with 4, but, ... ]
+;B[oe]
+C[... after 5, the four white stones on the right are dead. <= ]
+)
+)

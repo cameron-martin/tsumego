@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oo][np][nq][nr][ns][os][sr][sp][rp][qp][qn]AW[or][oq][pp][ps][rs]
+[qq][rq][sq]C[54]N[54]AP[MultiGo:4.4.4]SZ[19]AB[po]MULTIGOGM[0]
+
+(;C[第54题 深入计算
+
+第一手走哪里，比较简单。尔后要深入计算，但30秒钟是足够了。]
+N[审题])
+(;B[pr]N[正解];W[qr]C[黑1断比较容易发现，白2抵抗便成为劫争。])
+(;B[pr]N[变化];W[qs];B[pq];W[qr];B[pq]C[黑3、5是常用的破眼手筋。白死。]))

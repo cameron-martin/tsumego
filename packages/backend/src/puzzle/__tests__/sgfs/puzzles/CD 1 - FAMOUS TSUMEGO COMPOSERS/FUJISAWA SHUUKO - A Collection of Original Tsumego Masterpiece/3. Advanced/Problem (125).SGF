@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[oc][nc][hc][hd][ie][je][kd][ld][md][pb][qc]AW[ob][nb][mc][lc][kc][ka][jd][id]C[黑先]
+
+(;B[ib]
+(;W[ma];B[lb];W[oa];B[kb];W[jb];B[jc]C[正解 黑先白死])
+(;W[jb];B[oa];W[lb];B[ma]C[变化]))
+(;B[jb];W[kb];B[jc];W[ma];B[oa];W[lb]C[失败])
+(;B[oa];W[ib];B[ic];W[jc];B[hb];W[ia];B[mb];W[lb];B[na];W[jb]C[失败]))

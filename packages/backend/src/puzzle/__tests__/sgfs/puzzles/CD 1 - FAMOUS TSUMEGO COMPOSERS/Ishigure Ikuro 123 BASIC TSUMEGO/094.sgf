@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[md][ne][oe][pd][qe][qc][rc][sc][qb][la][lb][lc]AW[qa][ra][rb][sb]
+[pb][pc][ma][mb][nd][mc]N[094]AP[MultiGo:4.4.4]SZ[19]AB[ld]MULTIGOGM[0]
+
+(;LB[pa:A]C[白气很紧，A位有扑，中间还有裂口。那么，黑从哪里入手呢？本题相当有趣味，充分说明了次序的重要性。]
+N[审题])
+(;B[oa]LB[pa:A]C[黑1点，手筋。对此，白必须紧着黑气走，否则黑A位叫吃。]N[正解];W[pa]
+;B[nb]C[黑3尖是准备好的后续手段];W[nc];B[oc]C[白死。])
+(;B[oa]N[变化];W[ob];B[nc];W[nb];B[pa])
+(;B[nc]N[失败1];W[nb];B[oa];W[pa])
+(;B[oa]N[失败2];W[pa];B[oc];W[ob];B[nb];W[na])
+(;B[oa]N[失败3];W[ob];B[pa];W[na]LB[nc:A][pa:B][nb:C]C[白4提子后，黑A则白B，由于黑C位不能入子，白活]
+;B[pa];W[nc]LB[od:A][oa:B]C[接下来，A、B两点见合。
+
+从本题的几个失败图可以感受次序的重要性。]))

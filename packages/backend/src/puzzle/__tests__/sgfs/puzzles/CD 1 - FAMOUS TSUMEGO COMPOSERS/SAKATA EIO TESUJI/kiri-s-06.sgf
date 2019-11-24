@@ -1,0 +1,39 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[co][do][cp][bq][cq][gq][br][fr][hr][bs]AB[cn][dn][en][bo][eo][go][dp][gp][dq][cr][dr][gr]C[Ex. 6 - Watari
+
+Try to find a way of helping the 7 stones in the corner.
+Unless you find B's weak point then follow the correct order of moves, you will not be able to connect along the edge.]PL[W]
+(;W[cs]LB[cs:1]C[Diag. 1 - Failure
+
+W 1 magari fails ]
+;B[ds]LB[ds:2]C[after B 2 osae. ]
+;W[ep]LB[ep:3][cs:1][ds:2]C[Now, even if he cuts at 3, ]
+;B[eq]LB[ep:3][eq:4][cs:1][ds:2]C[W is lost after B 4 ]
+;W[fp]LB[ep:3][fp:5][eq:4][cs:1][ds:2]
+;B[fq]LB[ep:3][fp:5][eq:4][fq:6][cs:1][ds:2]C[and 6. 
+W 1 is the wrong suji in this position.])
+(;W[ep]LB[ep:1]C[Diag. 2 - Correct
+
+It is a good idea to start with W 1 kiri ]
+;B[eq]LB[ep:1][eq:2]C[After B 2 kakae,]
+;W[ds]LB[ep:1][eq:2][ds:3]C[W 3 tsuke is the right suji to probe B's weak point.]
+(;B[cs]LB[ep:1][eq:2][cs:4][ds:3]C[If B intercepts at 4 ]
+;W[fp]LB[ep:1][fp:5][eq:2][cs:4][ds:3]C[W plays the nobidashi 5.
+Because B is now in damezunari he cannot play tsukkomi just below 5.
+You can see that 1 and 3 used together as a tesuji work extraordinarily well.])
+(;B[es]LB[ep:1][eq:2][ds:3][es:4]C[Diag. 3 - Correct
+
+If B 4 hanedashi after W 3 tsuke ]
+;W[er]LB[ep:1][eq:2][er:5][ds:3][es:4]
+;B[cs]LB[ep:1][eq:2][er:5][cs:6][es:4]C[after B 6 ]
+;W[fp]LB[ep:1][fp:7][eq:2][er:5][cs:6][es:4]C[W plays nobi 7.
+Again B cannot play the tsukkomi.]))
+(;W[ds]LB[ds:1]TR[aa]C[Diag. 4 - Failure
+
+The hasty tsuke W 1, instead of kiri, does not achieve connection ]
+;B[er]LB[er:2][ds:1]C[when B plays 2, ]
+;W[es]LB[er:2][ds:1][es:3]
+;B[fq]LB[fq:4][er:2][ds:1][es:3]C[ B 4 ]
+;W[gs]LB[fq:4][er:2][ds:1][es:3][gs:5]
+;B[cs]LB[fq:4][er:2][cs:6][ds:1][es:3][gs:5]C[and then 6.]))

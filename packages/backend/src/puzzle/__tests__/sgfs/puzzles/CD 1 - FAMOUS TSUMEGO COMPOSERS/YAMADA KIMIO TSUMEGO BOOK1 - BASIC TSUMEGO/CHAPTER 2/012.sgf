@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pd][od][nd][md][ld][lc][kb][jc][rb][rc][rd]AW[lb][nc][mb][mc][oc]
+[pc][qc][qb][ra]N[012]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;TR[ra]C[边上基本死活衍生而来，角上白多了一个扳，这就限制了黑进攻的手段。如果没有这个扳，杀法不止一种。]
+N[审题])
+(;B[pa]N[正解];W[qa];B[ob];W[la];B[na]C[白死。])
+(;B[pa]N[变化1];W[la];B[na];W[ob];B[qa])
+(;B[pa]N[变化2];W[qa];B[ob];W[na];B[la]C[白死。])
+(;B[ob]N[失败];W[la];B[na];W[pa]C[这就是011题的内容。]))

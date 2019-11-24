@@ -1,0 +1,8 @@
+(;AB[cb][db][cc][dd][de][df][cg][eg][fe]AW[dc][ec][eb][gc][cd][ce][cf][dg][dh][ci][bg]C[黑先]SZ[19]
+
+(;B[bd]N[正解图];W[be];B[ae];W[bf];B[ab])
+(;B[bd]N[失败图1];W[be];B[ae];W[bf];B[bb]
+(;W[ac];B[ad];W[ab];B[bc];W[da];B[ca];W[aa])
+(;W[ac];B[ad];W[ab];B[da];W[ba];B[bc];W[ea];B[aa];W[ab]))
+(;B[bd]N[失败图2];W[be];B[ae];W[bf];B[ac];W[af];B[bb];W[ad])
+(;B[bd];W[be];B[ae];W[bf]LB[ac:a][bb:b][ab:c]C[leoly：角上的这种棋形，a，b，c三点是常用的做活的手段，但是一定要注意不同的棋形着法完全不一样，有时一路多了一扳或一断，着法就完全不同。实战中这种地方全靠计算太费时间，还是应当把它们都记住。]))

@@ -1,0 +1,93 @@
+(;
+AB[cp][dc][qd][hp][cn][ep][eo]
+AW[pp][eq][oc][en][cq][dq][df]
+C[Lightning game:  Nieh Wei-p'ing vs. Fujisawa Shuko.
+In the game, Black played variation A.
+But what is White's response to the usual Black play at B?
+
+Source:  "Go World", #29, Autumn 1982, p. 7]
+LB[cd:A][ce:B]
+
+(;
+B[cd]
+C[In the game, Nieh (black) played this solid move.];
+W[ed];
+B[ec];
+W[gd];
+B[ee];
+W[gf];
+B[de];
+W[fh]
+C[White plays lightly and avoids playing close
+to Black's thickness.]
+)
+    (;
+    B[ce]
+    C[What should White have done with this Black move?]
+    (;
+    W[cf]
+    C[Inferior];
+    B[de]
+    (;
+    W[ef];
+    B[dj]
+    C[White's thickness become ineffective when Black
+attacks severely.]
+    )
+        (;
+        W[cj];
+        B[ef]
+        C[Black's superb hane sets up a good Black pincer
+in the top right.]
+        )
+    )
+        (;
+        W[de]
+        C[Inferior];
+        B[cf]
+        (;
+        W[dd];
+        B[cd];
+        W[ec];
+        B[dg]
+        C[Leads to a large moyo contest in which
+Black's thickness is very useful.]
+        )
+            (;
+            W[dg];
+            B[dd];
+            W[cg];
+            B[gd]
+            C[Black makes miai of pincers at the top and on the left.]
+            )
+        )
+        (;
+        W[jd]
+        C[Shuko intended to play this good light move.]
+        (;
+        B[de]
+        (;
+        W[ff]
+        C[... but not this follow up.];
+        B[ef];
+        W[eg];
+        B[ee]
+        C[White is too thin.]
+        )
+            (;
+            W[ef]
+            C[This follow up negates Black's thickness.];
+            B[bg];
+            W[di]
+            )
+        )
+            (;
+            B[cf];
+            W[dh];
+            B[dj]
+            C[And White can tenuki again to start a fight in the
+top right corner.]
+            )
+        )
+    )
+)

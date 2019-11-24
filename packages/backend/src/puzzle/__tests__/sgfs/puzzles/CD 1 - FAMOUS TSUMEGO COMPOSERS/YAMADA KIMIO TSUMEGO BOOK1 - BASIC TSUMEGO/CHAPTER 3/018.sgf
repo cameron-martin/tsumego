@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[ne][nd][ld][lc][lb][ma][rb][rc][rd][re][qf][pf]AW[mb][nb][mc][oc]
+[od][oe][pe][qd][qc][qb]N[018]AP[MultiGo:4.4.4]SZ[19]AB[of]MULTIGOGM[0]
+
+(;C[空间小选择少，计算吧。]N[审题])
+(;B[qa]N[正解];W[pa]C[黑1扳时，白2必挡];B[na]LB[pc:A][ob:B]C[黑3爬时，白A则黑B，白B则黑A，白死]
+;W[oa];B[la];W[pc];B[ob]C[白死。])
+(;B[qa]N[变化];W[pa];B[na];W[oa];B[la];W[ra];B[pc]LB[pb:A][nc:B]C[A、B见合，白死。])
+(;B[pa]LB[oa:A][pb:B]C[黑1点如何？对此，白A则黑B，白死，可自行演算。]N[失败1];W[qa]
+;B[na];W[oa];B[ob];W[pb]LB[nc:A][md:B]C[由于A、B处松着气，黑5提子没有叫吃，因此白6可吃黑的接不归。])
+(;B[pb]N[失败2];W[pa];B[pc];W[na];B[ob];W[nc]C[双活。])
+(;B[na]N[失败3];W[oa];B[qa];W[pb]C[黑1、3的次序错误，则情况发生变化了。白活。]))

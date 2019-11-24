@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pd][oc][ob][nb][rb][qc]AW[mb][lc][nc][nd][oe][pe][qe][rf][rd][rc]
+[sb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[审题：打劫就是失败。空间不大，计算简单。]N[审题])
+(;B[ra]N[正解1];W[na];B[pb]C[黑活。黑地五目。])
+(;B[ra]N[正解2];W[pb];B[pa];W[qb];B[na]LB[od:A][ma:B]C[白2点入破眼不行，杀不了黑棋。黑地五目。
+
+收官时白A、B叫吃，与正解一几乎没有差别。])
+(;B[pb]N[失败];W[ra];B[qa]C[黑笨拙。]))

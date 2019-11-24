@@ -1,0 +1,41 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dj][dn][dp][jd][nc][kc]
+AB[gp][jp][pp][pn][pj][pd][pf][le]
+LB[pn:1]
+C[Problem 54. White to play.  
+
+Black has strengthened his moyo on the right side with 1, but this is not a good move, as it is premature. Where should White play to punish Black for his mistake ? ]
+(;W[jg]
+LB[jf:A]
+
+TE[2]
+C[Correct Answer.  
+
+White 1 (or A) is the focal point of the two opposing moyos. This move expands White's moyo while reducing the scale of Black's. ]
+;B[je]
+LB[jf:A][jg:1]
+C[The two-space jump of White 1 is thinner than the tight one-space jump at A in the Correct Answer, but it is a lot more severe. Don't worry about Black trying to break through with the sequence from 2 ... ]
+;W[ie];B[jf];W[if];B[ig]
+C[... to 6. ]
+;W[jh]
+LB[ig:5][lf:A]
+C[After White 7, White can aim at A or capture the black stone at 5 in a ladder. <= ]
+)
+(;W[jf]
+TE[2]
+C[Correct Answer.  
+
+Also correct. <= ]
+)
+(;W[df]
+C[Failure.  
+
+White misses her chance to seize the initiative when she meekly defends with 1. ]
+;B[je]
+C[Black extend the scale of his moyo with 2 ... ]
+;W[ie];B[jf]
+C[... and 4. White has fallen behind. <= ]
+)
+)

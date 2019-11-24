@@ -1,0 +1,18 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[SECTION 9. HOW TO PLAY IN THE OPENING
+
+Problem 117. Who has the advantage?
+(please follow the sequence to 8)]PM[1]PB[ ]GN[ ]FG[259:]PW[ ]
+;B[kc]
+;W[dc]
+;B[ic]
+;W[ck]
+;B[ke]
+;W[kk]
+;B[gc]
+;C[After the sequence to White 8, who has the better game?]W[ce]
+;C[Correct Answer
+Since White has occupied three of the four corners, his game is superior to Black's.]PM[2]FG[259:]
+;C[For Reference
+This is a normal way to play the opening. Each side has occupied two corners.]PM[0]AB[jk]LB[kc:1][dc:2][jk:3][ck:4]MN[1]AE[kk][ke][ic][gc][ce]FG[775:]
+)

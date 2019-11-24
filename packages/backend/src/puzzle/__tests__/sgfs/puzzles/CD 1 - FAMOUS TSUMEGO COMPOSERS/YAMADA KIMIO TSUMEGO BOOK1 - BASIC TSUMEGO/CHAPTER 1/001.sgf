@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][ob][mb][mc][qb][qc][pc]AW[nc][oc][rb][rc][rd][qd][pe][oe][ne]
+[md][ld][kc][kb]N[001]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[黑棋如何做活？不要想当然，要计算。]N[审题])
+(;B[pa]LB[nb:A][nd:B]C[黑1做眼好。对此，白不能走A位破眼，黑B吃住就活了。]N[正解]
+;W[nd];B[nb]C[黑活。])
+(;B[nd]C[黑1吃住白二子如何？]N[失败1];W[qa]C[白2打是先手];B[nb];W[pa];B[oa];W[ma]
+C[没有两眼，黑死。])
+(;B[nb]N[失败2];W[pa]LB[nd:A][qa:B]C[白2点，A、B两点见合。黑A的变化与失败图1类似。]
+;B[qa];W[nd]C[黑棋无法做出两眼，死。]))

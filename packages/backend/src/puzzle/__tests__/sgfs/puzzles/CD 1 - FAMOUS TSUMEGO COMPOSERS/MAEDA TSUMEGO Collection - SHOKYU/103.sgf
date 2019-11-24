@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[ce][cd][dd][bc][ee][ef][ch][cg]AW[dc][cc][ed][fd][fe][de][eg][fg]
+[di][ci][bh][bg][bj][bb]N[103]AP[MultiGo:4.4.4]SZ[19]AB[cf]MULTIGOGM[0]
+
+(;C[黑棋只有一眼，能找出第二只吗？
+
+难度：☆☆]N[审题])
+(;B[ab]N[正解];W[bd];B[ad]C[劫活正解])
+(;B[ad]N[失败];W[ab];B[bf];W[af];B[ae];W[bd]C[黑死。白棋破眼的手法也是基本功。]))

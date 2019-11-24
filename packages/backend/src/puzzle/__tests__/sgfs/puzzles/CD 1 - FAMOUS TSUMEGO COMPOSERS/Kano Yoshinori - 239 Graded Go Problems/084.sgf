@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 84. Black to play.
+How should Black give atari to the lone white stone?]AW[eb][ec][fe][gc][fd]PB[ ]PM[1]PW[ ]AB[gd][ic][fc][hd][fb]
+(
+;B[gb]C[Correct Answer
+Black 1 here catches one white stone.]
+)
+(
+;B[hc]C[Wrong Answer
+If Black gives atari with 1 as here...]
+;C[...White runs away with 2 and catches two black stones.]W[gb]
+)
+
+)

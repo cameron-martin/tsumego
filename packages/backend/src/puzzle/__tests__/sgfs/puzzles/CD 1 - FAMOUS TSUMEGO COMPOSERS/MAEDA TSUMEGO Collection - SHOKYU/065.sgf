@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[rc][qc][pc][ob][pa]AW[sc][rd][qd][pd][od][oc][nb][mb][rf]N[065]AP[MultiGo:4.4.4]
+SZ[19]AB[sd]MULTIGOGM[0]
+
+(;C[大猪嘴是死形。但多了一个扳，情况会发生变化吗？
+
+难度：☆☆]N[审题])
+(;B[rb]N[正解];W[na];B[qa]C[黑活。])
+(;B[sb]N[失败];W[ra]TR[sd]C[还原到大猪嘴的死形上去了，黑边上扳的一子没有起到作用])
+(;B[ra]N[变化];W[sb];B[qb]C[黑也活棋，但是损官子啊。]))

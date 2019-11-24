@@ -1,0 +1,6 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[oo][ln][qh][qp][qq][qo][on][nn][qe][oe][jd]
+[fc]AW[dp][dd][cf][fq][kp][np][no][op][pp][pj][nk][dj]C[Black to play. How should Black attack the two white stones on the right side?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[ni];W[pl];B[lj];W[qm];B[qn];W[qi];B[ph];W[rh];B[rg];W[ri]C[CORRECT Black should use the thickness below to attack. Black forces White to live while building a moyo in the center and securing territory in the upper right])
+(;B[lk];W[ph];B[qg];W[mi];B[ki];W[mg]C[Black is attacking from the wrong direction. White can make sabaki inside Black's sphere of influence.]))

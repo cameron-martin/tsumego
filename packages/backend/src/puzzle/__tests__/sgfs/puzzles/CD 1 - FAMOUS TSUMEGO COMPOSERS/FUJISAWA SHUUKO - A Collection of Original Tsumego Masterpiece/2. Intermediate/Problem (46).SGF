@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[qb][rc][rd][qd][pd][od][nc][mc][kc][lb]AW[sc][rb][qc][pc][pb][pa][nb][mb]C[黑先 盯住目标]
+
+(;B[sb];W[sa];B[sd];W[qa];B[sb]C[正解 黑先劫])
+(;B[sb];W[qa];B[sd];W[oc];B[ra]C[变化1  比正解差一手棋，成两手劫。])
+(;B[sb];W[sa];B[sd];W[qa];B[sb];W[ra];B[ma]C[变化2]))

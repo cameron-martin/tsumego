@@ -1,0 +1,34 @@
+(;
+AB[pp][cp][ip][pj]
+AW[qd][cc][od]
+C[White plays.
+
+Source:
+    American Go Journal, Vol. 18, No. 1, 1983, pp. 15-17
+    "The Professional Eye", Jimmy Cha 4p]
+(;
+W[qh]
+LB[pl:a][oi:b][qc:c]
+C[Correct.
+White effectively uses the strength of his stones in the upper right corner.  White builds territory and can aim at the invasion at A.
+After 8, Black will probably play at B or probe with C first.]
+)
+    (;
+    W[cj]
+    C[A mistake in direction.]
+    (;
+    B[qe]
+    C[Black should immediately attach White's corner.];
+    W[pe];B[qf];W[rd];B[pf];W[of];B[og];W[nf]
+    C[Black has built up a position in sente.
+Make sure you always do this in your games against this kind of corner formation.]
+    )
+        (;
+        B[dm]
+        LB[dn:a][qh:b]
+        C[Another mistake.  Black returns the favors.
+If Black must play in the lower left, a play at A leaves less aji in the corner.]
+        )
+    )
+)
+

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[re][qf][pf][oe][ne][pd][md][ld][kd][kc][kb][rb][rc]AW[mb][pb][qc]
+[qd][qe][pe][od][nd]N[009]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;LB[nc:A][oc:B][ob:C]C[黑A、白B、黑C两打很痛快，但能杀死白棋吗？这可以作为计算的出发点。]
+N[审题])
+(;B[ob]N[正解];W[pc];B[pa];W[qa];B[oa];W[qb];B[nc]C[白死。])
+(;B[ob]N[变化1];W[pc];B[pa];W[oa]C[类似棋形下，白先扑一手往往有意外之喜，但在这里行得通吗？]
+;B[na];W[qa];B[oa];W[qb];B[nc])
+(;B[ob]N[变化2];W[oc];B[qb];W[nb];B[pc];W[oa];B[mc];W[nc];B[ma])
+(;B[nb]N[失败1];W[mc];B[ob];W[pc]LB[na:A][oa:B]C[白4后，黑走A、B位试图做劫，都不行，可自行验证]
+;B[pa];W[qa];B[oa];W[qb];B[ma];W[la];B[lb];W[nc])
+(;B[nc]N[失败2];W[oc];B[ob];W[pc];B[nb];W[mc]))

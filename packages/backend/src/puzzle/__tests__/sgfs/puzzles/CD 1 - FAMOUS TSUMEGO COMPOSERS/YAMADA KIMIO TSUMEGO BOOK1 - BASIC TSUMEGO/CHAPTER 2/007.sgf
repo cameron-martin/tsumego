@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[me][md][mc][mb][lb][rb][rc][rd][qe][qf][pf][of]AW[ma][nb][nc][nd]
+[od][oe][pe][qd][qc][qb]N[007]AP[MultiGo:4.4.4]SZ[19]AB[ne]MULTIGOGM[0]
+
+(;C[从外侧压缩白的眼位，还是先占据眼形的急所呢？]N[审题])
+(;B[pc]N[正解];W[pb]C[黑1时，白2必然，其他走法简单不行——这就意味着有计算];B[qa]
+C[但黑3扳是连贯的着手];W[pa]LB[oc:A][na:B]C[白4后，黑A则白B，双活。];B[na]C[先扑重要]
+;W[oa];B[oc]C[白死。])
+(;B[qa]N[失败1];W[pc];B[ob];W[pa])
+(;B[pb]N[失败2];W[pc];B[ob];W[qa]C[从两个失败图可以看出，2位是急所。]))

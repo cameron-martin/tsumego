@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[mb][qb][pb][qc][pd][od][nd][md]AW[la][ma][lb][lc][ld][me][le][ne]
+[pe][qe][qd][rc][rb][pc]N[109]AP[MultiGo:4.4.4]SZ[19]AB[mc]MULTIGOGM[0]
+
+(;LB[na:A]C[黑走A位不行，白棋一打就打死了。]N[审题])
+(;B[oa]N[正解];W[oc];B[qa];W[nb];B[ob]C[黑活。])
+(;B[oa]N[变化1];W[qa];B[oc])
+(;B[oa]N[变化2];W[nb];B[ob];W[na];B[qa])
+(;B[nb]N[失败1];W[oc];B[qa];W[oa];B[na];W[ob]C[失败图])
+(;B[oc]N[失败2];W[nb];B[oa];W[na])
+(;B[qa]N[失败3];W[ob]))

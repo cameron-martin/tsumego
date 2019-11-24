@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pd][pc][nd][ld][lc][lb][rc][rd]AW[nb][pb][qb][rb][sb][qc]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[审题：失败图容易计算，看样子从外边动手不行。黑棋的杀法也是基本功。]N[审题])
+(;B[ra]C[黑1是眼形的急所]N[正解];W[qa];B[oa];W[na];B[ob];W[oc];B[nc]C[白死。])
+(;B[ra]N[变化1];W[ob];B[na]C[黑3破眼也是基本手法。])
+(;B[ra]N[变化2];W[oc];B[nc];W[mb];B[ma]C[白死。])
+(;B[ob]N[失败];W[oc];B[nc];W[oa]C[黑棋从外围动手不行。]))

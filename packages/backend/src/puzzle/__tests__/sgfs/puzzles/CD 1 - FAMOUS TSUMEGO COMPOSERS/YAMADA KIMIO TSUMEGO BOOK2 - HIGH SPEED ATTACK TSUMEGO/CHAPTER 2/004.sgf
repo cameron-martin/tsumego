@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pb][ob][mb][lc][md][ne][sd][rd][qd][pd][od]AW[nc][nb][oc][pc][qb]
+[rb][rc]N[004]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;C[黑二子已经被白衔在嘴里。观察棋形：白气紧，黑有硬腿。计算吧。]N[审题])
+(;B[sb]N[正解];W[sc];B[qa];W[sa];B[na]C[白死。])
+(;B[sb]N[变化];W[ra];B[pa];W[sc];B[na])
+(;B[sb]N[失败1];W[sc];B[ra])
+(;B[sc]N[失败2];W[sb]C[黑缺少计算。]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[md][ld][lc][kb][jc][na][ra][rb][qc][qd][pd][nd]AW[la][lb][mc][nc]
+[nb][oc][pc][qb][pa]N[003]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;TR[na][nb]C[衍生自一道初级死活题，原题中没有黑点、白顶的交换。因此本题更简单一些。]
+N[审题])
+(;B[ma]C[黑1长，这是眼形的急所]N[正解];W[oa];B[pb]C[白死。])
+(;B[ma]N[变化];W[ob];B[qa])
+(;B[qa]N[失败1];W[ma];B[pb];W[oa])
+(;B[pb]N[失败2];W[ma];B[qa];W[oa])
+(;B[ka]N[失败3];W[oa];B[pb];W[ma]))

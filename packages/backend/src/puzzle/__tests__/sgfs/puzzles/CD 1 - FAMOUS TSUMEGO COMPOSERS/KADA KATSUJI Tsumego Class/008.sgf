@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[gq][fq][hr][es][aq][bq][cp][dq][dr]AW[ds][er][fr][gr][hq][ir][hp]
+[gp][fp][ep][do][co][bn][bp][ap]C[B]N[008]AP[MultiGo:4.4.4]SZ[19]AB[eq]MULTIGOGM[0]
+
+(;C[黑很容易就走死了。观察棋形，黑的眼位很有限；白下边两处断头，可能有接不归。
+
+难度：B]
+N[审题])
+(;B[br]N[正解];W[cs]LB[bs:A][dp:B]C[接下来，黑A则白B，黑死。];B[dp]C[黑3接是好手]
+;W[bs];B[cr];W[fs];B[as]C[劫活正解。])
+(;B[br]N[变化];W[dp];B[cs];W[cq];B[as])
+(;B[cs]N[失败1];W[br];B[dp];W[cr])
+(;B[bs]N[失败2];W[ar];B[br];W[dp]))

@@ -1,0 +1,35 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cd][dc][dd][dh][dk][ei]
+AW[ce][cj][cl][ed][ee]PL[B]C[Black to play.
+
+Attack - Force Opponent into clumsy Shape]
+(
+;B[ec]
+(
+;W[gd]
+;B[fc]
+;W[hf]
+(
+;B[de]
+;W[gc]C[RIGHT
+])
+(
+;B[gc]
+;W[de]C[RIGHT
+]))
+(
+;W[de]
+;B[gd]
+;W[bh]C[RIGHT
+]))
+(
+;B[de]
+;W[ec]
+(
+;B[df])
+(
+;B[ef]
+;W[ff])
+(
+;B[jj]
+;W[df])))

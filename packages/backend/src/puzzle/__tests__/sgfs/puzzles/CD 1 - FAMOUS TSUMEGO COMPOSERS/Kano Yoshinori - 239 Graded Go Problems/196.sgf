@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[pr][ls][pp][lq][no][lp][os][np][oq][mo][lr]GN[ ]AB[kr][kp][mp][lo][nq][nr][ks][kq][mq][or]PM[1]C[Problem 196. Black to play.
+How should Black play so as to capture four white stones? (There are two correct answers.)]PW[ ]
+(
+;B[ms]L[mr]C[Correct Answer
+Putting the four white stones into atari with Black 1 or A is the correct answer. These stones will be captured on the next move.]
+)
+(
+;B[ns]C[Wrong Answer
+If Black gives atari with 1 he fails...]
+;W[ps]C[...White connects at 2 ant a seki results.]
+)
+
+)

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pd][od][nd][md][nc][ke][jd][jc][jb][ja][ka][rb][qb][qc]AW[la][kb]
+[lc][mc][nb][oc][pc][pb][qa]N[023]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[不是很难的死活题。从外侧压缩白的眼位还是直接点眼呢？]N[审题])
+(;B[oa]N[正解];W[pa];B[na];W[ma];B[lb];W[mb];B[kc]C[白死。])
+(;B[oa]N[变化];W[na];B[pa];W[mb];B[kc])
+(;B[mb]N[失败1];W[na])
+(;B[lb]N[失败2];W[mb];B[kc];W[oa])
+(;B[ma]N[失败3];W[mb]C[劫。]))

@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 3. HOW TO GIVE ATARI
+
+Problem 73. Black to play.
+How should Black give atari to the lone white stone?]AW[jk][hl][ik]PB[ ]PM[1]PW[ ]AB[hk][il]
+(
+;B[gl]C[Correct Answer
+If Black gives atari with 1, the white stone will eventually be captured.]
+)
+(
+;B[hm]C[Wrong Answer
+Giving atari with 1 from below is a bad move...]
+;C[...White extends to 2 and now the black stones are the ones that will be captured.]W[gl]
+)
+
+)

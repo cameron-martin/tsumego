@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nd][md][ld][kc][jc][jb][ja][ra][rb][qc][pc]AW[ka][kb][lc][mc][nc]
+[oc][mb][pb][qb]N[017]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[白气很紧，这是缺陷。但黑的进攻也需要仔细计算。]N[审题])
+(;B[ob]LB[nb:A][oa:B]C[黑1断时，白A则黑B，白要死]N[正解];W[oa];B[ma]LB[nb:A][qa:B]
+C[黑3底线托是手筋。对此，白A则黑B，白死。];W[na];B[la];W[lb];B[pa]C[白死。])
+(;B[ob]N[变化];W[nb];B[oa];W[la];B[na])
+(;B[ma]N[失败1];W[na]LB[la:A][lb:B][ob:C][pa:D]C[黑1、白2交换后，如果黑A白B再交换，黑C破眼时，白可在D位立下]
+;B[ob];W[la]C[白活。])
+(;B[la]N[失败2];W[lb];B[ob];W[oa]))

@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[en][fn][gn][in][do][dp][jp][cq][dq][jq][er][fr][jr][ds]AB[dm][dn][co][go][cp][ep][gp][bq][gq][iq][br][cr][dr][gr]C[Ex. 7  - Shinogi
+
+B's single stone is pressed firmly against the belly of the 4 W stones and threatens the cut on either side. 
+While this seems to have settled matters, B can, nevertheless, be captured.]PL[W]
+(;W[eo]LB[eo:1]C[Diag. 1 - Failure
+
+W 1 tsugi ]
+;B[eq]LB[eo:1][eq:2]C[ allows B to cut at 2. If W plays tsugi 2 instead of 1, B can cut at 1.
+Because you must connect on both sides this requires some thought.])
+(;W[fp]LB[fp:1]C[Diag. 2 - Correct
+
+The correct answer is to start at W 1 ]
+(;B[fo]LB[fo:2][fp:1]C[If B 2 ]
+;W[eo]LB[eo:3][fo:2][fp:1]C[W connects at 3 ]
+;B[fq]LB[eo:3][fo:2][fq:4]C[And, after B plays 4,]
+;W[eq]LB[eo:3][fo:2][eq:5][fq:4]C[he can play on either side.
+There is really no other way to defend against the cut by B except with the warikomi.])
+(;B[fq]LB[fp:1][fq:2]C[If B plays ate 2 here in answer to 1 ]
+;W[eq]LB[fp:1][eq:3][fq:2]C[W will connect at 3.
+This is a typical example of the proverb which says "Play in the middle of a symmetrical formation".])
+(;B[eo]LB[eo:2][fp:1]C[Diag. 4 - Variation
+
+B's trouble is that he cannot cut at 2 in reply to W 1 warikomi. 
+]
+;W[fo]LB[eo:2][fo:3][fp:1]C[You should learn well the effect of the suji 1 and W kakae 3.])))

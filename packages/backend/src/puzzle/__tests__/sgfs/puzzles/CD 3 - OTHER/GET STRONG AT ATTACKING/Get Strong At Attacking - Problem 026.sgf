@@ -1,0 +1,54 @@
+(;
+GM[1]
+SZ[19]
+AW[cj][cm][dp][dq][kq][nq][pp][pd][od][qc][rc]
+AB[dc][cf][fq][iq][io][qn][pk][kc][qd][pe][qf][re]
+TR[od][pd][qc][rc]
+C[Problem 26. Black to play.  
+
+The four marked stones seem to be secure, but Black has a way to uproot them. How should Black attack ? ]
+(;B[ob]
+LB[pc:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the vital point. It aims to cut at A. This is a typical example where it is strategically best to gouge out the opponent's base. ]
+(;W[pb]
+C[White must defend with 2, but ... ]
+;B[oc];W[pc];B[mc]
+C[... Black makes shape at the top with the sequence to 4. The white stones are left without two eyes, so White must escape into the center. Black can make profit by threatening these stones. <= ]
+)
+(;W[nc]
+TR[ob]
+C[Variation.  
+
+Attacking the marked stone with 2 ... ]
+;B[nb];W[mc]
+C[... and 4 doesn't accomplish much. ]
+;B[mb]
+LB[nb:3]
+C[Black links up his stones with 3 and 5, so ... ]
+;W[pc]
+C[... White must come back to defend the cut with 5. ]
+;B[me]
+C[Black can now attack at the vital point of 7. <= ]
+)
+(;W[oc]
+C[Variation.  
+
+White 2 ... ]
+;B[nb];W[pb]
+C[... and 4 is another way for White to defend, but ... ]
+;B[md]
+LB[nb:3]
+C[... her stones are still under attack after Black 3 and 5. <= ]
+))
+(;B[nc]
+C[Failure.  
+
+Black 1 is a slack move. ]
+;W[ob];B[oc];W[pc];B[nb];W[pa]
+C[White easily makes life in the corner with the sequence to 6. <= ]
+)
+)

@@ -1,0 +1,23 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][qo][qi][oc]
+AB[cp][op][pq][qd][pe]
+TR[op][qi]
+C[Problem 32. White to play.  
+
+White has made a wide extension with her marked stone. How should she respond to Black's marked stone ? ]
+(;W[pm]
+TE[2]
+C[Correct Answer.  
+
+White should play the knight's move of 1, reinforcing her position on the right side. <= ]
+)
+(;W[ce]
+C[Failure.  
+
+Making a corner enclosure with White 1 ... ]
+;B[qk]
+C[... gives Black the chance to invade at 2. <= ]
+)
+)

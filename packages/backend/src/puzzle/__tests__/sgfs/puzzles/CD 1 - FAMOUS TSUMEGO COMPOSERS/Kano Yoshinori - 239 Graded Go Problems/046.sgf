@@ -1,0 +1,8 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 46. Alive or Dead?
+What about the white group in the center? Is it alive or dead?]AW[ge][ff][hi][hh][hg][hf][he][fh][gi][gh][fg]PB[ ]PM[1]PW[ ]AB[gd][fj][fi][hd][fe][ii][gj][ef][eh][ie][if][eg][hj][ih][ig][ee]
+;C[Correct Answer
+White is dead.]
+;FG[259:]C[For Reference
+If it were this position, White would be alive.]AW[gg]PM[1]AE[gh]
+)

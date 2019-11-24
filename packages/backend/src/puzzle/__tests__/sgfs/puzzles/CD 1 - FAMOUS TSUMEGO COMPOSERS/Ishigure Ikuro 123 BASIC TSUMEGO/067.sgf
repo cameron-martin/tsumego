@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qe][pe][of][nf][ne][nd][mc][lc][lb][sa][rb][qb][qa][pa][qc]AW[nc]
+[mb][nb][pb][pc][od][oe][sb][sc][rc][rd][re][rf][qf][pf]N[067]AP[MultiGo:4.4.4]
+SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[对杀问题。打劫就是失败。]N[审题])
+(;B[na]C[黑1在底线托是手筋]N[正解];W[ma];B[oc];W[ob];B[pd];W[oc];B[la]C[对杀黑胜。])
+(;B[na]N[变化1];W[oc];B[ma];W[oa];B[la]C[循环劫杀。])
+(;B[na]N[变化2];W[oc];B[oa];W[ma];B[la]C[打劫了。白劫胜则双活。
+
+选择本图还是循环劫杀白，是黑的权力。])
+(;B[oa]N[失败];W[na];B[pd];W[oc];B[la];W[ra]C[失败图]))

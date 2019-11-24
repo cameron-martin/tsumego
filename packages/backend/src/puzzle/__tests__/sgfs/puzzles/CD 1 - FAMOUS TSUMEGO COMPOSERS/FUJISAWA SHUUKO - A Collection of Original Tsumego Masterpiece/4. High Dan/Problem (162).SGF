@@ -1,0 +1,14 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[qd][pd][hb][ib][ic][jd][je][le][lf][nf][oe][qb][pb]AW[ob][oc][nd][lc][kc][jb]C[黑先 1944年思考的作品。20分钟解出，具有专家级棋手的棋力。]
+
+(;B[ma];W[na];B[ja];W[ka];B[nb];W[oa];B[mc];W[md];B[lb]C[正解 黑先白死])
+(;B[ma];W[oa];B[mc];W[md];B[ja];W[ka];B[lb];W[ld];B[ia];W[kb];B[od];W[nc];B[mb]C[变化])
+(;B[ma];W[oa];B[mc];W[lb];B[mb];W[md];B[ka];W[ja];B[ld];W[la];B[jc]C[变化])
+(;B[ma];W[oa];B[mc];W[mb];B[lb];W[md];B[ja];W[ka];B[nb]C[变化])
+(;B[ma];W[mb];B[la];W[ka];B[oa];W[lb];B[na];W[nb];B[pa]C[变化])
+(;B[ma];W[nb];B[md];W[mc];B[lb];W[ja];B[od];W[oa];B[jc];W[kb];B[la]C[变化])
+(;B[ma];W[nb];B[md];W[ka];B[lb];W[mc];B[od];W[oa];B[jc]C[变化])
+(;B[ma];W[la];B[mb];W[nb];B[mc];W[md];B[ja];W[ka];B[ia]C[变化])
+(;B[nb];W[oa];B[mc];W[mb];B[md];W[nc]C[失败])
+(;B[nb];W[oa];B[lb];W[mb];B[mc];W[ma];B[md];W[nc]C[失败])
+(;B[mb];W[lb];B[ma];W[nb];B[mc];W[md];B[ka];W[ja];B[ld];W[na]C[失败])
+(;B[la];W[ka]C[失败]))

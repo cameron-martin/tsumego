@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pc][oc][ra][rb]AW[nb][nc][nd][od][pd][qd][rd]N[黑先]AP[MultiGo:4.4.4]
+SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[审题：黑角上已有一眼，如何在边上找出另外一眼呢？]N[审题])
+(;B[pa]N[正解])
+(;B[qc]N[失败1];W[pa];B[pb];W[qa])
+(;B[pb]N[失败2];W[qc];B[qb];W[pa])
+(;B[ob]N[失败3];W[qc];B[qb];W[oa]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][nd][md][ld][kd][jc][jb][ja][mc][rb][rc][qd]AW[ka][kb][lc][mb]
+[nc][oc][pc][pb]N[018]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[是从外侧压缩白的眼位，还是先占据眼形的急所？计算吧。]N[审题])
+(;B[na]C[1位是眼形的急所]N[正解];W[nb];B[oa];W[pa];B[lb]C[白死。])
+(;B[na]N[变化1];W[lb];B[nb];W[oa];B[ma])
+(;B[na]N[变化2];W[oa];B[nb];W[kc];B[la])
+(;B[kc]N[失败1];W[lb];B[na];W[nb];B[oa];W[ma];B[pa];W[qa])
+(;B[lb]N[失败2];W[la];B[na];W[oa];B[nb];W[kc])
+(;B[lb]N[失败3];W[la];B[kc];W[na]C[劫。]))

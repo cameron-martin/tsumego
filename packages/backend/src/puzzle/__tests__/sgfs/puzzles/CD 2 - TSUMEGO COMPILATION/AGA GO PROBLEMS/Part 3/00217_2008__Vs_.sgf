@@ -1,0 +1,67 @@
+(;
+AB[rr][rq][qq][qp][qo][po][oo][op][oq][mp][lo][lq][kq][jq][iq][ns]
+AW[pr][qr][pq][pp][or][rs][nq][mq][lr][kr]
+C[Black's response to White's marked play?
+
+Analysis:
+    Myron Souris]
+TR[kr]
+(;
+B[jr]
+C[White's marked play is increasing eye space at an alarming rate.  Surely Black must restrict White by descending here.];
+W[ms]
+C[But then White takes the vital point.];
+B[ks];W[nr];B[js];W[os];B[ls];W[qs]
+C[White can recapture to preserve the 2nd eye.  Black's attack has failed.]
+)
+    (;
+    B[ms]
+    C[Almost unbelievably, this famous tesuji kills White.]
+    (;
+    W[jr];B[ir]
+    (;
+    W[js]
+    C[White's stiffest defense.];
+    B[mr]
+    C[After this cut, White must capture the 3 stones.];
+    W[os];B[is];W[nr];B[ls];W[ks];B[ms]
+    C[Black plays "under the stones" on the vital point for the 2nd time!];
+    W[qs]
+    C[A vain attempt to make 2 eyes.];
+    B[mr]
+    C[And White collapses.]
+    )
+        (;
+        W[mr];B[js]
+        C[This powerful hane is the killing response almost regardless of any previous White play.];
+        W[qs];B[os];W[ks];B[nr]
+        C[Black forms a dead shape.]
+        )
+        (;
+        W[nr];B[js];W[ks];B[qs]
+        )
+        (;
+        W[qs];B[js];W[mr];B[os]
+        )
+    )
+        (;
+        W[qs];B[jr]
+        C[This descent is the killing response to almost regardless of any previous White play.];
+        W[mr];B[ks];W[ls];B[os]
+        C[Black forms a dead shape.]
+        )
+        (;
+        W[nr];B[jr];W[qs];B[ks]
+        )
+        (;
+        W[mr];B[jr]
+        (;
+        W[qs];B[ks]
+        )
+            (;
+            W[ks];B[qs]
+            )
+        )
+    )
+)
+

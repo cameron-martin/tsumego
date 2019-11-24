@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[do][fp][gp][hp][iq][jq][jr][js][dr][cs][br][bq][cp]AW[cr][cq][dq]
+[eq][er][gq][hq][ir][is][gs]N[001]AP[MultiGo:4.4.4]SZ[19]AB[bo]MULTIGOGM[0]
+
+(;LB[hr:A][ds:B]C[关注A位，白只要有机会走到A位，做活就不困难了。比如，黑B位接，白A马上成活。
+
+难度：B]
+N[审题])
+(;B[hr]N[正解];W[gr];B[fq]C[黑3先冲一下，要紧];W[fr];B[es]LB[fs:A][ds:B]C[接下来，白不能走A位，那样黑B，白提子后，黑点眼，白棋要死。]
+;W[ds]C[劫杀正解。])
+(;B[hr]N[变化1];W[ds];B[fr])
+(;B[hr]N[变化2];W[fr];B[ds];W[es];B[hs];W[bs];B[gr])
+(;B[fq]N[失败];W[fr];B[hr];W[ds]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oe][nf][mf][lf][jf][je][jd][jc][jb][la][lb][lc][qc][oc]AW[ka][kb]
+[kc][kd][ld][mc][nc][me][ne]N[076]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[nd:A]C[白走A位是后手一眼。黑走A位的话，白能做活吗？黑如果从边上动手的话，就必须要得到先手。]
+N[审题])
+(;B[oa]N[正解];W[na];B[nd];W[ob];B[pb];W[pa];B[qa];W[mb];B[oa]C[劫杀正解。])
+(;B[oa]N[变化1];W[nd];B[ma]C[黑3的手筋值得学习吧。])
+(;B[oa]N[变化2];W[nb];B[nd]C[白是死形。])
+(;B[nd]N[失败];W[ob];B[pb];W[oa]C[白2、4可做活。]))

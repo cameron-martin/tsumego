@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 24. Black to play.
+Which way sould Black give atari to the white stone in the center?]AW[ek][gk][hj][hh][fh][ei][fk][ij][di][ih]PB[ ]PM[1]PW[ ]AB[if][eg][fj][fi][hi][gj][ef][gf][eh]
+(
+;B[gh]C[Correct Answer
+If Black gives atari with 1, the lone shite stone cannot escape.]
+)
+(
+;B[fg]C[Wrong Answer
+If Black gives atari in the wrong direction...]
+;C[...White connects at 2 and cannot be captured.]W[gh]
+)
+
+)

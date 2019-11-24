@@ -1,0 +1,31 @@
+(;
+GM[1]
+SZ[19]
+AW[bc][ce][df][pq][pj][qh][qf][qe][qd][pe][od][nd][ld]
+AB[dc][gd][dh][dp][pd][pc][qc][oc][mb][oe][of][pf][oh]
+TR[dc][gd]
+C[Problem 36. Black to play.  
+
+Because of the two marked black stones, White's three stones in the top right are in danger. How should Black attack ? ]
+(;B[kg]
+TE[2]
+C[Correct Answer.  
+
+Black attacks on a large scale with 1. ]
+;W[jd]
+C[If White jumps to 2, ... ]
+;B[ie]
+TR[dc][gd]
+C[... Black plays 3 and, because of the presence of the two marked stones, White's stones will have a hard time living. <= ]
+)
+(;B[kc]
+C[Failure.  
+
+Black is thinking on a small scale when he plays 1 ... ]
+;W[kd];B[jc]
+C[... and 3 along the third line. ]
+;W[kg]
+TR[oh][pf][of][oe]
+C[When White jumps to 4,  it is Black's four marked stones that are in trouble. <= ]
+)
+)

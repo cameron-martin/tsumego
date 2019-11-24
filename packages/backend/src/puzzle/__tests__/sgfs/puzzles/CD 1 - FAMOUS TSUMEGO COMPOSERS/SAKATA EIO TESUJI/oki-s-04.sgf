@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[em][gm][en][hn][eo][cp][dp][hp][ip][dq][fq][gq][iq][dr][fr][ir][es]AB[fn][bo][co][do][fo][bp][ep][fp][gp][cq][eq][hq][er]C[Ex. 4 - Semeai
+
+There is a weak point somewhere in this W group which surrounds the 7 B stones.
+Of course, W is connected along the lower edge but you can turn the tables against him.]
+;B[cr]LB[cr:1]C[Diag. 1 - Failure
+The exchange of B 1 
+]
+;W[ds]LB[cr:1][ds:2]C[ and W 2 is useful ]
+(;B[cs]LB[cr:1][cs:3][ds:2]TR[aa]C[then B 3 ate is, however not good ]
+;W[fs]LB[cr:1][cs:3][ds:2][fs:4]C[since it allows W to connect at 4. ]
+;B[hr]LB[cr:1][hr:5][cs:3][ds:2][fs:4]C[After this B is too late even if he plays nobidashi 5 ]
+;W[hs]LB[cr:1][hr:5][cs:3][ds:2][fs:4][hs:6]TR[aa]C[It ends in failure after W 6 hane.])
+(;B[gs]LB[cr:1][ds:2][gs:3]C[Diag. 2 - Correct
+
+If B 1 and 2, B 3 is the fine suji which finds the flaw in W's group ]
+(;W[fs]LB[cr:1][ds:2][fs:4][gs:3]C[If W tsugi, (cont.)]
+;B[hr]LB[cr:1][hr:5][ds:2][fs:4][gs:3]C[B plays nobi 5 and W cannot play ate. B wins.
+B 3 is a kosumi in relation to 5 and you have learnt this pattern in the section on kosumi, but the interesting thing here is that you must start with the oki 3.])
+(;W[hr]LB[cr:1][hr:4][ds:2][gs:3]C[Diag. 3 - Correct
+
+If W takes at 4 in reply to B 3 oki, 
+]
+;B[fs]LB[cr:1][hr:4][ds:2][fs:5][gs:3]C[B plays sashikomi 5.
+B wins.])
+(;W[gr]LB[cr:1][gr:4][ds:2][gs:3]C[Diag. 4 - Correct
+
+Even if W tries gozumi 4 against B 3, ]
+;B[cs]LB[cr:1][gr:4][cs:5][ds:2][gs:3]C[after B 5 it is an oi otoshi.])))

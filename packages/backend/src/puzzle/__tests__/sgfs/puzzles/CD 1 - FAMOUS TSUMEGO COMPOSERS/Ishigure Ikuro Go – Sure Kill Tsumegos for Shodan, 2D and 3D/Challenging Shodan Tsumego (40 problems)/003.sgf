@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qp][ro][po][pn][om][nm][mm][ln][lo][lp][lq][lr][ls][mq][nq][rr]AW[mo]
+[mp][np][op][oo][on][nn][oq][nr][mr][qq][qr]N[003]AP[MultiGo:4.4.4]SZ[19]AB[rq]
+MULTIGOGM[0]
+
+(;TR[ls]C[空间小选择少，而且黑还有硬腿。]N[审题])
+(;B[pr]LB[or:A][pq:B]C[黑1夹时，白A明显不行，黑B即可杀死白棋]N[正解];W[pq];B[or]
+C[黑3断，要发挥硬腿的作用了];W[ps]LB[os:A]C[白4从A位打是一样的];B[ns];W[os];B[or]
+C[白死。])
+(;B[or]N[失败1];W[pr]C[黑1断，白2打吃就活了。白棋在边上有一个眼。])
+(;B[ns]N[失败2];W[or]))

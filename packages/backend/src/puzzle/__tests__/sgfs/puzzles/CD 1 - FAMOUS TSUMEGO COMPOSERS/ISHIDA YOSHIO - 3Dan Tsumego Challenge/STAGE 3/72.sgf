@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[or][rq][rp][qq]AW[os][nr][nq][oq][pq][qp][qo][ro]C[72]N[72]AP[MultiGo:4.4.4]
+SZ[19]AB[pr]MULTIGOGM[0]
+
+(;TR[or]C[第72题 似是而非的结果
+
+与第71题相比，黑多了△一子，这是差别。由于有了这个差别，黑可无条件成活。]
+N[审题])
+(;B[qs]C[黑1虎，绝对。]N[正解];W[sr];B[rr]C[白2、黑3的交换也是必然。];W[ns];B[ss]
+C[黑5扑要紧。];W[ps];B[sq];W[qr];B[pr]C[黑活。])
+(;B[qs]N[变化];W[sr];B[rr];W[ns];B[ps]C[黑5团眼，计算不足。];W[rs]C[劫。])
+(;B[qr]LB[ps:A]C[黑1接不行，这是基本死形。白A爬即可。]N[失败]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[od][pd][qe][re][se][pa][ob][nb][nc]AW[pb][qb][rb][pc][oc][qd][rd]
+N[001]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;LB[sd:A][qa:B]C[白气很紧。黑A或B位冲明显不行。]N[审题])
+(;B[ra]N[正解];W[qa]C[黑1托入时，白2必然，否则简单死亡];B[sc];W[rc];B[sb]C[黑充分利用了白气紧的缺陷。
+
+白死。])
+(;B[ra]N[变化];W[qa];B[sc]LB[sb:A][rc:B]C[黑3时，白A则黑B，白死];W[sd];B[rc]C[接不归。])
+(;B[sc]N[失败];W[rc];B[ra];W[sd]LB[sb:A]C[白4走A位也可做活。]))

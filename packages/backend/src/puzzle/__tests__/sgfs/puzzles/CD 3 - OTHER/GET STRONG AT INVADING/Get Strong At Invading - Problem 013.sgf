@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][lb][nc]
+AB[dd][hc][lc][pd][pf]
+LB[lb:1]
+C[Problem 13. Black to play.  
+
+White attaches with 1. What should Black do ? ]
+(;B[mb]
+LB[jp:B][kb:A]
+
+TE[2]
+C[Correct Answer.  
+
+There are two Correct Answers: Black 1 and A.  
+
+Black might even play elsewhere (B). <= ]
+)
+(;B[kb]
+TE[2]
+C[Correct Answer.  
+
+Also correct. <= ]
+)
+(;B[jp];W[ld]
+C[Variation.  
+
+If Black played elsewhere, White might then attach from above with 2. ]
+;B[oc]
+C[Black forces with 3 ... ]
+;W[nd];B[nb]
+C[... and 5, ... ]
+(;W[mb]
+C[... then takes sente again. <= ]
+)
+(;W[mb]))
+)

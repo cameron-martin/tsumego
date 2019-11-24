@@ -1,0 +1,36 @@
+(;
+GM[1]
+SZ[19]
+AW[dg][cn][fm][fj][eg]
+AB[pj][dj][dp][pd][pp][dd][fd][fp][jq][eh]
+LB[dg:1][fd:2][cn:3][fp:4][fm:5][jq:6][fj:7][eh:8][eg:9]
+C[Problem 50. Black to play.  
+
+This is a classic handicap go position. How should Black respond to White 9 ? ]
+(;B[fi]
+TE[2]
+C[Correct Answer.  
+
+Attacking with the diagonal move of Black 1 is the way to make good shape. ]
+;W[gi]
+C[If White hanes with 2, ... ]
+;B[fh]
+C[... Black plays 3 and the four stones on the left side make a shape knows as 'guzumi' in Japanese. White can no longer prevent Black from escaping into the center. ]
+;W[gf]
+C[White's two stones in the upper left are in great danger, so they must escape with 4, but, ... ]
+;B[gh]
+C[... with Black 5, all of White's stones are under attack. <= ]
+)
+(;B[fh]
+C[How the game continued.  
+
+Black extended to 1, but, ... ]
+;W[dh]
+C[... when White turned at 2, ... ]
+;B[ei]
+C[... he was forced to defend with 3 and was left with terrible shape. ]
+;W[gf]
+LB[hh:A]
+C[Next, White jumped to 4 and, even  Black had jumped to A, White would have taken the initiative. <= ]
+)
+)

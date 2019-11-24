@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[qr][qq][qp][rq][op][np][mp][ss][sr]AW[lp][lq][lr][oq][pr][no][mo]
+[oo][qo][ro][rp]N[004]AP[MultiGo:4.4.4]SZ[19]AB[qs]MULTIGOGM[0]
+
+(;C[弃子得到先手，然后做活，是大致的思路。选点不多。]N[审题])
+(;B[nr]N[正解];W[nq];B[mq];W[mr];B[or];W[pp];B[pq])
+(;B[or]N[失败];W[nr];B[os];W[pq]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[od][nd][me][le][ke][jd][jc][jb][kb][la][rb][rc][qd]AW[lb][mb][nb]
+[kc][kd][ld][md][mc][oc][qc][qb]N[088]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[进攻的入手点不多。计算吧。熟悉基本死活的话，可以很快找到正解。]N[审题])
+(;B[pc]N[正解];W[pb];B[qa]C[黑1冲、3扳是次序];W[oa];B[nc];W[ma];B[ob]C[劫杀正解。])
+(;B[pc]N[变化];W[pb];B[qa];W[pa]C[黑3扳时，白4挡住不行];B[ma];W[na];B[ob]C[白死。])
+(;B[qa]N[失败1];W[oa];B[pb];W[pc];B[pa];W[ma])
+(;B[pb]N[失败2];W[pc];B[qa];W[oa];B[pa];W[ma])
+(;B[oa]N[失败3];W[pb]))

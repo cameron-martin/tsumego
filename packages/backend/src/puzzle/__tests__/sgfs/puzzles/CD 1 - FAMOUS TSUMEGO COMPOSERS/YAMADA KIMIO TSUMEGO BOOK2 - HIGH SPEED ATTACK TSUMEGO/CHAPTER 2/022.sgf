@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[md][oc][lc][kc][jc][jb][ra][rb][rc][rd][qe][pe][oe]AW[lb][mc][nc]
+[ob][od][pd][qd][qc][qb]N[022]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;LB[qa:A][mb:B]C[黑走A或B位不行，这容易计算。观察棋形：白气非常紧，而且黑有硬腿。]
+N[审题])
+(;B[pb]N[正解];W[pa];B[nb];W[pc];B[mb]C[白死。])
+(;B[pb]N[变化1];W[pc];B[pa])
+(;B[pb]N[变化2];W[nb];B[pa];W[ma];B[oa])
+(;B[nb]N[变化2];W[mb];B[pb];W[na];B[pa];W[la];B[oa];W[pc])
+(;B[pa]N[失败];W[pb]C[黑的进攻已经难以为继。]))

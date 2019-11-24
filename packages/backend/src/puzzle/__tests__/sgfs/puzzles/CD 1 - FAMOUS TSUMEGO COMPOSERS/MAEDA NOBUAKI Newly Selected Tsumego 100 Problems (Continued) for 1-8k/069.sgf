@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[gd][fd][fb][gb][jb][kd][ld][md][nd][oc][nb][je][ie]AW[mb][mc][lc]
+[kc][kb][jd][id][hc][hb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[hd]MULTIGOGM[0]
+
+(;C[审题：黑棋的杀法也是基本功。瞄准白形的缺陷，一击中的。]N[审题])
+(;B[ia]N[正解];W[ha]C[黑1尖时，白2必须阻止黑回家];B[jc];W[ic];B[gc]C[白死。记住黑1尖的手筋。])
+(;B[ha]N[失败1];W[ia]C[黑1扳不行，白2挡住之后黑棋不知道怎么杀了。])
+(;B[ib]N[失败2];W[ha]C[黑缺少计算。]))

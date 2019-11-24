@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[qf][od][nc][pc][qc]
+AB[pj][dj][dp][pd][pp][dd][jj][kd][qd][oe][pg]
+LB[nc:1][kd:2][qf:3][oe:4][qc:5][qd:6][pc:7][pg:8][od:9][me:A]
+C[Problem 56. Black to play.  
+
+White punished Black's weak move at 8 by playing 9 (Black 8 at A would have been the strongest move.). How should Black respond ? ]
+;B[rd]
+TE[2]
+C[Correct Answer.  
+
+Securing the side with 1 ... ]
+(;W[ne];B[pf]
+LB[mc:B][md:A]
+C[... and 3 makes Black thick. The white stones are now vulnerable: Black can aim to attack them by peeping with A, then blocking at B. <= ]
+)
+(;W[pf]
+LB[rd:1]
+C[Variation.  
+
+After Black 1, White might push up with 2 and ... ]
+;B[of];W[qg];B[pe];W[ph];B[og];W[pi];B[oj];W[qj];B[qk];W[rk]
+C[... play the sequence to 12, but ... ]
+;B[rl]
+C[... the two-step hane of 13 is severe. ]
+;W[nh];B[rj];W[qi];B[nj];W[ni]
+C[Up to 18, White is out into the center, but ... ]
+;B[ri]
+C[... she is left with two weak groups after Black 19 ... ]
+;W[rh];B[md]
+C[... and 21. <= ]
+)
+)

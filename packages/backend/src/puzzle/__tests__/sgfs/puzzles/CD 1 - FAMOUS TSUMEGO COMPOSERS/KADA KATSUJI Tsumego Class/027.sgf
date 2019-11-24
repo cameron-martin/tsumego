@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[cp][cq][eq][cr][br][gr][fp][ep]AW[bq][bp][co][do][eo][fo][go][gp]
+[fq][dq][hq][hr][hs][gs][ar]C[B]N[027]AP[MultiGo:4.4.4]SZ[19]AB[dp]MULTIGOGM[0]
+
+(;C[空间很小吧，但计算同样马虎不得。
+
+难度：B]N[审题])
+(;B[fr]C[黑1退，踏上成活之路]N[正解];W[gq]C[白2接上是最容易令黑犯错误的手段];B[ds]
+C[黑3，防守的急所];W[bs];B[fs];W[er];B[es]C[黑活。])
+(;B[fr]N[变化1];W[gq];B[ds];W[er];B[bs])
+(;B[fr]N[变化2];W[fs];B[es];W[gq];B[dr])
+(;B[fr]N[失败1];W[gq];B[es];W[dr])
+(;B[er]N[失败2];W[fr];B[es];W[dr];B[bo]C[黑5断没有用];W[bn];B[ds];W[bs])
+(;B[ds]N[失败3];W[bs];B[fr];W[fs]))

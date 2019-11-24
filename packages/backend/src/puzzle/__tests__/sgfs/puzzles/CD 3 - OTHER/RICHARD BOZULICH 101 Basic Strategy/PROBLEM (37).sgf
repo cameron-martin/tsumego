@@ -1,0 +1,8 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[pc][qd][pf][ph][qk][op][pq][id][kc]AW[dd][dp]
+[jq][mq][qo][oc][nd][nf][ke]C[Black to play. Where is the urgent point for Black?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[fc]
+(;W[cf];B[qp]C[CORRECT It is urgent for Black to secure his two stones at the top. If White answers, Black will switch to the lower right corner with the attachment of 3, attacking the lone white stone there.])
+(;W[pn];B[no]C[CORRECT It is urgent for Black to secure his two stones at the top. White might ignore Black's approach, and play the diagonal move. Blakc answers moving his stones into the center and out of danger.]))
+(;B[qp];W[gc]C[Black must not play this move before securing the two stones at the top. White will now attack the two black stones.]))

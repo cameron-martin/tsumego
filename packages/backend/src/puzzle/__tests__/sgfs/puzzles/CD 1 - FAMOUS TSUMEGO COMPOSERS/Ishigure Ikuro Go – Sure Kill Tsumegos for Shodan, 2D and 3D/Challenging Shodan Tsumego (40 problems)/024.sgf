@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[lp][lq][lr][ls][ms][or][pq][qq][qr][qs][rp][ro][qn][pm][om][nm][mm]
+[mo]AW[nr][ns][no][nn][pn][op][pp][qp][oq][pr][ps][mp][mq][mr]N[024]AP[MultiGo:4.4.4]
+SZ[19]AB[mn]MULTIGOGM[0]
+
+(;LB[os:A]C[黑A提子如何？明白了为什么不行之后，正解就呼之欲出了。]N[审题])
+(;B[np]C[黑1扑，锐利]N[正解];W[on];B[po];W[oo];B[os]C[黑5打吃是先手];W[nq];B[qo]
+C[白死。])
+(;B[np]N[变化];W[os];B[oo]C[黑1、3是连贯的手法。白死。])
+(;B[os]N[失败1];W[on])
+(;B[on]N[失败2];W[os]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qe][pe][oe][nd][nc][nb][mb][sc][rc][rd]AW[ob][oc][qc][qd][rb][sb]
+N[012]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;C[空间很小。黑可以选择的点很多，所以要好好计算。]N[审题])
+(;B[pb]LB[oa:A][qb:B][qa:C]C[黑1夹，白必须阻渡。白A则黑B，白C则黑A，白死。]N[正解]
+;W[pa];B[qa];W[oa];B[qb];W[pc];B[ra];W[sa];B[qb]C[白死。])
+(;B[oa]N[失败1];W[pa];B[pb];W[pc];B[qa];W[ra])
+(;B[pd]N[失败2];W[pc]C[白已是活形];B[ra];W[qb];B[pa];W[oa];B[qa])
+(;B[qa]N[失败3];W[qb];B[oa];W[pb];B[pa];W[ra];B[na];W[pd]))

@@ -1,0 +1,36 @@
+(;
+GM[1]
+SZ[19]
+AW[dg][dh][de][dd][dc][ec][eb][hc][jq][dq][dp][do][em][cl]
+AB[cb][db][cc][cd][cf][cg][fc][pd][pq][qo][bn][cn][cp][cq]
+LB[lq:C][md:A][pj:B]
+C[Problem 126. Black to play.  
+
+White is thick at the left side from the top to the bottom. Although Black has a lot of profit, he still has to prevent White from expanding the scale of her moyo. Where should he play ? ]
+(;B[md]
+TE[2]
+C[Correct Answer.  
+
+Black 1 blocks White from making a large-scale moyo at the top while making territory. ]
+;W[nq]
+C[If White answers with 2, ... ]
+;B[ko];W[no];B[io];W[jn];B[jo];W[lq];B[hm]
+C[... Black is satisfied to erase White's moyo with the sequence to 9. <= ]
+)
+(;B[lq]
+C[Failure.  
+
+Locally, Black 1 here is big, but ... ]
+;W[md]
+C[... it is too dangerous to let White play at 2. <= ]
+)
+(;B[pj]
+C[Failure.  
+
+Black 1 is not good ... ]
+;W[nd]
+C[... because it lets White make an approach move at 2. ]
+;B[pf];W[pc];B[qc];W[oc];B[qb];W[nf]
+C[After the sequence to 8, White has made a huge moyo at the top. <= ]
+)
+)

@@ -1,0 +1,28 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bb][bd][be][cc][dd][ea][eb][ec][ed]
+AW[ac][bc][bf][cd][ce][cg][de][ee][fa][fb][fc][fd]PL[B]C[Black to play.
+
+Endgame moves - Defend
+
+Source: Guan-Zhi-Pu.]
+;B[ab]
+;W[cb]
+;B[ad]
+;W[bc]
+;B[ac]
+;W[da]
+;B[dc]
+;W[ba]
+(
+;B[af]
+;W[ag]
+;B[aa]C[RIGHT
+Loop Ko])
+(
+;B[aa]
+;W[af]C[Ko For Life])
+(
+;B[jj]
+;W[af]
+;B[ji]
+;W[ae]C[Both Alive]))

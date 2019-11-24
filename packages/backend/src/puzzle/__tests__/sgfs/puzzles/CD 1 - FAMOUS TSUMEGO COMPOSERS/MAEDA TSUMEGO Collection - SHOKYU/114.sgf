@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[nq][nr][lr][rp][qp][pp][op]AW[ns][or][oq][pq][qq][sr]N[114]AP[MultiGo:4.4.4]
+SZ[19]AB[np]MULTIGOGM[0]
+
+(;C[有点像老鼠偷油的棋形吧，但又不完全一样。
+
+难度：☆☆]N[审题])
+(;B[ps]C[黑1点是手筋，白棋的抵抗都将是徒劳的]N[正解];W[rr];B[rs];W[os];B[qr]C[白死。])
+(;B[ps]LB[os:A][rq:B]C[黑1点后，白A则黑B，白死]N[变化];W[qs];B[rs])
+(;B[rq]N[失败1];W[rr];B[ps];W[qs])
+(;B[rr]N[失败2];W[rq];B[qr]LB[rs:A][qs:B]C[接下来，白A则黑B，万年劫];W[qs];B[ps]
+;W[rs];B[ss];W[rs];B[os]C[由于白气紧，没有办法吃黑的接不归，死了。]))

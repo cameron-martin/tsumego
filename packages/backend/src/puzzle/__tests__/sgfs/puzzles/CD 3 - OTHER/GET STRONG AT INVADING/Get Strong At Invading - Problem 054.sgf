@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][nc][nd][od]
+AB[dd][hc][oc][pc][qd][qf]
+C[Problem 54. Black to play.  
+
+Where should Black invade White's formation at the top ? ]
+;B[lc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the best move. ]
+(;W[ld]
+C[If White attaches at 2, ... ]
+;B[lb]
+C[... Black descends to 3 and ... ]
+;W[kd];B[nb]
+LB[jb:A]
+C[... he can link either at 5 or at A. White is satisfied with her thickness. <= ]
+)
+(;W[kd]
+C[Failure.  
+
+The diagonal move of 2 is not good. ]
+;B[ld]
+C[Black pushes up with 3, ... ]
+;W[le];B[lb]
+LB[nb:B][jb:A]
+C[... then descends to 5, enabling him to link up with A or B. White's stones are thin and vulnerable. <= ]
+)
+)

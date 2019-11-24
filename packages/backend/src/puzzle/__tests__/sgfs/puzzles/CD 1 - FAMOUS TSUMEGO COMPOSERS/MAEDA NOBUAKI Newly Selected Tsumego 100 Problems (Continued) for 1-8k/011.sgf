@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qc][pb][ob][sb][rc]AW[ra][sc][rd][pd][qd][rf][oc][nc][nb]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[审题：很基础的死活题。]N[审题])
+(;B[qa]LB[oa:A][rb:B]C[黑棋尖顶是防守的急所。以下，白A则黑B，黑活。]N[正解];W[rb]
+C[白2没有意义，接不归];B[oa];W[sa];B[qb]C[黑活。])
+(;B[rb]N[失败1];W[qa])
+(;B[sd]N[失败2];W[oa]))

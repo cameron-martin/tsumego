@@ -1,0 +1,76 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ab][ag][bc][bf][bi][cb][cc][ch][dh][ec][ef][eh]
+AW[ba][bb][be][bg][ca][da][dc][de][df][dg][fd][ff][gb]PL[B]C[Black to play.
+
+Defense - Connect Underneath
+
+Source: Igo Hatsuyo-ron.]
+(
+;B[cd]
+(
+;W[dd]
+;B[db]
+(
+;W[ea]
+;B[eb]
+;W[fb]
+;B[ae]
+;W[cf]
+;B[af]C[RIGHT
+])
+(
+;W[eb]
+;B[fb]
+;W[fa]
+;B[ce]
+;W[cf]
+;B[ae]C[Loop Ko]))
+(
+;W[cf]
+;B[eb]
+;W[ea]
+;B[ed]
+(
+;W[dd]
+;B[gc]
+;W[fc]
+;B[fb]
+;W[fa]
+;B[hb]
+;W[ga]
+;B[gd]
+;W[fe]
+;B[db]C[Black Ok])
+(
+;W[gc]
+;B[ee]
+;W[eg]
+;B[fg]
+;W[fe]
+;B[ah]
+;W[af]
+(
+;B[db]
+;W[fb]
+;B[dd]
+;W[ad]
+;B[bd]
+;W[ce]
+;B[cg]
+;W[fc]
+;B[bh]
+;W[gg]
+;B[fh]
+;W[fa]C[Ko Fight])
+(
+;B[ce]
+;W[db]
+;B[dd]
+;W[fb]
+;B[bh]C[White Death]))))
+(
+;B[db]
+;W[ea]
+;B[ae]
+;W[cf]
+;B[bd]C[Ko Fight]))

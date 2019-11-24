@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qa][rb][rc][qc][oc][nb][qe][pe][oe][ne][me][md][kd][je][jc][ic][ka]
+[ja]AW[jb][kb][lb][kc][mc][nc][nd][od][pd][pc][pb][qb]N[115]AP[MultiGo:4.4.4]SZ[19]
+AB[ib]MULTIGOGM[0]
+
+(;LB[ob:A][pa:B][la:C]C[本题的失败图要比正解图难。可以先从黑A开始计算；B、C两处明显不行，可排除在计算之外。或者，根据你的第一感开始计算。]
+N[审题])
+(;B[na]C[黑1立下是手筋，向左要求渡过，向右或者渡过或者破眼。]N[正解];W[mb]C[白要阻渡，就必须走这里]
+;B[oa]C[黑3曲是连贯的着手];W[pa];B[ob]C[刀把五，死形。])
+(;B[na]N[变化];W[ob];B[la])
+(;B[na]N[失败1];W[mb];B[pa];W[oa];B[ob];W[ma];B[ra];W[oa];B[ob]C[劫。])
+(;B[ob]N[失败2];W[oa];B[la];W[ma];B[ia]C[白棋可以脱先了，双活。]))

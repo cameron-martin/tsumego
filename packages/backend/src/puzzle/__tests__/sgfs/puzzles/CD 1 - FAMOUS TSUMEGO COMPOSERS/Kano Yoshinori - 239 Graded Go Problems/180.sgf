@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][eb][ic][ec][hd][hb][fd]GN[ ]AB[dc][fc][db][ed][hc][gc][ee]PM[1]C[Problem 180. Black to play. (1 move)
+How does Black play so as to capture two white stones?]PW[ ]
+(
+;B[fb]C[Correct Answer
+Black 1 is the correct answer.
+This move catches two white stones.]
+)
+(
+;B[ea]C[Wrong Answer
+If Black plays atari on the edge with 1...]
+;W[fb]C[...White 2 will catch three black stones.]
+)
+
+)

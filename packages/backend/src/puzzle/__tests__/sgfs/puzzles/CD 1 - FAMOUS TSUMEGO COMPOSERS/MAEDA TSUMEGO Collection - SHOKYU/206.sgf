@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[md][mc][mb][nb][rd][pd][qd][od]AW[na][ob][nc][oc][pc][qa][rb]N[206]
+AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;C[初级死活。
+
+难度：☆☆]N[审题])
+(;B[sb]N[正解];W[sc];B[rc];W[sa];B[sd];W[qc];B[sb])
+(;B[qc]N[失败];W[qb]C[黑1、白2的交换是大恶手];B[sb];W[sc];B[rc];W[sa]C[白活。]))

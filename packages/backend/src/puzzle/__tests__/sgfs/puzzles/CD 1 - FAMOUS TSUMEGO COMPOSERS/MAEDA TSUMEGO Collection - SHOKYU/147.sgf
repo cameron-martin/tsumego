@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[op][pp][qp][rp][nr][mq]AW[rq][pq][oq][or][rr]N[147]AP[MultiGo:4.4.4]
+SZ[19]AB[np]MULTIGOGM[0]
+
+(;C[按照基本原则进行就可杀白。
+
+难度：☆☆]N[审题])
+(;B[sq]C[黑从外围压缩白眼位好]N[正解];W[sr];B[ps];W[os];B[qr];W[qq];B[rs]C[白死。黑1、3之后，白无法做活。])
+(;B[ps]C[黑1先点如何？]N[失败];W[os];B[qr];W[qq];B[sq];W[pr];B[qs];W[rs])
+(;B[ps]N[变化];W[os];B[sq]C[黑还得回头走3位扳]))

@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 51. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[ff][de][gg][ed][ef][fd]PB[ ]PM[1]PW[ ]AB[gd][hg][he][fe][ee][gf]
+;C[How should Black play after White takes two stones with 1?]W[ge]
+(
+;B[fe]C[Correct Answer
+Black should immediately retake one white stone with 2.]
+)
+(
+;B[hf]C[Wrong Answer
+Negleting to take the white stone and connecting here with 2 will put Black at a disadvantage.]
+)
+
+)

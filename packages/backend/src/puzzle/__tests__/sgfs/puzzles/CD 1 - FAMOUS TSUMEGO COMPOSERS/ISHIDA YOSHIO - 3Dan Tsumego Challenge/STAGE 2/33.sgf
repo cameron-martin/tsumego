@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[op][pp][qp][rp][sp][ns][nr][nq]AW[sq][rq][qq][pq][or]C[33]N[33]AP[MultiGo:4.4.4]
+SZ[19]AB[np]MULTIGOGM[0]
+
+(;LB[rr:A]C[第33题 从内部去攻击
+
+黑从外侧缩小白的地域，则不能无条件杀白。
+
+起初一手走黑A，尔后巧妙攻击，就可杀白。]
+N[审题])
+(;B[rr]LB[qr:A][rs:B]C[黑1是急所，白的应手，大致是A、B两点。
+
+除了黑1之外，别的走法都不能净杀白棋。]
+N[正解];W[qr];B[rs];W[os];B[qs];W[oq];B[sr])
+(;B[rr]N[变化1];W[qr];B[rs];W[oq];B[ps];W[os];B[sr])
+(;B[rr]N[变化2];W[rs];B[sr];W[qr];B[ps];W[os];B[oq]))

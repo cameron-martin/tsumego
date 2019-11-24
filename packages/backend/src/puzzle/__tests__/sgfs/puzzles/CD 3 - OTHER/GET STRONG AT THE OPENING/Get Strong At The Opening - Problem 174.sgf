@@ -1,0 +1,62 @@
+(;
+GM[1]
+SZ[19]
+AW[bd][cd][dc][ed][qf][qj][qp][oq][ch][ci][di]
+AB[gc][jc][nd][pd][jq][dp][ce][de][cg][dh][eh]
+C[Problem 174. Black to play.  
+
+In this position, the first thing you should focus on is the group of three white stones on the left side. How should Black attack them ? ]
+(;B[cm]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the ideal point to attack the white stones. ]
+(;W[ei]
+LB[cm:1]
+C[In response to Black 1, White must run away with 2 ... ]
+;B[fh];W[gj]
+C[... and 4. ]
+;B[hi]
+C[While Black is chasing White, he is going to be building a moyo at the top and strengthening his stones in the lower left. <= ]
+)
+(;W[bg]
+C[Variation.  
+
+If White plays 2, ... ]
+;B[be];W[dg];B[eg];W[cf];B[df]
+LB[eb:B][fe:A]
+C[... the sequence to Black 7 would follow. After this, confining White with Black A or sliding to Black B would be a severe attack on the white stones. <= ]
+))
+(;B[cn]
+C[Failure.  
+
+Black 1 leaves room ... ]
+;W[cl]
+C[... for a white extension to 2. <= ]
+)
+(;B[cl]
+C[Failure.  
+
+Black 1 would be too close to White's thick position above. <= ]
+)
+(;B[ei]
+C[Failure.  
+
+Black 1 ... ]
+;W[ej];B[fj]
+C[... and 3 are in the wrong direction. ]
+;W[ek];B[cm]
+C[Black must now extend to 5, but ... ]
+;W[bl]
+C[... White settles her stones with 6. <= ]
+)
+(;B[mq]
+C[Failure.  
+
+Black has to attack the white stones on the left. If he extends to 1 at the bottom right, ... ]
+;W[cn]
+C[... White will approach to 2 and ... ]
+;B[fp];W[bp];B[cq];W[ei];B[fh];W[gj]
+C[... her stones on the left side will be settled. <= ]
+)
+)

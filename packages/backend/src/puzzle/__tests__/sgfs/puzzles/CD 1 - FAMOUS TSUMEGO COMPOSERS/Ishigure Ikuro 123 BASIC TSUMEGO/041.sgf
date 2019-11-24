@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qd][qe][re][od][nd][ld][lc][lb][la][rb][sb]AW[mb][nb][pc][oc][qb]
+[qa][ra][rc][rd]N[041]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;LB[sd:A][oa:B]C[黑A吃白二子，则白B可活。因此必须先在上边动手。]N[审题])
+(;B[pb]N[正解];W[pa];B[ma];W[ob];B[na];W[sa];B[oa])
+(;B[pb]N[变化];W[ob];B[ma];W[na];B[pa];W[oa];B[sd])
+(;B[oa]N[失败1];W[sa];B[pb];W[sc])
+(;B[sd]N[失败2];W[oa];B[ma];W[pb]))

@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ed][hc][ch][nc][oc][pb][qc][pf][qf][qi]
+AB[cj][jc][mc][pc][pd][od][nd][qe][re]
+LB[mc:4][pb:3][pc:2][nc:1]
+C[Problem 134. White to play.  
+
+The moves from White 1 to Black 4 are a joseki. What is White's next move ? There are two correct answers. ]
+(;W[mb]
+TE[2]
+C[Correct Answer.  
+
+The hane of White 1 is the usual answer. ]
+;B[qb]
+C[Black cuts with 2 and ... ]
+;W[ob]
+C[... White connects with 3. ]
+;B[rc]
+C[Next, Black will play 4, taking the corner, and ... ]
+;W[lc]
+C[... White will play 5. <= ]
+)
+(;W[rb]
+TE[2]
+C[Correct Answer.  
+
+White could also live in the corner by playing 1. ]
+;B[mb]
+C[The exchange of 2 ... ]
+;W[oa]
+LB[md:A]
+C[... for 3 is important. After this, White will aim to cut at A. <= ]
+)
+)

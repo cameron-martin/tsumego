@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nd][od][pd][rd][re][oa][na][nb]AW[rc][qc][pc][oc][ob][pa]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[审题：这是源自带钩的死活题，杀法也是基本功。]N[审题])
+(;B[qb]N[正解];W[rb]C[黑1点，白2必然，不能让黑1回家];B[sc]C[黑3扳继续缩小白的眼位]
+;W[sb];B[ra]C[曲三，白死。])
+(;B[ra]N[失败1];W[qb];B[qa])
+(;B[sc]N[失败2];W[sb];B[ra];W[qb]C[与失败1没有本质不同。])
+(;B[rb]N[失败3];W[sb];B[qb];W[ra]))

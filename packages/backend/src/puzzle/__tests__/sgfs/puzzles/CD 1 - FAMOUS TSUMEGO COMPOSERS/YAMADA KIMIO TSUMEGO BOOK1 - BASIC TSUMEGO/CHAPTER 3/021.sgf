@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pd][pb][oc][oe][ne][me][le][ld][lb][kb][rb][rc]AW[mb][mc][md][nd]
+[ob][pc][qc][qb][qa]N[021]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[空间小，可以逐点计算。或者根据你的第一感进行计算。]N[审题])
+(;B[ma]LB[nb:A][od:B]C[黑1扳，从外侧压缩白眼位。对此，白A则黑B，白死。]N[正解];W[na]
+;B[pa];W[oa];B[od]C[白死。])
+(;B[ma]N[变化];W[od];B[nb])
+(;B[od]N[失败1];W[pa])
+(;B[nb]N[失败2];W[pa];B[ma];W[na];B[oa]C[劫。]))

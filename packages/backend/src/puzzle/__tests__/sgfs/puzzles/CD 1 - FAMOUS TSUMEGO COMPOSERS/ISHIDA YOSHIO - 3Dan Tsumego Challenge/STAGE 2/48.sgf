@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pn][qn][rn][sn][rs][qr][pr][or][nq][op][no]AW[so][ro][qo][pp][pq]
+[qq][rq][rr][qs]C[48]N[48]AP[MultiGo:4.4.4]SZ[19]AB[po]MULTIGOGM[0]
+
+(;TR[rs][qq]C[第48题 成劫争为最佳结果
+
+黑△扑，白▲接上扩大眼位。尔后最佳次序是走成劫争。]
+N[审题])
+(;B[rp]C[黑1往急所处攻击为正解]N[正解];W[sp];B[sr]C[白2、黑3是必然应对，成劫争。])
+(;B[rp]N[变化];W[ss];B[sq]C[白死。])
+(;B[sr]N[失败];W[sq]LB[rp:A][ss:B]C[A、B见合，明显白可无条件活出。
+
+黑的计算未免太粗糙。]))

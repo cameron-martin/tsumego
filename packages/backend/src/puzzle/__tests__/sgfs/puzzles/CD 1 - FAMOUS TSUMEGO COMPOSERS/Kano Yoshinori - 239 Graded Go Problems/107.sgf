@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 107. Black to live.
+How does Black live?]AW[ea][ic][ff][ia][gc][ie][eb][id][ib][ed][ec][he][ee][gf]PB[ ]PM[1]PW[ ]AB[ge][fc][hd][fe][fb][hc][hb][ha][fd][fa]
+(
+;B[gb]C[Correct Answer
+If Black plays 1, his stones are alive.]
+)
+(
+;C[If White Plays First
+If it were White's turn to play. White 1 would kill all the black stones.]W[gb]
+)
+
+)

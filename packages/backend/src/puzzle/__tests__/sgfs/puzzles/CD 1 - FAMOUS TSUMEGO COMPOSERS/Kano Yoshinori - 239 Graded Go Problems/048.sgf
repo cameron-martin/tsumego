@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 48. Black to play.
+Where does Black want to play? (There is more than one correct answer.)]AW[dc][de]PB[ ]PM[1]PW[ ]AB[jd][dj]
+(
+;L[kj][kk][jj][jk][ij][ik][ki][ji]C[Correct Answer
+Black should play in the empty corner at one of the eigth points from A to H. Any one of these would be the correct answer.]
+)
+(
+;B[hc]C[Wrong Answer
+If Black plays at 1...]
+;C[...White will take the empty corner with 2 and Black will be at a big disadvantage.]W[kk]
+)
+
+)

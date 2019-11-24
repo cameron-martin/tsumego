@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pf][of][nf][mf][me][ld][lc][lb][kb][rb][qc][qd]AW[mb][mc][md][ne]
+[oe][oc][pb][pc]N[021]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[现在假设是白先，白走哪里是眼形的急所？有几个点？]N[审题])
+(;B[nb]N[正解];W[na];B[nc];W[ob];B[pa]C[计算时，重要的是黑5破眼这一手。
+
+白死。])
+(;B[nb]N[变化1];W[ma];B[pd]C[从外侧压缩白的眼位];W[od];B[nc];W[na];B[pa];W[qb];B[qa]
+;W[rc];B[rd])
+(;B[nb]N[变化2];W[nc];B[ma])
+(;B[ma]N[失败];W[nb];B[oa];W[na];B[pa];W[qb];B[qa];W[ra]))

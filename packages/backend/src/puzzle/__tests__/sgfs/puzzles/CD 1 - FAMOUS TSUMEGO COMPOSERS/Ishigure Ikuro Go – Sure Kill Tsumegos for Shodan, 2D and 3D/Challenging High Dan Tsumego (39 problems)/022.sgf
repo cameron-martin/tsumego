@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ro][qn][pn][oo][op][nn][mo][ln][lp][lq][lr][nr][qs][rr][rq]AW[mr]
+[mq][ms][ns][os][ps][qr][qq][qp][qo][po][oq][np][no]N[022]AP[MultiGo:4.4.4]SZ[19]
+AB[rp]MULTIGOGM[0]
+
+(;C[空间小选择少。第一感在哪里？如果没有方向，可以逐点计算。]N[审题])
+(;B[on]N[正解];W[pp];B[pr];W[rs];B[mp];W[nq];B[or])
+(;B[on]N[变化];W[pp];B[mp];W[nq];B[pr];W[pq])
+(;B[mp]N[失败1];W[nq];B[on];W[pp])
+(;B[or]N[失败2];W[pp];B[on];W[pr]))

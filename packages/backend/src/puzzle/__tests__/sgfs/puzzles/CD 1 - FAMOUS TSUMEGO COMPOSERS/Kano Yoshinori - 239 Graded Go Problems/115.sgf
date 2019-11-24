@@ -1,0 +1,15 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[Problem 115. Black to play.
+(Please move one step forward to see the problem diagram...)]PM[1]PB[ ]AB[jk][fl][fj][hk][kl][fm][lm][el][ik][fk][gl]AW[ek][jl][gk][hl][fi][gm][im][il][gj][km][ej]GN[ ]FG[259:]PW[ ]
+;C[White had played at 1. How does Black answer?]W[dl]
+(
+;C[Correct Answer
+Taking a stone in ko with 2 is the correct answer.]B[hm]
+)
+(
+;C[Wrong Answer
+Taking a stone in ko with 2 here is bad because...]B[jm]
+;C[...White 3 would capture six black stones.]W[em]
+)
+
+)

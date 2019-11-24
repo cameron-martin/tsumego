@@ -1,0 +1,43 @@
+(;
+GM[1]
+SZ[19]
+AW[dp][dd][jc][lb][mc][nc][ne]
+AB[lc][le][pd][pf][pj][pp][jp]
+TR[mc][le]
+C[Problem 110. Black to play.  
+
+In answer to Black's marked stone, White has strengthened his position at the top with his own marked stone. How should Black continue ? ]
+;B[nf]
+LB[ng:A]
+
+TE[2]
+C[Correct Answer.  
+
+Attaching with Black 1 is absolutely essential so that Black can maintain a connection with his two stones on the right. If Black omits 1, White will jump to A. This black move also maps out a vast moyo on the right side, ... ]
+(;W[qn]
+C[... so White must invade on the lower right with 2. ]
+;B[qo]
+C[However, Black goes on the attack with 3 ... ]
+;W[pn];B[np]
+C[... and 5. ]
+)
+(;W[oe]
+LB[nf:1]
+C[Variation.  
+
+White might respond to Black 1 ... ]
+;B[of];W[pe];B[qe];W[qd]
+C[... with the sequence to 6. ]
+;B[rd]
+C[Black sacrifices a stone when he ataris at 7 and ... ]
+;W[qc];B[rf];W[rc];B[me];W[md]
+C[... ends in sente with the sequence to White 12. <= ]
+)
+(;W[mf]
+C[Variation.  
+
+White might also play 2 here. ]
+;B[me]
+C[In that case Black will cut at 3, getting the advantage in the fight that follows. <= ]
+)
+)

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[hd][ie][if][jf][kf][lf][le][ld][mc][mb][ma][hb]AW[kc][ic][id][je]
+[ke][kd][lb][ib][jc]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[hc]MULTIGOGM[0]
+
+(;C[审题：可以入手的点不多。失败图的计算同样有意义。]N[审题])
+(;B[ja]C[黑1点是急所]N[正解];W[ka];B[ia];W[jb];B[ha]LB[la:A][lc:B]C[A、B两点见合，白死。])
+(;B[ja]N[正解变化];W[ia];B[la];W[ka];B[kb])
+(;B[la]C[黑1冲如何？]N[失败];W[ka]LB[kb:A][jb:B][lc:C][ia:D]C[接下来，黑A、白B、黑C、白D，可以成劫]
+;B[ia]C[黑3扳貌似可以杀白];W[ja];B[kb];W[ha]C[白6提子之后，边上可能跑出去，因此这是黑的失败图。]))

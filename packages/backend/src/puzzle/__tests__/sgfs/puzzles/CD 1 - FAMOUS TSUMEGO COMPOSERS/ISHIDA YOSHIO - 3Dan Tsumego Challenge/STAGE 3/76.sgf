@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[rq][qq][pq]AW[oq][nq][nr][lr][oo][pp][rp][ro]C[76]N[76]AP[MultiGo:4.4.4]
+SZ[19]AB[or]MULTIGOGM[0]
+
+(;LB[ps:A]C[第76题 成劫争为最佳结果
+
+黑A位虎则不活，黑必须走其他地方。]N[审题])
+(;B[os]C[黑1立下扩大眼位，这是防守的急所。]N[正解];W[sq];B[sr];W[rs]C[白2扳、4点是规范的杀法。]
+;B[qs];W[qr];B[pr]C[劫，进攻方（白）的先手劫。])
+(;B[os]N[变化1];W[rr];B[sr];W[qr];B[rs];W[qs]C[白2夹也可成劫。
+
+这也是正解。])
+(;B[os]N[变化2];W[rs];B[qs];W[qr];B[rr];W[ps];B[pr])
+(;B[os]N[变化3];W[qs];B[rs];W[rr];B[qr];W[ss];B[sq];W[ns];B[sr]C[黑活。])
+(;B[qr]N[失败];W[rs]C[黑死。]))

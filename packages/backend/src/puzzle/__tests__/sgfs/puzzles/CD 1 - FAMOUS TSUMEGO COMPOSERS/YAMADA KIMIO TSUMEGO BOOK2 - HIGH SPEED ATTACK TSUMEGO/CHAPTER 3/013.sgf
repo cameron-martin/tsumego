@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[oe][ne][md][ld][kd][kc][kb][rb][rc][rd][qd]AW[lc][mc][nb][nd][od]
+[oc][qc][qb]N[013]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;LB[lb:A][mb:B][pb:C]C[黑A白B交换后，白是活形，这是基本死活。由于没有这个交换，现在黑有手段了。第一感是C位夹吧？请计算。]
+N[审题])
+(;B[ma]N[正解];W[mb];B[pb];W[pc];B[qa]MA[oa][ob]C[观察棋形，白能走到两个X位。但是，黑1正好是托入破眼的一手。
+
+白死。])
+(;B[ma]N[变化];W[na];B[lb];W[mb]C[白4必着，走其他地方简单不行];B[pb];W[pc];B[qa]
+;W[pa];B[oa]C[白死于气紧的毛病。])
+(;B[pb]N[失败1];W[pc]C[黑1夹，白2必然];B[ma]C[黑3现在飞如何？
+
+我们讨论的是次序问题。]
+;W[na];B[lb];W[pa];B[ob];W[mb])
+(;B[pb]N[失败2];W[pc];B[qa];W[oa];B[pa];W[lb])
+(;B[lb]N[失败3];W[mb];B[pb];W[pc];B[qa];W[oa];B[pa];W[ma]C[复习基本死活。]))

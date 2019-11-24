@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[rb][qb][qd][pe][oe][ne][me][le][ke][je][id][ic][ib][jb][ka][kc][lc][nb]AW[jc][jd][kd][ld][md][nd][od][oc][pc][pb][kb][lb]C[白先 
+虽然黑一子有渡过，但仍有做眼的窍门]
+
+(;W[ma];B[na];W[mb];B[pa];W[oa];B[ob];W[nc]C[正解 白先活])
+(;W[ma];B[mb];W[mc];B[na];W[la];B[pa];W[oa]C[变化])
+(;W[mc];B[na];W[la];B[pa]C[失败]))

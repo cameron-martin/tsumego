@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[ir][is][eq][gr][ar][bq][bp][cp][dp][ep][fp][gp][hp]AW[br][cr][cq]
+[er][fq][gq][hr][gs]C[B]N[042]AP[MultiGo:4.4.4]SZ[19]AB[iq]MULTIGOGM[0]
+
+(;AB[sb][rb][sc][rd][qd][pd][od][nd][nc][ja][jb][jc][kd][le][me]AW[rc][qc][pc][qb]
+[ra][pa][nb][mc][lc][kb]C[右上是第023题，棋形有类似的地方吧。对之相比，左下白棋形气紧很明显，因此攻杀的手段便不同了。
+
+难度：B]
+N[审题])
+(;B[fr]C[黑1打是先手，这是必要的准备工作]N[正解];W[fs];B[dr];W[dq];B[ds];W[es];B[gr]
+C[黑7扑，抓住了白气紧的致命缺陷。
+
+白死。])
+(;B[fr]N[变化];W[fs];B[gr]C[黑3再扑不行];W[ds])
+(;B[dr]N[失败1];W[fr];B[es];W[dq];B[cs])
+(;B[dr]N[失败2];W[dq];B[ds]LB[es:A][fr:B]C[接下来，白A则黑B，回到正解图];W[fr];B[hs]
+;W[es];B[hq];W[cs];B[gr]))

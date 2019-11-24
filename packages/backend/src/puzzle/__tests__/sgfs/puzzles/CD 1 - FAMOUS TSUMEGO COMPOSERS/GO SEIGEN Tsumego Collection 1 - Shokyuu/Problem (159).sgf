@@ -1,0 +1,8 @@
+(;AB[ec][hc][id][jd][jc][kb]AW[gd][hd][hf][jf][ke][kd][md][mb][nc][ic]SZ[19]C[白先
+
+]
+(;W[gc]N[失败图];B[ib];W[hb];B[gb];W[ic];B[ha];W[hc];B[fb])
+(;W[gb]N[正解图]
+(;B[ib];W[hb])
+(;B[hb];W[ib];B[jb];W[gc];B[ia];W[ka]))
+(;W[hb]N[另一个失败图];B[gc]C[黑若急于提白一子就死定了。];W[gb];B[fc];W[ib];B[jb]N[对杀黑胜]))

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[rc][rb][qb][pb][ob][nb][lb][mc][ld][le][lf][ng][mg][og][pg][qg][qf]
+AW[rd][re][qe][qc][pc][oc][nc][me][mf][nf][of][pf]N[044]AP[MultiGo:4.4.4]SZ[19]
+AB[rf]MULTIGOGM[0]
+
+(;LB[md:A]C[空间小，选择少，一定要得到正解。
+
+黑棋或者走A位压缩白眼位，或者直接点进去。]
+N[审题])
+(;B[nd]N[正解];W[md];B[oe];W[pe];B[pd]C[白死。])
+(;B[nd]N[变化];W[od];B[md];W[ne];B[pe])
+(;B[nd]N[失败1];W[md];B[pe];W[oe])
+(;B[md]N[失败2];W[nd]))

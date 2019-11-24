@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[nd][mc][mb][rd][qd][pd]AW[ob][oc][pc][rb][rc]N[010]AP[MultiGo:4.4.4]
+SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[qc:A]C[黑A冲肯定不行，帮白棋分割眼位呢。不过，也要计算。
+
+本题与009题密切相关。]
+N[审题])
+(;B[sc]N[正解];W[sb];B[pa];W[oa];B[qb];W[qc];B[ra]C[白死。])
+(;B[sc]N[变化];W[sb];B[pa];W[qc];B[ra];W[qb];B[oa])
+(;B[pa]N[失败1];W[qc];B[sc];W[qa];B[sb];W[pb]C[这正是009题的内容。])
+(;B[qc]N[失败2];W[qb];B[oa];W[na];B[pa];W[nb]))

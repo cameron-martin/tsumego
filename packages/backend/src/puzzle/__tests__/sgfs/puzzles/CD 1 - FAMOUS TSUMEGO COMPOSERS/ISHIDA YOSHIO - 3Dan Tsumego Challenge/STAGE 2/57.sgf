@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[lo][lq][kq][jq][jr][js][ks][sr][rq][qq][pp][op][qo]AW[kr][lr][mq]
+[nq][oq][pq][ms][qr][rr]C[57]N[57]AP[MultiGo:4.4.4]SZ[19]AB[mp]MULTIGOGM[0]
+
+(;C[第57题  成劫争是必然的
+
+从上题可知，缩小地域白就活了。
+
+因此黑只有从白内部进行攻击。成劫争为双方最佳的结果。]
+N[审题])
+(;B[ps]N[正解];W[os]C[黑1点，白2是最强应手。];B[or];W[nr];B[ns]C[成劫争是必然结果。])
+(;B[ps]N[变化1];W[os];B[or];W[nr];B[ns];W[pr]C[白如果试图净活的话……];B[os];W[qs]
+;B[os]C[白死。])
+(;B[ps]N[变化2];W[pr];B[os]C[黑1点，白2接不好，黑3长，白棋就死了。];W[ns];B[mr]
+;W[nr];B[ls])
+(;B[rs]N[失败1];W[ps]C[这正是56题的内容。])
+(;B[os]N[失败2];W[ps];B[or];W[nr]C[白活。]))

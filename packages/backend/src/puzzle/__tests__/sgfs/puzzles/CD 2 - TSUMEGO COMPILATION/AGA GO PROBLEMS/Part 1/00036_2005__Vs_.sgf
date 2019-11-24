@@ -1,0 +1,67 @@
+(;
+AB[fc][ic][ie][fq][jp][mp][nq][oq][pq][qp][pm][pl][pk][nk][nl][qj][qi][qh][rg][rf][qd][pd][pc][nd][nh][rh][ri][pe][ni][mj][lj][ng][ki]
+AW[eb][dd][df][dp][dn][np][op][mo][on][pn][qn][qm][ql][qk][pj][oj][mi][ph][pg][qg][qe][mc][nc][kc][ke][of][nj][mg][li][rj][si][pi]
+C[White's response to the marked stone?
+
+Source:
+    "Go World", #31, Spring 1983, pp. 10-11
+    Kataoka Satoshi  vs.  Kato Masao, 8th Tengen Title, Game Two]
+TR[ng]
+(;
+W[lg]
+C[Natural and wrong.];
+B[nf];
+W[kj];
+B[ll];
+W[ne];
+B[mh];
+W[lh];
+B[lf];
+W[kf]
+LB[mf:a]
+C[White A also fails.];
+B[mf]
+LB[md:a]
+C[Sente.  And after Black follows up with A,
+White collapses.]
+)
+    (;
+    W[kh]
+    C[Correct.
+Kataoka overlooked this response, because
+the move is normally bad style.];
+    B[nf];
+    W[kj]
+    (;
+    B[ji]
+    C[The game continued with this line...];
+    W[mk];
+    B[lk];
+    W[ml]
+    C[Now White captures Black.  But despite
+this huge reversal, Black is not yet losing!
+Black has built some thickness and White
+does not have too much territory.];
+    B[jh];
+    W[lf];
+    B[kg];
+    W[lg];
+    B[lh];
+    W[mh];
+    B[ne];
+    W[mm];
+    B[kk];
+    W[ld]
+    C[Ensures life for the White group.]
+    )
+        (;
+        B[ll]
+        C[Black could capture the White group
+and save his own, but ...];
+        W[ji]
+        C[But amazingly, this powerful White ponnuki
+would be worse for Black than in the game
+line!]
+        )
+    )
+)

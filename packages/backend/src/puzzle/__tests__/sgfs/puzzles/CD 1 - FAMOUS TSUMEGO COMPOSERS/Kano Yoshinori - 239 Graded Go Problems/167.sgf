@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[dc][ea][fc][db][ec][fb][gc]GN[ ]AB[gd][ca][ic][ed][hd][da][dd][cb][fd][cc]PM[1]C[Problem 167. Black to play and kill White. (1 move)
+How does Black play to kill the white stones?]PW[ ]
+(
+;B[hb]C[Correct Answer
+Black 1 is the correct answer. he cannot make two eyes and is dead.]
+;W[ga]C[...No matter where White plays 2...]
+;B[gb]C[...he cannot make two eyes and is dead.]
+)
+(
+;B[hc]C[Wrong Answer
+If Black plays 1...]
+;W[hb]C[...White lives with 2. Black 1 in the Correct Answer is the only move that will kill White.]
+)
+
+)

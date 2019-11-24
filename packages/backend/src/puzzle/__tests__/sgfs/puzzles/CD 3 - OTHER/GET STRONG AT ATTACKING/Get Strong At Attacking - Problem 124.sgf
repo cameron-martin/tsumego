@@ -1,0 +1,25 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][dq][cn][pb][qb][qc][qd][qf][qg][nc][ne][ng]
+AB[eb][fd][de][be][pp][oh][pg][pf][pc][pd][pe][ob][oc]
+LB[oh:A]
+C[Problem 124. White to play.  
+
+Black has just played the diagonal move of A. What should White do ? ]
+;W[qh]
+TE[2]
+C[Correct Answer.  
+
+White 1 may be a hard move to see, but it is the key point in this position. ]
+;B[nh]
+C[Black will push out with 2 ... ]
+;W[mh];B[mi]
+C[... and 4, ... ]
+;W[lh];B[nj]
+C[... but he must fall back and make shape with 6. ]
+;W[li];B[lj];W[kj];B[lk];W[kk];B[ll];W[kl];B[lm];W[jn]
+LB[qh:1]
+C[White now bears down on Black with the sequence to 15, building influence in the center. This influence combines well with her enclosure in the lower left corner, while Black's influence facing the right is neutralised by the white stone at 1. <= ]
+)
+)

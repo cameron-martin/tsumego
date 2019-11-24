@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[qf][oe][ne][md][mc][mb][pb][pc][qd][rd]AW[nb][ob][oc][od][pd][qc]
+[rc]N[009]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;LB[rb:A]C[首先可以计算黑A位夹的变化，然后再考虑有没有其他的可能性。
+
+类似棋形的死活题不少。]
+N[审题])
+(;B[sc]C[黑1在底线扳，往往是类似棋形下的手筋]N[正解];W[qb];B[sb]C[白死。])
+(;B[sc]N[变化];W[pa];B[sb]C[白2扳打，试图“化学”一下，黑3长入是先手，没棋。])
+(;B[rb]N[失败1];W[qb];B[sc];W[pa];B[na];W[sb];B[sa];W[ra]C[劫杀失败。])
+(;B[qb]N[失败2];W[rb];B[sc];W[pa];B[sb];W[qa];B[na];W[pb])
+(;B[sb]LB[qb:A][sc:B]C[黑1点的用意，是白A、黑B，这样白死]N[失败3];W[sc];B[qb];W[rb]
+;B[ra];W[sa]C[劫。]))

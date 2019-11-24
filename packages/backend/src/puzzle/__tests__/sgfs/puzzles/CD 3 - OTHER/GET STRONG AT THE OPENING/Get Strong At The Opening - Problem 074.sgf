@@ -1,0 +1,43 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dp][dn][po][ok][nc][jd]
+AB[fq][jp][pq][np][qk][pd][pf]
+LB[po:1][np:2][ok:3]
+C[Problem 74. Black to play.  
+
+After 2, White strikes at the weak point of the low Chinese opening by capping at 3. How should Black prevent White from making sabaki ? ]
+(;B[qm]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a sharp move. White has to keep her stones linked, ... ]
+(;W[pl]
+C[... so she plays 2 ... ]
+;B[ql];W[pm]
+C[... and 4. ]
+;B[pi]
+C[When Black now plays 5, White's stones are rootless, floating in the center, so Black will be able to gain more profit by attacking them. <= ]
+)
+(;W[on]
+LB[pl:@]
+C[Failure for White.  
+
+The forcing move at @ in the Correct Answer is necessary. If White simply plays 2 here, ... ]
+;B[om]
+C[... Black will play 3 and, ... ]
+;W[nm];B[nl];W[ol];B[pm];W[mm]
+C[... after 8, ... ]
+;B[nk]
+C[... Black can fight with 9. <= ]
+))
+(;B[pi]
+C[Failure.  
+
+The proverb advises us to answer a cap with a knight's move, but if Black plays 1, ... ]
+;W[ql];B[rl];W[rk];B[rj];W[pk];B[qj];W[rm]
+C[... White makes sabaki within Black's moyo, ... ]
+;B[sk]
+C[... ending in sente. <= ]
+)
+)

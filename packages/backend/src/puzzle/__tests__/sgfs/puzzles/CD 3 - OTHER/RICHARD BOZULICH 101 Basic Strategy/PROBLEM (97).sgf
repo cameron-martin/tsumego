@@ -1,0 +1,11 @@
+(;CA[utf-8]ST[2]RU[Japanese]FF[4]AB[ip][pf][qh][qi][qj][pk][pl][qm][on][iq][ho]
+[hn][hm][fq][dp][eo][co][dn][dm][dl][dk][lp][np][oq][pq][qp][pg][qf][pe][pd][pc]
+[pb][qb][jc][gb][fc][fd][ed][hd][gd][id][jd]AW[pr][rq][ro][po][rl][qk][rj][rh][qg]
+[rg][rf][qe][qc][qd][rb][cl][cm][cn][cp][bo][cq][fl][hl][ic][hc][gc][il][io][fb]
+[ea][ec][db][dc][dd][cc][in][im][ko][kp][kq][qq][cf]C[Black to play. Evaluate this position and determine how Black should play?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+;B[jj]
+(;W[hj];B[ih]C[CORRECT All of Black's stones are thick while White's stones at the bottom are eyeless within Black's sphere of influence. Therefore, Black should attack. These moves secure a vast territory in the center.])
+(;W[hi];B[hj];W[gj];B[ij]
+(;W[gk];B[gi];W[fi];B[gh]C[CORRECT White's two space jump is a bit thin. Black will attach, then draw back. After White defends, Black can cut. White's stones might be able to live, but Black's territory in the center is too big.])
+(;W[gi];B[gk];W[fk];B[gl]C[CORRECT White has to give up his eight stones at the bottom if he plays like this.])))

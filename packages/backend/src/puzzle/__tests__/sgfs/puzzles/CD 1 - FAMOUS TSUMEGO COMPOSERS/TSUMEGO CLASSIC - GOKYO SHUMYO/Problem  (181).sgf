@@ -1,0 +1,13 @@
+(;GM[1]FF[3]AB[ob][pc][qc][rc]AW[rd][qd][pd][od][oc][mc][nb]PL[B]C[Black to play and get a ko.]
+AP[MultiGo:3.9.3]SZ[19]
+
+(;B[pa]TR[pa];W[sc])
+(;B[qb]TR[qb];W[ra];B[pa];W[na])
+(;B[ra]TR[ra];W[sb];B[sc];W[pb])
+(;B[qa]TR[qa];W[oa])
+(;B[pb]TR[pb];W[oa])
+(;B[oa]
+(;W[qa]
+(;B[qb]TR[qb];W[ra])
+(;B[ra];W[rb];B[qb];W[sa];B[pa];W[sc];B[ra]))
+(;W[sc];B[sb];W[ra];B[qa];W[qb];B[pb])))

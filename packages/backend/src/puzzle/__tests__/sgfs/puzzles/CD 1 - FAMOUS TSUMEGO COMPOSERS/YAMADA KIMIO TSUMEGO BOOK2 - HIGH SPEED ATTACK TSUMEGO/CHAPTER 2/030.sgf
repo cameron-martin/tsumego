@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[rd][qe][pe][oe][nd][nc][pc][md][ld][kc][kb][ka][ra][rb]AW[lb][mc]
+[nb][oc][od][pd][qd][qc][qb]N[030]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[先从哪边动手？左侧还是右侧？]N[审题])
+(;B[pa]N[正解];W[pb];B[qa];W[oa];B[ma];W[la];B[mb];W[na];B[mb]C[白死。])
+(;B[pa]N[变化1];W[ob];B[qa];W[pb];B[oa])
+(;B[pa]N[变化2];W[qa];B[ob])
+(;B[ma]N[失败1];W[pb];B[na];W[oa];B[la];W[qa])
+(;B[ma]N[失败2];W[pb];B[qa];W[la];B[mb];W[na];B[mb];W[pa]))

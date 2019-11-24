@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qd][qe][ra][pb][qb]AW[rb][pc][oc][ob][pe][pf][qf][re][sb]N[044]AP[MultiGo:4.4.4]
+SZ[19]AB[qc]MULTIGOGM[0]
+
+(;C[衍生自角上基本死活的棋形。黑棋必须阻止白角上两子渡过。
+
+难度：☆☆]N[审题])
+(;B[sd]N[正解];W[rf];B[pa]C[黑活。])
+(;B[sd]N[变化];W[pa];B[rf];W[rg];B[sf])
+(;B[pa]N[失败];W[rd]))

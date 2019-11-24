@@ -1,0 +1,17 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[kb][na][ic][nb][la][pb][oc][jc][mb][ka][pc]GN[ ]AB[nc][kc][od][mc][lb][jb][lc][ob]PM[1]C[SECTION 5. OIOTOSHI
+
+Problem 205. Black to play.
+Capture three white stones using oiotoshi.
+(oiotoshi - a move which gives atari to a group of stones in such a way that no matter how one defends, the group will still be in atari)]PW[ ]
+(
+;B[ja]C[Correct Answer
+If Black plays 1, the three white stones in atari cannot escape.]
+)
+(
+;B[oa]C[Wrong Answer
+If Black plays 1 here...]
+;W[pa]C[...White captures two stones with 2 and all of White's stones are safe.]
+)
+
+)

@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][dc][ec][cf][qf][qg][ph][oh][qi][ri][rj][jq][qn][qp][qq][rr][oj][ol][pl][pm][qm][ro]
+AB[dp][pd][pp][fc][fd][ed][jd][nd][qh][pi][pj][qj][rk][gq][qr][pr][pq][ql][nk][nl][om][pn][po][qo]
+TR[oj]
+C[Problem 161. Black to play.  
+
+How should Black attack the white stone at the bottom after White plays the marked stone ? ]
+(;B[lq]
+TE[2]
+C[Correct Answer.  
+
+Even though it is a bit close to Black's thickness, Black 1 is a powerful move. It denies the white stone a base and forces it out into the center where it is confronted by black thickness on the right and a stable position on the left. ]
+;W[jo]
+C[When White jumps out to 2, ... ]
+;B[jm]
+C[... Black caps with 3 and White is in trouble. <= ]
+)
+(;B[jo]
+C[How the game continued.  
+
+Black immediately capped with 1, but ... ]
+;W[mq]
+C[... this let make White make a base for her stones by extending to 2. ]
+;B[lr];W[lq];B[kr]
+LB[lr:3]
+C[Next, Black tried to uproot the white stones with 3 and 5, but ... ]
+;W[kq]
+C[... these moves were not very good. <= ]
+)
+)

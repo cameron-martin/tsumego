@@ -1,0 +1,42 @@
+(;
+AB[ra][qb][pb][pc][pd][qe][qf][rf][pf][qi][qh][rj]
+AW[rb][sb][qc][qd][re][se][sf][ob][nc][nd][pe][oe][oh][ng][pj][ql][rl]
+C[Black plays.
+
+Source:
+    Go World, #38, p. 52
+    Tesuji problem,  Kanagawa Masaaki 6p]
+(;
+B[sg]
+C[Slack.  Black fails to use the aji of the corner stones.];
+W[rd];B[sc];W[qa];B[pa];W[oa];B[rh]
+C[Black lives in gote with only 3 points of territory.  All of Black's corner stones have gone to waste.]
+)
+    (;
+    B[qa]
+    C[Correct];
+    W[rg]
+    (;
+    B[sh]
+    (;
+    W[oc]
+    C[Best];
+    B[sa];W[od];B[rd];W[pa];B[sg]
+    C[Black lives while capturing some stones.  This line of play is best for both sides.]
+    )
+        (;
+        W[sg]
+        C[Inferior];
+        B[sa];W[rc];B[sd];W[oc];B[rh];W[od];B[qg]
+        C[Black captures some stones while living.]
+        )
+    )
+        (;
+        B[rh]
+        C[Too slow.];
+        W[rd];B[sc];W[oc];B[qg];W[od];B[sg]
+        C[Black has to live small and in gote.  Black's corner stones have been no help.]
+        )
+    )
+)
+

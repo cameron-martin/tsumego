@@ -1,0 +1,51 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cf][cg][dd][df][ed][gc]
+AW[cc][cd][ch][dc][dg][dh][ef][fb][fh]PL[B]C[Black to play.
+
+Defense - Settle Shape
+
+Source: YikiruGo Shinbyo.]
+(
+;B[ff]
+(
+;W[ee]
+;B[de]
+;W[fe]
+;B[ge]
+;W[gf]
+(
+;B[ec]
+;W[eb]
+;B[he]C[RIGHT
+])
+(
+;B[he]
+;W[fd]C[White Ok])
+(
+;B[fd]
+;W[fg]))
+(
+;W[fg]
+;B[gf]C[RIGHT
+])
+(
+;W[gf]
+;B[ge]
+;W[fe]
+;B[ec]
+;W[eb]
+;B[he]C[RIGHT
+]))
+(
+;B[ee]
+;W[ff]
+(
+;B[ge]
+;W[gb])
+(
+;B[fc]
+;W[gb]
+;B[hb]
+;W[ec]
+;B[hd]
+;W[ge])))

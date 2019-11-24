@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[md][me][lf][kf][jf][je][id][ic][gd][gc][gb][mb]AW[jc][jb][ib][hb]
+[ha][ke][le][ld][lc][jd]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[mc]MULTIGOGM[0]
+
+(;C[审题：失败图容易计算。明白为什么失败之后，就能得到正解。]N[审题])
+(;B[ja]N[正解];W[kb];B[ka]C[白死。])
+(;B[kb]N[失败];W[lb];B[la];W[kc];B[ka];W[ja]))

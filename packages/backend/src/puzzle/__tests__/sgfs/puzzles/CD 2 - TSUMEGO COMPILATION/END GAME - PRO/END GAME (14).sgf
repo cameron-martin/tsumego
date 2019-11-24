@@ -1,0 +1,38 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ae][be][ca][cb][ce][db][dc][dd]
+AW[af][bf][cf][da][df][ea][eb][ec][ed][ee]PL[B]C[Black to play.
+
+Endgame moves - Defend]
+(
+;B[de]
+;W[bc]
+;B[bb]
+;W[ab]
+;B[ac]
+;W[ad]
+;B[bd]
+;W[cc]
+;B[aa]
+;W[ba]
+;B[ac]C[RIGHT
+Loop Ko])
+(
+;B[jj]
+;W[bc]
+(
+;B[bb]
+;W[ab]
+;B[bd]
+;W[ac]
+(
+;B[de]
+;W[cc])
+(
+;B[cc]
+;W[de]))
+(
+;B[bd]
+;W[bb])
+(
+;B[ab]
+;W[bb])))

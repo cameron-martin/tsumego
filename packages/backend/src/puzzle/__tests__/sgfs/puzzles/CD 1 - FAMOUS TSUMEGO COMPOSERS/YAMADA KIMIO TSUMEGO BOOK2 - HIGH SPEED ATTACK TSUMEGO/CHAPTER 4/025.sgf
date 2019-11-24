@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[od][nd][nc][nb][mb][oa][pa][qc][sd][qe][re]AW[na][ob][oc][qd][pd]
+[rd][rc][qb]N[025]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;LB[qa:A][sc:B]C[计算吧。没啥好说的。A、B冲肯定行不通。]N[审题])
+(;B[rb]N[正解];W[sb];B[ra];W[pb];B[ma]C[白死。])
+(;B[rb]N[变化];W[ra];B[sb])
+(;B[ra]N[失败1];W[qa];B[rb];W[pc];B[sc];W[sb])
+(;B[sb]N[失败2];W[sc];B[rb];W[pc];B[qa];W[ra]))

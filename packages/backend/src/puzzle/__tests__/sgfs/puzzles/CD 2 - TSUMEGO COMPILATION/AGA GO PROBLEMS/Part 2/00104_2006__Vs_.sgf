@@ -1,0 +1,57 @@
+(;
+AB[jq][nq][ep][fp][np][fo][ho][jo][dn][en][fn][cm]
+AW[dq][eq][gq][hq][oq][pp][co][do][eo][pn]
+C[Black plays.
+
+Source:  Tesuji Dictionary, Vol. 1, Tsuke #54,
+Segoe Kensaku & Go Seigen, Ishi Press];
+
+B[cq]C[Correct.
+A frighteningly effective, and worth remembering, tesuji.]
+(;
+W[dp]
+C[If White tries to keep everything...];
+B[fq];
+W[fr];
+B[bp];
+W[bo];
+B[dr];
+W[er];
+B[br];
+W[ds];
+B[cs]
+C[Black sets up a one-sided ko for most
+of White's corner territory.]
+)
+    (;
+    W[cr]
+    C[If White avoids the ko...];
+    B[fq];
+    W[fr];
+    B[dr]
+    (;
+    W[er]
+    C[Best defense.];
+    B[br];
+    W[ds];
+    B[dp];
+    W[bq];
+    B[cp];
+    W[bp];
+    B[bo];
+    W[ao];
+    B[bn];
+    W[ar]
+    C[White retains some territory, but
+Black captures three stones in sente.]
+    )
+        (;
+        W[bq]
+        C[Allows Black to take big profit along
+the bottom.];
+        B[er];
+        W[cp];
+        B[gr]
+        )
+    )
+)

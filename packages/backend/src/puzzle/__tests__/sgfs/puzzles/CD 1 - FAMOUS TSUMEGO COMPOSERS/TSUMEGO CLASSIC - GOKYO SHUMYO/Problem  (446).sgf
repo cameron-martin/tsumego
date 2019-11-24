@@ -1,0 +1,29 @@
+(;GM[1]FF[3]AB[me][ne][oe][qe][se][hf][pf][qf][bg][fg][hh][mh][nh][oh][hi][ji][mi]
+[aj][hj][oj][pj][qj][ca][fa][ka][eb][fb][gb][mb][ec][gc][hc][ic][jc][pc][qc][bd]
+[kd][pd][rd][sd][de][ee][je][ro][dp][gp][lp][mp][bq][cq][dq][eq][iq][nq][pq][qq]
+[ar][fr][gr][hr][lr][js][qb][kb][nb][hk][nk][dl][el][fl][hl][nl][sl][am][gm][im]
+[nm][gn][hn][jn][kn][nn][bo][co][io][lo][no]AW[kg][ig][sf][rf][of][mf][kf][ps][qs]
+[lb][pb][og][pg][qg][ah][ch][eh][sh][ai][ci][ei][gi][ki][kc][fc][dc][cc][bc][ob]
+[db][bb][ma][ha][ri][qi][lc][mc][nc][oc][rc][ed][fd][gd][hd][ie][re][af][fn][if]
+[qn][sn][ao][go][mo][cp][ep][hp][ip][kp][qp][bs][rr][or][kr][er][dr][sq][lq][jq]
+[gq][fq][ni][ns][gj][ij][jj][lj][ak][bk][rk][sk][gl][il][dn][bn][sm][qm][om][lm]
+[jm][em][cm][ol][ll][jl]PL[W]C[White to play.
+Start at A.
+
+双活
+
+（七世本因坊秀伯创作）
+
+这是一道死活珍品创作题。战斗从上边开始，一直波及到下边，全盘的双活数多达七处，真是不可思议。]
+LB[jb:A]AP[MultiGo:3.9.3]SZ[19]
+;W[jb];B[ib];W[ia];B[ja];W[ld];B[le];W[ke];B[jd];W[sc];B[qd];W[pa];B[na];W[la];B[jb]
+;W[qa];B[ra];W[sb];B[rb];W[od];B[nf];W[ng];B[mg];W[lf];B[rg];W[sg];B[qh];W[rh];B[ph]
+;W[rg];B[rj];W[sj];B[pi];W[si];B[rl];W[qk];B[ql];W[pk];B[pl];W[ok];B[pm];W[on];B[pn]
+;W[oo];B[po];W[op];B[oq];W[pp];B[qo];W[rp];B[so];W[mr];B[rq];W[sp];B[sr];W[ss];B[np]
+;W[sr];B[qr];W[rs];B[pr];W[os];B[nr];W[ms];B[mq];W[ls];B[ks];W[lr];B[jr];W[kq];B[jp]
+;W[jo];B[ko];W[jp];B[hq];W[fp];B[ho];W[gp];B[eo];W[fo];B[do];W[dm];B[fm];W[en];B[cl]
+;W[bm];B[bl];W[al];B[cn];W[an];B[ap];W[am];B[bj];W[ck];B[cj];W[dk];B[dj];W[ek];B[ej]
+;W[fk];B[fj];W[gk];B[fi];W[gh];B[fh];W[gg];B[hg];W[gf];B[ge];W[ff];B[fe];W[ef];B[eg]
+;W[df];B[dg];W[cf];B[cg];W[bf];B[ag];W[ad];B[ce];W[ae];B[ac];W[ab];B[be];W[ac];B[he]
+;W[id];B[dd];W[da];B[jh];W[kh];B[ba];W[nj];B[mj];W[mk];B[mn];W[is];B[ir];W[fs];B[hs]
+;W[br];B[cr];W[cs]C[全盘形成多处双活棋形，非常有趣。仔细品味，深感妙味无穷。])

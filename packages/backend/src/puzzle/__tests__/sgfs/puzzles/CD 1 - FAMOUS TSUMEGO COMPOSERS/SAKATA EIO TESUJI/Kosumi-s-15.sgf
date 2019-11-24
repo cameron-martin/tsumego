@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dp][ep][bq][cq][fq][gq][br][gr][hr][is]AB[fp][gp][hp][dq][eq][hq][cr][er][ir][jr]TR[is]C[Ex.  15 - Semeai
+
+B seems to have an eye yet not to have an eye.
+W himself is in a bad position and, if he plays the semeai at once, he cannot win.
+The marked hane, however, proves to be surprisingly effective.]PL[W]
+(;W[fr]LB[fr:1]C[Diag. 1 - Failure
+
+If W 1 tsume,]
+;B[fs]LB[fr:1][fs:2]C[W 2 hane and it is all over.
+This is like facing a well-armed enemy with bare hands.])
+(;W[ds]LB[ds:1]C[Diag. 2 - Failure
+
+W 1 oki is also wide of the mark. ]
+;B[fr]LB[fr:2][ds:1]C[After B 2 atekomi, W is pitifully short of liberties. ]
+;W[fs]LB[fr:2][ds:1][fs:3]
+;B[gs]LB[fr:2][ds:1][fs:3][gs:4]C[W loses])
+(;W[fs]LB[fs:1]C[Diag. 3 - Correct
+
+Whilst W 1 kosumi also seems like fighting with bare hands, it is very skilful. ]
+(;B[es]LB[es:2][fs:1]C[If B 2 osae, ]
+;W[ds]LB[ds:3][es:2][fs:1]C[W 3]
+;B[hs]LB[ds:3][es:2][fs:1][hs:4]
+;W[cs]LB[cs:5][ds:3][es:2][fs:1][hs:4]C[and 5 are good enough to win.
+If B plays 2 one point above 1, W plays ate 2, or if B 5 instead of 4, W plays ate above 1 and wins.])
+(;B[ds]LB[ds:2][fs:1]C[Diag. 4 - Correct.
+
+If B replies with 2 to kosumi 1, ]
+;W[es]LB[ds:2][es:3][fs:1]C[W plays atekomi 3. ]
+;B[hs]LB[ds:2][es:3][fs:1][hs:4]C[If B 4, ]
+;W[bs]LB[bs:5][ds:2][es:3][fs:1][hs:4]C[W 5 sagari and this wins by one move.
+Note that B cannot attack from either side.])))

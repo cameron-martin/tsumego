@@ -1,0 +1,41 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][gj][cn][dn][en][fm][gm][cm][hm][hn]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][fd][dm][em][fl][fn][gn][fp][gl][hl]
+TR[hn]
+C[Problem 38. Black to play.  
+
+After White turns with the marked stone (White 4 in Problem 35), what should Black do ? ]
+(;B[il]
+TE[2]
+C[Correct Answer.  
+
+Extending to Black 1 is a powerful move which affects the entire board. ]
+;W[gp]
+C[White tries to make shape for her stones on the right with 2 ... ]
+;B[fo];W[ho]
+C[... and 4, ... ]
+;B[cp]
+C[... while Black settles the corner with 5. White now has two groups in trouble. ]
+(;W[jn]
+C[If she runs away with 6, ... ]
+;B[dk]
+C[... Black will defend with 7 and the four white stones will eventually die. <= ]
+)
+(;W[dk]
+LB[jn:A]
+TR[hn]
+C[On the other hand, if White attaches at 6 and rescues her four stones on the left, the six white stones on the right will die after Black shuts White in with A. Now you can see why White 4 (the marked stone) in the game in Problem 35 was a bad move. <= ]
+))
+(;B[ho]
+C[How the game continued.  
+
+Black defended the bottom with 1 ... ]
+;W[io];B[hp]
+C[... and 3. ]
+;W[il];B[ik];W[jl];B[hk];W[jk]
+TR[gj]
+C[It didn't matter that the four white stones were short of liberties because the marked white stone suddenly came to life when White haned at 8. <= ]
+)
+)

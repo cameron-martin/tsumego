@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[od][nd][md][ld][kd][jd][ic][ib][mc][qb][qc]AW[kb][kc][lc][mb][nc]
+[oc][pb][pa]N[023]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;LB[na:A]C[一看就想点在A位吧。请计算确认之。
+
+观察棋形，白气紧，到处是断头和叫吃。]
+N[审题])
+(;B[la]N[正解];W[ka];B[nb];W[ob];B[na])
+(;B[la]N[变化1];W[na];B[ob];W[nb];B[ka])
+(;B[la]N[变化2];W[lb];B[ka]C[黑3爬后，白做不出两眼。])
+(;B[nb]N[失败1];W[ob];B[na];W[ma]C[白在左侧有眼。])
+(;B[na]N[失败2];W[ma]))

@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[nc][fc][jd][ch][ce][dj][cn]
+AB[dp][pd][pp][dd][df][pf][jq][eg][fp][qj]
+LB[qj:1][ce:2]
+C[Problem 103. Black to play.  
+
+The game in Problem 99 continued with Black 1 followed by the peep of White 2. How should Black respond ? ]
+;B[cd]
+TE[2]
+C[Correct Answer.  
+
+Blocking with Black 1 is best. ]
+;W[cf]
+C[White draws back with 2. ]
+;B[fd]
+C[After the sequence from Black 3 ... ]
+(;W[ec];B[ed];W[gd];B[ge];W[hd]
+C[... to White 8, ... ]
+;B[dc]
+C[... Black plays 9; he has secured the corner and his stones are out into the center. <= ]
+)
+(;W[gd]
+LB[fd:3]
+C[Variation.  
+
+In answer to the attachment of Black 3, White might hane at 4. ]
+;B[ec]
+C[In that case, Black will block with 5. ]
+;W[fe];B[ed];W[gc]
+C[After White connects with 8, Black again has secured the corner and is out into the center. <= ]
+)
+)

@@ -1,0 +1,41 @@
+(;
+GM[1]
+SZ[19]
+AW[pm][lq][fq][dq][cr][er][fp][fn][qh][oh][pf][rf][nc][lp][jr][hq][cf][fc][gd][cc][cd][ic][ne]
+AB[pj][dj][dp][pd][pp][dd][np][dn][cq][ip][cp][ep][nm][nj][qf][qe][re][pb][qj][kp][ko][lo][cj][fd][fe][ec][gc][fb]
+LB[cf:1][cj:2][fc:3][fd:4][gd:5][fe:6][cc:7][ec:8][cd:9]
+TR[qj]
+LB[gc:10][ic:11][fb:12][ne:13]
+C[Problem 80. Black to play.  
+
+After Black played the marked stone (Black 7 in the Correct Answer of Problem 76), the sequence to White 13 was played. Where should Black play next ? ]
+(;B[qp]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the biggest move. Once Black plays here, his territories on the left and right sides and the upper right corner give him an irreversible lead. <= ]
+)
+(;B[ke]
+C[How the game continued.  
+
+With Black's strong position in the top left, Black 1 ... ]
+;W[ie];B[kg]
+C[... and 3 were forceful moves, but ... ]
+;W[kc]
+C[... the black stones in the center were a bit vulnerable after White 4. Next ... ]
+(;B[ng]
+C[... Black attacked with 5, then ... ]
+;W[nh];B[mh];W[mi];B[ni];W[mg];B[lh]
+C[... played the sequence to 7 to ensure that all his stones could link up. ]
+;W[qp]
+C[But White attached at 8 and ... ]
+;B[qo];W[ro];B[po];W[rp];B[qq];W[rq];B[qr];W[rr];B[mr]
+LB[pq:A]
+C[(Note that Black 21 was necessary to defend against the cut of White A.) ]
+;W[rm]
+C[... wiped out Black's potential territory in the lower right by living there with the sequence to 22. ]
+)
+(;B[qp]
+C[Instead of the sequence starting with @, Black should have enclosed the corner simply playing at 5. His two stones at the top were not in that much danger. <= ]
+))
+)

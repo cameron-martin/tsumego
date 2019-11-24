@@ -1,0 +1,31 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][hc][he][nd]
+AB[pj][dj][dp][pd][pp][dd][fd][ff][kc]
+LB[nd:7][kc:4][hc:3][he:5][cf:1][fd:2][ff:4]
+C[Problem 49. Black to play.  
+
+White 7 aims at both the top and the upper right. How should Black respond ? ]
+(;B[ke]
+TE[2]
+C[Correct Answer.  
+
+Black should jump into the center with 1, attacking the white stones on both the left and the right. ]
+;W[hg]
+C[White must defend with 2. ]
+;B[pf]
+C[Black next jumps to 3, defending the right side, ... ]
+;W[nf]
+C[... and White again must run away with 4. ]
+;B[kg]
+C[After Black 5, White is left with three weak groups at the top. If the fighting expands, Black's handicap stones on the side will come into play and give him the edge. <= ]
+)
+(;B[pf]
+C[How the game continued.  
+
+Black meekly defended the right side with 1. ]
+;W[ke]
+C[This enabled White to cap with 2; her stones at the top were now working together effectively. As you can see, jumping out into the center, as in the Correct Answer, is an important move which conforms to the principle of keeping your opponent's stones separated so that they cannot become a strategically cohesive force. <= ]
+)
+)

@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[ci][ei][fr][fq][eq][gq][dp][cp][eo][bo][cn][lq][lo][rp][qn][qk][pb][ob][nb][nc][oe][pe][qd]
+AB[ec][dd][cg][eg][bp][bq][cq][dq][dr][er][ep][nq][pp][qq][rq][qi][mb][mc][md][ic][nd][od][oc][ne]
+C[Problem 118. White to play.  
+
+How should White attack the lone black stone on the right side ? ]
+(;W[oj]
+TE[2]
+C[Correct Answer.  
+
+The knight's move of White 1, driving Black into her strong position above, is a good move. ]
+;B[oi];W[ni];B[oh];W[nh];B[qg];W[ng]
+C[After White 7, ... ]
+;B[rj];W[rk];B[rf];W[re];B[rh]
+C[... Black makes a living group with the sequence to 12, but ... ]
+;W[gh]
+C[... White's moyo is enormous after she plays 13. <= ]
+)
+(;W[oi]
+C[Failure.  
+
+White 1 is overly aggressive. ]
+;B[pj];W[nk];B[oj];W[nj];B[pl];W[ql];B[ol]
+C[Black runs away towards his stones at the bottom with the sequence to 8, but ... ]
+;W[on]
+C[... White keeps him on the run with 9. Next ... ]
+;B[nl];W[lk];B[mm];W[no];B[km]
+C[Up to 14, Black breaks into White's moyo. ]
+;W[jk]
+C[This is extremely risky for White; she now has to kill Black to win. But this is not so easy because Black has a lot to room to maneuver. <= ]
+)
+)

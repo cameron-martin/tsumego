@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[bo][co][do][eo][fp][fq][fr][bq][bp]AW[ep][eq][er][es][cp][cq][br]
+[aq][ap]C[B]N[034]AP[MultiGo:4.4.4]SZ[19]AB[bn]MULTIGOGM[0]
+
+(;C[先从边上还是角上动手呢？
+抑或直接点眼？注意，白气紧。算出几个失败图之后，正解自然就浮现了。
+
+难度：B]
+N[审题])
+(;B[ar]N[正解];W[cs];B[ao];W[dr];B[dp];W[dq];B[bs]C[劫杀正解。])
+(;B[ar]N[变化];W[as];B[cs];W[dp];B[cr];W[dr];B[fs])
+(;B[dp]N[失败1];W[cs])
+(;B[cs]N[失败2];W[cr];B[dp];W[dq];B[ds];W[ar];B[bs])
+(;B[cr]N[失败3];W[cs];B[dr];W[dq]))

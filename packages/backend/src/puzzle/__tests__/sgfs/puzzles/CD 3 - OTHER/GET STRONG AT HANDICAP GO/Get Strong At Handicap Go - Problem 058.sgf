@@ -1,0 +1,51 @@
+(;
+GM[1]
+SZ[19]
+AW[dl][em][dn][fq][hq][qf][qm][ho][gn][fl]
+AB[pj][dj][dp][pd][pp][dd][en][eo][cq][jq][np][nd][fm][hn][io]
+LB[fl:4][fm:3][gn:2][hn:1]
+TR[ho]
+C[Problem 58. Black to play.  
+
+After White attached with the marked stone (see Problem 54), Black haned with 1, then exchanged 3 for 4. How should Black continue ? ]
+(;B[hp]
+TE[2]
+C[Correct Answer.  
+
+Black should atari with 1. ]
+(;W[go]
+C[If White connects with 2, ... ]
+;B[gp]
+C[... Black pushes through with 3. ]
+;W[fp]
+C[If White 4, ... ]
+;B[ip]
+LB[gm:B][fo:A]
+C[... Black connects at 5 and the points A and B are miai. White has lost her stones at the bottom . <= ]
+)
+(;W[gp]
+LB[hp:1]
+C[Variation.  
+
+In response to Black 1, White can resist with 2 ... ]
+;B[go];W[fo]
+C[... and 4, but ... ]
+;B[ho]
+LB[gm:B][fn:A]
+C[... Black connects with 5 and White's stones are again trapped, since A and B are miai. <= ]
+))
+(;B[gm]
+TR[fl]
+C[How the game continued.  
+
+When White haned with the marked stone, Black extended to 1. ]
+;W[in]
+C[This gave White the chance ... ]
+;B[hm];W[ip];B[jo];W[jp];B[kp];W[ko]
+C[... to cut through with the sequence to 8 and ... ]
+;B[jn];W[lp]
+C[... cut off the three black stones at the bottom with 10 ... ]
+;B[kq];W[lq]
+C[... and 12. <= ]
+)
+)

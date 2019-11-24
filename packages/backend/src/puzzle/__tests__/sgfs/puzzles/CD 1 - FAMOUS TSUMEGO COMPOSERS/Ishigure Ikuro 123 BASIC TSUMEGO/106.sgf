@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[mc][nd][od][pd][qc][rd][rb][ib][ic][id][kc]AW[qb][qa][ob][oc][pc]
+[mb]N[106]AP[MultiGo:4.4.4]SZ[19]AB[lc]MULTIGOGM[0]
+
+(;LB[nc:A][ra:B]C[空间很小，但变化有一些。计算吧。A、B可以不予考虑，因为明显不行。]
+N[审题])
+(;B[oa]LB[pa:A][nb:B][nc:C]C[类似棋形，1位通常是急所。对于黑1，白走A、B、C都不行。]
+N[正解];W[na]C[白只能打吃];B[nc];W[nb];B[pa];W[lb];B[la]C[白死。])
+(;B[lb]N[失败1];W[nc];B[ma];W[na]C[劫。黑1时，白2只能做劫——只能，就意味着计算。])
+(;B[ma]LB[na:A][nc:B][nb:C][pa:D][la:E]C[黑1夹，貌似手筋。对此，白A、黑B、白C、黑D之后，就还原到正解。黑1夹时，白也不能从E位打，不能在C位接。这些都是很明显的计算]
+N[失败2];W[lb];B[nb];W[nc];B[oa]C[劫。]))

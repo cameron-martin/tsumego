@@ -1,0 +1,22 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 6. LADDERS
+
+Problem 39. Black to play.
+How can Black capture five white stones?]AW[fj][jh][hi][hg][fk][gj][gi][ih]PB[ ]PM[1]PW[ ]AB[gk][fi][hj][hh][ii][ej][gh]
+(
+;B[fl]C[Correct Answer
+If Black gives ataris with 1 to 5...]
+;C[...]W[ek]
+;B[dk]C[...]
+;C[...]W[el]
+;B[dl]C[...]
+;C[...]W[em]
+;B[fm]C[...White cannot escape. This kind of situation is called a ladder.]
+)
+(
+;B[ek]C[Wrong Answer
+If Black gives atari with 1 here...]
+;C[...White is able to escape by extending to 2.]W[fl]
+)
+
+)

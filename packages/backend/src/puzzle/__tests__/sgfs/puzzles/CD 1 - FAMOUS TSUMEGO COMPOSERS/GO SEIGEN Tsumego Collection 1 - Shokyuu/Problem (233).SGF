@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]GN[第233题]HA[0]EV[吴清源诘棋集（初级编）]AB[ca][ba][bb][cc][dc][ee][fe][gd][hd][hc][ib][jc][df][cf]AW[cb][db][ea][ec][ed][gc][gb][hb]C[白先
+
+乍看白已经是绝望之形，但是白有起死回生之术]
+
+(;W[fb]N[正解图];B[fd];W[da];B[fc];W[bc];B[bd];W[ac];B[ad];W[cd];B[ab];W[bc];B[ac];W[dd]LB[bc:A][be:B]C[白棋A，B必得其一，净活])
+(;W[cd]N[失败图];B[bd];W[fb];B[fd];W[da];B[fc];W[dd];B[bc]C[净死]))

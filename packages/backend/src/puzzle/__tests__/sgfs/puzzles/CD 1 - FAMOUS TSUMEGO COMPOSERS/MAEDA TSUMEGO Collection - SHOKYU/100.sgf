@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pd][od][nd][mc][mb][na][sc][rc][qd]AW[ob][oc][pc][qc][rb][sb]N[100]
+AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;C[走出打劫杀很容易，能不能更进一步？
+
+难度：☆☆]N[审题])
+(;B[qb]LB[pb:A]C[黑1断锐利，白如A位打，很明显是死棋]N[正解];W[qa];B[pa];W[pb];B[oa]
+C[白死。])
+(;B[oa]N[失败1];W[pa];B[qa];W[qb])
+(;B[pa]N[失败2];W[oa];B[qb];W[pb]C[白棋有外气，因此不是老鼠偷油。]))

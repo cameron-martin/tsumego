@@ -1,0 +1,21 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[qi][qn][qo][op][pp][qq][pr][rr]AB[qk][po][ro][qp][rp][rq]C[if you encounter ladders, assume they work]
+;B[qm]CR[qm]
+(;W[pn]CR[pn]
+;B[rn]CR[rn])
+(;W[rn]CR[rn]
+;B[pn]CR[pn]
+;W[rm]CR[rm]
+;B[rl]CR[rl]
+;W[pm]CR[pm]
+(;B[sm]CR[sm]
+;W[ql]CR[ql]
+;B[sn]CR[sn]
+;W[qm]CR[qm]
+;B[om]CR[om])
+(;B[sn]CR[sn]
+;W[ql]CR[ql]
+;B[sm]CR[sm]
+;W[qm]CR[qm]
+;B[om]CR[om])))

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[fd][gd][hd][ic][ib][ia][jc][md][nc][mb][eb][ec]AW[fb][fc][gc][hc]
+[hb][ga][id][jd][kd][ld][kb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[ed]MULTIGOGM[0]
+
+(;C[审题：黑四子如果能够成功渡过，则白死。范围窄小，计算不复杂。]N[审题])
+(;B[la]N[正解];W[ja];B[ka]C[没有接不归，黑棋渡过，白死。])
+(;B[la]N[变化];W[ka];B[kc];W[lc];B[lb]C[白死。])
+(;B[kc]N[失败];W[lc];B[lb];W[ja]C[对杀黑负。]))

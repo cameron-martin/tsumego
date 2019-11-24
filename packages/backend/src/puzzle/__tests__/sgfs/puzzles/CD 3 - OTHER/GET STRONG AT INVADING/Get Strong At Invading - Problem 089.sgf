@@ -1,0 +1,20 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][de][hc][he][cj][qc][qd][re][qf][rg][sf]
+AB[jc][je][pc][pd][pe][qe][rd][rc][pj]
+C[Problem 89. White to play.  
+
+This is a continuation of Problem 86. How should White play ? ]
+;W[pf]
+TE[2]
+C[Correct Answer.  
+
+Pushing up with 1 is the vital point. ]
+;B[of]
+C[Black blocks at 2 ]
+;W[og];B[nf];W[ng];B[mf]
+LB[ng:5][og:3]
+C[If the thickness White gets on the right side is worth the territory Black gets at the top, she may play 3 and 5. <= ]
+)
+)

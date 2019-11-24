@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[rd][pd][qe][qf][pf][of][nf][me][le][ld][kc][lb][qb][rb]AW[mb][mc]
+[md][ne][oe][pe][qd][qc][pc][pb]N[012]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[本题简单。]N[审题])
+(;B[oc]LB[ob:A][nd:B]C[黑1扳是手筋。对此，白A则黑B，白B则黑A。]N[正解];W[od];B[ob]
+;W[pa];B[oa]C[白死。])
+(;B[pa]N[失败];W[od];B[ob];W[oc]))

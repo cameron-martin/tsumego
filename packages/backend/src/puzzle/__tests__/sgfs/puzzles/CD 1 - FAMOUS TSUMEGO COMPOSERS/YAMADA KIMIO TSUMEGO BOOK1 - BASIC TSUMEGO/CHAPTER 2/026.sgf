@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[mc][mb][rb][rc][qc][qe][pe][of][nf][mf][le][ld]AW[nb][nc][md][ne]
+[oe][pd][pc][ra][qa][qb]N[026]AP[MultiGo:4.4.4]SZ[19]AB[lc]MULTIGOGM[0]
+
+(;C[正解图失败图同样重要，都需要认真计算。]N[审题])
+(;B[oa]N[正解];W[na];B[ob]C[黑1点、3反冲是连贯的着手];W[oc];B[nd]C[白死。])
+(;B[oa]N[变化1];W[na];B[ob]LB[me:A][od:B]C[接下来，白不能走A位，那样黑B位就打死了]
+;W[nd];B[oc]LB[od:A][pb:B]C[主意A、B都是白的断头，没有双活，白死。])
+(;B[na]N[变化2];W[oa];B[ob];W[oc];B[pa];W[pb];B[oa];W[ma];B[oa];W[na];B[nd]C[黑这样也能杀白。但是不如正解。原因有二：边上左侧白有可能逸出；损官子。])
+(;B[ob]N[失败];W[oa];B[pb];W[me]C[从失败图可以看出2位的重要性。]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[mc][nc][nb][lf][kf][jf][if][hf][ge][gd][gc][fb][jd][jc][jb][ja][le]
+AW[ke][ie][he][hd][hb][kd][kc][kb][ka][la][mb][lc][je]N[黑先]AP[MultiGo:4.4.4]SZ[19]
+AB[ld]MULTIGOGM[0]
+
+(;C[审题：黑棋如何渡过？范围很小，计算不复杂。]N[审题])
+(;B[ha]C[黑1托，必然，走其他地方都不行]N[正解];W[ga];B[ia]C[白2打绝对，黑3接上冷静]
+;W[gb];B[hc];W[ic];B[fa]C[黑棋渡过，白死。])
+(;B[ha]N[失败1];W[ga];B[hc]C[黑3冲着急了];W[ic];B[ib];W[ia]C[打劫，黑失败。])
+(;B[ga]N[失败2];W[ib]))

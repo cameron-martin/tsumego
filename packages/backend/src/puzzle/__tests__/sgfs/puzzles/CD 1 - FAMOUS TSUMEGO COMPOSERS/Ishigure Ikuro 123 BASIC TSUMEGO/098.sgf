@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qf][pf][of][nf][mf][lf][ke][kd][kb][lc][mb][ma][nd][ra][rb][rc]AW[mc]
+[nc][nb][pb][qb][ld][me][ne][oe][od]N[098]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[很有意思的题目。白棋抵抗的手段层出不穷。]N[审题])
+(;B[ob]C[黑1挖是手筋，能够走出这一手，变化都已计算清楚了吧。]N[正解];W[oa];B[pc]
+;W[oc];B[qa]C[白死。])
+(;B[ob]N[变化1];W[na];B[pc];W[oc];B[pa]C[白死。])
+(;B[ob]N[变化2];W[qa];B[oa]LB[na:A][oc:B]C[白A则黑B逸出。白死。])
+(;B[na]N[失败1];W[oa];B[ob]C[黑3扑最凶];W[qa]C[劫。])
+(;B[qa]N[失败2];W[pc])
+(;B[pc]N[失败3];W[qa]))

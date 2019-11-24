@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 4. LADDERS
+
+Problem 87. Black to play.
+How should Black give atari to the eleven white stones?]AW[ek][le][ke][fk][gj][kf][kc][jg][hi][hh][jf][ej][gi][ih][ig]PB[ ]PM[1]PW[ ]AB[fj][jh][fi][hg][lf][ii][kg][gh][kd][je][if][gk][hj]
+(
+;B[ld]C[Correct Answer
+Black 1 is the move that catches the eleven white stones.]
+)
+(
+;B[me]C[Wrong Answer
+Black 1 here...]
+;C[...allows White to escape with 2.]W[ld]
+)
+
+)

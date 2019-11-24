@@ -1,0 +1,22 @@
+(;
+GM[1]
+SZ[19]
+AW[ic][md][nc][od][mb]
+AB[dd][gc][lc][oc][pc][qd][qf]
+TR[mb]
+C[Problem 30. Black to play.  
+
+After White plays the marked stone, how should Black continue ? ]
+(;B[jd]
+TE[2]
+C[Correct Answer.  
+
+There are two Correct Answers. Black plays 1 here if he wants outside thickness. <= ]
+)
+(;B[jb]
+TE[2]
+C[Correct Answer.  
+
+If Black wants to link up to his stones on the left, he will play 1 on the second line. <= ]
+)
+)

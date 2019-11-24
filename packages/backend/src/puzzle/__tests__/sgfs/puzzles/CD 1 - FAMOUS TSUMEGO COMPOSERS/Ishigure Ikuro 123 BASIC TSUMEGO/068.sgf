@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[md][ld][kd][kc][lb][mb][nb][qc][rd][pd][pe]AW[kb][jb][jc][lc][mc]
+[nc][pc][oc][qb]N[068]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;C[角上对杀。黑三子被吃了吗？计算吧。]N[审题])
+(;B[oa]C[黑1尖是对杀手筋]N[正解];W[rc];B[qd];W[pb]C[白2、黑3交换之后，不得不在4位接上]
+;B[rb];W[ra];B[sb];W[ob];B[od]C[对杀黑胜。])
+(;B[ob]N[失败1];W[rc];B[qd];W[pb];B[rb];W[ra];B[sc];W[oa];B[na];W[la];B[pa];W[qa]
+C[接下来黑收气，白提劫。这是紧劫，白的先手劫。])
+(;B[od]N[失败2];W[rc];B[qd];W[pb];B[rb];W[ra];B[sc];W[oa];B[ob];W[la];B[pa];W[qa]
+;B[sa]C[劫。紧劫。白先手提劫。黑劫负的话，白连续提子，因此黑要比失败图1稍差一些。])
+(;B[rb]N[失败3];W[ob];B[oa];W[pa];B[ma]C[劫，白缓一气的劫，白先手提劫。
+这是黑最糟糕的结果。]))

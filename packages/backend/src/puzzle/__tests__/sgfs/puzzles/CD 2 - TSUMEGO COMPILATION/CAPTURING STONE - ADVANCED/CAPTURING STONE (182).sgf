@@ -1,0 +1,32 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ad][bd][bg][cb][cc][cf][cg][ee][fb][fc]
+AW[be][bf][cd][db][dc][dd][eb]PL[W]C[White to play.
+
+Capturing stones - Via a Ko Fight
+
+Source: Guan-Zhi-Pu.]
+;W[ab]
+(
+;B[bb]
+;W[ba]
+;B[ce]
+;W[bc]
+;B[ac]
+;W[ca]
+;B[aa]C[RIGHT
+])
+(
+;B[ce]
+;W[bc]
+;B[bb]
+(
+;W[ba]
+;B[ac]
+;W[ca]
+;B[aa]C[RIGHT
+])
+(
+;W[ca]
+;B[ac]
+;W[ba]C[RIGHT
+Ko Fight])))

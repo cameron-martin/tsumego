@@ -1,0 +1,54 @@
+(;
+GM[1]
+SZ[19]
+AW[nc][fc][jd][ch][ce][dj][cn][ec][gd][hd][cf][oj][pb][qb][qc][rb][dl][jo][qn][pn][pk][qk]
+AB[dp][pd][pp][dd][df][pf][jq][eg][fp][qj][ed][cd][fd][ge][bp][ph][pc][qd][rc][cl][lp][np][qo][qi][ne]
+LB[qi:7][pk:8][qk:6][pn:4][qn:2][qo:3][lp:1][np:5][cl:9][dl:10]
+C[Problem 111. Black to play.  
+
+The game in Problem 107 continued with the sequence to White 10. How should Black answer the move ? ]
+(;B[ck]
+TE[2]
+C[Correct Answer.  
+
+Black 1 ... ]
+;W[dk];B[cm]
+C[... 3 are the simplest way to play. ]
+;W[dm]
+C[White blocks at 4 and ... ]
+;B[bn]
+C[... Black links up to the bottom with 5. ]
+;W[cb]
+C[If White next robs the black group at the top of its base with 6, ... ]
+;B[gg]
+C[... Black will make shape by jumping to 7, reducing White's influence in the center. All of Black's stones are safe and he has secured about 30 points in the lower left. Together with his territory on the upper right side and the territory he has staked out in the bottom right, Black has a substantial lead. <= ]
+)
+(;B[cm]
+C[Variation.  
+
+Bumping against the white stone with Black 1 is also possible, but ... ]
+;W[dm];B[bn];W[ck]
+LB[bn:3]
+C[... White can block with 4 after Black 3. Since White is now thick on the left side, ... ]
+;B[dc]
+C[... Black should secure his stones in the upper left with 5. ]
+;W[bm]
+C[Next, White squeezes Black ... ]
+;B[bl];W[bo];B[am];W[cp];B[ao];W[co];B[cq];W[bq];B[ap];W[dq];B[cr];W[ep];B[do];W[dn];B[eo];W[eq]
+C[... with the sequence to 22, but ... ]
+;B[fq]
+LB[fo:A]
+C[... since the ladder at A is favourable for Black, he can play 23 and secure the territory in the lower left. Black has a won game. <= ]
+)
+(;B[dm]
+C[How the game continued.  
+
+Black haned with 1 and ... ]
+;W[cm]
+C[... White cut with 2. ]
+;B[dk]
+C[Next, Black tried to destroy White's territory on the left, but ... ]
+;W[el];B[ek];W[ck];B[cj];W[bl];B[bk];W[cl];B[di];W[bj];B[ej];W[bi]
+C[... White skilfully linked up with the sequence to 14 and the damage she suffered was small. On the other hand, the thickness White build up facing the bottom would adversely affect Black's moyo there. <= ]
+)
+)

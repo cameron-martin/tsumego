@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[qd][re][rf][qf][pf][of][ne][nd][nc]AW[oc][pb][rc][rd][qe][pe]N[030]
+AP[MultiGo:4.4.4]SZ[19]AB[nb]MULTIGOGM[0]
+
+(;LB[pd:A]C[首先要计算黑A拉回一子后，白将如何防守。然后再看，黑有没有其他的进攻手段。]
+N[审题])
+(;B[qc]N[正解];W[qb]C[黑1先冲，与白2挡交换，这是必要的准备工作。];B[sb]LB[pd:A]
+C[黑3点是手筋。白若不在A位吃住黑二子，角上无法做出两眼，因为黑3正好处在眼形的急所上。]
+;W[pd];B[sd]C[白死。])
+(;B[qc]N[变化];W[qb];B[sb];W[pa];B[ra]C[白没有办法做活。])
+(;B[rb]N[失败1];W[qc];B[pd];W[sb];B[ra];W[sd])
+(;B[pd]N[失败2];W[sb]C[白2尖是防守的急所];B[ra];W[sd];B[qb];W[qc];B[pa];W[oa];B[ob]
+;W[pc];B[rb];W[qa])
+(;B[pd]N[失败2变化1];W[ra]C[白2跳不行];B[sb];W[pa];B[qb];W[qc];B[rb];W[pc];B[sd]
+;W[sc];B[od])
+(;B[pd]N[失败2变化2];W[qc]MA[oc]LB[pc:A]C[白2这样防守也不行。白能走到A位。X位的白子没有什么作用，可以拿掉。然后再观察角上白的棋形，是基本死形。]
+;B[sd]))

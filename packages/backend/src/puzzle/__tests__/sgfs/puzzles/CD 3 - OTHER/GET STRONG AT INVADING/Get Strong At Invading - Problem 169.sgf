@@ -1,0 +1,60 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][dd][fc][ch][cl][cn][dp][eq][qc][pc][nc][nb][kp][lp][mp][nq]
+AB[bd][cf][ef][di][cj][el][lc][me][od][pd][qd][pj][pp][pn][mo][lo][jn]
+LB[jn:5][lp:4][lo:3][mp:2][mo:1]
+C[Problem 169. White to play.  
+
+Black maps out a huge moyo with the moves to 5. The way you counter it must be considered carefully. Do you go in lightly or with a bang ? ]
+(;W[ql]
+TE[2]
+C[Correct Answer.  
+
+Jumping in with White 1 was chosen because there was every expectation that White could live on the right side by playing this move. ]
+(;B[pl]
+C[If Black attaches with 2, ... ]
+;W[qk];B[pk];W[rn];B[qj];W[qo];B[po];W[qq]
+C[... up to White 9, Black gets a strong wall on the outside. But White is not dissatisfied with the territory she has gotten on the right. What is worrisome is the blackness that pervades the center of the board. White has two ways into the center. ]
+;B[gd]
+C[Black blocks one of then by pressing with 10 ... ]
+;W[gc];B[hd]
+C[... and 12. ]
+;W[im]
+C[However, White can still come in with 13, so she is satisfied. <= ]
+)
+(;B[qj]
+LB[ql:1]
+C[Variation.  
+
+If Black defends with 2, White will look on 1 as a probe ... ]
+;W[lk]
+C[... and play 3. <= ]
+)
+(;B[qk]
+C[The actual game.  
+
+In the actual game, Black attacked with 2. ]
+;W[ok]
+C[White 3, escaping lightly, is a skilful move. ]
+;B[no];W[pm]
+LB[ql:1]
+C[The stones at 1 and 5 will probably sacrificed. ]
+;B[qn];W[oj];B[oi];W[ni];B[pk];W[nh];B[ph];W[of];B[qf];W[kh]
+LB[pm:5][ql:1]
+C[They should be considered as decoys while White goes about the main business of erasing Black's moyo with the moves up to 15. <= ]
+))
+(;W[qo]
+TE[2]
+C[Correct Answer.  
+
+It is also possible to play 1 here, and it would not be easy to kill this stone. <= ]
+)
+(;W[kj]
+C[Failure.  
+
+If White wanted to make an erasing move, White 1 would be a good guess. ]
+;B[mj]
+C[Black would respond by playing 2 and White's stone seems to be a little out of focus. It is always a perplexing problem to decide whether to erase or invade. You have to consider the distribution of stones, which stones are weak, the scale of the moyo, etc., in making your decision. <= ]
+)
+)

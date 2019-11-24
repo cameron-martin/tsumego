@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[bp][bo][co][do][eo][fq][fr][hq][dr][bs]AW[bq][cp][cq][dq][dp][cr]
+[er][ar]N[035]AP[MultiGo:4.4.4]SZ[19]AB[aq]MULTIGOGM[0]
+
+(;C[空间小，选择少，得到正解不难。
+
+难度：☆☆]N[审题])
+(;B[eq]N[正解];W[ds];B[fs]C[白死。])
+(;B[es]N[失败1];W[ds];B[fs];W[eq];B[cs]C[劫杀，黑失败])
+(;B[ds]N[失败2];W[es];B[cs];W[eq]C[黑缺少计算。]))

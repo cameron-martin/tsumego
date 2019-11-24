@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[eo][fo][ep][gp][ip][dq][gq][dr][gr]AB[dn][en][fn][gn][go][cp][fp][cq][fq][cr][fr]C[Ex. 4 Semeai
+
+B's 3 stones and W's 5 stones are in a semeai.
+If B fills in liberties carelessly, W's counter-attack will turn the tables on him.]
+(;B[ds]LB[ds:1]C[Diag.1 - Failure
+
+In a semeai of this type B cannot expect success with hane 1. ]
+;W[es]LB[ds:1][es:2]C[After W 2 ]
+;B[cs]LB[cs:3][ds:1][es:2]C[and B 3 tsugi ]
+;W[fs]LB[cs:3][ds:1][es:2][fs:4]C[W can connect at 4 and B loses the semeai.])
+(;B[es]LB[es:1]C[Diag. 2 - Failure
+
+It is again necesary for B to start with a kosumi (cont.)]
+;W[ds]LB[ds:2][es:1]C[However after W 2 ]
+(;B[cs]LB[cs:3][ds:2][es:1]C[B 3 osae is a careless move. 
+]
+;W[er]LB[er:4][cs:3][ds:2][es:1]C[W can play ate 4 ]
+;B[dp]LB[dp:5][er:4][cs:3][ds:2][es:1]C[then after B 5 ]
+;W[fs]LB[qo:1][dp:5][er:4][cs:3][ds:2][fs:6]C[W 6 takes and B is lost.])
+(;B[dp]LB[dp:3][ds:2][es:1]C[Diag 3 - Correct
+
+The prudent move of 3 atekomi is required. (cont.)]
+(;W[eq]LB[dp:3][eq:4][ds:2][es:1]C[If W 4 ]
+;B[cs]LB[dp:3][eq:4][cs:5][ds:2][es:1]C[and B 5, clearly B wins.
+The failure in the previous diagram was due to the order of moves.
+When you think of a tesuji, you must still pay careful attention to your opponent's reply.])
+(;W[er]LB[dp:3][er:4][ds:2][es:1]C[Diag. 4 - Variation
+
+After B 1 and 3, if W 4 ate, (cont.)]
+;B[do]LB[do:5][dp:3][er:4][ds:2][es:1]C[B plays 5.
+W is in damezumari and he cannot connect with the upper 3 stones]))))

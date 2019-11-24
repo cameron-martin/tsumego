@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[fq][gp][hp][ip][iq][jr][js][bq][br][bs][bp][co][do][eo]AW[is][hr]
+[hq][gq][fr][er][ep][dp][cp][cr][cs]C[A]N[024]AP[MultiGo:4.4.4]SZ[19]AB[fp]MULTIGOGM[0]
+
+(;LB[gs:A]C[黑A点是第一感。计算吧。
+
+难度：A]N[审题])
+(;B[gs]LB[fs:A][ir:B]C[黑1点时，白不能应在A或B位]N[正解];W[gr];B[ir];W[hs];B[fs]
+;W[es];B[dr]C[白死。])
+(;B[gs]N[变化1];W[gr];B[ir];W[hs];B[fs];W[eq];B[cq];W[dq];B[ds])
+(;B[gs]N[变化2];W[gr];B[ir];W[hs];B[fs];W[cq];B[eq];W[dq];B[ds])
+(;B[gs]N[变化3];W[hs];B[fs]C[白2应还松着黑气呢，后续变化可参见前面各图。])
+(;B[gs]N[失败1];W[gr];B[ir];W[hs];B[dr];W[dq];B[cq];W[ds];B[eq];W[fs])
+(;B[dr]C[黑先挖不行]N[失败2];W[dq]C[白2打吃，黑没空走其他地方了];B[cq];W[ds];B[eq]
+;W[gs]))

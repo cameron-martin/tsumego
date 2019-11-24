@@ -1,0 +1,92 @@
+(;
+AB[eq][pd][pl][po][pq][qp]
+AW[cp][dc][dq][iq][lq][qo]
+C[Black's response to the marked stone?
+Kato Masao  vs. Kataoka Satoshi
+Source:
+    "Go World", #31, Spring 1983, pp. 12-13
+    Kato Masao  vs.  Kataoka Satoshi, 8th Tengen Title, Game 3.
+    Takemiya Masaki's commentary.]
+TR[dq]
+(;
+B[ep]
+C[Kind of a joseki for Black, but feels heavy according to 
+Takemiya.  The game continued...];
+
+W[dn];
+B[hp];
+W[ip];
+B[ho];
+W[hq];
+B[gq]
+)
+    (;
+    B[ip]
+    C[Takemiya's new move at the time.]
+    (;
+    W[jq]
+    C[If White pulls back...];
+    B[ep];
+    W[dn];
+    B[gp]
+    C[Black gets a comfortable shape.]
+    )
+        (;
+        W[hq];
+        B[jq];
+        W[jr];
+        B[jp];
+        W[kq];
+        B[ep];
+        W[dn];
+        B[hp];
+        W[gq];
+        B[fo]
+        C[An efficient result for Black]
+        )
+        (;
+        W[hp];
+        B[jq];
+        W[jp];
+        B[io]
+        (;
+        W[jr];
+        B[hq];
+        W[kq];
+        B[ir];
+        W[jq];
+        B[gp]
+        C[Black has a straightforward result]
+        )
+            (;
+            W[hq];
+            B[kp]
+            )
+        )
+        (;
+        W[jp];
+        B[hq];
+        W[jq];
+        B[do]
+        C[More reasonable for Black than the game line above.]
+        )
+    )
+    (;
+    B[do]
+    C[Pressing is tempting, but ...];
+    W[dp]
+    (;
+    B[ep];
+    W[eo]
+    C[Unreasonable for Black.]
+    )
+        (;
+        B[eo];
+        W[ep];
+        B[co];
+        W[fp];
+        B[ck]
+        C[Seems to be a territorial loss for Black.]
+        )
+    )
+)

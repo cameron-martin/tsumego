@@ -1,0 +1,43 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[hn][jn][go][lo][gp][mp][np][hq][iq][nq][nr]AB[hp][ip][jp][dq][gq][kq][lq][mq][er]C[Ex. 9 - Semeai
+
+This is the same kind of tesuji as in the previous example so that you will understand well how the tobi on the first line works.
+You must avoid useless exchanges.]PL[W]
+(;W[gr]LB[gr:1]C[Diag 1 - Failure
+
+W ate from below at 1 is wide of the mark. ]
+;B[fq]LB[fq:2][gr:1]
+;W[jr]LB[fq:2][gr:1][jr:3]C[Even if W plays 3]
+;B[kr]LB[fq:2][gr:1][jr:3][kr:4]
+;W[mr]LB[fq:2][gr:1][jr:3][kr:4][mr:5]C[and W 5, ]
+;B[jq]LB[fq:2][jq:6][gr:1][jr:3][kr:4][mr:5]C[after B 6 the difference in the number of liberties in this semeai is too great.])
+(;W[is]LB[is:1]C[Diag. 2 - Correct.
+
+W 1 tobi is the tesuji in this case. ]
+(;B[gr]LB[gr:2][is:1]C[
+]
+;W[ks]LB[gr:2][is:1][ks:3]C[It establishes connection after another tobi 3 on the right hand side. ]
+;B[jr]LB[gr:2][jr:4][is:1][ks:3]C[If B 4, ]
+;W[js]LB[gr:2][jr:4][is:1][js:5][ks:3]C[W's tsugi at 5 is good and B's 7 stones fall into W's hands.])
+(;B[jr]LB[jr:2][is:1]C[Diag. 3 - Variation
+
+If B answers W 1 tobi at 2 ]
+;W[fq]LB[fq:3][jr:2][is:1]
+;B[gr]LB[fq:3][gr:4][jr:2][is:1]
+;W[fr]LB[fq:3][fr:5][gr:4][jr:2][is:1]C[W plays 5]
+;B[fs]LB[fq:3][fr:5][gr:4][jr:2][fs:6][is:1]
+;W[gs]LB[fq:3][jq:A][fr:5][gr:4][jr:2][fs:6][gs:7][is:1][ks:B]C[and 7 horikomi and an oi otoshi results.
+If B plays 2 at "A" atekomi, filling in liberties, W plays 4 ate, then B 3 and W connects with tobi "B".]))
+(;W[fq]LB[fq:1]TR[aa]C[Diag. 4 - Failure
+
+After the exchange of W 1 ]
+;B[gr]LB[fq:1][gr:2]C[and B 2 ]
+;W[is]LB[fq:1][gr:2][is:3]C[W 3 tobi seems to be good, ]
+;B[gs]LB[fq:1][gr:2][gs:4][is:3]C[But it fails when B plays the sagari suji 4. ]
+;W[ks]LB[fq:1][gr:2][gs:4][is:3][ks:5]C[ ]
+;B[jr]LB[fq:1][gr:2][jr:6][gs:4][is:3][ks:5]C[After the sequence from B 6 ]
+;W[js]LB[fq:1][gr:2][jr:6][gs:4][is:3][js:7][ks:5]
+;B[ir]LB[fq:1][gr:2][ir:8][jr:6][gs:4][is:3][js:7][ks:5]
+;W[hr]LB[fq:1][gr:2][hr:9][ir:8][jr:6][gs:4][is:3][js:7][ks:5]
+;B[jq]LB[fq:1][jq:10][gr:2][hr:9][ir:8][jr:6][gs:4][is:3][js:7][ks:5]C[to B 10, W's 3 stones are lost.]))

@@ -1,0 +1,6 @@
+
+(;GM[1]AP[GOWrite:2.0.07]SZ[13]FF[4]AW[ek][hl][fm][il][im][el][gl]FG[259:]PM[1]PB[ ]LB[gm:1]PW[ ]GN[ ]C[Problem 54. Legal move?
+How about here? Can Black play at 1?]AB[hm][jl][gk][fl][hk][gm][ik][fk]
+;L[jm]C[An Illegal Move
+Black 1 cannot be played. If Black occupied the point A, Black 1 would capture four stones.]
+)

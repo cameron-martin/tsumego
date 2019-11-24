@@ -1,0 +1,42 @@
+(;
+AB[qr][rr][pq][oq][nq][qp][qo][qn]
+AW[qq][rq][rp][ro][pr][or]
+C[White plays.
+
+Source
+    Tesuji, Ch. 5, pp. 81-82
+    James Davies, Ishi Press]
+(;
+W[ps]
+C[Making an ugly empty triangle
+is the only move that works!];
+B[sr];
+W[qs];
+B[rn];
+W[rs]
+)
+    (;
+    W[sr]
+    C[White 1 is an innocent
+looking mistake.]
+    (;
+    B[sq]
+    C[Black has this nasty
+surprise for White.];
+    W[sp];
+    B[rs];
+    W[qs]
+    C[And White has to fight an
+unfavorable ko.]
+    )
+        (;
+        B[rs]
+        C[Perhaps White was hoping
+for this bad Black move?];
+        W[sq]
+        C[Thanks to Black's mistake,
+White can take the corner.]
+        )
+    )
+)
+

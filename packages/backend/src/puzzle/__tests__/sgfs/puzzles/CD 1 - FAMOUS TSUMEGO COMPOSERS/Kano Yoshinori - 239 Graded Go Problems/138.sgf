@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[eg][fi][hf][hh][ef][gi][fg][gf][ig][gh][eh]GN[ ]AB[ge][fj][jh][hg][fe][ei][dg][gj][ii][if][df][jg][dh][hi][he][jf][ej][ee]PM[1]C[Problem 138. White to play and live. (1 move)
+What move does White make to give his stones life?]PW[ ]
+(
+;W[ih]C[Correct Answer
+White 1 is the correct answer. White has two definite eyes and cannot be killed.]
+)
+(
+;W[gg]C[Wrong Answer
+If White takes a stone at 1...]
+;B[ih]C[...Black 2 leaves White with only one real eye and he is dead.]
+)
+
+)

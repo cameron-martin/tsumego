@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[kr][lq][mq][nq][pq][pr][ps]AW[qr][rq][qp][pp][op][np][mp][lp][kq]
+[jq][jr][ms]C[84]N[84]AP[MultiGo:4.4.4]SZ[19]AB[ks]MULTIGOGM[0]
+
+(;LB[ns:A]C[第84题 无条件活出
+
+第83题指出，黑A靠不行。请考虑黑的走法，第一手很关键，黑可无条件活出。]
+N[审题])
+(;B[oq]C[黑1接上扩大眼位]N[正解];W[os];B[ns]C[黑3挖是好手];W[nr];B[mr]C[黑活。])
+(;B[oq]N[变化1];W[lr];B[ns]C[黑3靠就活了。];W[nr];B[mr];W[os];B[or])
+(;B[oq]N[变化2];W[ns];B[lr]C[双活。])
+(;B[mr]N[失败1];W[oq];B[or];W[ns]C[黑死。])
+(;B[ns]N[失败2];W[oq];B[or];W[lr]))

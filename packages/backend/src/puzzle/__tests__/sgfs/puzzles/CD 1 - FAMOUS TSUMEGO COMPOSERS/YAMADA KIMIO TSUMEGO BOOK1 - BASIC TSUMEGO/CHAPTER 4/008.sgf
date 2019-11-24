@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[oc][nc][nb][qd][rd][sd]AW[oa][ob][pb][qb][rc]N[008]AP[MultiGo:4.4.4]
+SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[基础死活。]N[审题])
+(;B[rb]N[正解];W[sb];B[ra];W[qa];B[qc];W[sa];B[rb])
+(;B[rb]N[变化];W[sb];B[ra];W[qc];B[qa])
+(;B[sc]N[失败1];W[sb];B[ra];W[qa];B[rb];W[qc])
+(;B[ra]N[失败2];W[qa];B[rb];W[qc];B[sc];W[sb]))

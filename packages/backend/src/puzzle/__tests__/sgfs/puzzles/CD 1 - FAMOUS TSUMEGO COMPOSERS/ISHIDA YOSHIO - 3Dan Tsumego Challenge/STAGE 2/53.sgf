@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[mp][lq][kq][jp][jr][ir][mr][or][rs][rr][rq][qp][pp][op]AW[qr][pq]
+[oq][nq][nr][mq][lr][kr][js]C[53]N[53]AP[MultiGo:4.4.4]SZ[19]AB[np]MULTIGOGM[0]
+
+(;C[第53题 最初一手很关键
+
+看起来白活了，但存有重大的缺陷。
+
+要求无条件杀死白棋。]
+N[审题])
+(;B[ms]C[黑1立下，问白应手，白就崩溃了。]N[正解];W[ns];B[pr]C[黑3是连贯的好手];W[ps]
+;B[qq]LB[qs:A]C[黑5可走A位];W[os];B[qs]LB[pr:A]C[黑7也可在A位扑。
+
+白死。])
+(;B[ms]N[变化];W[ns];B[qs]LB[ps:A]C[黑3或黑A均不行，又给了白棋做活的机会。];W[pr])
+(;B[pr]N[失败];W[ms]LB[ks:A][os:B]C[A、B见合，白活。]))

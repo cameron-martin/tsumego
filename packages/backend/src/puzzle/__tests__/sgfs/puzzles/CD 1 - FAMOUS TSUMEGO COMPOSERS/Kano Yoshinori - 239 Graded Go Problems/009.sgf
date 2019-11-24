@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 9. Black to play.
+How can Black capture three white stones?]AW[id][df][ge][eg][hd][fe][ee]PB[ ]PM[1]PW[ ]AB[gd][ff][de][ed][he][fd][gf]
+(
+;B[ef]C[Correct Answer
+Black can capture three stones by playing at 1.]
+)
+(
+;C[If White Plays First
+If it's White's turn, he can save his three stones by playing at 1.]W[ef]
+)
+
+)

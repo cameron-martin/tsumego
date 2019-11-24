@@ -1,0 +1,55 @@
+(;
+AB[bq][cp][bo][pp][pj][qd][oc]
+AW[jc][dc][df][cq][dq][ep][iq]
+C[Black plays.
+
+Source:
+    Go World #37 Autumn p. 6
+    "Test Your Rating", Nihon Ki-in]
+(;
+B[dm]
+LB[ch:a][kq:b]
+C[Best by far.
+
+White cannot stop both Black A or B.
+Black A aims at White's loose corner enclosure.
+Black B aims at attacking White's left bottom
+position, as well as building a moyo on the
+right.]
+)
+    (;
+    B[kq]
+    C[Second best.
+
+Black's move works well with the framework
+along the right side, however...];
+    W[cn]
+    C[White punishes Black for leaving a weak
+group in the lower left.];
+    B[do];
+    W[dm];
+    B[eo];
+    W[fm];
+    B[gm]
+    C[Tesuji, but...];
+    W[fp]
+    C[White is happy to defend.];
+    B[fn];
+    W[fl];
+    B[hn];
+    W[gl]
+    C[And White's bottom group is safe, so Black 1
+has lost meaning.  In addition, White has
+moyo potential in the upper left quadrant.]
+    )
+    (;
+    B[lc]
+    LB[qj:a]
+    C[Too slow.
+
+Similarly for moves like A.];
+    W[cn]
+    LB[qj:a]
+    C[White simply attacks here as seen before.]
+    )
+)

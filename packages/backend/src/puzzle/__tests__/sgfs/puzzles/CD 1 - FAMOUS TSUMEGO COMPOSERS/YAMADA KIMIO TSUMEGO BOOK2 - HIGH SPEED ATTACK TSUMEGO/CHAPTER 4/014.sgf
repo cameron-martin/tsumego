@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[od][nd][md][ld][kd][jd][ic][ib][hb][qa][rb][rc][qc]AW[jb][jc][lc]
+[mc][nc][oc][pb][qb][oa][ma]N[014]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[白看上去眼位充足，但却意外地脆弱。不难的题目，计算吧。]N[审题])
+(;B[nb]N[正解];W[mb];B[ob];W[na];B[ob];W[nb];B[ra];W[pa];B[kb];W[kc];B[ja];W[ka]
+;B[la]C[白死。])
+(;B[nb]N[变化];W[ob];B[ja];W[ka];B[kc];W[kb];B[lb];W[la];B[mb];W[na];B[mb])
+(;B[kb]N[失败1];W[kc];B[ja];W[ka];B[la];W[lb])
+(;B[ja]N[失败2];W[ka];B[kc];W[kb];B[lb];W[la];B[nb];W[mb]))

@@ -1,0 +1,25 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][jc][lc][pc][qe][qf]
+AB[dc][cf][hc][nc][pe]
+LB[qe:2][pe:1]
+C[Problem 85. Black to play.  
+
+Against the shoulder hit of Black 1, White responds with 2. What should Black do now ? ]
+(;B[pb]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a brilliant move. However White answers, Black has an effective continuation. <= ]
+)
+(;B[pd]
+C[Failure.  
+
+Forcing with Black 1 ... ]
+;W[qd];B[oc]
+C[... and 3 is unimaginative. ]
+;W[pb]
+C[White's corner territory becomes large and impregnable after White descends to 4. <= ]
+)
+)

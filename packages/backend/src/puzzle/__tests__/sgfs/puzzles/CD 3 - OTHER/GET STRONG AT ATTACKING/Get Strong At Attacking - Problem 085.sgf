@@ -1,0 +1,43 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][dg][hd][ie][jf][kf][mg][mf][lg][od][co]
+AB[cb][ec][fd][lf][le][ke][je][me][ld][jc][mc][qd][pp]
+C[Problem 85. Black to play.  
+
+How should Black play in this position ? ]
+;B[if]
+TE[2]
+C[Correct Answer.  
+
+Black should cut at 1. ]
+;W[hf]
+C[White ataris with 2 to rescue her stones at the top. ]
+;B[ig];W[kg]
+C[After White connects with 4, ... ]
+;B[eg]
+C[... Black leans on the left-side stones by attaching with 5. ]
+(;W[hg]
+C[White must push out with 6, ... ]
+;B[dh]
+C[... and Black takes the initiative on the left with 7 ... ]
+;W[ch];B[ci]
+C[... and 9. ]
+;W[cg];B[di];W[ee]
+C[White expands her eye space with 12 ... ]
+;B[fe];W[ef]
+C[... and 14, ... ]
+;B[ff];W[ih]
+C[... then secures the center with 16. See Problem 129 for Black's continuation. <= ]
+)
+(;W[dh]
+TR[eg]
+C[If White defends against the attachment of the marked stone by extending to 6, ... ]
+;B[df]
+C[... Black will exchange 7 ... ]
+;W[cf]
+C[... for 8, ... ]
+;B[hg];W[gf];B[gg];W[ff];B[ef];W[fg];B[fh];W[eh];B[fe]
+C[... then trap the white stones at the top with the sequence to 17. <= ]
+)
+)

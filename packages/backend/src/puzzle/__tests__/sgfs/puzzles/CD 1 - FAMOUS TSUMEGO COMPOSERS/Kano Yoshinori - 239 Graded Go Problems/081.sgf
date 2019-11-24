@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 81. Black to play.
+How should Black give atari to the two white stones?]AW[hm][gk][hj][hi][il][ik][fk][gh]PB[ ]PM[1]PW[ ]AB[ek][hl][hk][ei][gj][gl][gi]
+(
+;B[fl]C[Correct Answer
+If Black plays at 1, the two white stones cannot escape.]
+)
+(
+;B[fj]C[Wrong Answer
+Giving atari with 1 from above...]
+;C[...allows White to escape with 2 and catch three black stones.]W[fl]
+)
+
+)

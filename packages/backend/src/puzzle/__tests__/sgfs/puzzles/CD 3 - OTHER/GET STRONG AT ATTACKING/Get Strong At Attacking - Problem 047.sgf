@@ -1,0 +1,47 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][ec][cd][bf][bp][cn][ck][nq][pr][ke][kf][md][me][li]
+AB[cq][dp][fq][pp][qn][pj][pg][qd][pd][od][nd][mc][lc][kd][je][fc][ed][gd][df][ji]
+TR[li][kf][ke][me][md]
+C[Problem 47. Black to play.  
+
+How should Black attack the marked white stones ? ]
+(;B[mf]
+TE[2]
+C[Correct Answer.  
+
+White 1 is the vital point, forcing White's stones into a bad shape. ]
+(;W[lf]
+C[If White 2, ... ]
+;B[mg]
+C[... Black extends to 3, ... ]
+;W[kh]
+C[... forcing White to defend with 4. The white stones are heavy and open to an attack. See Problem 131. <= ]
+)
+(;W[nf]
+C[White 2 is an overplay. ]
+;B[le]
+C[Black separates the white stones with 3 ... ]
+;W[ne];B[ld]
+C[... and 5. <= ]
+))
+(;B[kk]
+C[Failure.  
+
+Black 1 looks like a severe attacking move, but it gives White the chance to counterattack. ]
+;W[og]
+LB[mf:A]
+C[She first plays a forcing move with 2, preventing Black from destroying her shape with A, ... ]
+;B[ph];W[jd]
+C[... then cuts with 4. Next, ... ]
+;B[jc];W[id];B[ic];W[if]
+C[... White makes a wall with 8 ... ]
+;B[ie];W[jf]
+C[... and 10. ]
+;B[he]
+C[After Black 11, ... ]
+;W[mk]
+C[... White jumps to 12 and the two black stones in the center are isolated from their allies. As the Correct Answer of this problem illustrates, an important preliminary to attacking is to force your opponent's stones into a bad shape so that it is hard for her or him to make eyes. <= ]
+)
+)

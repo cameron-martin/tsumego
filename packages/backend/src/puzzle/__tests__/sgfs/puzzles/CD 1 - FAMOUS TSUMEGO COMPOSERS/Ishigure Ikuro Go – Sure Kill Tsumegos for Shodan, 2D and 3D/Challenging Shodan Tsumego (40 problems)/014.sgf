@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[rr][qr][pr][ps][pq][op][oo][on][nn][np][mo][mp][lp][lr]AW[kr][mq]
+[mr][ko][ls][lo][mn][mm][nm][om][pm][pn][po][qp][qq][rq][sr][rs][or][kp][kq]N[014]
+AP[MultiGo:4.4.4]SZ[19]AB[lq]MULTIGOGM[0]
+
+(;LB[nr:A]C[第一感是黑A挖，计算吧。]N[审题])
+(;B[nr]N[正解];W[nq];B[ns];W[ms];B[os]C[接不归，黑活。])
+(;B[nr]N[变化];W[ns];B[nq];W[ms];B[os])
+(;B[ns]N[失败1];W[nr]C[没有接不归。])
+(;B[oq]N[失败2];W[nr]LB[os:A]C[黑A冲，白仍然在2位粘。
+
+从两个失败图可以看到，2位是急所。]))

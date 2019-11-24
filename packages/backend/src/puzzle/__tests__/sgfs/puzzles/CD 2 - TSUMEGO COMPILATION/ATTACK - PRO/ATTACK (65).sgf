@@ -1,0 +1,35 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bg][dd][de][df][eb][ec][fd]
+AW[be][bf][cb][cd][dc][ed][gd]PL[B]C[Black to play.
+
+Attack - Probe the Opponent]
+(
+;B[bc]
+(
+;W[cc]
+;B[cg]
+(
+;W[bb]C[RIGHT
+])
+(
+;W[jj]
+;B[bb]
+;W[ba]
+;B[af]
+(
+;W[ab]
+;B[ac]C[Ko Fight])
+(
+;W[ae]
+;B[ab]C[White Death])))
+(
+;W[bb]
+;B[cf]
+;W[cc]C[RIGHT
+]))
+(
+;B[cg]
+;W[jj]C[Kote])
+(
+;B[cf]
+;W[jj]C[Kote]))

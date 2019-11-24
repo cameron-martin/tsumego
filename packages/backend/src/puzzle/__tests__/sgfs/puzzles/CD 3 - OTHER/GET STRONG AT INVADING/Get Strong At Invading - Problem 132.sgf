@@ -1,0 +1,29 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ed][jc][mc][qc][qf][pf][qj][oj]
+AB[oc][pd][qe][re][cj]
+LB[pb:B][ob:A][qc:1][re:2]
+C[Problem 132. White to play.  
+
+In answer to White 1, Black 2 is also a strong move. If White next plays A, Black can make life with B. So how should White play ? ]
+;W[pc]
+TE[2]
+C[Correct Answer.  
+
+White plays 1, ... ]
+(;B[od]
+C[... forcing Black to connect at 2. ]
+;W[ob]
+C[Now White can hane at 3 ... ]
+;B[nb];W[pb];B[nc];W[rb]
+C[... and live with the moves to 7. <= ]
+)
+(;B[ob]
+C[Failure.  
+
+Black 2 is an overplay. ]
+;W[od]
+C[White cuts with 3, and gets the advantage in the capturing race that follows. <= ]
+)
+)

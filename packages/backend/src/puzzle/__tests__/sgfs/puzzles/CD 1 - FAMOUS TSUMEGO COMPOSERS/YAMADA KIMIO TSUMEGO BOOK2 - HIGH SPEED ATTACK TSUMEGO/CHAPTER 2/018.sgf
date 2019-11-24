@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ne][me][le][kd][kc][kb][sb][rb][qc][qd][pd][od]AW[lc][ld][md][nd]
+[mb][ob][oc][pc][qb][ra]N[018]AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;LB[pa:A][lb:B]C[A位点是第一感吧。但是，需要通过计算来判断。一般而言，黑B开始的两打固然痛快，但失去了变化，在死活题中通常是行不通的。]
+N[审题])
+(;B[nb]N[正解];W[na];B[pa];W[rc]LB[rd:A][qa:B]C[白4断是迷惑性的一手，希望黑A应，这样白B接上可做活。]
+;B[pb]C[白死。])
+(;B[pa]N[失败1];W[nb];B[lb];W[mc];B[qa];W[ma];B[oa];W[pb];B[sa];W[na])
+(;B[lb]N[失败2];W[mc];B[ma];W[nb];B[pa];W[qa]))

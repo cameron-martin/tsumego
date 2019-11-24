@@ -1,0 +1,69 @@
+(;
+AB[cp][ep][bq][eq][dr][ds]
+AW[fn][bo][co][do][go][ap][gq][hq][er][cs]
+C[White plays.
+
+Source:
+    Qi Jing Zhong Miao #149, an ancient collection of mostly kyu level life and death problems.
+    This problem is an interesting exercise in recognizing, making, and even proving(!) the existence of an eye.
+
+Analysis:
+    Myron Souris]
+(;
+W[cr]
+C[The vital point.]
+(;
+B[fr]
+C[If Black makes 1 eye on this side...];
+W[cq]
+C[White saves the stones on the other side.];
+B[es];W[gr];B[dp];W[br]
+C[And Black cannot keep White from connecting out.]
+)
+    (;
+    B[cq]
+    (;
+    W[es]
+    (;
+    B[dq]
+    (;
+    W[aq];B[ar];W[bs];B[fr]
+    C[Black seemingly makes 2 eyes.];
+    W[br]
+    C[But this play shows that Black is mistaken about having an eye in the corner!];
+    B[as]
+    C[At the end of the game, what if Black insists that White has the burden of proof of showing that his group is dead?!  White says, "No problem!" and fills all of Black's outside liberties, at which time Black must capture the 4 White stones with this move.];
+    W[br]
+    C[But then White plays here to capture the 2 Black stones.  Black can no longer argue.  Black is dead.]
+    )
+        (;
+        W[fr]
+        C[A mistake.
+Black has 2 eyes in the corner, not one or zero!];
+        B[aq];W[br];B[bs]
+        )
+    )
+        (;
+        B[fr];W[dq];B[dp];W[fq]
+        )
+    )
+        (;
+        W[aq]
+        C[A mistake.];
+        B[fr]
+        LB[dp:a][br:b]
+        C[Black makes 1 eye here, and A and B are miai for the 2nd eye.]
+        )
+    )
+    (;
+    B[dq];W[aq]
+    )
+)
+    (;
+    W[aq]
+    C[Fails];
+    B[br];W[ar];B[bs];W[fr];B[dp]
+    C[Black has 2 eyes.]
+    )
+)
+

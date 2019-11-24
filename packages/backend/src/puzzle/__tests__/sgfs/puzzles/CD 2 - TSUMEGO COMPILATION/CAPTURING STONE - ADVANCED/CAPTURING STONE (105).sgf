@@ -1,0 +1,44 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ae][bf][cc][cd][cf][da][db][dc]
+AW[aa][ac][bb][bc][be][bh][de][dg][eb][ed][eg][fb]PL[W]C[White to play.
+
+Capturing stones - Sacrificing Stones
+
+Source: Igo Hatsuyo-ron.]
+;W[ce]
+;B[bd]
+;W[ad]
+;B[af]
+(
+;W[ba]
+(
+;B[ca]
+;W[ab]
+;B[cb]
+;W[ad]
+;B[ac]
+;W[bb]C[RIGHT
+])
+(
+;B[cb]
+;W[ab]
+;B[ca]
+;W[ad]
+(
+;B[bb]
+;W[ac]C[RIGHT
+])
+(
+;B[ab]
+;W[ba]C[RIGHT
+])))
+(
+;W[ec]
+;B[ba]
+;W[ca]
+;B[cb]C[Ko Fight])
+(
+;W[df]
+;B[ba]
+;W[ca]
+;B[cb]))

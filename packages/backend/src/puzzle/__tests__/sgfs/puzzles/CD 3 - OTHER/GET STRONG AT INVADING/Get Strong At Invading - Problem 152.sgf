@@ -1,0 +1,89 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dg][cn][dp][jp][nq][nr][no][oe]
+AB[nm][pn][pp][oq][qj][pf][qd][oc][id][fc]
+LB[pf:2][oe:1]
+C[Problem 152. White to play.  
+
+Black 2 is the usual answer to the capping move of White 1. White's next move in common sense, but there are many variations you must consider. ]
+;W[nc]
+TE[2]
+C[Correct Answer.  
+
+White should attach ... ]
+(;B[nb];W[ob]
+LB[nc:1]
+C[... and cut with 1 and 3. ]
+(;B[pb];W[od]
+(;B[oa]
+C[If Black captures with 6, ... ]
+;W[pc]
+C[... White ataris with 7 and, ... ]
+;B[ob]
+C[... after Black connects at 8, ... ]
+;W[mc]
+C[... extends to 9. ]
+(;B[pd]
+C[Black defends with 10 and ... ]
+;W[me]
+C[... White makes good shape with 11. This is a middle-game joseki. <= ]
+)
+(;B[me]
+C[The vital point, but ...  
+
+Before defending on the right, Black could play on the vital point with 10. ]
+;W[le];B[mf];W[md]
+LB[le:11]
+C[After White 11 and 13, ... ]
+;B[pd]
+LB[rb:B][qc:A]
+C[... Black must go back and defend with 14. This result is better for White than the on in the Correct Answer. If Black omits 14, the aji of White A - Black 14 - White B remains. <= ]
+;W[lf]))
+(;B[pc]
+TR[od]
+C[Black connects.  
+
+If Black connects with 6 in answer to the marked stone, ... ]
+;W[mb]
+C[... White ataris with 7. ]
+;B[oa]
+C[This is a good result for White, but she must be careful where she makes her next move. <= ]
+))
+(;B[nd]
+C[Big profit.  
+
+If Black is determined to get outside influence, the can play 4 ... ]
+;W[mc];B[od]
+C[... and 6. ]
+;W[pb]
+C[White gets a big profit at the top. This is not a good result for Black. <= ]
+))
+(;B[od]
+C[Don't be afraid if Black pushes up ... ]
+;W[nd];B[ne]
+LB[od:2]
+C[... and cuts with 2 and 4. ]
+;W[me];B[nf];W[ld]
+LB[me:5]
+TR[oe]
+C[White makes sabaki with 5 and 7, fully using the marked stone. <= ]
+)
+(;B[pc]
+C[Drawing back with 2 is a quiet move. ]
+;W[me]
+LB[kc:A]
+C[However, after 3, White is satisfied because she has erased Black's moyo. Moreover, White can still aim at the extension of A. <= ]
+)
+(;B[nd]
+C[If the ladder favours Black, ... ]
+;W[od];B[pc]
+LB[nd:2]
+C[... 2 and 4 are strong moves. ]
+;W[mc]
+C[White would have to extend to 5 and ... ]
+;B[md]
+LB[mc:5][nd:2]
+C[... Black would push along at 6. White's position is not good. However, the ladder favours White here, so she would play 5 at 6 and capture the stone at 2. <= ]
+)
+)

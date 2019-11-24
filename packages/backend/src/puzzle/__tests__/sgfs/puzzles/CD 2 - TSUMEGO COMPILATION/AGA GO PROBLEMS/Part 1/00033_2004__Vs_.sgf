@@ -1,0 +1,47 @@
+(;
+AB[dn][do][ec][eq][ko][kq][lp][ol][om][oo][op][oq][pl][pn][po][pp][pr][qe][qj][qk][qn][qo][qq][qs][ro][rr][rr]
+AW[cm][cn][cp][io][iq][kr][mo][mp][mq][nn][on][pc][pj][pk][pm][ql][qm][qp][rl][rn][rp][rq][rs][so][sq][sr]
+C[Black plays.
+
+Source:
+American Go Journal, Sept 1981, Vol. 16, No. 3, pp. 29-30
+Kobayashi Satoru 4p  vs.  O Rissei 4p]
+(;
+B[rk]
+C[Fails.
+Kobayashi misses a chance to win.];
+W[sm]
+C[White's group is now safe];
+B[mm]
+C[The game continued...];
+W[qr];
+B[mn];
+W[nm]
+C[In preparation for finishing the ko.];
+B[nl];
+W[no];
+B[ml];
+W[ps];
+B[lr];
+W[nr]
+C[White now has 40 points in the corner
+and went on to win the game.]
+)
+    (;
+    B[sm]
+    C[Wins.]
+    (;
+    W[qi];
+    B[sk]
+    C[And White collapses.]
+    )
+        (;
+        W[sk];
+        B[qi];
+        W[sn];
+        B[rk]
+        LB[nk:A]
+        C[And the net at A is a move short.]
+        )
+    )
+)

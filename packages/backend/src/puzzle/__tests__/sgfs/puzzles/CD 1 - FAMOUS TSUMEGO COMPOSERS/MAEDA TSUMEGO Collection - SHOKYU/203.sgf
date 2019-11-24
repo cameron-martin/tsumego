@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oe][ne][md][mc][mb][ma][sc][rc][rd][qe]AW[nb][nc][od][pd][qc][rb]
+[sb]N[203]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;LB[pb:A][qb:B]C[黑A白B的交换是显然的，关键是以后。
+
+难度：☆☆]N[审题])
+(;B[pb]N[正解];W[qb];B[nd]C[黑3挤是手筋，此手确保了黑1能够渡过，同时还压缩了白的眼位]
+;W[oa];B[ob]C[白死。])
+(;B[pb]N[失败];W[qb];B[na];W[ob];B[oa];W[pc];B[pa];W[nd]))

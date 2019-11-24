@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[ne][md][nc][ld][kc][jc][jb][qb][qc][qd][pe]AW[ka][kb][lc][mc][nb]
+[pb][pc][od]N[024]AP[MultiGo:4.4.4]SZ[19]AB[oe]MULTIGOGM[0]
+
+(;LB[nd:A][ma:B]C[有趣的题目，很锻炼计算能力。黑A则白B，白活，这可以排除在计算之外。]
+N[审题])
+(;B[pa]N[正解];W[nd];B[ob];W[oa];B[mb]LB[lb:A][na:B]C[黑5打时，白A则黑B，没有劫]
+;W[oc];B[lb]C[白死。])
+(;B[pa]N[变化1];W[oa];B[ma];W[nd];B[oc];W[ob];B[lb])
+(;B[pa]N[变化2];W[oa];B[ma];W[mb];B[ja];W[na];B[la];W[lb];B[nd])
+(;B[ob]N[失败1];W[nd];B[mb];W[lb];B[na];W[oc];B[nb];W[ma]C[劫。])
+(;B[ma]N[失败2];W[mb];B[ja];W[na];B[la];W[lb];B[pa];W[nd]))

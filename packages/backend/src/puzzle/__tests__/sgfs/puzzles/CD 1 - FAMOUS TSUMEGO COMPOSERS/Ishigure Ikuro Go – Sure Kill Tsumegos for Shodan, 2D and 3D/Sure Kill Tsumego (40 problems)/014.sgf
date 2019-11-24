@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ls][ms][kr][kq][kp][ko][ln][mn][nn][no][oq][op][pp][qp][rp][rq][sr]
+AW[qq][qr][rr][rs][or][mr][lr][lq][lp][lo][mo][np][nq]N[014]AP[MultiGo:4.4.4]SZ[19]
+AB[ks]MULTIGOGM[0]
+
+(;LB[ns:A][pr:B][ps:C][os:D]C[A冲？B挖？C点？D夹？还是别的？逐点计算能够得到正解。]
+N[审题])
+(;B[nr]N[正解];W[ns];B[pr];W[pq];B[ps])
+(;B[pr]N[失败1];W[pq];B[ps];W[nr])
+(;B[ps]N[失败2];W[nr])
+(;B[os]N[失败3];W[nr]))

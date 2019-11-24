@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[rd][re][se][pc][oc][nc][nb]AW[sd][rc][ob][pb][qb][oa][oe]N[071]AP[MultiGo:4.4.4]
+SZ[19]AB[na]MULTIGOGM[0]
+
+(;TR[oe]C[白中腹一子影响着角上的死活。黑棋很多手段因此都不能再使用。
+
+难度：☆☆☆]
+N[审题])
+(;B[qc]N[正解];W[rb];B[ra];W[qa];B[sb];W[sa]C[这是紧劫，黑劫胜之后，一手就消劫。这是白的先手劫。])
+(;B[qc]N[失败1];W[rb];B[sb];W[sc];B[ra];W[sa]LB[qa:A]C[黑劫胜之后，还得在A位紧气继续打劫，因此是缓气劫，黑进攻失败。])
+(;B[rb]N[失败2];W[sb];B[ra];W[qc])
+(;B[qc]N[变化];W[sb];B[ra];W[qa];B[rb];W[sa];B[rb];W[ra];B[sc]C[这是黑的先手劫，白棋防守失败。]))

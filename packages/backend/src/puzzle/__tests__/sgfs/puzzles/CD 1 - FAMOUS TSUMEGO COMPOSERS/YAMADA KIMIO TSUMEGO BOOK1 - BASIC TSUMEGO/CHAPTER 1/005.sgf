@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pb][qc][qd][rd]AW[ob][nc][pc][pd][pe][qe][re][rf]N[005]AP[MultiGo:4.4.4]
+SZ[19]AB[se]MULTIGOGM[0]
+
+(;C[基本死活。失败图的计算同样重要。]N[审题])
+(;B[ra]N[正解];W[pa];B[sb])
+(;B[ra]N[变化1];W[sc];B[pa];W[rb];B[qb];W[sa];B[rc];W[qa];B[sd])
+(;B[ra]N[变化2];W[qb];B[rb];W[pa];B[sd])
+(;B[rb]N[失败1];W[pa];B[qa]C[劫。])
+(;B[qb]C[黑是基本死形。]N[失败2]))

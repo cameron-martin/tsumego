@@ -1,0 +1,8 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[pf][fe][pd][cd][cc][bb][de][dj][qk][dm][po]
+[pq]AW[dg][hg][cp][ep][jq][fg][mq][ba][cb][eb][dc][fc]TR[bb][cc][cd][de][fe]LB[hg:1]
+C[Black to play. White has just jumped to 1, applying pressure to the marked black stones. How can Black make sabaki?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[cg];W[ch];B[dh];W[cf];B[bg];W[df];B[bf]C[CORRECT Black should attach and cut. Since White must go back and connect, Black can link up by turning.]
+;W[eh];B[di];W[ce];B[be];W[dd];B[kd]C[CORRECT Black should attach and cut. Since White must go back and connect, Black can link up by turning. White becomes thick but Black neutralizes White's thickness by extending. The left side has become secure territory for Black.])
+(;B[he];W[jf]C[Jumping is a bad move. White presses, reducing Black's influence on the right.]))

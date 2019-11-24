@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[kp][kq][lq][lr][mr][ko][kn][lm][mm][om][nm][mo][no][pn][po][qp][ro]
+[rq]AW[oo][on][nn][mn][ln][lo][lp][mp][mq][nr][qq][pq][pp][op]N[035]AP[MultiGo:4.4.4]
+SZ[19]AB[rr]MULTIGOGM[0]
+
+(;LB[or:A]C[黑A夹必然，关键是后续的进行。]N[审题])
+(;B[or]N[正解];W[ns];B[os];W[oq];B[ms];W[nq];B[qs]C[由于白气紧，没有办法吃黑的接不归。白死。])
+(;B[or]N[变化];W[ns];B[os];W[nq];B[qs]LB[oq:A]C[A位松着气，黑成功渡过，白死。])
+(;B[or]N[失败];W[ns];B[nq];W[oq];B[os];W[np];B[ms];W[nq];B[qs];W[ps]))

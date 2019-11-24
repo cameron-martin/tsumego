@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[nc][qd][sc][sd][rd][pd][pc][ob]GN[ ]AB[sb][qc][qb][pb][rc]PM[1]C[SECTION 9. LIVING GROUPS AND DEAD GROUPS
+
+Problem 222. Black to play.
+How does Black secure life for his stones?]PW[ ]
+(
+;B[ra]C[Correct Answer
+If Black plays at 1, his stones are alive.]
+)
+(
+;B[pa]C[Wrong Answer
+If Black plays at 1...]
+;W[ra]C[...White 2 reduces the black group to one eye and these stones will eventually be captured.]
+)
+
+)

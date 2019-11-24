@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qe][qf][pf][of][ne][me][le][lc][mc][lb][rb][rc][rd]AW[mb][nb][nc]
+[nd][pe][pd][pc][qd][qb][qa]N[031]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;LB[oa:A]C[类似棋形，第一感就是A位点，这可以作为计算的入手点。]N[审题])
+(;B[od]N[正解];W[oc];B[oa];W[ob];B[ra]C[白死。])
+(;B[od]N[变化];W[oe];B[pb];W[oc];B[oa])
+(;B[oa]N[失败1];W[ob])
+(;B[oe]N[失败2];W[oa])
+(;B[ma]N[失败3];W[ob]))

@@ -3,8 +3,10 @@
   "name": "@tsumego/backend",
   "version": "0.0.1",
   "dependencies": {
+    "@types/lodash": "^4.14.149",
     "@types/parsimmon": "^1.10.0",
     "express": "^4.17.1",
+    "lodash": "^4.17.15",
     "parsimmon": "^1.13.0"
   }
 }

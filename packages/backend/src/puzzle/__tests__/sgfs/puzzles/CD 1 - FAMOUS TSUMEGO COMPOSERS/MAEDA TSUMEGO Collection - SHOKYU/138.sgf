@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pr][ps][sp][rp][qp]AW[qr][rq][ro][qo][po][pp][oq][or][np]N[138]AP[MultiGo:4.4.4]
+SZ[19]AB[pq]MULTIGOGM[0]
+
+(;C[注意，黑棋两边都有硬腿。
+
+难度：☆]N[审题])
+(;B[rr]N[正解];W[sr];B[rs])
+(;B[qq]N[失败1];W[sr];B[rs];W[rr])
+(;B[qq]N[失败2];W[sr];B[rr];W[rs];B[qs];W[rr]))

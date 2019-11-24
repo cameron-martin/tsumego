@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[oe][ne][md][ld][kc][kb][ka][oc][rb][rc][qc][pd]AW[lb][mc][nc][nd]
+[od][pc][pb][qb]N[020]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;TR[ka]LB[ob:A]C[黑A位长出不行，请计算确认。攻杀时，要如何利用好黑的硬腿呢？]N[审题])
+(;B[la]N[正解];W[ma];B[ob];W[oa];B[nb];W[mb];B[qa]C[白死。])
+(;B[la]N[变化];W[ob];B[na])
+(;B[na]N[失败1];W[nb])
+(;B[ma]N[失败2];W[ob]))

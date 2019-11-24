@@ -1,0 +1,43 @@
+(;
+AB[bs][cr][bq][ar][bp][bo][cp][co][cn][do][en][fn][pq][po][pk][pd][qc][pf][cf][bd][ci][hn][di][cj][el]
+AW[cc][dd][fd][kc][nc][pb][mp][jp][gp][go][eo][ep][dp][dq][cq][bn][ao][cm][dm][dn][dj][ck][ej]
+C[White's response to Black's marked play?
+
+Source:
+    Go World #35, Spring 1984, p. 33
+    Otake Hideo  vs.  Kato Masao]
+TR[el]
+(;
+W[dl]
+C[Careless.
+
+The game line.  White loses a tempo here.];
+B[fh]
+C[And Black has time to shift the balance of power.
+Black's move sets up an invasion at the top.];
+W[gj];
+B[jm]
+)
+    (;
+    W[gn]
+    C[Correct.
+
+A clever defensive tesuji.];
+    B[gm];
+    W[ei]
+    (;
+    B[dk]
+    C[If Black tries to cut...];
+    W[em]
+    C[And White is OK.]
+    )
+        (;
+        B[eh]
+        C[And if Black continues naturally...];
+        W[fh];
+        B[eg];
+        W[fg]
+        C[And White strengthens the top area.]
+        )
+    )
+)

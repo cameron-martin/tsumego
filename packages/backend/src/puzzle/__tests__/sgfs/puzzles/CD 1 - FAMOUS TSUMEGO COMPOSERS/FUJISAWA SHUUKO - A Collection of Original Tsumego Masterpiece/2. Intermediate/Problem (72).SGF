@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[qd][rd][sd][mb][nb][oc][od][pd]AW[ra][rc][qc][pc][ob][na]C[黑先 最后形成气紧。]
+;B[sb];W[sc];B[rb]
+(;W[qb]
+(;B[pa];W[oa];B[ma]C[正解 黑先白死])
+(;B[ma];W[pa]C[失败]))
+(;W[pb];B[oa];W[pa];B[qb]C[变化]))

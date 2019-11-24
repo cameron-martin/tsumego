@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pq][pp][op][np][mq][mr][or][rr][qr]AW[pr][ps][nr][ms][lr][kr][kp]
+[lp][mo][no][po][qn][qp][rp][rq][sr]N[012]AP[MultiGo:4.4.4]SZ[19]AB[qq]MULTIGOGM[0]
+
+(;C[请给出白棋的最强抵抗，即，最不损官子的抵抗。]N[审题])
+(;B[qs]N[正解];W[ns];B[nq];W[ls];B[os]C[黑地5目，黑是后手。])
+(;B[qs]N[变化1];W[os];B[ns];W[os];B[nq];W[ns];B[ps]C[黑地多少？眼见的2目，提3子有3目，被提1子要减去1目，这样一共4目。但是，黑是先手。所以不如正解。])
+(;B[qs]N[变化2];W[nq];B[ns];W[os];B[oq]C[黑地9目。])
+(;B[nq]N[失败1];W[os];B[ns]C[打劫])
+(;B[os]N[失败2];W[ns];B[qs];W[nq]))

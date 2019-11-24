@@ -1,0 +1,44 @@
+(;
+AB[df][qd][oc][cp][do][cn][cm][bm][en][ep][fp][hp]
+AW[dd][fd][qj][pp][go][co][bo][bn][bp][dp][dq][eq]
+C[Black plays.
+
+Source
+    "In the Beginning", pp. 119-122,
+    Ikuro Ishigure, Ishi Press]
+(;
+B[ff]
+C[Correct.];
+W[cf]
+C[White's best response.];
+B[cg];
+W[ce];
+B[bg]
+LB[cc:a]
+C[Black has effectively used the
+thickness from the bottom side.
+And Black can later aim at A.]
+)
+    (;
+    B[cd]
+    C[The game line, but inaccurate.];
+    W[cc];
+    B[ce]
+    (;
+    W[ff]
+    C[White should have grabbed the key point here.];
+    B[bc];
+    W[dc]
+    C[And White has reduced Black's
+potential left side moyo.]
+    )
+        (;
+        W[bc]
+        C[White's play here from the game rewards
+Black's inaccurate play.];
+        B[ff]
+        C[Now Black has a better position
+than even the first (correct) line above.]
+        )
+    )
+)

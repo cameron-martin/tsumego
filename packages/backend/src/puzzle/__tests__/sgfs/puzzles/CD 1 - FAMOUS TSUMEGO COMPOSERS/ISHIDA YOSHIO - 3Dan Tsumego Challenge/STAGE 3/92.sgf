@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[op][np][mp][lq][kq][kr][rs][rr][rq][qp]AW[lr][ls][mq][nq][or][qq]
+[qr][qs]C[92]N[92]AP[MultiGo:4.4.4]SZ[19]AB[pp]MULTIGOGM[0]
+
+(;C[第92题 锐利的手筋
+
+白看起来眼位很丰富，但黑可使用手筋的威力，摧垮白的坚垒。
+
+第一手很关键。]
+N[审题])
+(;B[pr]C[黑1挖是锐利的手筋。发现了这一手，以后的计算就比较简单了。]N[正解];W[pq]
+;B[oq];W[ps];B[nr];W[mr];B[ns])
+(;B[pr]N[变化1];W[ns];B[mr])
+(;B[pr]N[变化2];W[mr];B[ns])
+(;B[oq]N[失败];W[pr]C[黑1挤不行，白2活了。]))

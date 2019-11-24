@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ed][hc][ch][qc][oc][nb][qf][pf][qi]
+AB[jc][cj][nc][nd][od][pd][qe][re]
+LB[nc:2][nb:1]
+C[Problem 131. White to play.  
+
+Against White 1, Black 2 is a strong move. How does White live ? ]
+(;W[ob]
+TE[2]
+C[Correct Answer.  
+
+Connecting at 1 is the proper move. ]
+;B[mb]
+C[After Black blocks with 2, ... ]
+;W[rb]
+C[White lives with 3. <= ]
+)
+(;W[pc]
+C[Failure.  
+
+Connecting at 1 is bad. ]
+;B[mb]
+(;W[ob]
+C[After White 3, ... ]
+;B[sb]
+C[... Black kills her with 4. <= ]
+)
+(;W[rb]
+C[If White 3 here, she lives, but ... ]
+;B[ob]
+C[... Black can capture a stone in sente with 4. <= ]
+))
+)

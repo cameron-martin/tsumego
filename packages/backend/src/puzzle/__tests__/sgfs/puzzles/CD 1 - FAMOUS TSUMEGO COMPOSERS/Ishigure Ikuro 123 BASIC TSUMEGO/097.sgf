@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qa][ra][sb][rc][qc][qd][qe][qf][qg][pg][of][ng][mg][mf][me][ld][kd]
+[ma][lb]AW[od][pe][pf][pc][pb][qb][rb][mb][nb][mc][md][ne][nf]N[097]AP[MultiGo:4.4.4]
+SZ[19]AB[kb]MULTIGOGM[0]
+
+(;LB[pa:A][pd:B][oc:C]C[首先观察黑的棋形，黑A位爬不行，打三还一有眼。黑B则白C做活。再看白的棋形，如果你是白棋，要做活应该走哪里？]
+N[审题])
+(;B[na]C[黑从外围压缩眼位，这是死活题思考时的首选方法]N[正解];W[oa]C[白2只有挡——只有，就意味着计算]
+;B[oc]C[黑3在急所上一击];W[nc];B[pd];W[ob];B[oe]C[白死。])
+(;B[oc]C[黑1点进去，准备工作不足]N[失败1];W[pd]LB[ob:A]C[白2走A位也能做活];B[nc]
+;W[na];B[sc];W[pa];B[ob]C[这是双活。])
+(;B[oa]N[失败2];W[ob]LB[nc:A][pa:B]C[黑1、白2之后，A、B见合，白活。]))

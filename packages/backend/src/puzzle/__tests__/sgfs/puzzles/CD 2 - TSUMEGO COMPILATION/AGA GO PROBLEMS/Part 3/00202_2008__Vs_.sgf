@@ -1,0 +1,40 @@
+(;
+AB[pd][ce][pp][cq][dp][ep][eq][fp][fo][go]
+AW[cn][dq][dr][er][fq][gr][gp][hp][dc]
+TR[ce]
+C[White's response to Black's marked play?
+
+Source:
+    Special Game Commentary
+    Hashimoto vs. Tono
+    Go World #1, May-June 1977, pp. 39-40]
+(;
+W[nc]
+C[Wrong direction.];
+B[cj]
+C[Black will ignore White's approach to play here.  Black simultaneously takes advantage of his thickness below, and also supports his upper left stone.  Black has an ideal shape.]
+)
+    (;
+    W[cj]
+    C[Taking the point that Black wants (or one point to the right) is the correct direction, but the wrong point.];
+    B[ch]
+    C[Black makes the perfect 2 space extension, after which White's 3 point extension looks too thin.]
+    )
+    (;
+    W[dh]
+    C[This White play is just a little too far from the White stone in the lower left.];
+    B[fe];W[gc];B[dj]
+    C[With this standard sequence, Black takes the good pincer point that perfectly balances the needs of the top and bottom positions.]
+    )
+    (;
+    W[di]
+    C[Just the right balance between the top and bottom positions.];
+    B[fe];W[gc];B[dk]
+    C[Now a Black pincer here is too narrow to make efficient use of the wall below.];
+    W[cp]
+    C[For example, if later White cuts here, ...];
+    B[co];W[bp];B[bo];W[bq]
+    C[Black builds good thickness, but Black's pincer doesn't make the maximum efficiency with the lower wall.]
+    )
+)
+

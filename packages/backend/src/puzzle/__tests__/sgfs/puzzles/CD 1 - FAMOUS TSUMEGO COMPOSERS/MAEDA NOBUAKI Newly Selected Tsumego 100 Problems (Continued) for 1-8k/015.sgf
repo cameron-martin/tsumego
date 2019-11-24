@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ne][oe][pe][qe][re][pd][rg][oa][nb][nc]AW[ob][oc][od][qc][qd][rd]
+[rb][se]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;C[审题：白棋左边三子与死活无关，障眼法而已。基本杀法。]N[审题])
+(;B[qa]C[缩小眼位是正规杀法]N[正解];W[ra];B[sc]C[白死。])
+(;B[sc]C[黑棋先点也行。不如正解简明，还是正解好。]N[变化])
+(;B[pc]LB[pb:A][pa:B]C[黑棋吃白三子见小。
+此时，白的应手要注意，如果走白A，则黑B，徒增烦恼。]
+N[失败];W[qa];B[sc];W[sd]C[白活。]))

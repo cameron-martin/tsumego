@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]PM[1]C[Problem 122. Black to play and live. (1 move)
+What move does Black make to give his stones life?]GN[ ]AW[gd][hd][fh][dg][gh][eh][je][df][id][jg][de][hh][jf][ih][fd][ee]PW[ ]PB[ ]AB[if][ge][eg][hg][gg][he][fe][ef][gf]
+(
+;C[Correct Answer
+By playing at 1, Black makes two eyes and lives. There is no move other than 1 if Black wants to live.]B[fg]
+)
+(
+;C[If White Plays First
+If it were White's turn, he would play 1 and Black would have only one eye.]W[fg]
+)
+
+)

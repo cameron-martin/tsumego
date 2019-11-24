@@ -1,0 +1,46 @@
+(;
+AW[qi][oi][nh][og][pg][qf][re]
+AB[rd][qd][pd][nc][nf][of][pf][ng]
+C[Black's endgame play?
+
+Source:
+   The Endgame, Chap. 5, pp. 88-89
+   Tomoko Ogawa & James Davies, Ishi Press];
+
+B[rg]
+C[A common, but easy to overlook,
+endgame placement tesuji.]
+(;
+W[rf];
+B[se]
+(;
+W[qg];
+B[sf];
+W[rh]
+LB[sd:a]
+C[And Black need not connect to still
+have taken about 4 points over
+White having played first at A in
+the original diagram.]
+)
+    (;
+    W[sf]
+    C[White cannot play here.];
+    B[qg]
+    C[Black cuts and White takes a huge loss.]
+    )
+)
+    (;
+    W[qg]
+    C[This White response looks submissive
+but is actually slightly better than the
+other White variation.];
+    B[rf];
+    W[qe];
+    B[se];
+    W[rh]
+    C[And even if Black does not connect
+for 5 points in gote, Black has still
+made profit.]
+    )
+)

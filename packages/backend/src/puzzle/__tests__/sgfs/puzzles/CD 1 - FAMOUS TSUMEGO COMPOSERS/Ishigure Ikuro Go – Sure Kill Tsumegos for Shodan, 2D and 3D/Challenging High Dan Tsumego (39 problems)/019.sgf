@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[lp][lq][mq][mr][pn][mo][no][oo][op][ms][pp][qp][rp][rq][qo]AW[rr]
+[pq][sr][qr][nr][or][ls][lr][kr][kq][kp][ko][ln][mn][on][om][pm][qm][rn][ro][qq]
+N[019]AP[MultiGo:4.4.4]SZ[19]AB[oq]MULTIGOGM[0]
+
+(;LB[nq:A][qn:B]C[可以先从黑A、B开始入手计算。或者，先计算你的第一感。正解、失败图都是需要的。]
+N[审题])
+(;B[os]N[正解];W[ns];B[nq];W[ps];B[qn])
+(;B[os]N[变化];W[ps];B[ns];W[rs];B[qn]C[黑活。])
+(;B[nq]N[失败1];W[qn];B[os];W[ps];B[ns];W[rs])
+(;B[qn]N[失败2];W[nq];B[np];W[lo];B[os];W[ps]))

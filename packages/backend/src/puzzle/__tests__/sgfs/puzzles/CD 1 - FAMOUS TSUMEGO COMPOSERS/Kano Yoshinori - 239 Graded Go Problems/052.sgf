@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 52. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[id][gg][he][fe][gf][ee][fd]PB[ ]PM[1]PW[ ]AB[ge][ff][fc][de][ed][hd][ef][gc]
+;C[How should Black play after White captures a stone with 1?]W[gd]
+(
+;B[ge]C[Correct Answer
+Black should play at 2 and capture four stones.]
+)
+(
+;B[hc]C[Wrong Answer
+If Black plays 2...]
+;C[...White will save his four stones with the play at 3.]W[ge]
+)
+
+)

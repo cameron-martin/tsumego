@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][jc][nc][pc][qf][hd]
+AB[dc][cf][hc][kd][lc]
+LB[hd:1]
+C[Problem 76. Black to play.  
+
+After Black 3 in the Variation Diagram of Problem 73, White attaches with 1. How does Black respond ? ]
+(;B[gc]
+TE[2]
+C[Correct Answer.  
+
+Black should draw back with 1. Next, ... ]
+;W[jd];B[kf];W[je];B[ke];W[ig];B[kh]
+C[... the moves to 7 can be expected. <= ]
+)
+(;B[jd]
+TE[2]
+C[Correct Answer.  
+
+Black 1 and ... ]
+;W[ic];B[gc]
+C[... 3 are a bit inelegant, but they are playable. ]
+;W[id];B[jf];W[gd];B[fd];W[fe];B[ed];W[hg]
+C[The moves up to 10 are one variation. <= ]
+)
+)

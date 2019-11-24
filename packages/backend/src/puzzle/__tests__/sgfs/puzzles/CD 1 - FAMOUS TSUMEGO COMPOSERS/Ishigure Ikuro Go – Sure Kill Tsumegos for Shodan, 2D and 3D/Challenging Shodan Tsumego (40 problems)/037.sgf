@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[po][oo][no][mo][lq][lp][lr][rr][rq][qp]AW[mq][mp][np][nr][oq][pp]
+[qq][qr]N[037]AP[MultiGo:4.4.4]SZ[19]AB[qo]MULTIGOGM[0]
+
+(;LB[op:A][mr:B][pr:C]C[进攻点的选择，似乎只能在A、B、C之中。]N[审题])
+(;B[pr]C[黑1夹好，如果被黑渡过的话，白没有两眼]N[正解];W[ps];B[op];W[pq];B[mr]C[白死。])
+(;B[op]N[失败1];W[mr];B[pr];W[pq];B[qs];W[os];B[ps];W[ms]C[白活。])
+(;B[mr]N[失败2];W[op]C[白是活形。]))

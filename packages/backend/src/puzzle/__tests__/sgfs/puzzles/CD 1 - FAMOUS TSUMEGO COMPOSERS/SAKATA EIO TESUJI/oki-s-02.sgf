@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fl][cm][dm][gm][bn][gn][co][eo][go][fp][eq][fq]AB[dn][fn][do][fo][dp][ep][cq]TR[aa]C[Ex. 2 - Life or death
+
+This B group has a weak point.
+Try to kill it cleanly.]PL[W]
+(;W[bp]LB[bp:1]C[Diag. 1 - Failure
+
+W 1 kosumi is a common idea ]
+;B[bq]LB[bp:1][bq:2]C[but after B 2 osae the result is far below expectations. ]
+;W[dq]LB[bp:1][bq:2][dq:3]C[After W 3 atekomi, ]
+;B[cp]LB[bp:1][cp:4][bq:2][dq:3]
+;W[cr]LB[bp:1][cp:4][bq:2][dq:3][cr:5]C[W 5 ]
+;B[br]LB[bp:1][cp:4][bq:2][dq:3][br:6][cr:5]
+;W[bs]LB[bp:1][cp:4][bq:2][dq:3][br:6][cr:5][bs:7]C[and 7 ]
+;B[dr]LB[bp:1][cp:4][bq:2][dq:3][br:6][cr:5][dr:8][bs:7]C[B 8 ]
+;W[ds]LB[bp:1][cp:4][bq:2][dq:3][br:6][cr:5][dr:8][bs:7][ds:9]C[and W 9, it is a ko, but this cannot be said to be a very satisfactory way of playing.])
+(;W[cr]LB[cr:1]TR[aa]C[Diag. 2 - Failure
+
+If W plays tsuke 1, 
+]
+;B[br]LB[br:2][cr:1]C[B plays 2 ]
+;W[dr]LB[br:2][cr:1][dr:3]C[then W 3 hiki. ]
+;B[bs]LB[br:2][cr:1][dr:3][bs:4]C[This allows B to play the important sagari 4 and does not succeed in taking his eyes away ]
+;W[bp]LB[bp:5][br:2][cr:1][dr:3][bs:4]C[After W 5 ]
+;B[bq]LB[bp:5][bq:6][br:2][cr:1][dr:3][bs:4]C[and B 6 it ends in failure.])
+(;W[br]LB[br:1]C[Diag.3 - Correct
+
+W must intrude even further, in fact as far as 1.]
+(;B[cr]LB[br:1][cr:2]C[If B 2 osae, ]
+;W[bq]LB[bq:3][br:1][cr:2]C[W 3 watari and B dies.])
+(;B[bq]LB[bq:2][br:1]C[Diag. 4 - Correct
+
+If B 2 osae here in reply to W 1, ]
+;W[cr]LB[bq:2][br:1][cr:3]TR[co][eq]C[W 3 now connects on this side and again B dies.
+You will see from this that when W has approached on both sides at the marked places the vital point is the 2-2 point, below san-san])))

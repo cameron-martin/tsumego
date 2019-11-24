@@ -1,0 +1,17 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 6. CONNECTING AND SEPARATING STONES
+
+Problem 93. Black to play
+(Please move one step forward to see the problem diagram...)]AW[id][ic][kc][fc][fb][hd][fd]PB[ ]PM[1]PW[ ]AB[gd][gb][he][jf][hc][gc][gf]
+;C[White has played at 1. How can Black connect his four stones at the top to the ones below?]W[fe]
+(
+;B[ge]C[Correct Answer
+Black 2 connects all the black stones together.]
+)
+(
+;B[ff]C[Wrong Answer
+If Black plays another move, like 2...]
+;C[...White will play at 3 and the four black stones above are dead.]W[ge]
+)
+
+)

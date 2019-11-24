@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[oo][no][np][nq][mq][mr][ns][qr][qp][pp]AW[rr][qo][rp][rq][or][oq]
+[op][qn][pn][nn][mn][ln][lp][mp][lq][lr][ls][ms]N[013]AP[MultiGo:4.4.4]SZ[19]AB[po]
+MULTIGOGM[0]
+
+(;C[黑必须阻止白三子回家。失败图很容易得到。]N[审题])
+(;B[ps]N[正解];W[qq];B[pq];W[pr];B[rs]C[劫活正解。])
+(;B[nr]N[失败];W[qq];B[pq];W[pr]C[只给出一个失败图。]))

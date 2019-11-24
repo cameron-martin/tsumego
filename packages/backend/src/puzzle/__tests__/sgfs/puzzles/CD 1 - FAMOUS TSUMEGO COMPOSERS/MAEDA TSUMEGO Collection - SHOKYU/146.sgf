@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[bm][cm][dn][do][dp][dq][dr][bq][br]AW[cs][cr][cq][cp][co][cn][bo]
+[ar]N[146]AP[MultiGo:4.4.4]SZ[19]AB[bn]MULTIGOGM[0]
+
+(;C[劫？双活？净杀？观察一下，白棋的气很紧。
+
+难度：☆☆]N[审题])
+(;B[bs]N[正解];W[ap];B[an]LB[aq:A][ao:B]C[接下来，白A则黑B，白死。];W[ao];B[aq]
+C[白死。])
+(;B[aq]N[失败];W[bs]C[这是劫。]))

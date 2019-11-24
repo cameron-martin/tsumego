@@ -1,0 +1,17 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[LEVEL TWO
+
+SECTION 1. HOW TO CAPTURE STONES
+
+Problem 61. Black to play.
+Where should Black play to capture White?]AW[ib][fb][hc][ha][gc]PB[ ]PM[1]PW[ ]AB[eb][gb][fc][hb]
+(
+;B[fa]C[Correct Answer
+By playing at 1, Black can capture one white stone..]
+)
+(
+;C[If White Plays First
+If it were White's turn, he would take two black stones with 1.]W[ga]
+)
+
+)

@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]GN[第234题]HA[0]EV[吴清源诘棋集（初级编）]AB[bc][cc][dc][fc][fb][gc]AW[bd][cd][dd][ed][fa][gb][hb][hc][hd][ge][bf]C[黑先
+
+实战常出现的形，但是很多人走错]
+
+(;B[da]N[正解图];W[ac];B[ab];W[ba];B[eb];W[ga];B[ea];W[cb];B[bb];W[ca];B[ec]C[双活])
+(;B[ea]N[失败图1];W[ec];B[eb];W[bb];B[ab];W[cb];B[db];W[ca];B[ba];W[aa]C[打劫])
+(;B[eb]N[失败图2];W[bb];B[ab];W[cb];B[ba];W[ca];B[ea];W[ec];B[db]C[打劫]))

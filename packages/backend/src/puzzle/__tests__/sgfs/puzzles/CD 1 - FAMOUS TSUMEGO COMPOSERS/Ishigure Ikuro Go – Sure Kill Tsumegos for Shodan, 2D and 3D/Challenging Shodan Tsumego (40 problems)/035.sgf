@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[sr][rr][qr][qq][on][pp][po][pn][nn][mr][no][np][mp][mq]AW[sq][oo]
+[nq][oq][nr][ns][ms][pr][qs][lr][lq][lp][mo][mn][mm][nm][om][pm][qm][qn][qo][qp]
+[rp][rq]N[035]AP[MultiGo:4.4.4]SZ[19]AB[pq]MULTIGOGM[0]
+
+(;C[不是很难的题目。注意次序。]N[审题])
+(;B[or]C[黑1先扑是次序];W[os];B[rs];W[op];B[ps]C[劫活正解。])
+(;B[rs]N[失败1];W[op]C[白2接上是叫吃];B[ps];W[or]C[黑死。])
+(;B[op]N[失败2];W[rs]C[黑死。]))

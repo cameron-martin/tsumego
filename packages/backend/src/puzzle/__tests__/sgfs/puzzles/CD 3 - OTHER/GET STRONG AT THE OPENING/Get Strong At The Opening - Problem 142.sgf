@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][mc][oc][qb][pp]
+AB[kd][qd][pf][qj][eq][cp]
+LB[cj:B][id:A][ql:C][jq:D]
+C[Problem 142. White to play.  
+
+A joseki has just been played out in the upper right. How should White continue ? Should she play an attacking move or should she be satisfied just making a big point ? ]
+(;W[cj]
+TE[2]
+C[Correct Answer.  
+
+White should extend to 1, limiting the influence of Black's corner enclosure. ]
+;B[nq];W[qn]
+(;B[cl];W[oq];B[np];W[jp]
+C[The game continued with the sequence to White 7. <= ]
+)
+(;B[jp]
+LB[cl:@]
+C[If White neglects to play 4 at @ and plays 4 here instead, ... ]
+;W[cm]
+C[... White will extend down the left side. <= ]
+))
+(;W[jq]
+C[Failure.  
+
+White 1 is not good ... ]
+;B[cj]
+LB[ql:C][jq:1][id:A]
+C[... because Black can make an ideal extension from his corner enclosure with 2. White A or C are the next biggest points, but 1 and 2 take priority because no stones have been played in these areas yet. <= ]
+)
+)

@@ -1,0 +1,51 @@
+(;
+AW[cs][br][bq][dr][dq][cp][co][ep][fq][fn][fm][sq][rp][on][lo][lp][kr][kq][jp][ln][mn][om][sp][ro][qp][po][qn]
+AB[bp][bo][bn][cn][dn][do][dp][em][lr][mr][lq][mp][mo][nq][or][op][oo][pp][qq][rq][sr]
+C[Rank White's moves A, B, and C.
+
+Source:
+   The Endgame, Chap. 5, pp. 65-67
+   Tomoko Ogawa & James Davies, Ishi Press]
+LB[cq:a][ls:b][rr:c]
+(;
+W[ls]
+C[The biggest move.
+3 points in reverse sente.
+
+Otherwise, a Black play to the
+left of 1 is sente.];
+B[ms];
+W[ks]
+)
+    (;
+    W[rr]
+    C[Second best.
+5+ points in gote.
+
+A Black play at 1 makes 4
+points at R2, R1, S1, T1.];
+    B[qr];
+    W[ss]
+    C[White makes 1 point with the
+capture of the Black stone.];
+    B[]
+    C[Later White might be able to
+make one more point by
+winning the ko.];
+    W[qs];
+    B[ps];
+    W[sr]
+    )
+    (;
+    W[cq]
+    C[Worst.
+4 points in gote.
+
+White makes 1 point of territory.
+
+If Black plays first at 1, Black makes
+3 points with the capture of 2
+White stones and 1 point of
+territory.]
+    )
+)

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[od][nd][nc][mb][ma][qb][sc][sd][re][qe]AW[rb][sb][qc][qd][rd][pc]
+[oc][nb]N[021]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;CR[qb]TR[ma]LB[rc:A]C[黑A位不能入子，◎被衔在白嘴里，但是有个硬腿。另外，就是白气很紧。
+
+逐点计算，或者根据第一感进行计算。]
+N[审题])
+(;B[pa]N[正解];W[pb];B[qa];W[oa];B[ra];W[sa];B[qa])
+(;B[pa]N[变化];W[ra];B[oa])
+(;B[oa]N[失败1];W[qa])
+(;B[ob]N[失败2];W[pb])
+(;B[na]N[失败3];W[pa]))

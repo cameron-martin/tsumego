@@ -1,0 +1,33 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ac][bb][bd][cc][cd][ce][ch][dd][dg][di][ee][eh][fd][fe]
+AW[be][bf][cf][db][dc][de][df][ec][ed][ef][fc][hc]PL[W]C[White to play.
+
+Attack - Capture]
+;W[gf]
+;B[hd]
+(
+;W[he]
+;B[gd]
+;W[id]
+;B[gc]
+;W[hb]
+;B[gb]
+;W[fb]
+(
+;B[ga]
+;W[ff]
+;B[ic]
+;W[ib]
+;B[jc]
+;W[fa]C[RIGHT
+])
+(
+;B[ib]
+;W[ga]C[RIGHT
+]))
+(
+;W[gd]
+;B[ge]
+;W[he]
+;B[gc]
+;W[id]C[Ko Fight]))

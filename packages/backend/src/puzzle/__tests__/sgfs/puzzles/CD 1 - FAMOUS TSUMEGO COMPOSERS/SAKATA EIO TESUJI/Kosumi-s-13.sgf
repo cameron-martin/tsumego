@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[eq][fq][hq][jq][er][gr][hr][ir][gs]AB[co][dp][fp][gp][hp][ip][jp][gq][iq][kq][dr][fr][kr][fs]C[Ex. 13 - Life or death
+
+The idea is to capture W, but precision is important. 
+First it is necessary to defend against the de move in the corner.]
+(;B[dq]LB[dq:1]C[Diag.1 - Failure
+
+B1 tsugi stops W 2 de ]
+;W[is]LB[dq:1][is:2]C[but W gets an eye on lower side with 2 and this gives him life.
+Move 1 is the one to think about.])
+(;B[is]LB[is:1]TR[aa]C[Diag. 2 - Failure
+
+If B 1 tsuke, it prevents W from getting an eye on this side]
+;W[dq]LB[dq:2][is:1]C[but after W 2 de B cannot do a thing.]
+;B[cq]LB[cq:3][dq:2][is:1]C[Obviously after B 3 ]
+;W[cr]LB[cq:3][dq:2][cr:4][is:1]C[W 4 devastates the corner.
+])
+(;B[cs]LB[cs:1]C[Diag. 3 - Correct
+
+B 1 kosumi not only deals with protecting against the de ]
+;W[is]LB[cs:1][is:2]C[But even after W makes one eye (cont)]
+;B[es]LB[cs:1][es:3][is:2]C[ in connection with the hikidashi B3 it has the effect of not giving W time to get a second eye. ]
+;W[ds]LB[cs:1][ds:4][is:2]C[The three stones are taken, (cont.)]
+;B[es]LB[cs:1][es:5][is:2]C[B takes back at 5 and the result is a false eye. Clearly W is dead.
+The beauty of the kosumi lies in its relationship with the follow-up sacrifice of 3 stones.]))

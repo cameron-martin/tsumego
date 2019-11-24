@@ -1,0 +1,65 @@
+(;
+AB[kb][lb][pb][kc][oc][ld][nd][le][ne][oe][pe][lf][mf]
+AW[mb][qb][lc][mc][pc][md][qd][me][qe][nf][of][pf]
+C[White plays.
+
+Source:
+    Qi Jing Zhong Miao #341, an ancient collection of mostly kyu level life and death problems.
+
+Analysis:
+    Myron Souris]
+(;
+W[na]
+C[A beautifully subtle tesuji that gives White an extra move in all the ensuing freedom races.]
+(;
+B[oa];W[pd]
+C[The only move!]
+(;
+B[nb];W[od]
+)
+    (;
+    B[nc];W[od];B[la];W[ob]
+    )
+    (;
+    B[ob];W[od];B[nc];W[qa];B[la];W[pa]
+    )
+)
+    (;
+    B[pd]
+    C[This move doesn't help Black with his liberties problem.];
+    W[qc];B[ob];W[pa];B[oa];W[nc]
+    )
+)
+    (;
+    W[pa]
+    C[Fails]
+    (;
+    B[ob]
+    C[Perhaps White was hoping for this mistake?];
+    W[na]
+    (;
+    B[oa];W[nc]
+    (;
+    B[od];W[qa]
+    )
+        (;
+        B[qa];W[od]
+        )
+    )
+        (;
+        B[pd];W[qc];B[oa];W[nc]
+        )
+    )
+        (;
+        B[na]
+        C[Best defense.  Black takes the vital point.];
+        W[nb];B[ob];W[ma];B[la];W[oa];B[nc]
+        )
+        (;
+        B[nb]
+        C[Mistake];
+        W[na]
+        )
+    )
+)
+

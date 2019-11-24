@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][eb][ea][ib][ga][ec][hb][gc][fd]GN[ ]AB[ic][ge][ia][db][fe][hc][da][dd][ha][je][dc][ja][ed][he][jb]PM[1]C[Problem 228. White to play.
+How does White secure life for his stones?]PW[ ]
+(
+;W[fb]C[Correct Answer
+White 1 is the correct answer. Even if Black takes two stones on the next move, White will retake and is alive.]
+)
+(
+;W[gb]C[Wrong Answer
+If White connects at 1, he dies...]
+;B[fb]C[...Black will play at 2 and White cannot make two eyes.]
+)
+
+)

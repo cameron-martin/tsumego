@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gd][id][ib][ia][ff][he][jc][fe][hc][ha][fd][gf]GN[ ]AB[kb][gb][fc][gg][hg][hb][ef][kd][fg][je][ie][eb][kc][hf][ga][ed][ee]PM[1]C[Problem 150. Black to play and kill White. (1 move)
+What move does Black make to kill the white stones?]PW[ ]
+(
+;B[gc]C[Correct Answer
+Black 1 is the correct answer. The only real eye White has is the lower one. White is dead.]
+)
+(
+;B[jd]C[Wrong Answer
+Black 1...]
+;W[gc]C[...lets White form two perfect eyes with 2, so he can never be killed.]
+)
+
+)

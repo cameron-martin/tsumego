@@ -1,0 +1,17 @@
+(;CA[gb2312]AB[rb][pb][pc][pd]AW[ob][oc][od][oe][of][qf][qg][rd]N[193]AP[MultiGo:4.4.4]
+SZ[19]AB[pe]MULTIGOGM[0]
+
+(;LB[pf:A]C[很著名的一道死活题。A位松着一口气，这是要留意的地方。
+
+难度：☆☆☆]
+N[审题])
+(;B[re]C[黑1跨下，必然]N[正解];W[qe];B[qd];W[rc];B[sc]C[黑5从边上扳是巧手];W[rf]
+;B[qc];W[se];B[qa]C[黑活。])
+(;B[re]N[变化];W[qe];B[qd];W[rc];B[qc]LB[sc:A]C[黑5不是走A位扳，而是走这里来，如何？]
+;W[ra]LB[qa:A][sb:B][pa:C]C[白6夹，要打劫的样子。
+以下，黑A则白B，打劫；黑B则白C，黑更糟糕]
+;B[sd];W[rf];B[sc];W[pa];B[qa];W[qb];B[sa]C[循环劫，黑活。
+
+但与正解图相比，黑给白棋留下了无穷的劫财库。])
+(;B[qd]N[失败1];W[rc]C[黑不活。])
+(;B[rc]N[失败2];W[qd]C[黑不活。]))

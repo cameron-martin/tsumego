@@ -1,0 +1,40 @@
+(;
+AB[dd][nd][pd][pe][qe][pf][jq][nq][dp]
+AW[fc][pq][qk][qf][pg][of][qg]
+C[Black's response to White's marked play?
+
+Source:
+    American Go Journal, Vol. 20, No. 1, 1986, pp. 12-13
+    "The Five Worst Moves of 1986", by Kageyama Toshiro]
+TR[fc]
+(;
+B[jc]
+C[If Black is aiming for a pincer, then this immediate play is simple and OK, especially given that this game starts with a 3 stone handicap.  Black has effective responses to a White attack against the upper left corner. ]
+)
+    (;
+    B[ec]
+    C[Needlessly complicated.
+
+If Black already had another stone extending down the side with a 1-space jump from the handicap point, then this play along with the follow up pincer on the right would have been perfect for Black.];
+    W[fd]
+    C[But Black's previous move forces White to strengthen himself here.  Now expanding to the right or attacking Black's corner is miai for White.];
+    B[jc];W[de]
+    C[White launches a counterattack.  Black's problems have begun.];
+    B[ce]
+    (;
+    W[df]
+    C[Correct response.];
+    B[ed];W[fe];B[cd];W[gg]
+    C[Up to here is a joseki.  Black has taken nice corner territory, but White's formation is already solidly connected and radiates power outward.  Black is better in the main line.]
+    )
+        (;
+        W[cf]
+        C[In the game, White actually made this overplay.];
+        B[cc]
+        C[But instead of making the best of the situation by counterattacking with a splitting atari on the 5-5 point, Black submissively protects the corner here.];
+        W[ee]
+        C[And White's pull back here leaves Black with a relatively small and isolated corner, while White again has a safe group that radiates power outward.  Black's submissive play is just what White wants. ]
+        )
+    )
+)
+

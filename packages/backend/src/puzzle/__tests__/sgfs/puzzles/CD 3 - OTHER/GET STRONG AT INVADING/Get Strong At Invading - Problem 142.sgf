@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][fd][jc][qd][rd][re]
+AB[dd][ec][df][mc][pd][qc][rc][qe][qj]
+LB[rd:2][rc:3][qc:1]
+TR[re]
+C[Problem 142. White to play.  
+
+Black takes the corner with 1 and 3. What should White do ? ]
+;W[pe]
+TE[2]
+C[Correct Answer.  
+
+White should cut with 1, ... ]
+;B[qf];W[pc]
+C[... then atari with 3. ]
+;B[od];W[rf]
+(;B[oc]
+C[After Black takes the corner with 6, ... ]
+;W[qg];B[pf];W[og]
+LB[qg:7]
+C[... White makes sabaki with 7 and 9. <= ]
+)
+(;B[qg]
+C[Variation.  
+
+Black extends to 6, aiming to get thickness in the center. ]
+;W[pb]
+C[However, White takes the corner with 7. <= ]
+)
+)

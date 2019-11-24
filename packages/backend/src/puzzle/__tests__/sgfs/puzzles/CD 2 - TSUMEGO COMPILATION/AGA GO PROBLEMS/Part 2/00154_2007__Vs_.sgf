@@ -1,0 +1,94 @@
+(;
+AB[nc][ne][qd][qj]
+AW[qm][pp]
+C[White's approach to Black's moyo?
+
+Source:
+    American Go Journal, Vol. 17, No. 2, June 1982, pp. 25-27
+    Keshi and Uchikomi, Kaoru Iwamoto 9p];
+W[rd]
+C[Good.
+
+White can also try to erase from the outside.
+The possibilities are endless.  However, this
+White move demonstrates a flexibility between
+outright invasion and erasure from the outside
+that is instructive.
+
+Just a few variations follow to give a high level
+feel for the possibilities.]
+(;
+B[qe]
+C[The safest continuation.];
+W[oj]
+LB[qc:a]
+C[And White achieves the main object of the
+erasure, especially given that White retains
+the possibility of at least a ko in the corner with A.]
+)
+    (;
+    B[qc]
+    C[Black can also pull back.];
+    W[qh]
+    C[But White can go for a full invasion here.]
+    (;
+    B[oi]
+    C[If Black presses from the outside...];
+    W[qe]
+    C[White can live on the inside.]
+    )
+        (;
+        B[qf]
+        C[If Black shuts off the corner...];
+        W[oh];
+        B[oj];
+        W[mh]
+        C[White moves out into the center with the
+threat of menacing the 2 Black stones below.]
+        )
+    )
+
+    (;
+    B[rc]
+    C[Black can also defend the corner.];
+    W[qe]
+    C[Here's one possibility.];
+    B[pd];
+    W[pi]
+    C[And White's shoulder hit gives an advantageous
+shape for reducing Black's moyo while remaining
+safe.]
+    )
+
+    (;
+    B[re]
+    C[So given the outcomes of the two previous variations,
+Black should press here.];
+    W[qe]
+    C[And White cuts to start some complications.
+However, White's goal is to reduce Black's
+framework and not to save these stones!]
+    (;
+    B[rc];
+    W[pd];
+    B[qc];
+    W[rf];
+    B[sd];
+    W[pi]
+    LB[qf:a]
+    C[And even though Black can cut at A, White
+has gained time for the main purpose:  to
+reduce Black's framework.]
+    )
+        (;
+        B[rf]
+        C[If Black tries to stop White's outside erasure...];
+        W[qc];
+        B[pd];
+        W[pc]
+        C[White can shift to the corner.
+Black cannot capture these stones unconditionally.]
+        )
+    )
+)
+

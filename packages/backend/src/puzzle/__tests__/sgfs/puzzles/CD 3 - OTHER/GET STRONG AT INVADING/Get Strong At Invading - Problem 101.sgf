@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[de][dc][hc][he][cj][qc][qd][qe][rf][qg][rh]
+AB[jc][je][pc][pd][pe][qb][rg][qf][pf][pj]
+LB[qb:1][re:B][rb:A]
+C[Problem 101. White to play.  
+
+After White 3 in the Correct Answer of Problem 98, Black 1 is the vital point. If White blocks at A, Black will atari at B. What should White do ? ]
+(;W[sg]
+TE[2]
+C[Correct Answer.  
+
+Capturing with 1 leaves White with good aji. ]
+;B[rc];W[rd];B[sd]
+LB[rc:2]
+C[Black gets to play forcing moves with 2 and 4, ... ]
+;W[re]
+C[... but that cannot be helped. <= ]
+)
+(;W[rd]
+C[Failure.  
+
+White could also respond with 1, ... ]
+;B[pg]
+C[... but Black ataris with 2. Black is putting all his stones to good use. <= ]
+)
+)

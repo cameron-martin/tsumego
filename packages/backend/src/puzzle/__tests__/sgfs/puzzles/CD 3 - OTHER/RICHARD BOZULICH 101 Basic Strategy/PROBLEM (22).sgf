@@ -1,0 +1,9 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[rd][pp][qm][kc]AW[qc][od][qd][mc][pj]LB[qc:2]
+[rd:1]C[Black to play. White has answered Black's probe at 1 by pulling back with 2. How should Black continue?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[ph];W[qf];B[qg];W[rf];B[nh]C[CORRECT Invading lightly, then forcing White to secure the corner and jumping out, leaving the black stone below isolated is an elegant way of playing.])
+(;B[qe]
+(;W[pe];B[qf];W[pg];B[rc];W[rb];B[sb];W[qb];B[rh];W[qi];B[ri];W[rj];B[pf];W[of]
+;B[qg];W[ph]LB[rf:A][re:B][sg:C][sc:D][se:E][si:F]C[CORRECT If Black wants to live on the side, he can do so, but White ends up with a thick position. Black ends in sente, but White can later make a sente seki with the sequence from A to F.])
+(;W[qg];B[qf];W[pg];B[rc];W[rb];B[oe];W[nd];B[rg];W[rh];B[rf]LB[se:A][of:B]C[CORRECT If White dislikes the idea of Black living on the side, he can play this way. Black's first move is  usually not a clever strategy, letting White choose between two variations..])))

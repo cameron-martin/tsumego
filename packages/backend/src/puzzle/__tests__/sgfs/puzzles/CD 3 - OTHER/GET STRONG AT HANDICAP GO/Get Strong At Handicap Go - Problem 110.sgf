@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[qf][nq][er][fq][gp][co][cn][dm]
+AB[dp][pd][pp][dd][jj][kc][nd][qn][cp][eq][dn][en]
+LB[kc:6][nd:2][qf:1][qn:4][nq:3][cp:12][co:11][cn:5][dn:8][dm:9]
+LB[en:10][eq:14][er:15][fq:7][gp:13]
+C[Problem 110. Black to play.  
+
+The sequence to White 15 in the lower left is a joseki. Where should Black play next ? ]
+(;B[fp]
+TE[2]
+C[Correct Answer.  
+
+Playing on top with 1 forces White ... ]
+;W[fr]
+C[... to connect at 2. ]
+;B[dr]
+C[Now Black can enclose the corner with 3. ]
+;W[gn];B[fm]
+LB[cm:A]
+C[Black 5 aims to cut at A, so ... ]
+;W[ck]
+C[... White must defend at 6. ]
+;B[bo]
+LB[cr:B]
+C[The sequence to Black 7 is a joseki. Black 7 is an important move because it prevents the clamp of White B. <= ]
+)
+(;B[dr]
+C[How the game continued.  
+
+Black 1 was careless. ]
+;W[ep]
+C[White ataried with 2, ... ]
+;B[dq];W[kp]
+LB[do:A]
+C[... then took up a position at the bottom with 4. Next, White aimed at separating Black's stones by pushing through with A. If Black were to play A, White would strengthen her stones on the left side. <= ]
+)
+)

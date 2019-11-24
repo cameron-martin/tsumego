@@ -1,0 +1,18 @@
+(;CA[gb2312]AB[rr][rq][qp][qo][po][no][mo][mq][lq][kq]AW[lr][mr][nq][np][pp][pq]
+[qq][qr][qs]C[63
+]N[63]AP[MultiGo:4.4.4]SZ[19]AB[kr]MULTIGOGM[0]
+
+(;C[第63题 预见三手
+
+第一手很简单，问题是第三手如何走。请确认黑的第三手走哪里，最终成劫争。]
+N[审题])
+(;B[or]N[正解];W[nr]C[黑1、白2是必然的交换。所谓必然，就是说，黑1走其他地方都不行。对于黑1，白只能2位应。]
+;B[ps]C[黑3尖是手筋。];W[pr]C[白4只能打];B[ns]LB[oq:A][ms:B]C[黑5做劫，这是正解。
+
+白4打时，黑不能接。
+
+黑5之后，白不能走A位或B位。])
+(;B[or]N[变化1];W[nr];B[ps];W[pr];B[os];W[ls]LB[op:A][ns:B]C[白6扩大眼位，黑A则白B，接不归。]
+;B[ns];W[op]C[双活。])
+(;B[or]N[变化2];W[nr];B[os];W[ls];B[ns];W[ps])
+(;B[or]N[失败];W[nr];B[ns];W[ps];B[os]C[白4是防守的好手，黑5只能接上。];W[ls]C[双活。]))

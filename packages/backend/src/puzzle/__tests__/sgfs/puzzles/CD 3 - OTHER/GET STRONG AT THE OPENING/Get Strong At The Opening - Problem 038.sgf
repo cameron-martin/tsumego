@@ -1,0 +1,62 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dp][fq][hq][jd][kc][nc]
+AB[jp][ho][pp][pj][pd][pf][le][jf]
+C[Problem 38. White to play.  
+
+Black mapped out a vast moyo. White has to prevent Black from solidifying it. Where should she play ? ]
+(;W[np]
+TE[2]
+C[Correct Answer.  
+
+White should play the high approach move with 1. ]
+(;B[pn]
+C[Black 2 is the natural response, but ... ]
+;W[lp]
+C[... now White 3 threatens to link up with its allies on the left, so ... ]
+;B[iq]
+C[... Black must play 4 ... ]
+;W[hp];B[ip]
+C[... and 6. ]
+;W[ln]
+C[White can now come out into the center in good style with 7 ... ]
+;B[jn];W[ll]
+C[... and 9. <= ]
+)
+(;B[lp]
+LB[pn:@][nn:A]
+C[Variation.  
+
+Black might pincer with 1. If White answers by jumping to A, Black will jump to @ and White's two stones will be in trouble, floundering in the middle of Black's moyo without a base. ]
+;W[po]
+C[Therefore, White attaches with 3. ]
+(;B[qo]
+C[If Black 3, ... ]
+;W[qp]
+C[... White crosscuts with 4 to make sabaki. <= ]
+)
+(;B[qp]
+C[The ladder favours White.  
+
+Black could respond to White's attachment by extending to 2 and White will not be able to make sabaki. ]
+(;W[oo]
+C[If White 5 here, ... ]
+;B[rn]
+C[... Black 6 puts White on the spot. <= ]
+)
+(;W[qo]
+C[Therefore, White plays 5 here and, ... ]
+;B[oo]
+C[... if Black 6, ... ]
+;W[op]
+C[... White cuts with 7. Since the ladder is in White's favour, she can fight in this position. <= ]
+))))
+(;W[dj]
+C[Failure.  
+
+White 1 is too passive. ]
+;B[pn]
+C[Black strengthens his position with 2 and, because of the presence of the four marked stones, White will find it hard to reduce the scale of Black's moyo. Therefore, White must invade the bottom right before Black has a chance to reinforce his moyo with 2. <= ]
+)
+)

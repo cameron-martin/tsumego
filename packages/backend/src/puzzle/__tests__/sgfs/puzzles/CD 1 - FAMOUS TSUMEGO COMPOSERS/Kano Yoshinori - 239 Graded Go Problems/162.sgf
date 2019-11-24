@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[bc][db][cb][ae][ad][ab]GN[ ]AB[dc][eb][bf][be][fc][bd][cc]PM[1]C[Problem 160. Black to play and kill White. (1 move)
+How does Black kill the white stones?]PW[ ]
+(
+;B[ba]C[Correct Answer
+Black 1 is the correct answer. White is dead because he cannot make two eyes.]
+)
+(
+;B[af]C[Wrong Answer
+If Black plays at 1...]
+;W[ba]C[...White lives with 2. Only capturing two stones would be a failure for Black.]
+)
+
+)

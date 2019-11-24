@@ -1,0 +1,162 @@
+(;
+AB[qr][rq][qq][pq][qp]
+AW[pr][lr][oq][nq][mq][rp][pp][qo][oo][qn][qm][rl]
+C[White plays.
+
+Source:  Jimmy Cha 4p,
+"American GO Journal", Fall 1989.
+But appeared without a solution!]
+(;
+W[rs]
+C[Correct]
+(;
+B[or]
+(;
+W[sr];
+B[ro]
+(;
+W[ps];
+B[os]
+(;
+W[qs]
+C[And Black can only form one
+eye at S4.];
+B[sp];
+W[sq]
+)
+    (;
+    W[sp];
+    B[so];
+    W[qs]
+    )
+)
+    (;
+    W[so]
+    C[Fails.];
+    B[sp];
+    W[sn];
+    B[ps];
+    W[sq];
+    B[rp];
+    W[ns];
+    B[os];
+    W[nr]
+    )
+    (;
+    W[sq]
+    C[Fails];
+    B[sp];
+    W[qs];
+    B[ps]
+    )
+)
+    (;
+    W[ps]
+    C[Also works, but not as pretty due to the
+symmetry breaking.]
+    (;
+    B[os]
+    (;
+    W[sq]
+    C[Fails.];
+    B[sr];
+    W[qs];
+    B[sp]
+    (;
+    W[nr];
+    B[ro]
+    )
+        (;
+        W[ro];
+        B[rr]
+        )
+    )
+        (;
+        W[sr];
+        B[ro]
+        )
+    )
+        (;
+        B[qs];
+        W[sq];
+        B[os];
+        W[sr];
+        B[ro];
+        W[sp]
+        )
+        (;
+        B[ro];
+        W[qs]
+        )
+        (;
+        B[rr];
+        W[sr];
+        B[ro];
+        W[qs];
+        B[sp];
+        W[nr]
+        )
+    )
+    (;
+    W[os]
+    C[Fails.];
+    B[ps];
+    W[ns];
+    B[ro];
+    W[so];
+    B[sp];
+    W[sn];
+    B[sr];
+    W[qs];
+    B[pr]
+    C[Black lives.]
+    )
+)
+    (;
+    B[ro];
+    W[qs];
+    B[or];
+    W[ps];
+    B[sp];
+    W[nr];
+    B[rn];
+    W[sn]
+    )
+)
+    (;
+    W[rr]
+    C[Fails.
+Not all symmetric problems have symmetric solutions!];
+    B[rs];
+    W[sr];
+    B[ro];
+    W[so];
+    B[sp];
+    W[sn];
+    B[or];
+    W[os];
+    B[ps];
+    W[ns]
+    )
+    (;
+    W[os]
+    C[Fails];
+    B[ro];
+    W[so];
+    B[sp]
+    (;
+    W[sn];
+    B[sr]
+    )
+        (;
+        W[sr];
+        B[sn]
+        )
+        (;
+        W[rs];
+        B[qs];
+        W[sr];
+        B[sn]
+        )
+    )
+)

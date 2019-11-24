@@ -1,0 +1,36 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][dd][jc][rh][ri][qi][qj][rk][sk][sl][rm][pm][nn][qn][po][ro][sp][iq][dp][fp][cq]
+AB[oc][qd][qg][rg][qh][rj][qk][ql][rl][pi][pj][ol][qo][qp][rp][rr][pq][nq][bp][cn][ck]
+C[Problem 159. Black to play.  
+
+The fuseki has ended and the middle game has begun. Black has made a thick wall on the right. What is the best way for him to utilise this wall ? ]
+(;B[hc]
+TE[2]
+C[Correct Answer.  
+
+Invading at 1 is the best way for Black to use his thickness. ]
+;W[je]
+C[If White 2 ... ]
+;B[he];W[jg]
+C[... and 4, ... ]
+;B[hg]
+LB[he:3]
+C[... Black keeps up the pressure with 3 and 5. ]
+;W[mc]
+C[White makes a base for her stones with 6, but ... ]
+;B[db]
+C[... Black slides to 7 and White is behind in territory. <= ]
+)
+(;B[lc]
+C[Failure.  
+
+Thickness should be used to attack. If Black tries to make territory with 1 ... ]
+;W[je];B[le]
+C[... and 3, ... ]
+;W[ec]
+LB[je:2]
+C[... White takes the lead with 2 and 4. The black stones on the right are now overconcentrated, while White's stones are taking territory efficiently. <= ]
+)
+)

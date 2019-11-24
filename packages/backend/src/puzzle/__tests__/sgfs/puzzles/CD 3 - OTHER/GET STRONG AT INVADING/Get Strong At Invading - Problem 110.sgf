@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][bd][je][pc][qe]
+AB[cd][dd][dc][df][cj][hd][jc]
+LB[cd:1]
+TR[bd]
+C[Problem 110. White to play.  
+
+In answer to the marked white stone, Black plays 1. How does White respond to this move ? ]
+(;W[bb]
+TE[2]
+C[Correct Answer.  
+
+White 1 makes good shape. ]
+;B[be]
+C[If Black 2, ... ]
+;W[db]
+C[... White plays 3. <= ]
+)
+(;W[cb]
+C[Failure.  
+
+White can live with 1 here also, but it is not good. ]
+;B[be];W[ac];B[db];W[bb]
+C[White's territory in the corner is small. <= ]
+)
+)

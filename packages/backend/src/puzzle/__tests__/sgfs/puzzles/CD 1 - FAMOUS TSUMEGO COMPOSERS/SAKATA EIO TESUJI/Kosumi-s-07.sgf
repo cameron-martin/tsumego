@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[do][ep][gp][hp][cq][dq][hq][jq][kq][lq][gr][lr]AB[eq][fq][gq][hr][ir][jr][kr]C[Ex. 7 - Life or death
+
+The theme here is how to make practical use of the single stone surrounded by B.
+It is a question of creating a semeai or a false eye.]PL[W]
+(;W[er]LB[er:1]C[Diag. 1 - Failure
+
+The hane 1 ]
+;B[fr]LB[er:1][fr:2]C[then B 2 ]
+;W[dr]LB[dr:3][er:1][fr:2]C[and the tsugi 3 are too commonplace. ]
+;B[gs]LB[dr:3][er:1][fr:2][gs:4]C[They have helped B to live with 2 and 4.])
+(;W[ds]LB[ds:1]C[Diag. 2 - Failure
+
+W 1 tobi is again a suji but cannot succeed in this position. ]
+;B[fs]LB[ds:1][fs:2]C[B can answer with tobi 2 and suddenly he is alive.])
+(;W[fs]LB[fs:1]C[Diag. 3 - Correct
+
+W 1 kosumi is correct here. (cont.)]
+(;B[fr]LB[fr:2][fs:1]C[If B 2 kakae, ]
+;W[ds]LB[fr:2][ds:3][fs:1]C[W sacrifices one stone and plays tobi 3. ]
+;B[gs]LB[fr:2][ds:3][fs:1][gs:4]C[After B 4 ]
+;W[es]LB[fr:4][ds:3][es:5][fs:1][gs:2]C[comes B 5 and though he captures the single stone B cannot live because of the false eye.])
+(;B[er]LB[er:2][fs:1]C[Diag. 4 - Correct
+
+If, in answer to W 1 kosumi, B 2 
+]
+;W[dr]LB[dr:3][er:2][fs:1]
+;B[es]LB[dr:3][er:2][es:4][fs:1]C[and B 4 prevent the connection  ]
+;W[ds]LB[dr:3][er:2][ds:5][es:4][fs:1]C[W 3 and 5 win the semeai in this area.
+In short, B dies.
+You can probably appreciate the effect of this kosumi.])))

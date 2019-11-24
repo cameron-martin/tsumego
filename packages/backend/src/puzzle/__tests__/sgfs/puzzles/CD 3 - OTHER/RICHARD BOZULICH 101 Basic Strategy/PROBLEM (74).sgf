@@ -1,0 +1,6 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[pd][oi][qi][op][rp][qo][pp][no][qm]AW[mk][ok]
+[qk][mq][rq][qq][pq][oq][qp][pn]LB[po:A]C[Black to play. White peeps with the marked stone, expecting Black to connect at A. Is this a forcing move? What is Black's correct response?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+;B[pm];W[on];B[om];W[nn];B[nm];W[mn];B[mm]
+(;W[ln];B[lm]TR[mk][ok][qk][pp][op]LB[po:A]C[CORRECT If Black pushes up, White can't cut at A. If White keeps extending, Black is very happy to keep pushing. Black's stones are out in the center while the three marked white stones above have become thin. Moreover, cutting at A is too small for White. In any case, the two marked black stones were forcing moves, so Black doesn't mind giving them up.])
+(;W[lm];B[ll];W[ml];B[ln];W[km];B[mo]C[CORRECT White cannot stop the black stones from escaping by blocking. Black will hane, and if White cuts, Black captures four white stones.]))

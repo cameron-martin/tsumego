@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ce][cg][di][fd][gf][id]
+AB[dp][pd][pp][eh][ef][de][dd][ec][kd]
+LB[kd:6][id:3][fd:11][gf:7][ec:2][cd:1][dd:12][ce:9][de:8][ef:4]
+LB[cg:5][eh:10][di:13]
+C[Problem 155. Black to play.  
+
+How should Black play after the sequence to White 13 ? ]
+;B[cc]
+TE[2]
+C[Correct Answer.  
+
+Black should settle his stones with the two-step hane of 1 ... ]
+;W[bc];B[bb]
+C[... and 3. ]
+;W[cb]
+C[If White takes the corner with 4 ... ]
+;B[dc]
+(;W[ab]
+C[... and 6, ... ]
+;B[cf]
+LB[ab:6]
+C[... Black wedges in at 7 and White is at a loss for a good move. Therefore White should not play 6. <= ]
+)
+(;W[bd]
+LB[dc:5]
+C[Variation.  
+
+After Black connects at 5, White should connect at 6. ]
+;B[ab]
+C[Black can settle his stones in the corner by descending to 7. Next, ... ]
+;W[kf]
+C[... White must look after her stones at the top, so she caps with 4, but ... ]
+;B[nd]
+C[... Black just maps out territory in the upper right with 5. <= ]
+)
+)

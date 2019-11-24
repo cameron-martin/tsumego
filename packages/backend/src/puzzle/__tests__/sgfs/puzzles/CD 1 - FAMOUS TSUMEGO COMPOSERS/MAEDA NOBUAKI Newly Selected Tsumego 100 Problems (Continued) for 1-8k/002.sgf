@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[ha][hb][kc][lc][lb][la][jc][ic]AW[ib][jb][kb][mb][mc][md][ld][kd]
+[jd][id][hd][gd][gc][gb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[hc]MULTIGOGM[0]
+
+(;C[死活的基本概念：双活]N[审题])
+(;LB[ia:A][ka:B][ja:C]C[黑棋走A或B都不行，白棋脱先，黑后手死：黑自填一个之后，只有五目地，刀把五。
+
+黑棋不能脱先，脱先的话，白C，黑死。]
+N[失败])
+(;B[ja]LB[ia:A][ka:B]C[黑活。
+
+白棋要吃黑，就只能走A或B，黑提子后是曲四活形。]
+N[正解]))

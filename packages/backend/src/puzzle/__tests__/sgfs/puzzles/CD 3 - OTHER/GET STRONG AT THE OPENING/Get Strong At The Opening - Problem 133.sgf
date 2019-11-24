@@ -1,0 +1,25 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][fd][jd][ke][nq][lp][ip][do][dp][dq][eq][er]
+AB[lc][pd][pf][pj][pp][no][dr][cq][cr][cp][cn][cm][fq]
+LB[em:A][fo:B][fp:C]
+TR[cm]
+C[Problem 133. White to play.  
+
+Black has just played the marked stone. In this position, which of the three points indicated is the best way for White to defend ? ]
+(;W[fo]
+LB[fp:A]
+
+TE[2]
+C[Correct Answer.  
+
+White 1 is the correct shape here. It is more efficient than playing at A. <= ]
+)
+(;W[em]
+LB[fo:@][fr:A]
+C[Failure.  
+
+White 1 is a large-scale move, but unfortunately Black A or @ could be quite annoying for White later on. <= ]
+)
+)

@@ -1,0 +1,38 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cn][cp][dq][dr][er]AB[dp][ep][cq][eq][cr]C[Ex. 4 - Shinogi
+
+W is in great difficulties because of the kakae and osae miai points but he can do something about it by using a tesuji.]PL[W]
+(;W[bp]LB[bp:1]C[Diag. 1 - Failure
+W 1 sagari is no good ]
+;B[fr]LB[bp:1][fr:2]C[ because it allows B2 osae, devouring 3 stones.])
+(;W[fq]LB[fq:1]TR[aa]C[Diag. 2 - Failure
+
+W 1 hane to save his 3 stones]
+;B[co]LB[co:2][fq:1]TR[aa]C[fails after B 2, the vital kakai against the single stone.
+This is a worse result than the previous diagram.])
+(;W[br]LB[br:1]C[Diag. 3 - Correct
+
+This W 1 tsuke is the suji to settle things on both sides.
+It sounds out B's intentions, ]
+(;B[co]LB[co:2][br:1]C[and if B decides to sacrifice the corner with 2 
+
+  ]
+;W[bp]LB[co:2][bp:3][br:1]
+;B[bo]LB[bo:4][co:2][bp:3][br:1]C[and B 4, ]
+;W[bq]LB[bo:4][co:2][bp:3][bq:5][br:1]C[after W 5]
+;B[dn]LB[dn:6][bo:4][co:2][bp:3][bq:5][br:1]C[B 6, W can be satisfied with the result.])
+(;B[bq]LB[bq:2][br:1]C[Diag. 4 - Correct
+
+The effect of W's belly attachment 1 is that when B plays 2, 
+]
+;W[bp]LB[bp:3][bq:2][br:1]C[W 3 osae is obviously sente. ]
+;B[bs]LB[bp:3][bq:2][br:1][bs:4]C[B cannot help playing ate 4 ]
+;W[fq]LB[bp:3][bq:2][fq:5][br:1][bs:4]C[and W is blessed with the hane nobi sequence of 5 
+]
+;B[fp]LB[bp:3][fp:6][bq:2][fq:5][br:1][bs:4]
+;W[gq]LB[bp:3][fp:6][bq:2][fq:5][gq:7][br:1][bs:4]C[and 7. ]
+;B[ar]LB[bp:3][fp:6][bq:2][fq:5][gq:7][ar:8][fr:A][bs:4]C[If B decides to live with 8, W has sente.
+This too is quite a plausible plan.
+If W 5 is played at 8, B plays "A" and W loses.
+1 is a suji often used in actual games.])))

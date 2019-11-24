@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dl][fl][hm][bn][cn][fn][hn][co][io][jo][dp][ep][ip][kp][eq][hq][kq][dr][er][jr][lr][ks]AB[km][in][jn][ao][bo][do][eo][fo][go][ho][ko][lo][cp][fp][jp][lp][cq][dq][lq][cr][mr]C[Ex. 9  - Shinogi
+
+There is no escape route for the B stones in the centre and B has little breathing space in the corner, but since there is a weak point in the W group there is no need for him to be pessimistic.]
+(;B[gr]LB[gr:1]C[Diag. 1 - Failure
+
+B 1 keima achieves nothing ]
+;W[gq]LB[gq:2][gr:1]C[after W 2 ]
+;B[fq]LB[fq:3][gq:2][gr:1]C[B 3 hane]
+;W[fr]LB[fq:3][gq:2][fr:4][gr:1]C[and W 4 kiri. 
+]
+;B[hr]LB[fq:3][gq:2][fr:4][gr:1][hr:5]C[If B plays 5 ]
+;W[ir]LB[fq:3][gq:2][fr:4][gr:1][hr:5][ir:6]C[W plays 6.])
+(;B[gq]LB[gq:1]C[Diag. 2 - Correct
+
+After B 1 kosumitsuke ]
+(;W[gr]LB[gq:1][gr:2]C[and W 2, ]
+;B[hr]LB[gq:1][gr:2][hr:3]C[B 3 is a sharp move.
+Up to here this is the same suji as in the previous example, ]
+(;W[fq]LB[fq:4][gq:1][gr:2][hr:3]C[but after W 4,]
+;B[iq]LB[gp:A][hp:B][fq:4][gq:1][iq:5][gr:2][hr:3]C[B 5 hane hits the vital point and W is immediately lost.
+If W "A" following B 5, B "B" takes 3 stones.])
+(;W[ir]LB[gq:1][gr:2][hr:3][ir:4]C[Diag. 3 - Correct
+
+If W 4 in reply to B 3 kiri, ]
+;B[fr]LB[gq:1][fr:5][gr:2][hr:3][ir:4]C[B plays 5 ]
+;W[hs]LB[gq:1][fr:5][gr:2][ir:4][hs:6]C[W 6 takes]
+;B[fq]LB[fq:7][gq:1][sq:3][fr:5][gr:2][ir:4][hs:6]C[and  B 7 cuts off 5 W stones.
+At the same time he removes the aji in the corner so it is a great success for B
+W himself suffers less damage in this diagram.]))
+(;W[hr]LB[gq:1][hr:2]C[Diag. 4 - Reference
+
+If W 2 sagari in answer to B 1 kosumitsuki, (cont.)]
+;B[gr]LB[gq:1][gr:3][hr:2]C[B 3 osae is good.])))

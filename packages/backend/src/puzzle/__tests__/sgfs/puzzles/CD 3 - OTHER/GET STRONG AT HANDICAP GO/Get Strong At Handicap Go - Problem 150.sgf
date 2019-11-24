@@ -1,0 +1,40 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][fq][op][mp][nq]
+AB[dp][pd][qp][qn][pq][oq]
+LB[fq:1]
+C[Problem 150. Black to play.  
+
+White 1 is an overplay. How should Black punish White ? ]
+(;B[ip]
+TE[2]
+C[Correct Answer.  
+
+Black should break up White's position at the bottom with the high invasion of 1. ]
+;W[fo]
+C[After exchanging 2 ... ]
+;B[dn]
+C[... for 3, ... ]
+;W[in]
+C[... White might cap wit 4, but ... ]
+;B[lq]
+C[... Black exchanges 5 ... ]
+;W[mr]
+C[... for White 6, ... ]
+;B[ko]
+C[... then jumps out into the center with 7. All of Black's stones are safe, but White is split into two weak groups. This should be an easy game for Black. <= ]
+)
+(;B[dn]
+C[Failure.  
+
+Black 1 is passive. You will never be able to win against a strong player on a two-stone handicap by playing this way. ]
+;W[dr]
+C[White exchanges 2 ... ]
+;B[cq]
+C[... for 3, ... ]
+;W[iq]
+TR[fq]
+C[... then makes ideal shape with 4, which was the point she should have played instead of the marked stone in the Problem Diagram. <= ]
+)
+)

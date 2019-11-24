@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pc][pd][pe][pf][qg][qh][rh][sh][ra][qb][pa]AW[rg][sg][sf][re][qf]
+[qe][qc][rb]N[086]AP[MultiGo:4.4.4]SZ[19]AB[ob]MULTIGOGM[0]
+
+(;C[不难的死活题。你能一眼得到正解吗？
+
+难度：☆☆]N[审题])
+(;B[rd]N[正解];W[qd];B[rc];W[sb];B[sd]C[白死。])
+(;B[sd]C[这种形，想在1位点的人不少吧]N[失败];W[sc];B[qd];W[rd];B[rc]C[劫杀，黑进攻失败。]))

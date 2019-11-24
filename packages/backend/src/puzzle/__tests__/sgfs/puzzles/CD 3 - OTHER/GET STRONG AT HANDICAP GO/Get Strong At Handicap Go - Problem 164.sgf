@@ -1,0 +1,48 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][fc][nc][nb][pc][qc][qm][ro][qq][nq][mp][iq][fq][fp][ck][ek][gr][jo][bc][de][gf][ei]
+AB[dp][pp][lc][me][qd][pd][od][pj][oq][np][mq][no][dn][ci][kq][eq][cm][fr][er][cf][bd][be][ef][fm]
+TR[de]
+C[Problem 164. Black to play.  
+
+White has peeped with the marked stone (White 8 in the game continuation of Problem 160). How should Black respond ? ]
+(;B[df]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a strong move. ]
+;W[fh]
+C[If White blocks Black's access into the center with 2, ... ]
+;B[hc]
+C[... Black 3 becomes a serious threat. ]
+;W[jj]
+C[That is, if White plays elsewhere (White 4 here is necessary to get 'Black to move"), ... ]
+;B[dc];W[cc];B[db]
+LB[dc:5][ee:A][fb:B]
+C[... Black can destroy White's corner with 5 and 7. White can't capture the stones at 5 and 7 because the points A and B are miai. <= ]
+)
+(;B[eh]
+C[How the game continued.  
+
+Black attached with 1, but ... ]
+;W[fh]
+C[... this enabled White to strengthen her stones on the left side with 2 ... ]
+;B[eg];W[di]
+C[... and 4. ]
+;B[ch]
+C[Black drew back with 5 and ... ]
+;W[cj]
+C[...  White made shape with 6. Although White has strengthened her stones on the left, her stones at the top are still weak. Next ... ]
+;B[ed]
+C[The vital point.  
+
+... Black can make a placement at 7. ]
+;W[ee]
+C[If White resists with 8, ... ]
+;B[cc]
+C[... Black cuts with 9 and ... ]
+;W[dc];B[cb]
+C[... wrests the corner away from White with 11. When a thick position faces a thin one as here, there is usually a tesuji that will give the thick one an advantage. <= ]
+)
+)

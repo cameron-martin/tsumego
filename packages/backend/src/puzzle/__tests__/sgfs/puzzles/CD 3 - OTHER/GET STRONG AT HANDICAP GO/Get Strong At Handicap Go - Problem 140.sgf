@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[bc][cd][ce][ic][oq][qr][np][bp][cn][dl][ci]
+AB[dp][pd][dd][cc][cb][ec][qj][qp][pn][kp][fp][cq]
+C[Problem 140. Black to play.  
+
+In this two-stone handicap game, it is Black's turn to play. How should he attack the lone white stone at the top ? ]
+(;B[de]
+TE[2]
+C[Correct Answer.  
+
+Black must first press White against the left side with 1 ... ]
+;W[df];B[ef]
+C[... and 3. ]
+;W[dg];B[kc]
+C[Now he can pincer with 5. ]
+;W[ie]
+C[If White jumps to 6, ... ]
+;B[ke]
+C[... Black keeps up the pressure with 7. A large-scale black moyo is beginning to take shape on the right side. <= ]
+)
+(;B[kc]
+C[Failure.  
+
+If Black pincers at 1 without making any preparatory moves on the left, ... ]
+;W[ef]
+C[... White will reach out to her stone with the knight's move 2. <= ]
+)
+(;B[ef]
+C[Failure.  
+
+The knight's move of Black 1 is not forceful enough. ]
+;W[lc]
+C[White can take up a position at the top with 2 and Black has lost the initiative here. <= ]
+)
+)

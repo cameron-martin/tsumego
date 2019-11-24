@@ -1,0 +1,45 @@
+(;
+GM[1]
+SZ[19]
+AW[ce][cf][dg][ch][dm][ic]
+AB[pj][dj][dp][pd][pp][dd][cd][df][ef][fp][fd]
+TR[ic]
+C[Problem 70. Black to play.  
+
+In the game in Problem 66, White played the marked stone, threatening the not-so-weak underbelly of Black's position in the top left. How should Black respond ? ]
+;B[kc]
+TE[2]
+C[Correct Answer.  
+
+Black's position in the upper left is strong, so, following the principle of using thickness to attack, Black should press White against it with 1. ]
+;W[ie]
+C[White must run away with 2, but ... ]
+;B[fj]
+C[... Black jumps to 3, putting pressure on the four white stones in the upper left as well as on the one in the lower left. ]
+;W[fh]
+C[When White runs away with 4, ... ]
+;B[ci]
+C[... Black attacks with 5 to keep the White group isolated from its ally below. ]
+;W[bi];B[bj];W[di];B[cj];W[hh]
+C[Finally, when White jumps into the center with 10, ... ]
+;B[co]
+C[... Black plays 11, securing the lower left sector of the board. ]
+;W[fb]
+C[Black's corner is secure.  
+
+Some of our readers might be worried about the safety of the black stones in the upper left. However, Black is quite thick and there is little that White can do. White's best chance is to slide to 1. ]
+;B[ec];W[eb];B[db];W[cb];B[da];W[cc]
+C[When White plays 18, it looks as if she has succeeded in taking the corner. ]
+;B[bb]
+C[But Black has the brilliant tesuji of 19 which captures the two white stones in the corner. ]
+(;W[bc]
+C[If White 20 next, ... ]
+;B[bd]
+C[... Black plays 21. <= ]
+)
+(;W[bd]
+C[If White 20 here, ... ]
+;B[bc]
+C[... Black plays 21. <= ]
+)
+)

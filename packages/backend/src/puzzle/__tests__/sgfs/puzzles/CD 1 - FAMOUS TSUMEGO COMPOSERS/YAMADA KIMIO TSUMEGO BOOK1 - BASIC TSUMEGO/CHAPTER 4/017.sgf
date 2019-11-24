@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pc][ob][od][nd][md][ld][kd][jd][jc][jb][ja][rb][rc]AW[ka][kb][kc]
+[mb][nb][nc][oc][pb]N[017]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;LB[pa:A]C[可以从黑A反打开始计算。明白了为什么不行之后，就能得到正解。]N[审题])
+(;B[ma]N[正解];W[lc];B[mc];W[na];B[la];W[lb];B[pa])
+(;B[ma]N[变化];W[oa];B[lb];W[lc];B[mc])
+(;B[pa]N[失败1];W[oa];B[qa];W[lc])
+(;B[oa]N[失败2];W[na])
+(;B[lb]N[失败3];W[lc];B[mc];W[la]))

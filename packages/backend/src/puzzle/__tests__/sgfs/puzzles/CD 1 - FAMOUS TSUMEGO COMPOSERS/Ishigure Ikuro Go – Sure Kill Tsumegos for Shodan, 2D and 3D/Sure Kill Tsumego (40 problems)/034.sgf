@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[ko][mo][no][pp][op][qp][ro][rq][rr][ns][lr][kr][kq]AW[lq][lp][mp]
+[nq][mr][ms][or][qr][qq]N[034]AP[MultiGo:4.4.4]SZ[19]AB[kp]MULTIGOGM[0]
+
+(;LB[np:A]C[黑A多半是不行的。这种地方，多半是死活题的诱饵。]N[审题])
+(;B[os]N[正解];W[ps];B[pq];W[pr];B[np]C[白死。])
+(;B[os]N[变化];W[pq];B[ps];W[qs];B[oq]LB[rs:A][np:B]C[接下来，黑A打吃白有接不归，白无暇在B位团眼。])
+(;B[np]N[失败];W[pq];B[ps];W[qs];B[os];W[oq]))

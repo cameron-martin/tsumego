@@ -1,0 +1,20 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][cd][ce][cf][dp]
+AB[de][dd][ec][pd][pp]
+LB[de:1][dd:3][ec:5][ce:2][cd:4][cf:6]
+C[Problem 25. Black to play.  
+
+In response to White 2, Black 3 and 5 are large-scale strategic moves which work well with Black's niren-sei on the right. What should Black do after White 6 ? ]
+;B[pj]
+TE[2]
+C[Correct Answer.  
+
+Making a sanren-sei on the side with 1 is strategically an interesting move. ]
+;W[db]
+C[If White fortifies her corner territory with 2, ... ]
+;B[jd]
+C[... Black will take another star point at the top with 3. (See Get Strong at Joseki 1, Problem 105.) <= ]
+)
+)

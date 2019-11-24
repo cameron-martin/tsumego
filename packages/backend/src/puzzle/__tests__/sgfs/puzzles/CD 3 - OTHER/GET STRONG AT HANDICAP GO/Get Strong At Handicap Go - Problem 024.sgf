@@ -1,0 +1,54 @@
+(;
+GM[1]
+SZ[19]
+AW[fq][lp][pm][nj][qf][ko][ln][mo][ch][eh][dl][cj][hc][cg][dg][ci][dk][cm][bo][fk][gl][gn][gp][hp]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][dn][np][nf][nd][lq][kp][mp][cf][fj][fd][dh][di][ck][bp][dq][fp][em][iq]
+TR[hc]
+C[Problem 24. Black to play.  
+
+This is the position eventually reached in the game in Problem 20. How should Black respond to the marked stone ? ]
+(;B[jc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 limits the space in which White can maneuver; it also secures the territory in the top right. ]
+;W[he]
+C[If White plays 2, ... ]
+;B[ff]
+C[... Black 3 prevents her from linking up. White is in trouble. <= ]
+)
+(;B[he]
+C[How the game continued.  
+
+Black capped with 1, ... ]
+;W[jc]
+C[... but White was able to live at the top ... ]
+;B[kc];W[id]
+LB[he:1]
+C[Variation.  
+
+Even Black 1 is a slack move, ... ]
+(;B[ie]
+LB[jb:A]
+C[Variation.  
+
+Blocking at 5 (instead of A) is not as good because White can live at the top ... ]
+;W[kb]
+(;B[jb];W[ic];B[lc];W[lb];B[mc];W[fb]
+C[... with the sequence to 12. Black made a thick wall, but in this position it is unclear how he can turn it into territory. <= ]
+)
+(;B[kd];W[lb];B[gc];W[ib];B[hd];W[ic]
+C[... with the sequence to 12. ]
+;B[mc]
+C[However, this result is better for Black than the actual game. <= ]
+))
+(;B[jb]
+LB[kc:3]
+C[... Black can still take the initiative with 3 and 5. ]
+;W[ic]
+C[After White connects with 6, ... ]
+;B[kd]
+LB[he:1]
+C[... Black 1 is on the vital point and White's stones are heavy, so they will have a hard time escaping. Moreover, Black has taken control of the territory in the top right. <= ]
+))
+)

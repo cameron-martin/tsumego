@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[lq][lo][no][op][oq][pp][qp][ro][rq][rr][ks][kr]AW[pq][qq][qr][ps]
+[or][nq][mq][lr][ls]N[022]AP[MultiGo:4.4.4]SZ[19]AB[kq]MULTIGOGM[0]
+
+(;C[正解、失败图都很简单。]N[审题])
+(;B[ns]LB[os:A][nr:B]C[黑1点，通常是类似棋形下的急所。对此，白不能应以A、B位]N[正解]
+;W[mr];B[rs]C[白死。])
+(;B[mr]N[失败1];W[ns]C[白2是防守的形。])
+(;B[rs]N[失败2];W[ns];B[qs];W[pr]))

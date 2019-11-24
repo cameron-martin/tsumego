@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dl][dj][ei][ci][ch][cg][cf][bf][af][bn][co][cm]AW[bg][bh][bi][cj]
+[cl][ck][bm][ag]N[160]AP[MultiGo:4.4.4]SZ[19]AB[dm]MULTIGOGM[0]
+
+(;C[入手点不多，可以逐一计算。观察棋形，白上边四子气紧。
+
+难度：☆☆☆])
+(;B[aj]N[正解];W[ak];B[ai];W[bj];B[bl]LB[am:A][an:B]C[白A则黑B。白死。])
+(;B[aj]N[变化];W[bj];B[bl];W[ak];B[ai])
+(;B[ak]N[失败1];W[al])
+(;B[ai]N[失败2];W[aj];B[ak];W[bk]))

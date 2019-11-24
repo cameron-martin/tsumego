@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[em][fm][fl][fk][fj][fi][fh][eh][ch][cg][bg][ag][bm][cm]AW[bj][ci]
+[bh][ai][ei][ej][ek][el][dl][cl][cj]N[058]AP[MultiGo:4.4.4]SZ[19]AB[dm]MULTIGOGM[0]
+
+(;C[失败图的计算应该不难，用排除法可以得到正解。但是，你的第一感呢？
+
+难度：☆☆]
+N[审题])
+(;B[ak]C[黑1飞之后，无论如何演化，白都活不了了。]N[正解];W[al]C[看看白棋最顽强的抵抗]
+;B[bl];W[ah];B[bk]C[黑5接，白做不出两眼。])
+(;B[ah]N[失败];W[bl]C[黑1、白2，打劫了];B[bi];W[ak]C[白还有4位退守的余地，继续打劫]))

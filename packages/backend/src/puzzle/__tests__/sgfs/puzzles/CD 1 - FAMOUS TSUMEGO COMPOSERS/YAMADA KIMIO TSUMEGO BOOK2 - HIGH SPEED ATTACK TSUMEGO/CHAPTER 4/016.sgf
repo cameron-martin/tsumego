@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pd][od][ne][me][le][kd][kc][kb][jb][mc][nb][qb][qc]AW[lb][lc][ld]
+[md][nd][nc][oc][pc][pb]N[016]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[mb:A]C[黑A接上，就成为015题，那样白活。015题解题的经验对于解答本题是有帮助的。]
+N[审题])
+(;B[ma]N[正解];W[la];B[mb];W[pa];B[qa]C[白死。])
+(;B[mb]N[失败1];W[ma];B[pa];W[oa]C[这正是015题的内容。白活。])
+(;B[oa]N[失败2];W[pa];B[mb];W[ma])
+(;B[pa]N[失败3];W[oa];B[qa];W[mb])
+(;B[la]N[失败4];W[ma]))

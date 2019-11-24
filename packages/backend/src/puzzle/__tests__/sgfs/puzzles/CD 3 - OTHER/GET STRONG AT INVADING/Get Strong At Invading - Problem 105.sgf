@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[oc][qd]
+AB[jc][mc][qf][qi]
+C[Problem 105. Black to play.  
+
+The small-knight enclosure secures the corner, but if Black has built strong positions around it, an invasion is possible. Where should Black invade ? ]
+(;B[pc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the point to gauge out White's base. ]
+;W[pd];B[qc]
+(;W[od];B[rd];W[re];B[rc];W[qe];B[rf];W[se];B[ob];W[nb];B[pb]
+C[Up to 13, Black lives in the corner. ]
+;W[nc];B[mb]
+C[After 15, however, White's group is eyeless and will become a target of attack. <= ]
+)
+(;W[pb]
+C[Failure.  
+
+White might respond with 4 ... ]
+;B[qb];W[ob]
+C[... and 6 here. ]
+;B[rd];W[re];B[rc];W[qe]
+C[However, after she defends with 10, ... ]
+;B[od]
+C[... Black cuts with 11 and White's position collapses. <= ]
+))
+(;B[at])
+)

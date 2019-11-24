@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ra][rb][rc][qd][qe][pe][od][ne][nf][mg][lg][kg][jf][je][jd][jc][kb]
+[la][lc][mc]AW[ke][kf][lf][ld][md][me][nd][nc][nb][pc][pd][qb][kc][kd]N[049]AP[MultiGo:4.4.4]
+SZ[19]AB[mb]MULTIGOGM[0]
+
+(;LB[na:A][ma:B]C[白A位立下是先手，B位扑有可能做劫，这是需要注意的地方。]N[审题])
+(;B[ma]N[正解];W[na];B[pa])
+(;B[ma]N[变化1];W[ob];B[na];W[oa];B[qa])
+(;B[ma]N[变化2];W[pa];B[na];W[oa];B[qa])
+(;B[ob]N[失败1];W[na];B[ma];W[oc])
+(;B[pa]N[失败2];W[oa];B[ma];W[qa]))

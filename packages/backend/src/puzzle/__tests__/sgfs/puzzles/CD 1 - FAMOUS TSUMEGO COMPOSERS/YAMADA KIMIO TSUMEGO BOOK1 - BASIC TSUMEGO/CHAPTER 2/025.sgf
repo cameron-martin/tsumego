@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[oe][ne][me][ld][lc][lb][la][nc][qb][rb][rc][rd][re][qf]AW[ma][mb]
+[mc][nd][od][ob][pb][qc][qd]N[025]AP[MultiGo:4.4.4]SZ[19]AB[pf]MULTIGOGM[0]
+
+(;C[空间小选择少，计算吧。]N[审题])
+(;B[nb]LB[pa:A][oa:B]C[黑1冲，对此，白不能在A位应，应在B位也容易计算是死棋]N[正解1]
+;W[md];B[pd];W[pc];B[pe];W[pa];B[na]C[白死。])
+(;B[pa]C[黑1扳也行]N[正解2];W[oa];B[nb];W[pd];B[md]LB[oc:A]C[黑5先打，要紧。如果走A位，则白5位粘上就是双活。]
+;W[na];B[oc])
+(;B[nb]N[变化];W[na];B[pa];W[pe]LB[md:A]C[白4鼓时，黑在A位先手打，才能吃住白。否则……]
+;B[qe];W[pd]C[白4鼓，但黑5打时，白6必须粘，所以白4不如直接走6位];B[oc];W[md]C[双活。])
+(;B[pd]N[失败];W[nb]))

@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][he][hc][nc][pc][qb]
+AB[dd][fd][ff][kc][qc][pd][pf][qj]
+LB[qb:1]
+C[Problem 44. Black to play.  
+
+How should Black answer White 1 ? ]
+;B[oc]
+TE[2]
+C[Correct Answer.  
+
+Black must not passively play as in Problem 41. Instead he should take the initiative by playing 1. ]
+;W[pb]
+(;B[od]
+C[If Black wants thickness, he can play the joseki from 3 to ... ]
+;W[ob];B[nd];W[mc];B[le]
+C[7. <= ]
+)
+(;B[ob]
+C[Variation.  
+
+If Black wants profit in the corner, he will block at 3. ]
+;W[od];B[nb];W[nd];B[mb];W[pe];B[qd];W[qe];B[re];W[qf];B[rf];W[qg];B[rb]
+C[The moves to 15 are also joseki. Black can make a deep invasion if  he knows these josekis. <= ]
+)
+)

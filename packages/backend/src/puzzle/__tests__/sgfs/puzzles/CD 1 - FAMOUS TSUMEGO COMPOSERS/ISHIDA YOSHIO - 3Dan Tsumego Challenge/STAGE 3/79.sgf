@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[os][sp][rq][qq][pq]AW[sq][nr][nq][oq][pp][oo][rp][ro]C[79]N[79]AP[MultiGo:4.4.4]
+SZ[19]AB[or]MULTIGOGM[0]
+
+(;TR[sq]C[第79题 成劫争为失败
+
+白▲扑，黑该怎样应。
+
+有三种方法，哪一种是正着呢？]
+N[审题])
+(;B[qs]C[黑1占据急所]N[正解];W[sr];B[rr]C[黑活。])
+(;B[sr]N[失败1];W[rs];B[qs];W[qr];B[pr]C[劫。])
+(;B[rr]N[失败2];W[qs]C[黑1曲不好，白2点，黑死。];B[qr];W[ns]))

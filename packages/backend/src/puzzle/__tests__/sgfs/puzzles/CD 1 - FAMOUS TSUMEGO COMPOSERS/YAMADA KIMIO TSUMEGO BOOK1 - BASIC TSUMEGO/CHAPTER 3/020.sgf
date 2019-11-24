@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[of][nf][mf][le][ke][kd][kc][kb][lb][rb][qc][qd][pd][pe]AW[lc][ld]
+[mb][nd][od][ob][pb][pc]N[020]AP[MultiGo:4.4.4]SZ[19]AB[oc]MULTIGOGM[0]
+
+(;C[空间很小，但需要认真计算。黑自身存在缺陷。]N[审题])
+(;B[ma]LB[nb:A][nc:B][na:C]C[黑1扳时，白A接则黑B长，白死；白B提子则黑C位长，白死。]
+N[正解];W[na];B[nc]LB[md:A]C[黑3长是先手，接下来有A位的打];W[mc]LB[md:A]C[白4在A位接也是一样]
+;B[pa];W[qb];B[qa];W[ra];B[sa]C[白死。])
+(;B[ma]N[失败1];W[na];B[mc];W[nc];B[nb]C[劫杀失败。])
+(;B[nc]N[失败2];W[ma]C[敌之要点即我之要点];B[pa];W[nb];B[oa];W[qb];B[qa];W[ra]C[白活。]))

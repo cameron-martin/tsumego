@@ -1,0 +1,37 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bp][dp][ep][fp][gp][cq][hq][cr]AB[cn][en][co][go][ho][cp][hp][dq][fq][gq][dr]C[Ex. 8 - Semeai
+
+This is a semeai between 4 W stones and 4 B stones.
+The question is how to attack B's weak point.
+This requires a rather unusual way of playing.]PL[W]
+;W[gr]LB[gr:1]C[Diag. 1 - Failure
+
+After W 1 ]
+;B[fr]LB[fr:2][gr:1]C[and B 2 ]
+(;W[hr]LB[fr:2][gr:1]C[if W 3 tsugi,  ]
+;B[eq]LB[eq:4][fr:2][gr:1][hr:3]C[through the sequence from B 4 ]
+;W[fs]LB[eq:4][fr:2][gr:1][hr:3][fs:5]
+;B[es]LB[eq:4][fr:2][gr:1][hr:3][es:6][fs:5]
+;W[gs]LB[eq:4][fr:2][gr:1][hr:3][es:6][fs:5][gs:7]
+;B[fo]LB[fo:8][eq:4][fr:2][gr:1][hr:3][es:6][fs:5][gs:7]C[through to 8, W loses by one move.
+W 6 oki instead of 5 cannot succeed after B 8.
+With the connection at 4, B in effect, has 4 liberties.
+
+])
+(;W[fs]LB[fr:2][gr:1]C[Diag. 2 - Correct
+
+W 1 hane followed by a further hane 3 is a strong sequence. 
+]
+(;B[hr]LB[fr:2][gr:1][hr:4][fs:3]C[It seems absurd, allowing B to cut at 4 ]
+;W[er]LB[er:5][fr:2][gr:1][hr:4][fs:3]C[but when B plays the hanekomi 5 from below, the 2 stones on the left are in damezumari and W's stones have come back to life.])
+(;B[er]LB[er:4][fr:2][gr:1][fs:3]C[Diag. 3 - Variation
+
+If B 4 tsugi in reply to W 1 and 3 nidanbane ]
+;W[hr]LB[er:4][fr:2][gr:1][hr:5][fs:3]C[W now has time to connect at 5. ]
+;B[fo]LB[fo:6][er:4][fr:2][gr:1][hr:5][fs:3]C[If B 6 ]
+;W[ds]LB[fo:6][er:4][fr:2][gr:1][hr:5][ds:7][fs:3]C[then, after 7, W wins by one move.])
+(;B[eq]LB[eq:4][fr:2][gr:1][fs:3]C[Diag. 4 - Variation
+
+If B fills in liberties with 4 in answer to W 1 and 3, ]
+;W[ds]LB[eq:4][fr:2][gr:1][ds:5][fs:3]C[It is all over after W 5.])))

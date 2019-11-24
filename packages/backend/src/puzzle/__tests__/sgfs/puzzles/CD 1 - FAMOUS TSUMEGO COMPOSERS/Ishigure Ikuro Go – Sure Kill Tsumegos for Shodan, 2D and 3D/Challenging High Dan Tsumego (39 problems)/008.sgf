@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rr][ps][qs][qq][qp][pp][oq][nq][np][no][mn][kn][ln][ko][jp][jq][jr]
+[mr][lp]AW[mq][mp][mo][lo][nr][or][pr][qr][pq][ms][kr][kq][lq]N[008]AP[MultiGo:4.4.4]
+SZ[19]AB[lr]MULTIGOGM[0]
+
+(;C[角上的黑形是有缺陷的。]N[审题])
+(;B[rs]C[黑1自补，很冷静，已经算清楚了所有的变化。]N[正解];W[ls];B[mr];W[kp];B[ns])
+(;B[kp]N[失败1];W[ls];B[mr];W[lr];B[os];W[rs])
+(;B[os]N[失败2];W[ls];B[kp];W[rs]))

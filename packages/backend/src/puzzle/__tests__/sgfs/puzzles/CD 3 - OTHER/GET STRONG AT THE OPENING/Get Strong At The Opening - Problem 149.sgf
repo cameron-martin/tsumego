@@ -1,0 +1,41 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][qq][qp][qn][nq][mp][cq][dp][fp]
+AB[pd][pp][oq][nr][np][no][kp][bp][cn][ck]
+LB[jc:A][iq:D][qf:B][qk:C]
+C[Problem 149. White to play.  
+
+The joseki played in the lower right corner has ended in sente for White. There seem to be a lot of big points for her to play, but which one is the biggest ? ]
+(;W[iq]
+LB[hq:A]
+
+TE[2]
+C[Correct Answer.  
+
+White 1 is the biggest point. To convince you that it is really big, imaging the difference if Black were to play at A. ]
+;B[nc];W[qk]
+C[<= ]
+)
+(;W[jc]
+C[Failure.  
+
+Another big point, but it takes no actual profit. ]
+;B[hq]
+LB[fr:A]
+C[Black plays 2. He is now threatening to slide at A, uprooting the white stones there. <= ]
+)
+(;W[qk]
+LB[ql:A]
+C[Failure.  
+
+White 1 here defends against Black A. <= ]
+)
+(;W[qf]
+C[Failure.  
+
+If White 1 here, ... ]
+;B[nd]
+C[... Black will jump to 2, and another move on the side becomes necessary. <= ]
+)
+)

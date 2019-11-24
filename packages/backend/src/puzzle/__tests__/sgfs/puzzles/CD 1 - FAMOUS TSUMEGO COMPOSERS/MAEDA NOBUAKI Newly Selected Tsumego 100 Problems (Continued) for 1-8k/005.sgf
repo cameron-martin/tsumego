@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[pe][oe][ne][nd][nb][mb][rd][re]AW[ob][oc][od][pd][qd][rc][pb]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[审题：看上去白棋的地域不小，但有破绽，这是死活的基本手法之一。]N[审题])
+(;B[rb]C[夹是急所]N[正解];W[sc]C[白棋不能让黑1渡过，那样不叫抵抗];B[qc];W[qb];B[sd]
+C[黑棋在另一边打也无妨];W[pc];B[sb];W[qc];B[oa]C[白棋做不出两眼。这是正解。])
+(;B[sc]C[黑棋扳时，白棋打吃挡住就要成劫]N[失败];W[rb]C[白棋退，简单活棋。]))

@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 85. Black to play.
+How should Black play to give double atari?]AW[cj][gk][fi][hj][hi][dk][fk][ej][gh]PB[ ]PM[1]PW[ ]AB[ek][fl][hk][hh][el][ij][ii][ih][gl]
+(
+;B[gj]C[Correct Answer
+Black 1 is double atari. No matter how White responds, two of his stones will be captured.]
+)
+(
+;B[gi]C[Wrong Answer
+Black 1 is bad...]
+;C[...White 2 captures this stone and Black can no longer play double atari.]W[gj]
+)
+
+)

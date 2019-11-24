@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dp][jp][ri][qi][qf][pf]
+AB[pq][pk][rj][qe][pd][nd][jd]
+LB[ri:1]
+C[Problem 83. Black to play.  
+
+White 1 is a calm move which emphasises the security of her stones. How should Black continue ? ]
+(;B[qj]
+TE[2]
+C[Correct Answer.  
+
+Black should keep up the pressure on White by playing 1. ]
+;W[pi]
+C[If White 2, ... ]
+;B[nj]
+C[... Black continues the attack with 3, a move which also expands Black's influence in the lower right. <= ]
+)
+(;B[mp]
+TE[2]
+C[Correct Answer.  
+
+Black could also extend to 1. ]
+;W[qj];B[qk];W[rk];B[rl];W[sj]
+C[If White secures her group with the sequence to 6, ... ]
+;B[qm]
+C[... Black can connect with 7. He is satisfied with his profit in the lower right. <= ]
+)
+)

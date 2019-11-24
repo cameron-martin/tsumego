@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[qc][dd][df][dj][dp][hq][ho][jo][qq][qp][rq][sp][ro][pn][qn][rn][rm][sn][nm]
+AB[pd][pf][jd][fc][jq][lp][pq][pp][po][qo][on][om][ol][pm][qm][rl][ql]
+TR[qc]
+C[Problem 92. Black to play.  
+
+White has invaded the corner with the marked stone. How should Black respond ? ]
+(;B[pc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the correct direction. ]
+;W[rd]
+C[When White plays 2, ... ]
+;B[rf]
+C[... Black can jump down to 3 and White is completely confined to the corner. ]
+;W[pb];B[ob];W[qb];B[nc]
+C[After Black defends at 7, he has a vast moyo in the upper right sector. <= ]
+)
+(;B[qd]
+C[Failure.  
+
+Black 1 is in the wrong direction. ]
+;W[pc];B[oc];W[ob];B[nc];W[nb];B[mc];W[rd];B[re];W[rc]
+LB[se:B][qf:A]
+C[White gets more territory in the corner than she should and Black's moyo at the top is not as large. Moreover, the marked stone is misplaced: it would be better positioned at A. White now has a good endgame move at B. <= ]
+)
+)

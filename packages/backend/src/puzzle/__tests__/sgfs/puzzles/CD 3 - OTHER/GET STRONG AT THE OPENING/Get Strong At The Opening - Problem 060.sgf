@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cg][co][cp][dq][fq][qj]
+AB[ci][dm][cn][do][pp][qd][oc]
+TR[cg]
+C[Problem 60. Black to play.  
+
+The marked white stone threatens to invade the black formation on the left side. Should Black defend against this threat or is there something else he should do ? ]
+;B[qh]
+TR[cg]
+
+TE[2]
+C[Correct Answer.  
+
+Instead of defending against the marked stone, Black should start operations against the white stone on the right by extending from his corner enclosure above with 1. ]
+;W[qm]
+(;B[mq]
+(;W[rp]
+C[The sequence to 4 is the best continuation. <= ]
+)
+(;W[jc]
+C[If White 4 here, ... ]
+;B[qo]
+C[... Black 5 takes the corner territory while attacking the white stones above. <= ]
+))
+(;B[jc]
+C[Failure.  
+
+Black must not rush to play the big point at the top with 3. ]
+;W[nq]
+TR[pp]
+C[White will take the initiative at the bottom by playing a double approach against the marked black stone with 4. <= ]
+)
+)

@@ -1,0 +1,43 @@
+(;
+GM[1]
+SZ[19]
+AW[ce][cd][dc][fc][dp][fq][qj][qf][rd]
+AB[de][cf][df][dj][cn][pp][ql][pd][nc]
+TR[rd]
+C[Problem 117. Black to play.  
+
+White has just played the marked stone. What should Black do ? ]
+(;B[qh]
+TE[2]
+C[Correct Answer.  
+
+Black is strong at the top, this is his chance to invade at 1. Black's aim is to attack the lone white stone on the right. ]
+;W[of]
+C[If White jumps to 2, ]
+;B[pi]
+TR[qj]
+C[... Black plays the diagonal move of 3. The marked stone is now under attack. ]
+;W[qc]
+C[If White 4, Black simply takes up position at the top with 5. ]
+;B[kc];W[pj]
+TR[kc]
+C[After Black played the marked stone, White will run away with 6 ... ]
+;B[ni];W[pl];B[qm];W[oj]
+C[... to 10. ]
+;B[ng]
+C[Black makes shape with 11. ]
+;W[mk]
+C[White 12 is necessary, so ... ]
+;B[nf]
+LB[qm:4]
+C[... Black can make a wall with 13. Although this result is not decisive for Black, he has managed to strengthen his position with 4 and White's stones still lack eyes. <= ]
+)
+(;B[qc]
+C[Failure.  
+
+Defending the corner with Black 1 is a passive move; Black has failed to disrupt White's position and to take the initiative. ]
+;W[ph]
+LB[qn:A]
+C[White secures her stones with 2. Next, she aims at an invasion at A. <= ]
+)
+)

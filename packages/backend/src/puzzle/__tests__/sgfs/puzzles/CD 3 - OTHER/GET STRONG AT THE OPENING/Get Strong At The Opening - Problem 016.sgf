@@ -1,0 +1,19 @@
+(;
+GM[1]
+SZ[19]
+AW[eq][dc][oc][qo]
+AB[cp][qd][pe][pq]
+LB[eq:1]
+TR[pe]
+C[Problem 16. Black to play.  
+
+After Black plays the marked stone, the approach move of White 1 is not good. How should Black take advantage of this mistake ? ]
+;B[qk]
+TR[qo]
+
+TE[2]
+C[Correct Answer.  
+
+Black should take this opportunity to pincer the marked white stone with 1. This move makes a nice extension from Black's two stones above. Black has now taken the initiative on the right side. <= ]
+)
+)

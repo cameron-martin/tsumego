@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 83. Black to play.
+How should Black play here?]AW[hg][gg][ei][ik][fk][ii][fg][gk][eg][hk][ij][gi][ej][ih]PB[ ]PM[1]PW[ ]AB[ek][fj][hj][dh][hi][dk][dj][gj][di][gh]
+(
+;B[eh]C[Correct Answer
+Black should give atari at 1. This move guarantees the capture of three white stones.]
+)
+(
+;B[fi]C[Wrong Answer
+If Black give atari with 1...]
+;C[...White connects at 2. There is now no way that the six black stones in the center can live.]W[eh]
+)
+
+)

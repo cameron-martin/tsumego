@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[nc][oc][pc][qc][oa][pa][ka][kb][lb]AW[qa][qb][rc][rd][qd][pd][od]
+[nd][md][mc][kc][jc][jb][ja][ma]N[093]AP[MultiGo:4.4.4]SZ[19]AB[mb]MULTIGOGM[0]
+
+(;LB[rb:A]C[第一手黑必须在A位断，走其他地方都不行，可自行验证。]N[审题])
+(;B[rb]N[正解];W[sb];B[la]C[黑3是防守的好手];W[pb];B[ob];W[ra];B[na]C[黑活。])
+(;B[rb]N[变化];W[nb];B[ob])
+(;B[rb]N[失败1];W[sb];B[pb];W[nb];B[ra];W[lc])
+(;B[rb]N[失败2];W[sb];B[na];W[pb]))

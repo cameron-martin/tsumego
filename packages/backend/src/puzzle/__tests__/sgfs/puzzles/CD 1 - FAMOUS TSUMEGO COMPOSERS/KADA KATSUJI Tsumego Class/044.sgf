@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[en][fp][fo][fq][fr][cq][ap][bo][bp][bn][cn]AW[cr][cp][co][ep][eq]
+[aq][bq]C[B]N[044]AP[MultiGo:4.4.4]SZ[19]AB[dn]MULTIGOGM[0]
+
+(;LB[dq:A][br:B]C[A位长和B位打，是黑必须计算的两个进攻点。
+
+难度：B]N[审题])
+(;B[ds]N[正解];W[do];B[dq];W[dr];B[br];W[dp];B[cq];W[dq];B[ar]C[白死。])
+(;B[ds]N[变化];W[do];B[br];W[dq];B[cs]C[白死。
+
+本图没有正解图干净利落——即，留下的劫才更多。])
+(;B[dq]N[失败1];W[ar];B[dr];W[bs])
+(;B[dq]N[失败2];W[ar];B[bs];W[dr];B[br];W[dp])
+(;B[br]N[失败3];W[dq];B[ar];W[cq];B[er];W[do]))

@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cg][co][cp][dq][fq][rp][qm][qj]
+AB[ci][dm][cn][do][mq][pp][pd][nc]
+TR[rp]
+C[Problem 64. Black to play.  
+
+After White has played the marked stone, what should Black do ? ]
+;B[fc]
+TE[2]
+C[Correct Answer.  
+
+Black should approach with 1. ]
+(;W[dc]
+C[If White defends the corner with 2, ... ]
+;B[jd]
+C[... Black will extend to 3, making a moyo in the upper right. <= ]
+)
+(;W[jc]
+LB[fc:1]
+C[Variation.  
+
+White might pincer the black stone at 1 with 2. ]
+;B[cc]
+C[In that case, Black must take the corner territory with the sequence from 3 ... ]
+;W[dc];B[db];W[eb];B[cb];W[ec];B[be]
+C[... to 9. Black should be satisfied with this result. <= ]
+)
+)

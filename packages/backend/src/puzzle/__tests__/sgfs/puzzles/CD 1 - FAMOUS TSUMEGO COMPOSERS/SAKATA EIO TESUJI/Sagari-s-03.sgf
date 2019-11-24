@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[eo][ep][cq][fq][gq][hq][cr][fr][ir]AB[fp][gp][hp][ip][eq][iq][dr][er][hr][jr]SQ[hr]C[Ex. 3 - Semeai
+
+This is a semeai where W has 2 liberties and B has 3.
+It seems that W cannot win but, by using the single marked B stone, he can get more liberties.]PL[W]
+(;W[dq]LB[dq:1]C[Diag 1. - Failure
+
+Of course, if W guilelessly plays tsume 1 from the outside, this is not a real semeai. ]
+;B[fs]LB[dq:1][fs:2]C[After B 2 hane he is completely lost])
+(;W[es]LB[es:1]C[Diag 2 - Failure
+
+W 1 hane is an impatient way of playing ]
+;B[gr]LB[gr:2][es:1]C[After B 2 ]
+;W[fs]LB[gr:2][es:1][fs:3]
+;B[ds]LB[gr:2][ds:4][es:1][fs:3]C[and B 4 ate, he is one step behind.])
+(;W[fs]LB[fs:1]C[Diag. 3 - Correct
+
+W 1 sagari is a good move. ]
+(;B[gs]LB[fs:1][gs:2]C[When B plays 2,]
+;W[ds]LB[ds:3][fs:1][gs:2]C[W 3 hane and B is without an oshi move on either side.
+Because of the inconvenience of the single kakae stone, B cannot play ate one point above 2. W's sagari which anticipates this brings him life.
+When W has played 1 he apparently has 3 liberties but in fact, because of the lack of an oshi move for B, he has 4.
+Naturally, in that case, he beats B.])
+(;B[es]LB[es:2][fs:1]C[Diag. 4 - Variation
+
+If B 2 in reply to W 1 sagari, ]
+;W[dq]LB[dq:3][es:2][fs:1]C[W wins easily with 3.])))

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[do][en][fn][gn][ho][hp][hq][hr][hs][cr][cq][cp]AW[gs][gr][fq][gp]
+[er][dq][dp][eo]C[B]N[028]AP[MultiGo:4.4.4]SZ[19]AB[co]MULTIGOGM[0]
+
+(;LB[ep:A]C[很典型的一道死活题。白的缺陷似乎很多，但黑的进攻需要仔细考虑。黑进攻的第一手，只能是A位。
+
+难度：B]
+N[审题])
+(;B[ep]N[正解];W[fo]LB[go:A][dr:B]C[黑1、白2交换之后，白留下了A、B两处缺陷。];B[fs]
+C[黑保留变化，在3位点是手筋];W[dr];B[gq];W[fr];B[fp]C[白死。])
+(;B[ep]N[变化];W[fo];B[fs];W[fr];B[dr];W[eq];B[es])
+(;B[ep]N[失败1];W[fo];B[dr];W[eq];B[es];W[fs])
+(;B[ep]N[失败2];W[fo];B[gq];W[eq]C[白在边上有一只眼。]))

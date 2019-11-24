@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[md][lc][kc][jc][jb][ja][ka][ra][rb][rc][qd][pd][od]AW[kb][lb][ma]
+[mc][nc][ob][pc][qb][qa]N[011]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;LB[mb:A][qc:B]C[白气紧。黑棋进攻的选择，也就是从外向内压缩眼位与直接点眼两种。计算吧。A、B两点明显不行，请计算确认之。]
+N[审题])
+(;B[oc]N[正解];W[mb];B[na]LB[qc:A]C[接下来，白不能走A位，因为黑可打吃白的接不归]
+;W[oa];B[pb]C[白死。])
+(;B[oc]N[变化1];W[na];B[pa];W[pb];B[mb];W[nb];B[la])
+(;B[oc]N[变化2];W[pb];B[oa];W[na];B[mb])
+(;B[la]N[失败1];W[mb];B[oc];W[na])
+(;B[oa]N[失败2];W[na]LB[oc:A][mb:B]C[现在黑走A位挤已经晚了，白可B位接上];B[mb];W[nb]
+;B[la];W[pa]))

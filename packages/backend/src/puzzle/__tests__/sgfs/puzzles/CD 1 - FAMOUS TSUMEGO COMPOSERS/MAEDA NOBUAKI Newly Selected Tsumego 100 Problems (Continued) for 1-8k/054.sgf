@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[mc][mb][jc][kc][ic][ib]AW[nb][nc][nd][md][ld][jd][id][kd][hd][hc]
+[gb][fc]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[hb]MULTIGOGM[0]
+
+(;LB[lc:A]C[审题：黑棋A位接上肯定是不行的，这是边上死活的基本型。失败图的计算同样重要。]
+N[审题])
+(;B[kb]N[正解];W[lc];B[ja];W[lb];B[ha]C[黑活。1位是急所。])
+(;B[kb]N[变化];W[ja];B[lc];W[la];B[ma];W[ka];B[ha])
+(;B[lc]LB[la:A][kb:B]C[黑1接上，但这是基本死形。白棋走A或B位均能杀死黑。黑1之后，白棋的杀法也是基本功。]
+N[失败1])
+(;B[ka]N[失败2];W[ma];B[la];W[ha]))

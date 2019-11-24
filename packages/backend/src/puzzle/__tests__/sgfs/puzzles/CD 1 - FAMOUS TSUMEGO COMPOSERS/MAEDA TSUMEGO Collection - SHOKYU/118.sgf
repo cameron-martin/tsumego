@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[di][ci][ej][ek][el][em][dm][cm][bm][am][bf][cf][cg]AW[al][bl][dl]
+[dj][dk][bj][bi][bh][bg][ch][ag]N[118]AP[MultiGo:4.4.4]SZ[19]AB[dh]MULTIGOGM[0]
+
+(;LB[bk:A][aj:B][ai:C]C[一看棋形，就知道黑棋的选择不外乎A、B和C三处。
+
+难度：☆☆]
+N[审题])
+(;B[ai]C[黑1锐利，有此一手，白已不活。]N[正解];W[aj];B[bk];W[ck];B[cj])
+(;B[bk]N[失败1];W[ck];B[cl];W[ak];B[cj];W[ai])
+(;B[aj]N[失败2];W[ai];B[bk];W[ck]))

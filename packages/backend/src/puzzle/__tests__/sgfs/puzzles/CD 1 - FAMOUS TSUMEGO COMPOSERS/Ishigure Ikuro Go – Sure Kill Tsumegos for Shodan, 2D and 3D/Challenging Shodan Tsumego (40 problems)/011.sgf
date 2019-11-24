@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[oq][nq][nr][sq][rq][qq][qr]AW[ms][mr][mq][mp][np][op][qp][pp][pq]
+[rp][sp][rr][sr]N[011]AP[MultiGo:4.4.4]SZ[19]AB[pr]MULTIGOGM[0]
+
+(;C[黑棋的选择不多。]N[审题])
+(;B[ps]N[正解];W[ns];B[rs]C[黑活。
+
+黑5目，白6目，白净得1目。])
+(;B[ps]N[变化];W[rs];B[ns];W[or];B[os]C[黑2目，白1目，黑净得1目。
+
+所以对于白棋来说，要选择正解图。])
+(;B[rs]N[失败];W[ps]LB[or:A][ns:B]C[白2点，锐利。对此，黑A则白B，黑B则白A，黑死。]
+;B[os];W[ns];B[qs];W[or]C[黑死。]))

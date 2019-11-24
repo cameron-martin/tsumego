@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[bc][bd][be]AW[cb][fc][fd][fe][ee][df][cf][bf]N[211]AP[MultiGo:4.4.4]
+SZ[19]AB[bb]MULTIGOGM[0]
+
+(;TR[cb]LB[dc:A][db:B]C[黑棋要做活，只能靠威胁白▲一子。直接在A或B位是枷吃不掉白▲的。
+
+难度：☆☆]
+N[审题])
+(;B[ba]N[正解];W[db];B[ae]C[相安无事。])
+(;B[ba]N[变化];W[ae]C[白试图强杀黑];B[dc]C[现在枷吃成立了];W[db];B[eb];W[ec];B[da]))

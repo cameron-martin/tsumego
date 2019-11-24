@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[is][ar][aq][bq][cq][dq][eq][ep][eo][fo][go][ho][hp][jo][kp][kq][ks]
+[js]AW[hs][gp][fp][fq][er][dr][cr][br][as][jr][ir][hq][ip]C[A]N[014]AP[MultiGo:4.4.4]
+SZ[19]AB[kr]MULTIGOGM[0]
+
+(;LB[fr:A][gr:B]C[进攻的入手点，只能是A或B。白气紧，计算吧。
+
+难度：A]N[审题])
+(;B[gr]N[正解];W[hr];B[fr];W[gq]C[黑1至白4，必然的进行];B[cs]C[黑5点入是手筋];W[ds]
+;B[fs]LB[gs:A][bs:B]C[接下来，白A则黑B，白死];W[bs];B[jq]C[白死。])
+(;B[gr]N[变化];W[hr];B[fr];W[gq];B[cs];W[ds];B[bs]C[黑提子也可];W[as];B[fs];W[bs]
+;B[jq])
+(;B[gr]N[失败1];W[hr];B[fr];W[gq];B[bs];W[cs];B[es];W[as])
+(;B[fr]N[失败2];W[gq];B[gr];W[fs];B[bs];W[cs];B[es];W[as]))

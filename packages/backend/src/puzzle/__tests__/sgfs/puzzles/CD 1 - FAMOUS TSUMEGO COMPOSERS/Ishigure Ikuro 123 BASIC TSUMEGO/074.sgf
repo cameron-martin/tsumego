@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[oe][ne][me][le][lc][kc][kb][ka][rb][rc][qc][pd]AW[lb][mb][oc][pc]
+[qb][pa][nd]N[074]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;LB[la:A][mc:B][nb:C]C[黑A或B位冲，则白C可活。]N[审题])
+(;B[nb]N[正解];W[ob];B[na];W[mc];B[ra]C[白死。])
+(;B[nb]N[变化];W[nc];B[ob];W[na];B[mc])
+(;B[ra]N[失败1];W[nb];B[qa];W[mc];B[pb];W[oa])
+(;B[na]N[失败2];W[nb];B[ra];W[oa];B[pb];W[ma]C[两个失败图也表明，2位（即正解图的1位）是双方的要点。]))

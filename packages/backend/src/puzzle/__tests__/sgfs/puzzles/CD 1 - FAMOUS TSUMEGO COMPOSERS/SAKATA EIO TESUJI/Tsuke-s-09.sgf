@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[em][fm][gm][co][do][eo][go][ho][jo][fp][fq][jq][fr]AB[fn][fo][bp][cp][ep][gp][eq][gq][hq]C[Ex. 9 - Watari
+
+It is obvious that B will lose this 2 stones in the centre against W's 3 stones, but by using them is there not a way to save the 3 B stones cut off on the right hand side ?
+There is, though it is rather an unusual way.]
+(;B[er]LB[er:1]C[Diag. 1 - Failure
+
+B 1 osae falls just short ]
+;W[fs]LB[er:1][fs:2]C[after W 2 sagari.]
+;B[es]LB[er:1][es:3][fs:2]C[If B 3, ]
+;W[gn]LB[gn:4][er:1][es:3][fs:2]C[W plays 4 and B loses.])
+(;B[fs]LB[fs:1]C[Diag. 2 - Correct
+
+B 1 is a splendid idea although it is a move you cannot play without examining all the possible variations. ]
+(;W[er]LB[er:2][fs:1]C[After the cut with 2 ]
+;B[dr]LB[dr:3][er:2][fs:1]
+;W[dq]LB[dq:4][dr:3][er:2][fs:1]C[and  4 ]
+;B[dp]LB[dp:5][dq:4][dr:3][er:2][fs:1]
+;W[ds]LB[dp:5][dq:4][dr:3][er:2][ds:6][fs:1]C[W 6 can cause trouble, ]
+;B[cr]LB[dp:5][dq:4][cr:7][dr:3][er:2][ds:6][fs:1]
+;W[gn]LB[gn:8][dp:5][dq:4][cr:7][dr:3][er:2][ds:6][fs:1]C[then W 8 ]
+;B[gr]LB[gn:8][dp:5][dq:4][cr:7][dr:3][er:2][gr:9][ds:6][fs:1]C[but regardless of this B plays 9. ]
+;W[en]LB[en:10][gn:8][dp:5][dq:4][cr:7][dr:3][er:2][gr:9][ds:6][fs:1]C[W 10 captures ]
+;B[cs]LB[en:10][gn:8][dp:5][dq:4][cr:7][dr:3][er:2][gr:9][cs:11][ds:6][fs:1]C[but look at the osae 11. 
+W cannot connect and B has made a very good connection along the edge.
+"My opponent's vital point is my own"  is a common saying and B 1 tsuke hits this vital point, the W sagari which caused him to fail in Diagram 1.])
+(;W[gr]LB[gr:2][fs:1]C[Diag. 4 - Variation
+
+It comes to the same thing if, in reply to B 1 tsuke, W plays 2 ]
+;B[hr]LB[gr:2][hr:3][fs:1]
+;W[er]LB[er:4][gr:2][hr:3][fs:1]C[and 4. ]
+;B[dr]LB[dr:5][er:4][gr:2][hr:3][fs:1]
+;W[gn]LB[gn:6][dr:5][er:4][gr:2][hr:3][fs:1]C[If W 6 after B 3 and 5 osae, ]
+;B[es]LB[gn:6][dr:5][er:4][gr:2][hr:3][es:7][fs:1]C[B 7 completes the connection.])))

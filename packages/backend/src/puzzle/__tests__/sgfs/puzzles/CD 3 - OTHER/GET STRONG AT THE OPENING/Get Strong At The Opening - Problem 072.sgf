@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][cq][qn][qk]
+AB[cj][pq][qp][qd][oc]
+LB[qd:1][cc:2][cj:9][cq:4][qn:6][qk:8][oc:5][pq:3][qp:7]
+C[Problem 72. White to play.  
+
+In this opening, all the corners have been occupied and Black has taken a big point with 9. Where should White play next ? ]
+(;W[qh]
+TE[2]
+C[Correct Answer.  
+
+White 1 is the only move. ]
+;B[jq]
+LB[co:A][ce:B]
+C[Black 2, Black A, or Black B all have the same value. <= ]
+)
+(;W[jq]
+C[Failure.  
+
+If White plays here, ... ]
+;B[qi]
+C[... Black 2 would be a severe attack against the white stones. Black 2 is also an ideal extension from his corner enclosure above. <= ]
+)
+)

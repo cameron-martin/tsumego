@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[pd][od][nd][md][mc][mb][la][kb][rc][rd]AW[ma][nb][nc][oc][pc][qc]
+[rb][sb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[审题：白棋气紧，这是黑棋可以利用的地方。计算并不复杂。]N[审题])
+(;B[pa]N[正解];W[na];B[qb];W[pb];B[ra]C[双方最强。])
+(;B[na]N[失败];W[pa];B[qa];W[ob]C[可见2位是要点。]))

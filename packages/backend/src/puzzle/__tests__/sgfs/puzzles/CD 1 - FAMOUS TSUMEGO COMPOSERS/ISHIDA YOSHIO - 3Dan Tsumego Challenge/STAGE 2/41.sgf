@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[op][oo][pq][pr][ls][kr][lq][mq]AW[rr][qr][qp][pp][pn][on][nn][np]
+[mp][lp][kq][jq][jr][ns]C[41]N[41]AP[MultiGo:4.4.4]SZ[19]AB[nq]MULTIGOGM[0]
+
+(;TR[ns]C[第41题 注意不要走成聚杀形
+
+白▲是急所。黑如何应？注意不要走成聚杀形，要无条件成活。黑的第一手，当然阻渡。]
+N[审题])
+(;B[os]C[黑1尖顶来试白应手，以图成活。]N[正解];W[js];B[nr]LB[ms:A][oq:B]C[白大体是2位立下，则黑3一走，A、B见合，白活。])
+(;B[ps]N[失败];W[js]C[黑1立下扩大眼位是活不成的。对此，白2立下是好手，黑无应手了。]
+;B[nr];W[lr];B[mr];W[ks]))

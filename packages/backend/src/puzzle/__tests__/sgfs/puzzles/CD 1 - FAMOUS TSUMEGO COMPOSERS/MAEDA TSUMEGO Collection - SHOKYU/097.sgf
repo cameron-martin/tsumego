@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ne][nf][mf][lf][ke][kd][kc][kb][ib][mb][qb][qc][pc]AW[lb][lc][ld]
+[le][me][nd][nc][oc][pb][oa]N[097]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[次序很重要。
+
+难度：☆☆]N[审题])
+(;B[nb]N[正解];W[ob];B[ma]C[黑3先立，重要];W[la];B[mc]C[白死。])
+(;B[nb]N[失败1];W[ob];B[mc];W[ma]C[双活，黑失败。])
+(;B[la]N[失败2];W[mc];B[ma];W[nb]C[白活。]))

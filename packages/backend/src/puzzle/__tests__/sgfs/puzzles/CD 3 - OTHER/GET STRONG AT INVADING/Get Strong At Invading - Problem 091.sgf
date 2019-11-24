@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][jc][lc][pc][pd][qe][qf]
+AB[dc][cf][hc][nc][pb][pe]
+LB[pd:2][pb:1]
+C[Problem 91. Black to play.  
+
+What does Black do if White answers 1with 2 ? ]
+(;B[qb]
+TE[2]
+C[Correct Answer.  
+
+Wrenching the corner territory away from White with 1 is the natural move. ]
+;W[nd]
+C[Next, White attaches with 2. ]
+;B[oc];W[od];B[rd]
+C[Black's invasion is a success. <= ]
+)
+(;B[ob]
+C[Failure.  
+
+If Black draws back with 1, ... ]
+;W[qb]
+C[... White takes the corner with 2 and Black's shape has been destroyed. <= ]
+)
+)

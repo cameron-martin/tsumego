@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ge][ff][gg][hg][fe][fh][dj][di][eh][hi][hf][hh][he][gi][ej]GN[ ]AB[gd][ek][hd][fk][ii][gj][dg][fg][if][ie][cj][eg][dh][hj][ed][ci][dk][ih][ee][fd][ig]PM[1]C[Problem 156. Black to play and kill White. (1 move)
+It is not enough just to capture three stones. You have to capture all the white stones for the correct solution.]PW[ ]
+(
+;B[fi]C[Correct Answer
+Black 1 makes the lower white eye a false one, so White is dead.]
+)
+(
+;B[fj]C[Wrong answer
+Giving atari with 1...]
+;W[fi]C[...lets White play 2. Even though Black can capture three stones, he has failed.]
+)
+
+)

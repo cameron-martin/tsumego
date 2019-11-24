@@ -1,0 +1,12 @@
+(;AW[ab][bb][cc][dc][ec][fb][gb]AB[bd][cd][dd][ed][fc][gc][hc][hb][ha][ga][da]SZ[19]C[白先
+
+本题不难，关键在于要看到最强的抵抗手段。]
+
+(;W[ca];B[ea]C[黑2并，妙。白死。])
+(;W[ea]C[敌之要点即我之要点。]
+(;B[ba]
+(;W[ca];B[cb];W[db];B[ca];W[aa];B[ca]C[白死。所以一定是白3走错了。])
+(;W[cb];B[ca];W[eb]C[双活！黑2一定错了.]))
+(;B[fa]
+(;W[eb];B[cb];W[bc];B[ba]C[聚五，白死。])
+(;W[ca];B[eb];W[db];B[bc];W[ea]C[成劫。正解！]))))

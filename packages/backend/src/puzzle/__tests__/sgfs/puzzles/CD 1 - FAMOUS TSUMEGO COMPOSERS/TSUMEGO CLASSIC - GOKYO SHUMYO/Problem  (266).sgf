@@ -1,0 +1,5 @@
+(;GM[1]FF[3]AB[pb][qb][rc][qd][rd][qf]AW[rb][mc][oc][pc][qc]PL[W]C[White to play and win the capturing race.]
+AP[MultiGo:3.9.3]SZ[19]
+
+(;W[ra];B[sb];W[ob])
+(;W[sb]TR[sb];B[ra];W[ob];B[sc]))

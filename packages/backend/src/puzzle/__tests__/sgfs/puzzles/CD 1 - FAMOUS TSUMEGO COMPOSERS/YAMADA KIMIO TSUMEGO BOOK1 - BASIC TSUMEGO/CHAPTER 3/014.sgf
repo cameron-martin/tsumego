@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[re][qf][pg][og][nf][mf][me][md][lc][lb][qb][rb][rc]AW[nb][nc][od]
+[ne][of][pf][qe][qd][qc][pb]N[014]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;LB[pa:A][nd:B]C[黑A或B可以作为计算的开始点。或者，根据你的第一感开始计算。]N[审题])
+(;B[pc]LB[pd:A]C[黑1断，手筋，接下来有A位打吃]N[正解];W[pd];B[oe];W[pe];B[nd];W[oc]
+;B[oa];W[pa];B[na]C[白死。])
+(;B[pc]N[变化1];W[pd];B[pa]LB[oc:A][oa:B]C[黑3打时，白A提子，黑B长入就是];W[ob]
+;B[oe]C[白死。
+
+个人觉得这个变化比正解图更自然。])
+(;B[pc]N[变化2];W[oc];B[oa];W[pa];B[na])
+(;B[pa]N[失败1];W[oa];B[pc];W[oc]C[劫。
+
+这正是013题的内容。])
+(;B[nd]N[失败2];W[pc]C[如果一开始计算的是本图，那么觉得2位是急所的可能性将大大增加吧。]))

@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[do][ho][io][ep][fp][gp][ip][bq][cq][dq][hq][ar][gr]AB[eq][fq][iq][kq][br][cr][dr][hr][ir][bs]SQ[gr]C[Ex. 2 - Watari
+
+Because of the hanedashi marked it seems impossible to connect. But with a stone in the right place, somehow, B can find a way]
+(;B[fr]LB[fr:1]C[Diag. 1 - Failure
+
+B 1 seems good ]
+;W[fs]LB[fr:1][fs:2]C[but since W has the hane move 2, the watari move fails. ]
+;B[es]LB[fr:1][es:3][fs:2]C[If B 3, ]
+;W[gs]LB[gq:A][fr:1][es:3][fs:2][gs:4]C[W connects at 4 and B cannot play at "A" because of his false eye.])
+(;B[gq]LB[gq:1]C[Diag 2 - Failure
+
+B 1 kiri is ko ]
+;W[er]LB[gq:1][er:2]C[after W 2 ]
+;B[hp]LB[hp:3][gq:1][er:2]C[Ko is not the correct answer.])
+(;B[fs]LB[fs:1]C[Diag. 3 - Correct
+
+B 1 tobi is the suji for this position. ]
+(;W[gq]LB[gq:2][fs:1]C[If W 2 tsugi, ]
+;B[gs]LB[gq:2][er:B][fr:A][fs:1][gs:3]C[B can connect along the edge at 3.
+If W 3 comes out at "A" instead of 2 tsugi, B plays "B". Then if W connects at 2, again B can play the watari 3.
+If W intercepts at 3 after B "B", B cuts at 2.])
+(;W[gs]LB[fs:1][gs:2]C[Diag. 4 - Correct
+
+If W intercepts at 2 in reply to B 1 tobi,
+]
+;B[fr]LB[fr:3][fs:1][gs:2]C[B connects at 3.
+After this he is alive.])))

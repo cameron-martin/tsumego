@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nd][nc][nb][na][qf][qc][qd][pd]AW[oc][pc][qb][rc][sb]N[116]AP[MultiGo:4.4.4]
+SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[ra:A]C[无论如何，不能让白棋走到A位。但后面的进行呢？
+
+难度：☆☆])
+(;B[ra]N[正解];W[rd];B[re]C[黑3必挡];W[sd]C[现在的问题是黑1如何回家？];B[qa];W[pa]
+;B[pb];W[ob];B[oa]C[白死。])
+(;B[pa]N[失败];W[qa];B[rd];W[ra]))

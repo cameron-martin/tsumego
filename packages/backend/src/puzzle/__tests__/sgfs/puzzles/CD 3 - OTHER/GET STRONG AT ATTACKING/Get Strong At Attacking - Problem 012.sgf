@@ -1,0 +1,25 @@
+(;CA[Windows-1252]AB[ri][dn][dl][pq][kc][nd][pd][qe][ng][qh][pi][oi][nk][pk][qk]
+[rj]AW[dc][ce][dq][co][cn][po][kh][mh][ni][nh][oh][ph][pf][qf][qi][qj]TR[po]C[Problem 12. Black to play.  
+
+White has invaded inside Black's sphere of influence with the marked stone. How should Black respond ? ]
+AP[MultiGo:4.4.4]SZ[19]GM[1]MULTIGOGM[1]
+
+(;B[pp]TR[po]C[Correct Answer.  
+
+Bumping against the white stone with Black 1 is the strongest move. ]
+TE[2];W[qo];B[rp];W[no]C[The sequence to 4 can be expected. Next, ... ]
+(;B[mp]C[... Black stakes out the territory at the bottom with 5. ];W[ol]C[White's stones are still insecure, so she has to escape into the center. She peeps with 6, then ... ]
+;B[ok];W[ln]C[... jumps to 8. ];B[lp]C[Black calmly defends with 8. ];W[ll];B[lk]
+;W[kl];B[li];W[lh];B[kk];W[jl]C[With 16, White is out into the center, but ... ]
+;B[ij]C[... Black 17 keeps the white stones above and below separated. <= ])
+(;B[mq]LB[mp:@]C[Caution.  
+
+Black 5 (@) in the Correct Answer is an important move. Black must not play 5 on the third line because ... ]
+;W[ol];B[ok];W[lo]LB[lq:A]C[... White can jump to 8 and her stones are savely out in the open. Moreover, White is threatening the attachment at A, so Black might have to defend against it. ]))
+(;B[np]C[Failure.  
+
+The knight's move of Black 1 is the standard response to the white approach move, but ... ]
+;W[qq];B[qr];W[no];B[mo];W[pr]C[... White can make sabaki with the sequence to 6. <= ])
+(;B[qp]C[Failure.  
+
+If Black 1 here, ... ];W[mo]C[... White will jump to 2. Either way, Black's thickness above has been neutralised. <= ]))

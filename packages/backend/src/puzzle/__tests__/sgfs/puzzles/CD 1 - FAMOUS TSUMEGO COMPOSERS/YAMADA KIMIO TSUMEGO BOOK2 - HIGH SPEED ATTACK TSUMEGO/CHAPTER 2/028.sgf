@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qd][qf][pf][oe][od][oc][nb][oa][mc][sd][re]AW[ob][pb][pc][pd][pe]
+[qe][rd][rc]N[028]AP[MultiGo:4.4.4]SZ[19]AB[rf]MULTIGOGM[0]
+
+(;C[白气紧，非常之紧，这是缺陷。]N[审题])
+(;B[rb]N[正解];W[sb];B[ra];W[pa];B[sa]LB[qc:A][sc:B]C[白A黑B之后，黑没有接不归。
+
+白死。])
+(;B[rb]N[变化];W[sb];B[ra];W[qa];B[qb])
+(;B[sc]N[失败1];W[sb])
+(;B[ra]N[失败2];W[qb]))

@@ -1,0 +1,19 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[fq][fo][dn]GN[ ]AB[ip][dq][gp][dp]PM[1]C[Problem 219. Black to play.
+How should Black play?]PW[ ]
+(
+;B[fp]C[Correct Answer
+By playing at 1, the white stone below is cut off from the ones above and it will eventually be captured.]
+)
+(
+;
+(
+)
+(
+;W[fp]C[If White Plays First
+If it were White's turn to play, he would connect at 1 and his stones would become very strong.]
+)
+
+)
+
+)

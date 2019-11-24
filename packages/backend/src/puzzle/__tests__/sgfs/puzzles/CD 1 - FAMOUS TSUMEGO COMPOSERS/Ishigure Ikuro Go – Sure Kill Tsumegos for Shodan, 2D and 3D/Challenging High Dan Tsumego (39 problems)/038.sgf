@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oo][no][mo][lo][lp][kr][lr][ls][rr][rq][qp][qo]AW[mp][mr][op][pp]
+[or][qr][qq][ps]N[038]AP[MultiGo:4.4.4]SZ[19]AB[po]MULTIGOGM[0]
+
+(;C[不要低估了白棋的抵抗。]N[审题])
+(;B[nr]N[正解];W[mq];B[ms];W[ns];B[os])
+(;B[nr]N[变化1];W[nq];B[ns];W[pq];B[np])
+(;B[nr]N[变化2];W[ns];B[nq])
+(;B[nq]N[失败1];W[nr])
+(;B[ns]N[失败2];W[ms]))

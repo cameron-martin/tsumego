@@ -1,0 +1,50 @@
+(;
+AB[pc][od][mc][nc][kc]
+AW[ld][md][nd][oe][qe]
+C[White plays.
+
+Source:
+    "Go World", #33, Autumn 1983, p. 40
+    Basic Fighting Techniques];
+
+W[pd]
+C[Sometimes obvious moves are correct!];
+B[oc];
+W[qc]
+C[And the obvious moves continue.];
+B[qb]
+(;
+W[rc]
+C[Also obvious, but this time wrong.
+White gets excellent shape, but ends
+in gote.  White hasn't taken advantage
+of Black's defects.]
+)
+    (;
+    W[rb]
+    C[Correct.
+Good players see these kinds of moves
+instinctively.  I know this because that's
+what good players tell me.];
+    B[rc];
+    W[qd]
+    (;
+    B[pb]
+    C[White ends in sente, and later has
+the option of capturing the Black stone.]
+    )
+        (;
+        B[ra]
+        C[Capturing the White stone is too greedy.];
+        W[lc];
+        B[lb];
+        W[kb];
+        B[mb]
+        C[If Black ataris the stone, White
+ataris the Black stone on M18, and
+then on R18, after which Black's
+position collapses.];
+        W[jc]
+        )
+    )
+)

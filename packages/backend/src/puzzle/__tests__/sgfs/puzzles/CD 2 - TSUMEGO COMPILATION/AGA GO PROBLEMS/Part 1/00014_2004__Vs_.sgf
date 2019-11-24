@@ -1,0 +1,38 @@
+(;
+AB[qd][jd][id][hd][fe][ce][dh][fj][ek][ck][dm][do][dq][hn][ii][ik][jk]
+AW[qo][pq][jl][il][hl][fl][hj][gi][ei][di][ci][dk][dc][gc][hc][ic][kc]
+C[After the marked exchange, Black plays.
+
+Cho Chikun vs. Kobayashi Koichi
+37th Honinbo Title, game 3
+Source:  "Go World", #29, Autumn 1982, p. 33]
+TR[fj][dk]
+(;
+B[dl]
+C[Fails to cut White.];
+W[fi];
+B[hk];
+W[gk];
+B[gj];
+W[ej]
+C[And White is connected.]
+)
+    (;
+    B[gj]
+    C[And if Black tries here...];
+    W[hk];
+    B[hi];
+    W[bk]
+    C[Black has cut White, but White lives easily.]
+    )
+    (;
+    B[fi]
+    C[Correct.
+The game continued...];
+    W[dl];
+    B[el];
+    W[cl];
+    B[cm];
+    W[bl]
+    )
+)

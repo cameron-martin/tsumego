@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][de][hc][he][cj][qc][qd][re][sf][qf][pf][og][rg]
+AB[jc][je][pc][pd][pe][qe][rd][rc][of][ng]
+LB[ng:3][og:2][of:1]
+C[Problem 92. White to play.  
+
+Black 3 is an overplay. How does White take advantage of it ? ]
+;W[qb]
+TE[2]
+C[Correct Answer.  
+
+White should descend to 1. ]
+(;B[pb]
+C[If Black 2, ... ]
+;W[rb]
+C[... White will play 3, capturing two stones in the corner. <= ]
+)
+(;B[rb]
+C[Failure.  
+
+If Black saves his corner with 2, ... ]
+;W[pb]
+C[... White turns at 3. ]
+;B[ob]
+C[After 4, ... ]
+;W[oe]
+LB[oc:B][nf:A]
+C[... White ataris at 5, threatening to capture one stone at A or four stones at B. <= ]
+)
+)

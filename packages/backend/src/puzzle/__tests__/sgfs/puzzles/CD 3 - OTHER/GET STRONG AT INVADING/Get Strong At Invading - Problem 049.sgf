@@ -1,0 +1,24 @@
+(;
+GM[1]
+SZ[19]
+AW[hc][ic][jd][kd][ld][qd][pf][qj]
+AB[dc][ce][jc][kc][lc][nd][oc][qb]
+LB[md:A]
+C[Problem 49. White to play.  
+
+Black has neglected to play at A. What should White do ? ]
+;W[mc]
+LB[md:A]
+
+TE[2]
+C[Correct Answer.  
+
+Neglecting to play at A is a mistake, since White will hane with 1. ]
+;B[mb]
+C[Black has no choice but to submissively link up with 2 ... ]
+;W[md];B[nb]
+C[... and 4, ... ]
+;W[ne]
+C[... after which White becomes thick in the center when she plays 5. <= ]
+)
+)

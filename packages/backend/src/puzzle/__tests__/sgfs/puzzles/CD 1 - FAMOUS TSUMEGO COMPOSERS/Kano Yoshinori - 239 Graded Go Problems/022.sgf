@@ -1,0 +1,29 @@
+
+(;AP[GOWrite:2.0.07]SZ[13]GM[1]FF[4]PW[ ]PM[1]LB[fl:1]FG[259:]C[Problem 22. Black to play.
+Black has played 1. Is there a way for White to save his two stones?]GN[ ]AW[em][fm][kk]PB[ ]AB[fl][dm][el]
+;W[gm]
+(
+;B[gl]C[Correct Answer
+White can't save his stones. If he persist with the sequence to 13...]
+;W[hm]
+;B[hl]
+;W[im]
+;B[il]
+;W[jm]
+;B[jl]
+;W[km]
+;B[kl]
+;W[lm]
+;B[ll]
+;W[mm]
+;B[ml]C[...he will be captured with 14.]
+)
+(
+;B[hm]C[Wrong Answer
+If Black attacks in the wrong direction...]
+;C[...]W[gl]
+;B[hl]C[...]
+;C[...White will escape.]W[gk]
+)
+
+)

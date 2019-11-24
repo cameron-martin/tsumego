@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[fq][fr][bp][cp][dq]AW[bq][aq][cr][dr][er]N[038]AP[MultiGo:4.4.4]
+SZ[19]AB[eq]MULTIGOGM[0]
+
+(;C[角上基本死活，考的是盘角曲四的概念。
+
+难度：☆]N[审题])
+(;B[bs]N[正解];W[br];B[as];W[es];B[cs]C[白死])
+(;B[es]N[失败];W[bs]LB[ds:A][ar:B]C[A、B两点见合，白活了。]))

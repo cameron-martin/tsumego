@@ -1,0 +1,40 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ba][bb][bg][bi][cc][cd][ce][cg][ch][cj][ck][de][df]
+AW[bf][ca][cb][cf][ci][da][dc][dd][dg][dh][di][eb][ee][ef][eg][fh]PL[W]C[White to play.
+
+Endgame moves - Break into
+
+Source: Gokyo Seimyo.]
+(
+;W[bc]
+(
+;B[be]
+(
+;W[ab]C[RIGHT
+])
+(
+;W[ac]C[RIGHT
+]))
+(
+;B[bd]
+;W[af]
+(
+;B[ae]
+;W[ac])
+(
+;B[bh]
+;W[ad]
+;B[ac]
+;W[be]C[Ko Fight])
+(
+;B[ac]
+;W[bh]
+;B[ah]
+;W[ag]
+;B[bj]
+;W[bh])))
+(
+;W[af]
+;B[be]
+;W[bc]
+;B[ac]))

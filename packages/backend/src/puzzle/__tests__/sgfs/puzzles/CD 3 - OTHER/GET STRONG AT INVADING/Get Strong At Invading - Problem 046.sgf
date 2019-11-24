@@ -1,0 +1,19 @@
+(;
+GM[1]
+SZ[19]
+AW[hc][ld][qd][pf][qj]
+AB[dc][ce][nd][oc][qb]
+C[Problem 46. Black to play.  
+
+White's stones at the top are nicely balanced, but she is still vulnerable to an invasion. Where should Black invade ? ]
+;B[jc]
+TE[2]
+C[Correct Answer.  
+
+Black 1, in the middle of the three-space extension, is the vital point. ]
+;W[jd]
+C[White 2 is the best response, but ... ]
+;B[kc];W[kd];B[lc];W[ic];B[md]
+C[... Black links up with the moves to 7. <= ]
+)
+)

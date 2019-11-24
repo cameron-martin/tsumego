@@ -1,0 +1,38 @@
+	-----------
+	- PREFACE -
+	-----------
+
+	This collection of problems is intended for players who have just learned the rules of go. The problems cover all phases of the game, from the opening to the endgame, and the third chapter is devoted to life and death problems.
+	It is assumed that the reader of this book has studied a good beginner's book on go, but for reference we have included a brief summary of the rules as well a short guide to life and death problems.
+	It is my hope that by studying and solving the problems in these four folumes, the reader will establish a solid foundation on which to base his future progress in go.
+
+March, 1985
+Kano Yoshinori 9-dan
+
+
+
+
+
+	------------
+	- GLOSSARY -
+	------------
+
+atari - check, i.e. a move threatening to capture on the next move.
+
+dame - neutral points which profit neither Black nor White.
+
+dan - a rank give to players to indicate their strength at the game. When a player's strength improves after attaining the rank of 1-kyu, he is promoted to amateur 1-dan and as he becomes stronger, the numerical value of his dan increases. The top amateur dan rank is usually 6-dan. The professional dan ranks start at 1-dan and go up to 9-dan, which is the highest rank attainable. A professional 1-dan is usually about two stones stronger than an amateur 6-dan. See kyu.
+
+double atari - giving atari to two different groups of stones at the same time.
+
+eye - a point on the board which is surrounded by stones of the same color.
+
+ko - a shape in which your stone is captured but it is illegal to retake the capturing stone even though you can occupy all of its liberties.
+
+kyu - a rank given to players to indicate their strength at the game. Beginners are arbitrarily classified at 30-kyu and as they become stronger, the numerical value of their kyu decreases. For example, 15-kyu is stronger than 20-kyu. See dan.
+
+oiotoshi - a move which gives atari to a group of stones in such a way that no matter how one defends, the group will still be in atari.
+
+seki - an impasse or stalemate position between groups; if one side tries to attack the other side's group, his own group is put into atari and dies. Therefore, neither side can attack or attempt to atari.
+
+snapback - a tactic in which one stone is offered as a sacrifice and if it is taken, the capturing stones are in turn captured

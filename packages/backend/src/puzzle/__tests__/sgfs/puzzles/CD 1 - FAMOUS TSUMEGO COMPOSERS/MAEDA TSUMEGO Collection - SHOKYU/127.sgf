@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dm][dl][dk][dj][di][dh][ch][bg][cf][bn][cn]AW[ci][bh][ah][cl][cm]
+[bm][am][cj]N[127]AP[MultiGo:4.4.4]SZ[19]AB[dn]MULTIGOGM[0]
+
+(;C[白形到处都是缺陷，黑棋该如何进攻呢？
+
+难度：☆☆]N[审题])
+(;B[bk]N[正解];W[ck];B[bj];W[bi];B[aj]C[最后成为刀把五的死形。])
+(;B[bj]LB[ck:A][bk:B][bi:C]C[黑1走这里也行。以下白A、黑B就还原到正解；白C则黑B，也回到正解]
+N[变化];W[bk];B[bi];W[ck];B[ag])
+(;B[aj]N[失败];W[ck];B[bi];W[ak];B[ag];W[bj];B[ai];W[bl]))

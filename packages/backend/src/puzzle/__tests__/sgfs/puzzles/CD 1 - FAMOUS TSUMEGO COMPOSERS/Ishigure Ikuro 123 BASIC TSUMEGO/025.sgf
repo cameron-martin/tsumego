@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[rb][rc][rd][qe][qf][pf][oe][od][og][ng][mg][lf][me][md][mc][mb][ma]
+AW[oa][nb][nc][nd][ne][nf][of][pe][pd][qd][qc][qb]N[025]AP[MultiGo:4.4.4]SZ[19]
+AB[na]MULTIGOGM[0]
+
+(;C[观察棋形，白气很紧。但黑要仔细选择攻杀的手段。
+
+本题与025题密切相关。]N[审题])
+(;B[qa]N[正解];W[oc];B[pb]C[白死。])
+(;B[qa]N[变化];W[pa];B[ob]LB[pb:A]C[黑3打时，白不能走A位];W[ra];B[oc]C[白死。])
+(;B[ob]N[失败1];W[pb];B[pa];W[oc]C[这恰好是024题的内容。])
+(;B[pb]N[失败2];W[pa];B[ob];W[qa])
+(;B[pa]N[失败3];W[pb];B[oc];W[qa]))

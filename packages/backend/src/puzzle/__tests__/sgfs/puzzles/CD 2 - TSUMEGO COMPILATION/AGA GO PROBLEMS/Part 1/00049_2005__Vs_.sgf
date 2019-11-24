@@ -1,0 +1,89 @@
+(;
+AB[dp][pq][fc][qd][pd][pc][qb][qe][rf][rg][ng][mg][lg][lf][le][ld][mb][fe]
+AW[dd][cf][id][qq][po][ph][oi][pg][qf][pe][of][oe][od][oc][pb][me][mf][mh][gd]
+C[Black's response to White's marked stone.
+
+Source:
+    "Go World", #31, Spring 1983, p. 46-47
+    Cho Chikun  vs.  Fujisawa Shuko  7th Kisei Title Match, Game 6
+    Hane Yasumasa commentary.]
+TR[gd]
+(;
+B[dc]
+C[Cho played here.];
+W[cc];
+B[de]
+(;
+W[db]
+C[A good move.];
+B[ec];
+W[ce];
+B[ed];
+W[cd]
+C[And White has scored scores points
+here.  Black will not be able to balance
+the score by attacking White's two
+upper center stones.];
+B[hf];
+W[je];
+B[jf];
+W[kb];
+B[jc];
+W[ic];
+B[kc];
+W[jb];
+B[lb];
+W[he];
+B[gf];
+W[if]
+C[White should have continued here.];
+B[ig];
+W[jg];
+B[ie];
+W[mc];
+B[nc];
+W[if];
+B[jh];
+W[kf];
+B[kg];
+W[md];
+B[lc]
+C[And White is OK.]
+)
+    (;
+    W[ce]
+    C[Inferior.];
+    B[ed];
+    W[cd];
+    B[hf]
+    LB[db:a][ec:b]
+    C[And Black has a comfortable shape.
+Later, Black might be able to descend
+at A.
+
+Now, Black does not have to respond
+to White A with Black B.]
+    )
+)
+    (;
+    B[fd]
+    C[Best.];
+    W[hf];
+    B[fg];
+    W[hh];
+    B[cc]
+    C[And Black has a better result than
+in the game.]
+    )
+    (;
+    B[de]
+    C[Cho did not like the results from
+this line.];
+    W[fd];
+    B[ed];
+    W[ec];
+    B[ee];
+    W[dc];
+    B[ce]
+    )
+)

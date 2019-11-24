@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pd][pe][qb][pb][ob]AW[qc][qd][qf][pf][of][oe][od][oc][nb][mc]N[089]
+AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[计算不复杂。失败图的计算同样重要。
+
+难度：☆☆]N[审题])
+(;B[qe]N[正解];W[re];B[rd];W[rc];B[rb];W[sd];B[sb];W[rg]C[白8接上也可];B[oa]C[黑活。])
+(;B[qe]N[失败1];W[re];B[rb]C[黑棋单在3位立，没有本质区别];W[rd]C[看看黑角，这是基本死形，做不活的。])
+(;B[rc]N[失败2];W[rd];B[ra];W[sc];B[sb]))

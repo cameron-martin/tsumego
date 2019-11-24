@@ -1,0 +1,12 @@
+(;CA[utf-8]FF[4]ST[2]GM[1]AB[kp][bq][bp][ci][do][dn][bn][dm][fm][em][nc][jd][jk]
+[ji][jg][jm][km][kn][ko][in][io][ho][hp][hq][gq][gr][fq][cl][bk][dk][cj][fj][cp]
+[fh][bc][cc][dd][fd][rr][qq][po]AW[dr][jp][kq][np][nn][ln][ep][hi][qf][pd][br][cq]
+[qr][cs][eq][dp][fr][gp][go][en][fn][hn][hm][im][hg][co][lq][fg][hd][cf][bd][ch]
+[dh][di][dj][ek][fk][hk][pr][pq][ir][iq][jr]TR[pr]C[Black to play. After White connects with the marked stone, how can Black make sabaki?]
+AP[CGoban:3]SZ[19]RU[Japanese]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[ql]
+(;W[qp];B[qo];W[rp];B[qi]C[CORRECT Black should extend lightly, and if White goes after the stones in the corner, Black extends again, establishing a position on the right side. If ])
+(;W[qj];B[qp]C[CORRECT If White makes a checking extension after Black's light move, Black can secure his stones by extending from the corner.]))
+(;B[qp];W[qn];B[pn];W[qm];B[mo];W[no];B[pm];W[pl];B[ol];W[pk];B[nm];W[ok];B[nk]
+;W[nj];B[mk]C[If Black simply draws back, White can attack leaving the black stones heavy. As Black runs away, White harrasses them building a moyo on the right side while Black is playing on points of no value.]))

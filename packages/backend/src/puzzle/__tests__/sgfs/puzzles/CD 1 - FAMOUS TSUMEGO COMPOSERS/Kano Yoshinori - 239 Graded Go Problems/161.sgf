@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ie][gb][ib][ja][ga][hd][hc][ha][gc]GN[ ]AB[if][gd][id][ic][ge][fc][he][jf][fb][jb][kd][fa]PM[1]C[Problem 161. Black to play and kill White. (1 move)
+How does Black play to kill the white stones?]PW[ ]
+(
+;B[kb]C[Correct Answer
+Black 1 is the correct answer. White's eye on the right is false so he is dead.]
+)
+(
+;B[ka]C[Wrong Answer
+If Black plays at 1...]
+;W[jc]C[...White 2...]
+;B[jd]C[...]
+;W[kb]C[...adn 4 give White life. If Black plays 1 at 2, White plays 4 and cannot be killed.]
+)
+
+)

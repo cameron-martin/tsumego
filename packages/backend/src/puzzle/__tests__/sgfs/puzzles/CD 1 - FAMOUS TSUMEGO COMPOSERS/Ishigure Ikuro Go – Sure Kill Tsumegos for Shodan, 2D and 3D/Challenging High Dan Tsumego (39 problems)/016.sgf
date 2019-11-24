@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[nq][np][nr][pq][pp][po][oo]AW[ms][mr][mq][mp][mo][on][pn][qn][qo]
+[nn][rq][rr]N[016]AP[MultiGo:4.4.4]SZ[19]AB[oq]MULTIGOGM[0]
+
+(;C[黑棋在下边如何做眼？失败图同样重要，需要计算。]N[审题])
+(;B[os]N[正解];W[qs];B[pr]C[大家都看清楚了，相安无事。])
+(;B[os]N[变化];W[pr]C[白试图杀黑];B[qr];W[qs];B[qq];W[ps];B[rs];W[ss];B[or];W[rs]
+;B[rp])
+(;B[ps]N[失败1];W[os]LB[or:A][qr:B]C[白2靠是手筋，对此，黑A则白B，黑下边没眼];B[ns]
+;W[pr];B[qr];W[qs])
+(;B[qr]LB[qs:A][os:B]C[黑1尽力扩大眼位。对此，白A则黑B，黑活。]N[失败2];W[os];B[ns]
+;W[qs]C[角上没棋，黑死。]))

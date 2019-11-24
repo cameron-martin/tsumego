@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[go][fp][gp][eq][hq][er][hr][ir]AB[eo][cp][ep][hp][dq][gq][iq][dr][gr]C[Ex. 3 - Watari
+
+This is a position resulting from a nikken basami takamoku joseki, and because W has not played a defensive move, B has the chance to attack.
+How should B play now ?]
+(;B[fq]LB[fq:1]C[Diag. 1 - Failure
+
+This does not mean that that B cannot cut but not immediately.
+The immediate cut at 1 is a failure (cont.)
+]
+;W[gs]LB[fq:1]C[W captures the cutting stone and there is no question of attacking W.])
+(;B[es]LB[es:1]C[Diag. 2 - Failure
+
+B plays hane 1 here and tries to connect with his 2 stones. (cont.)
+]
+;W[fs]LB[es:1][fs:2]C[This also fails after W 2, ]
+;B[fq]LB[fq:3][es:1][fs:2]
+;W[ds]LB[fq:3][ds:4][fs:2]C[W 4.
+The semeai makes it a little awkward.])
+(;B[fs]LB[fs:1]C[Diag. 3 - Correct
+
+The suji of B kosumi 1 enables him to connect along the edge after ]
+(;W[fq]LB[fq:2][fs:1]C[W 2 ]
+;B[es]LB[fq:2][es:3][fs:1]C[and B 3. ]
+;W[jq]LB[fq:2][jq:4][es:3][fs:1]C[After W 4,  ]
+;B[ip]LB[ip:6][fq:2][jq:5][gr:4][es:3][fs:1]C[and B 5 tsuji, he attacks W , who has been split into two groups.
+This is the point of this problem.])
+(;W[es]LB[es:2][fs:1]C[Diag. 4 - Variation
+
+B 1 is a fine initial move and if W stops him connecting at 2 ]
+;B[fq]LB[fq:3][es:2][fs:1]C[B wins the semeai by cutting at 3.
+Of course W should follow the previous diagram.])))

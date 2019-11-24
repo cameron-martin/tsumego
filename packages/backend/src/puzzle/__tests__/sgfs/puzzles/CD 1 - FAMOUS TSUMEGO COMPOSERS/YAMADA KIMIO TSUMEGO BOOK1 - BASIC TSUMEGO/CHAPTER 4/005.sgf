@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[od][nd][md][ld][kd][kc][jb][ic][qb][qc]AW[kb][lb][lc][mc][nc][oc]
+[pb][pa]N[005]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[打劫？净杀？请注意，白棋气紧。]N[审题])
+(;B[nb]N[正解];W[na];B[ob];W[mb];B[ka]LB[la:A]C[由于气紧，白不能在A位挡，死。])
+(;B[nb]N[变化];W[mb];B[ma]C[白是死形。])
+(;B[nb]N[失败1];W[na];B[ma];W[ob];B[oa]C[劫。黑没有利用白气紧的缺陷。])
+(;B[na]N[失败2];W[ma];B[nb];W[ka];B[mb];W[ob]C[胀牯牛，白活。]))

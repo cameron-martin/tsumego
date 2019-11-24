@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 105. Black to play.
+Black to play and live.]AW[jk][jl][im][fh][ei][ik][dj][gj][eh][hm][dl][hk][dm][dk][gi]PB[ ]PM[1]PW[ ]AB[ek][fl][gk][fj][hl][fi][em][il][el][ej]
+(
+;B[gm]C[Correct Answer
+Black 1 is the correct answer. If White takes two stones, Black will take back one stone and he is alive.]
+)
+(
+;B[gl]C[Wrong Answer
+If Black plays 1, defending his two endangered stones...]
+;C[...White will play 2 and all the black stones are dead.]W[gm]
+)
+
+)

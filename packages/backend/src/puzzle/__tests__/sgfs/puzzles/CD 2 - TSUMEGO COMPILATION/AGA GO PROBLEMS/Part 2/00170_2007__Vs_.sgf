@@ -1,0 +1,71 @@
+(;
+AB[pa][oa][na][ma][la][ka][ja][qb][mb][lb][kb][jb][gb][rc][qc][nc][kc][ic][hc][nd][md][me][le][je][of][nf][pe][qf]
+AW[sa][qa][ia][rb][pb][ob][nb][ib][oc][mc][jc][od][kd][oe][ne][mf][lf][kf]
+C[Black plays.
+
+Source:
+    Igo Hatsuyo-ron #72:  300 year old
+    problem set for student professionals.
+
+Analysis:
+    Myron Souris]
+(;
+B[lc]
+C[Correct, although one line does require that a ladder be good for Black.];
+W[ld]
+C[Forced];
+B[ke]
+C[The only try if Black wants to kill everything.];
+W[mc]C[Everything up to here is a one-way street.]
+(;
+B[lc]
+C[The killing move.]
+(;
+W[mb];B[kc]
+(;
+W[kb];B[jd];W[lb];B[jb];W[ja];B[jc]
+)
+    (;
+    W[jd]
+    C[The ladder must work for Black.];
+    B[jb];W[id];B[ie]
+    )
+)
+    (;
+    W[kc]
+    C[White might hope for a ko, but ...];
+    B[mb];W[lb];B[mc]
+    C[Black simply connects to kill White.];
+    W[ma]
+    C[And if White plays here, White dies in gote!];
+    B[]
+    C[For example, when Black passes...];
+    W[ka];B[jb];W[pa];B[na]
+    C[White only has 1 eye.]
+    )
+)
+    (;
+    B[mb]
+    C[Looks strong, but fails.];
+    W[lc];B[lb];W[kb];B[jd];W[kc];B[ka];W[jb]
+    C[White lives.]
+    )
+)
+    (;
+    B[ke]
+    C[Fails];
+    W[lc]
+    C[White's eye space is smaller than in the correct line, but White's shape is much better.];
+    B[kb]
+    C[Black's only hope.];
+    W[kc];B[lb];W[mb];B[ma];W[pa]
+    C[And Black runs out of steam.]
+    )
+    (;
+    B[jd]
+    C[Fails];
+    W[ke];B[lc];W[ld]
+    C[And Black has a shortage of liberties.]
+    )
+)
+

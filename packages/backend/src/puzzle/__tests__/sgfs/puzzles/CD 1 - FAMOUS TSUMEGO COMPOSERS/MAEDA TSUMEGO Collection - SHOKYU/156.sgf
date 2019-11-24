@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pq][oq][pp][qr][qq][rq]AW[qp][po][qn][on][op][np][nq][or][pr][rs]
+N[156]AP[MultiGo:4.4.4]SZ[19]AB[sq]MULTIGOGM[0]
+
+(;LB[ps:A][ro:B]C[黑棋A、B两处都是先手，要做活必须利用好他们。
+
+难度：☆☆☆]
+N[审题])
+(;B[ps]N[正解];W[nr];B[rr];W[ro];B[ss];W[sr];B[qs])
+(;B[ps]N[变化];W[nr];B[rr]LB[qs:A][ss:B]C[以下，白A则黑B，黑活。];W[ss]C[白要强硬杀黑，必须长进角去。但是，注意，黑棋在角上已经有一眼了。这种做眼的形，在死活题中也很常见。]
+;B[ro];W[qo];B[rp];W[rn];B[so]C[黑活。]))

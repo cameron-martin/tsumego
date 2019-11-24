@@ -1,0 +1,6 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 57. Calculate the territory!
+No stones have been captured. Who wins and by how many points?]AW[cd][ia][bd][gg][hd][dg][gc][ce][df][dl][gk][ja][dh][hj][he][ba][dm][il][jc][fb][ih][ic][bc][hg][jm][im][gm][ik][dj][dd][hb][ii][di][gj][gl][if][id][dc][cj][ib][hi][hf][hh][bb][dk][el][fa][gf]PB[ ]PM[1]PW[ ]AB[ek][jk][jl][jj][ff][fc][jh][em][db][ei][kd][je][eb][eg][kl][fm][ed][ec][ji][ej][km][ee][gd][kb][ea][fl][ge][fj][fk][cb][ef][gh][fg][eh][cc][ie][ca][kc][jg][de][jd][jf][jb][ij][gi][ka][ig]
+;C[Correct Answer
+Black's territory amounts to 38 points\: 33 points on the right and 5 points in the middle. White's territory comes to 36 points\: 29 points on the left and 7 points in the middle. Therefore, Black wins by 2 points.]
+)

@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gb][ib][ga][hd][hc][fa]GN[ ]AB[ea][ia][fb][jc][jb][gc]PM[1]C[SECTION 4. SNAPBACK
+
+Problem 201. Black to play.
+Capture the three white stones using the snapback tactic.]PW[ ]
+(
+;B[hb]C[Correct Answer
+If Black plays 1, the three white stones are as good as captured. If White captures at 1, Black retakes four stones with a snapback.]
+)
+(
+;B[eb]C[Wrong Answer
+If Black plays 1, he fails...]
+;W[hb]C[...White connects at 2 and his stones cannot be captured.]
+)
+
+)

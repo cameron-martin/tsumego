@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[pp][qp][rp][rq][ls][lr][lq][mq][nq]AW[sr][rr][qq][pq][or][mr]C[39]
+N[39]AP[MultiGo:4.4.4]SZ[19]AB[oq]MULTIGOGM[0]
+
+(;TR[ls]C[第39题 锐利的挤入
+
+第一手应该锐利地挤入，除此之外都不行。要求充分利用黑的硬腿。]
+N[审题])
+(;B[rs]C[黑1必须深入到这里，这是好手]N[正解];W[ps];B[ns];W[qs];B[pr])
+(;B[rs]N[变化1];W[qs];B[pr];W[qr];B[os])
+(;B[rs]N[变化2];W[qr];B[ps];W[qs];B[os])
+(;B[rs]N[变化3];W[pr];B[qs];W[nr];B[ms])
+(;B[pr]N[失败1];W[qr];B[os]C[第一感是黑1断打，然后黑3反打，造成白棋假眼。];W[ps]
+;B[ns];W[rs]C[白活。])
+(;B[ps]N[失败2];W[qs]))

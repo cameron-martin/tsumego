@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pp][po][oo][no][np][oq][rr][qq][pr]AW[or][os][ps][mr][nq][mp][mo]
+[mn][nn][on][pn][qn][qo][qp][ro][sp]N[018]AP[MultiGo:4.4.4]SZ[19]AB[rp]MULTIGOGM[0]
+
+(;C[打劫很容易，能不能净活？]N[审题])
+(;B[rs]N[正解];W[rq];B[sr])
+(;B[rs]N[变化];W[sr];B[rq]LB[sq:A][qs:B]C[A、B两点见合，黑活。])
+(;B[sq]N[失败1];W[rq])
+(;B[qs]N[失败2];W[sr];B[rq];W[rs])
+(;B[sr]N[失败3];W[qs];B[rs];W[qr];B[rq];W[pq]))

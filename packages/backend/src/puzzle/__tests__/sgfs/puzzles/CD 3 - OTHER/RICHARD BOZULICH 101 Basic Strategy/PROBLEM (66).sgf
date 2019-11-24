@@ -1,0 +1,11 @@
+(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[qm][jl][lk][lm][qj][lo][oo][ro][ql][hd][hc]
+[ic][bc][dd][cd][dc][jc][lc][im][dp][dn][cj][df]AW[he][id][jd][cc][me][pd][oj][qh]
+[kd][pp][po][pn][pm][nm][bb][jn][jp][gn][hl][fq][cb][db][fc][fe]TR[gn]C[Black to play. White has just played the marked stone, confining the black stones in the center within his sphere of influence. How can Black make sabaki?]
+AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[io]
+(;W[in];B[hm];W[gm];B[hn];W[ho];B[gl]
+(;W[go];B[hk];W[fl];B[gk]C[CORRECT The peep is Black's most efficient way to make sabaki. After creating defects in White's position forcing him to fix them, Black can finally make eye shape in the center.])
+(;W[hk];B[go];W[hp];B[fo];W[fl];B[gk];W[fm];B[fk];W[ek];B[ej];W[dk];B[dj]C[CORRECT Playing this way is very difficult for White, and Black ends up capturing Black's stones on the left.]))
+(;W[jo];B[hm];W[gm];B[ho];W[go];B[iq];W[jq];B[ir];W[mq];B[gl];W[hk];B[fl]C[CORRECT If White connects against the peep, Black can trap the white stones on the left after this sequence.]))
+(;B[ho];W[hn];B[io];W[in];B[jo];W[kn];B[ko];W[ln]C[This move aims to exploit the thinness of White's position, but this is the wrong tesuji. White pushes through and Black ends up with two isolated heavy groups.]))

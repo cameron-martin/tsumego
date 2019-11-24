@@ -1,0 +1,14 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[cp][eq][qd][qg][pi][kd][kf][ie][ig]AW[pp][oh]
+[of][oc][kh][he][hd][id][dd]C[Black to play. Where is the vital point for the four black stones at the top?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[jd]
+(;W[gg]
+(;B[ii]C[CORRECT It is urgent that Black first make shape. After White attacks, jumping out is the vital point for Black.])
+(;B[cj];W[ih];B[mc];W[pd];B[qe]C[If Black fails to jump out after making shape and takes a big point instead, White will attach confining Black to the top. The Black stones must now struggle to make eyes at the top.]))
+(;W[if];B[jf];W[je];B[jh];W[ke];B[le];W[ie];B[mf];W[ld];B[md];W[lc];B[mc];W[kb]
+;B[lb];W[kc]C[CORRECT If White gives atari and captures after Black makes good shape in the center. If White continues pushing, Black is happy to sacrifice two stones ending with sente in good shape. The four white stones on the right are looking grave.]))
+(;B[ii];W[je]
+(;B[ke];W[jf]C[If Black begins with the jump, White splits the black stones.])
+(;B[jf];W[if]LB[jg:A][ke:B][le:C][lf:D]C[White threatens to cut at A, but, if Black defends against this cut, then White will will play the sequence White B, Black C, White D, splitting the black stones.]))
+(;B[if];W[jd];B[ke]TR[ig]LB[ih:A]C[Playing like this creates a heavy shape for Black. The marked stone should be at A.]))

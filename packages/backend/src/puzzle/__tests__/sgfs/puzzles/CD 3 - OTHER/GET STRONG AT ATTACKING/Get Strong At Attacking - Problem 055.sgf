@@ -1,0 +1,53 @@
+(;
+GM[1]
+SZ[19]
+AW[db][eb][gc][hc][dc][de][ce][qf][of][mf][qi][or][nr][nq][mp][jp][ip][hq][fo][di][fm][dn][cp][dq][eq]
+AB[ec][ed][ee][gd][hd][id][oc][qd][qk][ok][oi][pn][pp][pr][oq][hp][gp][fp][fq][ep][hn][hl][fk][dk]
+TR[mf][of][qf][qi]
+C[Problem 55. Black to play.  
+
+How should Black attack the four marked stones in the upper right ? ]
+;B[pg]
+TE[2]
+C[Correct Answer  
+
+Black should peep with 1, ... ]
+;W[pf];B[rh]
+C[... then make a placement at 3. ]
+(;W[od]
+C[White can no longer make two eyes on the right side, so she has to switch to the top and ... ]
+;B[pc];W[nc];B[nb];W[mc];B[mb];W[lc]
+C[... play the sequence to 10, inducing Black to secure the corner. ]
+(;B[fi]
+C[Black ends in sente, so he takes the key point of 11 to reach out to his stones above and to start building a moyo in the center. <= ]
+)
+(;B[nn]
+C[Failure.  
+
+The aim of 11 here is to map out a moyo with ... ]
+;W[fi];B[lo]
+C[... 13 and ... ]
+;W[lp];B[jn]
+C[... 15, but ... ]
+;W[gk]
+C[... White attaches at 16 and a sharp exchange ensues. ]
+;B[gj];W[gl];B[fj]
+(;W[hk]
+C[White turns at 20 and Black's moyo becomes thin. <= ]
+)
+(;W[gh]
+C[... White could also play 20 here attacking Black's stones at the top. ]
+;B[hk]
+C[Black would respond at 21. <= ]
+)))
+(;W[re]
+C[Variation.  
+
+The placement of Black 3 is a flexible move. For example, if White exchanges 4 ... ]
+;B[rd]
+C[... for 5, ... ]
+;W[qh];B[ri]
+LB[qg:A][qh:6]
+C[... Black can crawl to 7 if White plays 6. Since White has to defend her defect at A, Black will end in sente. <= ]
+)
+)

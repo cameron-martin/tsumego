@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 92. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[jh][hi][hg][fh][ei][ii][ig]PB[ ]PM[1]PW[ ]AB[fi][gg][hh][gi][ih][fg][eh]
+;C[White captures two black stones with 1. How should Black reply?]W[gh]
+(
+;B[hh]C[Correct Answer
+Black should retake with 1, capturing two white stones.]
+)
+(
+;B[eg]C[Wrong Answer
+If Black connects with 2...]
+;C[...White will save his two stones by connecting at 3.]W[hh]
+)
+
+)

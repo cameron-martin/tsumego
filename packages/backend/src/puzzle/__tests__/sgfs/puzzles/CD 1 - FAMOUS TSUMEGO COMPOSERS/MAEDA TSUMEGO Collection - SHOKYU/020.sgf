@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pd][od][nc][nb][lb][rc][rd][sd]AW[ob][pc][qc][rb][sb][sc]N[020]AP[MultiGo:4.4.4]
+SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[初级死活。白角上气紧，这是缺陷。
+
+难度：☆☆]N[审题])
+(;B[qa]N[正解];W[qb];B[oa];W[pa]C[劫杀正解])
+(;B[qa]N[变化];W[pa];B[qb]C[白防守失败，死了。])
+(;B[pa]N[失败1];W[oa];B[ra];W[qb];B[qa];W[oc])
+(;B[ra]N[失败2];W[qb];B[pa];W[oa];B[qa];W[oc])
+(;B[pa]N[失败3];W[oa];B[qb];W[pb]LB[oc:A]C[由于A位松着一气，因此黑3断是不成立的。]))

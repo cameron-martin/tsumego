@@ -1,0 +1,37 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bn][ao][bo][co][do][eo][bp][ep][aq][dq][dr][er][fr]AB[cp][dp][bq][cq][eq][fq][gq][cr][gr]C[Ex. 8 - Semeai 
+
+This is a semeai with W's 4 stones in the corner.
+Because B is short of liberties, he must utilise the angle in the corner.
+Ko is a failure.]
+(;B[cs]LB[cs:1]C[Diag. 1 - Failure
+
+B 1 sagari is a move anyone can make, but W is too old a bird to be caught with chaff ]
+;W[bs]LB[bs:2][cs:1]TR[aa]C[ and he answers with tsuke 2. ]
+(;B[fs]LB[bs:2][cs:1][fs:3]TR[aa]C[If B 3, ]
+;W[br]LB[br:4][bs:2][cs:1][fs:3]TR[aa]C[W plays 4 and clearly B loses.])
+(;B[ar]LB[ar:3][bs:2][cs:1]TR[aa]C[Diag 3 - Ko
+
+If B 1 sagari, W 2 and 3 osae, ]
+;W[ds]LB[ar:3][bs:2][cs:1][ds:4]TR[aa]C[naturally it is ko after W 4 ]
+;B[ap]LB[ap:5][ar:3][bs:2][cs:1][ds:4]TR[aa]C[and B's capture at 5, but this is not the right answer.]))
+(;B[bs]LB[bs:1]C[Diag. 4 - Correct
+
+B 1 kosumi is the correct way to play. 
+
+]
+(;W[ar]LB[ar:2][bs:1]C[If W comes out at 2 ]
+;B[fs]LB[ar:2][bs:1][fs:3]C[then B plays 3 ]
+;W[br]LB[ar:2][br:4][bs:1][fs:3]C[W 4 ]
+;B[cs]LB[ar:2][br:4][bs:1][cs:5][fs:3]C[and B 5.
+After this W can attack neither from the inside nor from the corner.
+B wins.
+Use of the corner angle lies in the fact that until W connects he cannot play at the point a1.
+Since the number of times this suji is used in actual games is high, you should memorise it.])
+(;W[ds]LB[bs:1][ds:2]C[Diag. 4 - Variation
+
+If W plays sagari 2 in reply to B 1, ]
+;B[fs]LB[bs:1][ds:2][fs:3]C[B wins the semeai easily with 3 ]
+;W[ar]LB[ar:4][bs:1][ds:2][fs:3]C[ ]
+;B[cs]LB[ar:4][bs:1][cs:5][ds:2][fs:3]C[and B 5.])))

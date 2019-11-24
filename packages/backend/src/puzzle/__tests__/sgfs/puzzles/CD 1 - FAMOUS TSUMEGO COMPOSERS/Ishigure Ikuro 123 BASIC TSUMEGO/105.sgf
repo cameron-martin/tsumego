@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qe][ne][oe][me][le][ld][lc][kb][la][rb][rc][qc]AW[ma][mc][md][nd]
+[od][oc][ob][qb][qa]N[105]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;LB[pc:A][pb:B]C[黑A则白B，白活。但是黑B挖呢？这可以作为计算的开始。或者，根据你的第一感进行计算。]
+N[审题])
+(;B[oa]N[正解];W[na];B[pb];W[pc];B[mb]LB[pa:A][nb:B]C[接下来，白只能A位提子，黑B位破眼，白死。])
+(;B[oa]N[变化];W[na];B[mb]C[黑3打次序错误];W[nb];B[pb];W[lb]C[这样成为打劫。])
+(;B[mb]N[失败1];W[nb]LB[na:A][oa:B]C[接下来，黑A则白B，白活];B[oa]LB[na:A][pb:B]
+C[接下来，白A则黑B，还原位变化图];W[lb]C[但白4可以直接开劫。])
+(;B[pb]N[失败2];W[pc];B[oa];W[pa];B[mb];W[nb]))

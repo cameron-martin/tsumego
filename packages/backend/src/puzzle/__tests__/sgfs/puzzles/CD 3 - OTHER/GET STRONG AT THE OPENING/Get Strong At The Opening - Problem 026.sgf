@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dp][nc][oc][pc][qc]
+AB[pp][pj][pd][qd][od][kd]
+TR[nc]
+C[Problem 26. Black to play.  
+
+White has just played the marked stone. Taking in account his sanren-sei formation on the right side, where should Black play next ? ]
+(;B[nd]
+C[There is no other move for Black except to block at 1. Confining White to the top is absolutely essential in the sanren-sei strategy. ]
+;W[md]
+C[White resists with 2 ... ]
+;B[me];W[le]
+C[... and 4 to get some aji in the center. ]
+;B[ld];W[mc];B[mf]
+C[With Black 7, the joseki comes to a pause. ]
+;W[nq]
+C[White 8 is now the most natural move. <= ]
+)
+(;B[jp]
+C[Failure.  
+
+Black 1 is certainly a big point and Black would like to play there first, but ... ]
+;W[nd]
+TR[kd]
+C[... White will turn at 2 and the marked stone at the top will be isolated from its allies on the right. Moreover, the three black stones to the right of 2 are now heavy because they are short of liberties. <= ]
+)
+(;B[me]
+LB[nd:@]
+C[In the right direction.  
+
+Black 1 here is in the right direction, but it is not as tight as a move at @ in the Correct Answer. <= ]
+)
+)

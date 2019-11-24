@@ -1,0 +1,41 @@
+(;
+GM[1]
+SZ[19]
+AW[cn][cq][dq][er][fq][gr][gp][hp]
+AB[dp][pd][pp][dd][jj][dj][cp][ep][eq][fp][fo][go]
+LB[dj:2][cn:1][cp:8][ep:12][eq:10][fp:4][fo:6][go:14][gp:5][hp:15]
+LB[fq:3][cq:7][dq:9][er:11][gr:13]
+C[Problem 129. Black to play.  
+
+What should Black do after White 15 ? ]
+(;B[ho]
+LB[ip:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black should push with 1, threatening to hane at A. ]
+;W[io]
+C[White cannot let this happen, so she will hane at 2. ]
+;B[in]
+C[Next, Black exchanges 3 ... ]
+;W[jo]
+C[... for White 4, ... ]
+;B[cj]
+C[... then secures the left side with an iron pillar at 5. Black has taken a big lead in the opening of this five-stone handicap game. <= ]
+)
+(;B[dm]
+C[How the game continued.  
+
+Attacking the lone stone on the left side with 1 was a backward move which resulted in Black's stones in the lower left becoming overconcentrated. ]
+;W[cf]
+LB[bj:A]
+C[White responded with an approach move at 2 which left open the possibility of reducing Black's territory in the lower left by sliding to A. ]
+;B[fd]
+C[(This move is here meant to get 'White to move'.) ]
+;W[bp]
+C[White could also reduce this territory by playing the sequence from 4 ... ]
+;B[bo];W[bq];B[co]
+C[... to Black 7. <= ]
+)
+)

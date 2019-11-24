@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pe][of][nf][mf][le][lc][kc][mb][nb][rb][rc][rd]AW[md][nc][ob][qb]
+[qc][ra][pd][oe][ne]N[018]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[看上去有点凌乱吧。逐点计算，先排除明显不行的着手，然后重点计算“有希望”的点。]
+N[审题])
+(;B[me]N[正解];W[mc];B[od];W[nd];B[oc];W[pc];B[pa]C[白死。])
+(;B[me]MA[pa][pb][pc][oc][od]C[黑1挤，从外侧开始压缩白眼位。白眼位很小，只有4个X可用。]
+N[变化];W[qa];B[pc];W[oc];B[nd])
+(;B[oa]N[失败];W[pa];B[oc];W[pc]C[劫。])
+(;B[oa]N[失败变化];W[oc];B[pb];W[pa];B[qa];W[pc];B[pa];W[na];B[pa]))

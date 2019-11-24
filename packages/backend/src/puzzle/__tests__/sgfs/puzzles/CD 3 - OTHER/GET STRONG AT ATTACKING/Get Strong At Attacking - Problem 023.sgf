@@ -1,0 +1,24 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][nq][kq][ko][eq][dp][dn]
+AB[pd][pi][oo][qo][pq][iq][fq][fp]
+TR[pi]
+C[Problem 23. White to play.  
+
+Black has stakes out a moyo on the right side with the marked stone. What should White do ?  
+
+[You will find a supplement to this Problem Diagram as "Problem 138"] ]
+;W[io]
+TE[2]
+C[Correct Answer.  
+
+White should cap with 1. ]
+;B[fn]
+C[If Black jumps to 2, ... ]
+;W[go]
+C[... White will peep with 3, ... ]
+;B[fo];W[dl]
+C[... then jump to 5, staking out territory on the left side. Black's stones are heavy and Black must continue to defend them. <= ]
+)
+)

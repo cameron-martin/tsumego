@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[ro][so][os][or][oq][op][pp]AW[rr][sq][qp][pq][pr][ps]C[87]N[87]AP[MultiGo:4.4.4]
+SZ[19]AB[qo]MULTIGOGM[0]
+
+(;C[第87题 成劫争为最佳结果
+
+这是白可顽抗之形，因此想无条件杀白是不现实的。
+
+请考虑走成劫争来攻杀。]
+N[审题])
+(;B[rp]C[黑1从外侧压缩白的眼位空间]N[正解];W[qq];B[qs]C[黑3点是手筋];W[rq];B[rs]
+;W[ss];B[sr]C[劫。白缓一气的劫。])
+(;B[rp]N[变化];W[rq];B[qq];W[qr];B[rs];W[ss];B[sr]C[紧劫，白当然不如正解图。])
+(;B[qq]N[失败];W[qr]C[黑1断，平凡。白2打吃后，黑再无后续手段。];B[rp];W[rs]))

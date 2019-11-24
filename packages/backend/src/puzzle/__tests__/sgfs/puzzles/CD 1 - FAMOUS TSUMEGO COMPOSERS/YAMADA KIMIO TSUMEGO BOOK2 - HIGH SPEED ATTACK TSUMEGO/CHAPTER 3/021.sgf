@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pd][oc][oe][ne][me][le][ke][jd][jc][jb][kb][rb][rc]AW[lb][lc][ld]
+[nd][od][pc][pb][ob]N[021]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[md:A][nc:B]C[黑A白B交换之后，就失去了变化。通常这是不可取的。]N[审题])
+(;B[la]N[正解];W[ma];B[md];W[nc];B[mb]C[白死。])
+(;B[la]N[变化1];W[mb];B[nc];W[md];B[pa])
+(;B[la]N[变化2];W[nc];B[mb];W[na];B[ma];W[pa];B[nb])
+(;B[mb]N[失败1];W[mc];B[la];W[nb];B[ma];W[na];B[ka];W[pa])
+(;B[nc]N[失败2];W[md];B[nb];W[mb];B[pa];W[la];B[na];W[mc]))

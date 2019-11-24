@@ -1,0 +1,50 @@
+(;
+AB[dr][cr][cq][cp][cn][cm][dm][em][fm][gm][hm][hn][il][jl][km][fr][gr][hs][ir][iq][jp][kq][ko][kn]
+AW[jn][in][ho][ip][hq][hr][gq][fq][eq][dq][er][dp][do][dn][en][fn][gn]
+C[What is the value of the endgame play along the bottom?
+
+Source:
+    Endgame Calculation
+    Go World #1, May-June, 1977, pp. 35-37]
+(;
+B[es]
+C[Black's best play locally.
+
+The endgame value of this play is:  how many MORE points does Black have plus how many FEWER points does White have, than if White had played in this area first.
+
+See the variation for the result if White plays first from the original position.];
+W[go]
+LB[im:A][jm:B][io:C][jo:D]
+C[And near the end of the game, after Black and White fill in the points at A,B,C,D, White must play here, and the position ends with White living with 6 points of territory.
+
+Note that if White neglects to defend here, Black ataris on the same point, and with 2 more moves, forms a seki.  White would lose 6 points.]
+)
+    (;
+    W[gs]
+    C[White's best play.];
+    B[fs];W[es];B[is]
+    C[Eventually, Black will play here ...];
+    W[gs]
+    C[... after which White captures.];
+    B[]
+    C[Black will most likely not play the remaining 1 point gote play, so ...];
+    W[ds]
+    C[... White's privilege will be this sente move.];
+    B[cs]
+    LB[go:A]
+    C[So the value of this endgame situation is 11 points because:
+
+When Black goes first, Black has 5 more points of territory along the bottom edge.
+
+And when White goes first, White has 6 more points (3 more points of territory along the bottom edge, 1 more point of territory at A, and 2 points from capturing the Black stones).]
+    )
+    (;
+    W[fs]
+    C[Note that a White play here is slack.];
+    B[is]
+    C[Black simply connects in sente.];
+    W[gs]
+    C[After White captures, White is already 1 point worse than the previous variation, because White 1 plays inside what should have been White's own territory.]
+    )
+)
+

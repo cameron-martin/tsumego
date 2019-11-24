@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rd][qe][ob][nb][sb][rb][qb]AW[na][mb][mc][nc][od][kb][pf][qf][re]
+[se][sd][sc][qd][qc]N[007]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[得到正解不难，但是要求全面计算。]N[审题])
+(;B[pd]N[正解];W[pe];B[pc]C[黑3打时，白棋必须粘，否则黑简单做活];W[qe];B[pa];W[oc]
+;B[ra]C[黑活。])
+(;B[pd]N[变化];W[pc];B[pb];W[oc];B[oa])
+(;B[pc]N[失败1];W[pd];B[pa];W[oc];B[ra])
+(;B[oa]N[失败2];W[pb];B[pc];W[pd];B[pa];W[oc];B[ra])
+(;B[ra]N[失败3];W[pa];B[pd];W[pc]))

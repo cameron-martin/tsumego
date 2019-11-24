@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qq][pp][rp][ro][rn][qn][on][nn][mn][mo][lp][lq][lr][ms][ps][qs]AW[mr]
+[nr][os][pr][pq][mp][no][oo][po][qo][qp]N[030]AP[MultiGo:4.4.4]SZ[19]AB[qr]MULTIGOGM[0]
+
+(;C[很简单的题目，没有提示。没感觉就逐点计算吧。]N[审题])
+(;B[op]N[正解];W[oq];B[nq];W[np];B[mq])
+(;B[op]N[变化];W[np];B[oq])
+(;B[mq]N[失败];W[nq];B[op];W[oq]))

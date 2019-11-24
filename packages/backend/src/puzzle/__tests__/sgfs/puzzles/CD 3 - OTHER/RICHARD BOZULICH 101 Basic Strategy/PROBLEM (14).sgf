@@ -1,0 +1,6 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[pd][oi][qi][no][qo]AW[mk][ok][qk][qp][mq][pq]
+TR[qp]C[Black to play. After White attaches with the marked stone, how can Black make sabaki?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[op];W[oq];B[rp];W[rq];B[pp];W[qq];B[qm]C[CORRECT Black should make three forcing moves. After White connects, extending gives Black a resilient shape.])
+(;B[po];W[op];B[oo];W[lp]C[If Black extends, White will peep, then play the diagonal move. Black's stones are heavy.]))

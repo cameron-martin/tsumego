@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qp][qq][rq][sp][so][sr][op][oq][po]AW[nr][nq][np][no][oo][lp][pp]
+[pn][qn][rn][ro][rp][pr]N[159]AP[MultiGo:4.4.4]SZ[19]AB[qo]MULTIGOGM[0]
+
+(;C[粗一看，黑提子好像就能活，但仔细瞅瞅，有麻烦。
+
+难度：☆☆])
+(;B[rs]LB[or:A][os:B]C[黑1确保角上一眼。之前，没有必要进行黑A、白B的交换。]N[正解]
+;W[pq];B[qr]C[黑活。])
+(;B[rs]N[变化];W[qr];B[pq]LB[rr:A][or:B]C[接下来，白A则黑B，白接不归];W[or];B[rr])
+(;B[pq]N[失败1];W[rs];B[or];W[os];B[qr];W[qs])
+(;B[qr]N[失败2];W[rs]))

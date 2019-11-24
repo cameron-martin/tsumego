@@ -1,0 +1,43 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cb][cc][cd][ce][db][de][ec][fc]
+AW[ci][dc][dd][df][eb][ed][ee][gd]PL[B]C[Black to play.
+
+Defense - Fight for Sente]
+(
+;B[fb]
+;W[gf]C[RIGHT
+])
+(
+;B[fd]
+;W[fe]
+;B[ge]
+(
+;W[gf]
+;B[he]
+;W[hd]
+;B[ff]
+;W[ef]
+;B[fb]
+;W[id])
+(
+;W[hd])
+(
+;W[gc]))
+(
+;B[gc]
+;W[hd]
+;B[hc]
+;W[ic]
+(
+;B[id]
+;W[fb]
+;B[gb]
+;W[jc])
+(
+;B[ib]
+;W[jc]C[White Ok]))
+(
+;B[jj]
+;W[fb]
+;B[gc]
+;W[hc]C[White Ok]))

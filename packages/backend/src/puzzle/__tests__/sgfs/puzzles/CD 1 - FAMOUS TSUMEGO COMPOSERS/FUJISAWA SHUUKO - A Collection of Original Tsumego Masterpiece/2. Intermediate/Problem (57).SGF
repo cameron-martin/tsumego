@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[ld][kd][jd][ic][ib][hb][qb][pb][pc][od][oe][ne][mc][md]AW[nd][nc][ob][oa][mb][lc][kc][jc][jb][ia]C[黑先 抓住白撞紧气的弱点。]
+
+(;B[nb];W[na];B[la]
+(;W[ka];B[lb];W[oc];B[pa]C[正解 黑先白死])
+(;W[lb];B[ka]LB[ja:A][oc:B]C[变化 黑A、B必得其一。]))
+(;B[ka];W[la]C[失败]))

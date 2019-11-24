@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pd][od][nd][md][ld][kd][kc][kb][rb][qc]AW[la][lb][lc][mc][oc][pc]
+[qb][pa]N[096]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;LB[nc:A][nb:B]C[黑棋可以选择的点不多，可以逐点计算，或者从第一感开始计算。黑A则白B，白是活棋，这可以排除在计算之外。]
+N[审题])
+(;B[nb]N[正解];W[nc];B[na]C[黑3立，这是急所];W[ob];B[ra]C[白死。])
+(;B[nb]N[变化1];W[nc];B[na];W[pb]C[观察棋形，白4是后手死。])
+(;B[nb]N[变化2];W[nc];B[na];W[ra]C[白4扳没有意义];B[ob];W[pb]C[白死。])
+(;B[nb]N[失败1];W[nc];B[ob];W[na]C[白4，急所，敌之要点即我之要点];B[pb];W[ra]C[劫。])
+(;B[ra]N[失败2];W[nb];B[pb];W[ob];B[qa];W[ma]C[白活。]))

@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 94. Black to play.
+How can Black link up all his stones?]AW[jk][hk][fh][ji][ei][dk][ij][dj][gh]PB[ ]PM[1]PW[ ]AB[ek][jh][kh][fk][gj][ih][je]
+(
+;B[hi]C[Correct Answer
+Black can link up all his stones by playing at 1.]
+)
+(
+;B[ii]C[Wrong Answer
+Black 1 here does not work...]
+;C[...When White plays 2 the three stones at the bottom are cut off and will die.]W[hi]
+)
+
+)

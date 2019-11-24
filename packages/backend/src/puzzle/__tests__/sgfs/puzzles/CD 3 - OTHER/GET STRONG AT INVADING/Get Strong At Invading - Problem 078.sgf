@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][pc][qe][qj]
+AB[cd][ec][hc]
+C[Problem 78. Black to play.  
+
+White has made wide extensions from her corner enclosure at the top right. However, White's position is thin  and vulnerable. Where should Black invade ? ]
+;B[lc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the correct invasion point. ]
+(;W[je];B[le];W[jg]
+LB[je:2]
+C[If White jumps to 2 and 4, ... ]
+;B[lg]
+LB[le:3]
+C[... Black follows her into the center with 3 and 5. <= ]
+)
+(;W[kd]
+C[Variation.  
+
+White might also attack with 2. ]
+(;B[oc]
+C[Black would then attach with 3 and, ... ]
+;W[pd];B[pb]
+C[... after 5, ... ]
+;W[qb];B[me]
+C[... jump to 7. <= ]
+)
+(;B[me]
+C[If Black 3 here, ... ]
+;W[nc]
+C[... White would attack at 4. <= ]
+))
+)

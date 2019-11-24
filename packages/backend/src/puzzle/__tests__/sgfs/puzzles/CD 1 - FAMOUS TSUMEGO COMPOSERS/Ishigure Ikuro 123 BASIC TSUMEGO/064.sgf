@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oe][of][nf][nc][nb][mb][lb][rb][rc][rd][qd]AW[kb][kc][lc][mc][nd]
+[ne][le][oc][ob][qb][qc]N[064]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;TR[nc][nb][mb][lb]C[目标是救回黑四子。黑只有三气，白也有三气，因此一气不能松。]
+N[审题])
+(;B[pc]N[正解];W[pb];B[oa];W[pd];B[qa])
+(;B[pc]N[变化];W[pb];B[oa];W[qa];B[pd])
+(;B[oa]N[失败1];W[pa];B[ma];W[pc];B[ra];W[ka];B[qa];W[la])
+(;B[pc]N[失败2];W[pb];B[qa];W[oa];B[ra];W[la]))

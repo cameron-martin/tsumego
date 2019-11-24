@@ -1,0 +1,24 @@
+(;
+GM[1]
+SZ[19]
+AW[eq][dc][oc]
+AB[cp][qd][pq]
+LB[qd:1][dc:2][pq:3][oc:4][cp:5][eq:6]
+C[Problem 44. Black to play.  
+
+How should Black respond to the approach move of White 6 in the lower left corner ? ]
+;B[po]
+LB[hp:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black should make a corner enclosure with 1 and aim to make a pincer at A. ]
+;W[kq]
+LB[lq:B][jq:A]
+C[White might next play at 2. (If White 2 at A, Black can make an ideal checking extension form his corner enclosure with B.) ]
+;B[do]
+LB[hp:C]
+C[Black can now continue with either 3 or C. <= ]
+)
+)

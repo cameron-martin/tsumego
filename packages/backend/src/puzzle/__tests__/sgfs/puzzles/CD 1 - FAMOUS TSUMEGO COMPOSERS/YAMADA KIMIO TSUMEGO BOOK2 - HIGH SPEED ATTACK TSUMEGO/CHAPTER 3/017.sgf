@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pd][pe][pf][og][ng][mg][lf][le][ld][lc][mc][kc][kb][qb][rc]AW[mb]
+[nc][nd][md][me][mf][nf][of][oe][pc][pb]N[017]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[ob:A][od:B][lb:C][oc:D]C[A位夹很容易想到吧，但要计算看是否可行。B、C、D三点，简单的计算可确认不行。]
+N[审题])
+(;B[pa]N[正解];W[oa];B[nb];W[ob];B[od];W[oc];B[ma]C[白死。])
+(;B[pa]LB[oa:A][ob:B]C[黑1扳时，白像样的抵抗只有A、B两处。]N[变化];W[ob];B[od];W[oa]
+;B[oc];W[nb];B[ma])
+(;B[ob]LB[pa:A][oc:B]C[黑1夹时，白不能走在A位，因为黑B可冲]N[失败];W[oa]C[黑1死在里面了，白活。]))

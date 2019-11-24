@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[mg][lf][le][ld][lc][lb][kb][mc][qb][qc][qd][pe][pf][og]AW[mb][nc]
+[md][me][mf][nf][oe][pd][pc][pb]N[013]AP[MultiGo:4.4.4]SZ[19]AB[ng]MULTIGOGM[0]
+
+(;LB[nb:A][ob:B][pa:C][ma:D][of:E]C[黑A则白B，白活，因此可以排除。简单计算表明，黑走C、D或E位也不行，请确认之。]
+N[审题])
+(;B[nd]N[正解];W[ob];B[od];W[oc];B[pa];W[na];B[qa];W[oa];B[la]C[白死。])
+(;B[nd]N[变化1];W[od];B[ob])
+(;B[nd]N[变化2];W[nb];B[of];W[od];B[ne]C[黑提子后，观察白的棋形，死形。])
+(;B[ob]N[失败];W[nb];B[nd];W[oa]))

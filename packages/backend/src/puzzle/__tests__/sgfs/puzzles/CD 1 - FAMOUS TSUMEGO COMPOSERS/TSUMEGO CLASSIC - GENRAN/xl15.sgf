@@ -1,0 +1,12 @@
+(;GM[1]GN[XL]
+AB[ra][rb][rd][qc][pd][od][nd][md][lc][kc][jb][ja]
+AW[ka][lb][mc][nc][oc][pc][ob][qb][qa]
+(;B[pa](;W[mb];B[pb];W[na])
+(;W[pb];B[mb];W[ma];B[kb])
+)
+(;B[ma](;W[na](;B[mb];W[pa];B[kb])
+(;B[pa];W[mb];B[pb])
+)
+(;W[mb];B[oa];W[na];B[nb];W[la];B[pb];W[na];B[pa])
+)
+)

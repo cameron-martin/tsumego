@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fn][gn][hn][co][do][eo][ho][io][jo][bp][jp][bq][dq][br][dr][gr]AB[fm][gm][hm][im][bn][cn][dn][en][jn][bo][fo][ko][ap][fp][hp][ip][eq][jq][kq][er]LB[kp:A][lp:B]C[Ex. 12  - Strategem
+
+W's 7 stones are surrounded. They would lose a semeai with the B group on the left by one move and the de move at "A" does not seem so good after the reply at "B".
+Focus your attention on the single W stone on the lower side.]PL[W]
+(;W[iq]LB[iq:1]C[Diag 1 - Failure
+
+W has  tried kiri 1 but this is not the move ]
+;B[hq]LB[hq:2][iq:1]C[It fails after B 2 kakae.])
+(;W[gp]LB[gp:1]C[Diag. 2 - Correct
+
+W first tries hanekomi 1. ]
+(;B[gq]LB[gp:1][gq:2]C[If B answers at 2 ]
+;W[hq]LB[gp:1][gq:2][hq:3]C[W's cut 3 is an exquisite move. ]
+;B[go]LB[go:4][gq:2][hq:3]C[After B 4 takes, ]
+;W[iq]LB[go:4][gq:2][hq:3][iq:5]C[W plays ate 5. ]
+;B[gp]LB[go:4][gp:6][gq:2][hq:3][iq:5]C[Then B connects at 6]
+;W[ep]LB[go:4][ep:7][gp:6][gq:2][hq:3][iq:5]C[and after W 7, B is finished.
+Of course the territory on the left side falls into W's hands.])
+(;B[go]LB[go:2][gp:1]C[Diag 3. - Correct
+
+If B cuts above at 2 in answer to W 1 hanekomi ]
+;W[iq]LB[go:2][gp:1][iq:3]C[W 3 kiri is now a splendid move. ]
+;B[hq]LB[go:2][gp:1][hq:4][iq:3]C[If B 4,]
+;W[gq]LB[go:2][gp:1][gq:5][hq:4][iq:3]C[W connects at 5]
+;B[ir]LB[go:2][gp:1][gq:5][hq:4][ir:6]C[and after B 6, ]
+;W[hr]LB[go:2][gp:1][gq:5][hq:4][hr:7][ir:6]C[W7,]
+;B[iq]LB[go:2][gp:1][gq:5][hq:4][iq:8][hr:7][ir:6]C[B 8, ]
+;W[ep]LB[go:2][ep:9][gp:1][gq:5][hq:4][iq:8][hr:7][ir:6]C[W wins by one move with his ate 9.
+If during this sequence, B takes at 5 instead of playing 4 W plays ate at 4, reverting to diagram 2.
+Application of the hanekomi and kiri suji is brilliantly decisive.])))

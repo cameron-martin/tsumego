@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[qe][pe][oe][nd][md][ld][lc][lb][kb][rb][qb][rc]AW[la][mb][oc][pb]
+[qc][qd][pd][od]N[021]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;LB[nc:A]C[黑A冲不行，白挡住就活了。
+
+计算吧。]N[审题])
+(;B[oa]N[正解];W[pa];B[nb];W[nc];B[mc]C[没有劫，白死。])
+(;B[oa]N[变化];W[ob];B[pa];W[na];B[nc]C[白死。])
+(;B[nb]N[失败1];W[nc];B[mc];W[na]C[劫。])
+(;B[nb]N[失败2];W[nc];B[na];W[oa])
+(;B[na]N[失败3];W[oa];B[nb];W[nc])
+(;B[pa]N[失败4];W[oa];B[na];W[qa]))

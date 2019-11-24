@@ -1,0 +1,37 @@
+(;
+AB[qc][qd][pc][oc][nb][qf]
+AW[mc][mb][nc][kc][ne][od][pd]
+LB[ob:A]
+C[What is the value of the endgame play at A?
+
+Source:
+    Endgame Calculation
+    Go World #1, May-June, 1977, pp. 34-35]
+(;
+B[ob]
+C[The endgame value of this play is:  how many MORE points does Black have plus how many FEWER points does White have, than if White had played here first.];
+W[]
+C[After Black's 1st play, White only has a small gote play on the top, so White almost surely will play elsewhere.];
+B[ma]
+C[So this sente hane will be Black's privilege later.];
+W[la];B[na];W[lb]
+C[Now remember this position for reference against the next variation in which White plays first.]
+)
+    (;
+    W[ob]
+    C[The next question to answer is what the position would most likely look like after White plays here first.];
+    B[pb];W[na]
+    C[After this play, a White hane would be gote, because Black would just block and White would have to connect.
+
+So later, Black would most likely have time to descend here.];
+    B[pa];W[oa]
+    C[And White would finish here.
+
+In the previous variation, Black has 3 more points of corner territory than here, while White has 4 more points along the top plus the 1 captured stone.
+
+So this play is worth 8 (3+5) points.
+
+Simple, eh?  Of course, endgame plays can become much more involved, but the principle shown here still forms the basis of the calculations.]
+    )
+)
+

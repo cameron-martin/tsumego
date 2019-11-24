@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][nc][nd]
+AB[dd][hc][oc][pd][pf]
+C[Problem 25. Black to play.  
+
+White has made an ideal extension from her two stones on the right. However, it is still possible to invade this position. Where does  Black play ? ]
+;B[lc]
+TE[2]
+C[Correct Answer.  
+
+Black should invade at 1. ]
+(;W[ld]
+C[If White attaches at 2, ... ]
+;B[kc];W[kd];B[jb]
+LB[kc:3]
+C[... Black links up to his allies on the left with 3 and 5. <= ]
+)
+(;W[lb]
+C[Variation.  
+
+If White attached underneath with 2, ... ]
+;B[mb];W[mc];B[kb];W[ld];B[kc]
+(;W[kd];B[nb]
+C[... Black would play the moves to 9. <= ]
+)
+(;W[nb]
+C[If White 8 here, ... ]
+;B[kd]
+C[... Black plays 9. Either way, Black is satisfied. <= ]
+))
+)

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qb][rb][rc][rd][re][qf][qg][pg][og][ng][mf][lf][le][kd][kc][kb][mb]
+[nc][pc]AW[qd][pe][pf][of][nf][me][md][nd][od][lc][lb][la][ma][ob][qc]N[019]AP[MultiGo:4.4.4]
+SZ[19]AB[na]MULTIGOGM[0]
+
+(;LB[oc:A][nb:B]C[黑A、白B交换之后再计算，是不是要简单很多？]N[审题])
+(;B[oc]N[正解];W[nb];B[pa];W[mc];B[oa])
+(;B[oc]N[变化];W[nb];B[pa];W[oa];B[mc]))

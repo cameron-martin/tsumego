@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gb][hd][hc]GN[ ]AB[gd][fb][dd][gc]PM[1]C[Problem 187. Black to play.
+(Please move one step forward to see the problem diagram...)]PW[ ]
+;W[fa]C[White 1 is a bad move. How should Black reply?]
+(
+;B[hb]C[Correct Answer
+Black should play 2. The white stone in atari cannot escape.]
+)
+(
+;B[ea]C[Wrong Answer
+If Black gives atari at 2...]
+;W[hb]C[...White can connect at 3...]
+;B[ga]C[...Even though Black has captured a white stone, his result is inferior to the correct answer.]
+)
+
+)

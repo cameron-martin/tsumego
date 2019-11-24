@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[rr][rq][qr][sp][pq][oq][nq]AW[pr][ps][qq][qp][rp][ro][so][pp][op]
+[np][mp][mq][lr][kq]N[51]AP[MultiGo:4.4.4]SZ[19]AB[nr]MULTIGOGM[0]
+
+(;TR[ps]C[第51题 目标是劫争
+
+白▲立是非常厉害的一手。为此黑不能无条件成活了。
+
+黑除目标是劫争之外，别无他法。]
+N[审题])
+(;B[sr]C[黑1是眼形的急所]N[正解];W[ns]C[白2托，与左边的黑四子展开对杀。];B[ms];W[or]
+C[成劫是双方最佳结果。])
+(;B[qs]N[失败1];W[sr]C[白2托是手筋，黑死。])
+(;B[sq]N[失败2];W[sr];B[ss];W[qs];B[os];W[mr])
+(;B[os]N[失败3];W[sr];B[sq];W[qs];B[ss];W[mr]))

@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bn][cn][co][dp][ep][dq][er][fr]AB[bo][ap][cp][ip][cq][eq][fq][cr][dr]C[Ex. 3 - Sabaki
+
+B's 2 stones cannot be captured by shicho and it is extremely difficult for W to settle both his groups at the same time.
+How will he cope with this situation ?
+]PL[W]
+(;W[gq]LB[gq:1]C[Diag.  1  -  Failure
+
+W 1 ate is no good ]
+;B[fp]LB[fp:2][gq:1]C[after B 2 magari. ]
+(;W[gp]LB[ep:1][gp:3][fq:2]C[If W plays 3 ]
+;B[fo]LB[fo:4][fp:2][gp:3][gq:1]
+;W[en]LB[en:5][fo:4][fp:2][gp:3][gq:1]C[and W 5, ]
+;B[go]LB[en:5][fo:4][go:6][fp:2][gp:3][gq:1]C[after B 6, W has been separated.
+He has not been captured, but he is at a disadvantage in trying to cope with the situation.
+3 is a heavy move
+])
+(;W[fo]LB[fo:3][fp:2][gq:1]C[Diag. 2  -  Failure
+
+W cannot, of course, play shicho with 1 and 3. 
+]
+;B[gp]LB[fo:3][fp:2][gp:4][gq:1]C[After B 4 ]
+;W[hp]LB[fo:3][fp:2][gp:4][hp:5][gq:1]
+;B[go]LB[fo:3][go:6][fp:2][gp:4][hp:5][gq:1]C[and 6 it is impossible to continue the chase.]))
+(;W[gp]LB[gp:1]C[Diag. 3  -  Correct
+
+W 1 kake is the sabaki tesuji.
+If you can get into the way of thinking that it is alright to sacrifice stones, sabaki becomes unexpectadly simple.
+The main thing is how the sacrifice is carried out.]
+;B[gq]LB[gp:1][gq:2]C[Diag.  4  -  Variation
+
+If B goes to 2 in answer to W 1, ]
+;W[hq]LB[gp:1][gq:2][hq:3]C[W gives up his 2 stones with W 3 ]
+;B[gr]LB[gp:1][gq:2][hq:3][gr:4]
+;W[hr]LB[gp:1][gq:2][hq:3][gr:4][hr:5]C[W 5 ]
+;B[es]LB[gp:1][gq:2][hq:3][gr:4][hr:5][es:6]
+;W[fp]LB[fp:7][gp:1][gq:2][hq:3][gr:4][hr:5][es:6]C[then W 7.]
+;B[fs]LB[fp:7][gp:1][gq:2][hq:3][gr:4][hr:5][es:6][fs:8]
+;W[hp]LB[fp:7][gp:1][hp:9][gq:2][hq:3][gr:4][hr:5][es:6][fs:8]C[When W connects with 9, he has an extremely thick shape and B has merely captured 2 stones.
+He has come off worse and he should refrain from playing move 2 and the rest.]))

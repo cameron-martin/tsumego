@@ -1,0 +1,45 @@
+(;
+AB[nc][qd][qj][oj]
+AW[qm][pp]
+C[White plays in the upper right.
+
+Source:
+    American Go Journal, Vol. 17, No. 3, Sept 1982, p. 22
+    Keshi and Uchikomi, Kaoru Iwamoto 9p]
+(;
+W[oh]
+C[Correct];
+B[qh];W[ne]
+(;
+B[pe]
+C[The basic pattern leading to a fair exchange for both players.  Black converts some of his moyo into territory and White reduces the size of the moyo.]
+)
+    (;
+    B[]
+    C[If Black foolishly plays elsewhere ...];
+    W[pe]
+    C[White has this hard blow.]
+    (;
+    B[pd];W[qe]
+    C[White separates the 2 Black groups.  Black's big moyo is only a fading memory.]
+    )
+        (;
+        B[qe]
+        C[Black can block on the right side, but ...];
+        W[oc]
+        C[White splits Black again.  The difference between this position and the main line is huge.]
+        )
+    )
+)
+    (;
+    W[ne]
+    C[Wrong move order.];
+    B[pf]
+    C[Black can defend more efficiently here.];
+    W[oh]
+    C[So if White reverses the move order ...];
+    B[ph]
+    C[Black has a more aggressive defense.  White has needlessly lost points relative to the main line.]
+    )
+)
+

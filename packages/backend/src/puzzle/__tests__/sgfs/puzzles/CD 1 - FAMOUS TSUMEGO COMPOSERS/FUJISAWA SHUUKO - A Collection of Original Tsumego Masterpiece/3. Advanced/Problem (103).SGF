@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[rf][qd][qc][qb][pb][oa][mc][mb][ma][la][jb][jc][oc][re]AW[rd][ra][rb][rc][se][pc][pd][pe][qe][ka][lb][lc][ld][md][nd]C[白先 请救出角上的白棋。]
+
+(;W[nb];B[nc]
+(;W[ob];B[na];W[ob];B[nb];W[qa];B[kb];W[pa]C[正解 白先活])
+(;W[kb];B[qa]C[失败]))
+(;W[qa];B[kb];W[nb];B[nc];W[ob];B[na];W[ob];B[pa]C[失败]))

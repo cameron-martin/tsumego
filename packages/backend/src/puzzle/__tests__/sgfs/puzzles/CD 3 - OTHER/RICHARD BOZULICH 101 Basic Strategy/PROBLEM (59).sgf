@@ -1,0 +1,6 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[dp][cq][cn][qn][qk][dc][ce]AW[dr][fq][iq][pp]
+[np][qo][qd][oc]TR[qo]C[Black to play. White has just attached with the marked stone. How should Black respond?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[ro];W[rp];B[qh]LB[rn:A][rm:B][so:C]C[CORRECT Black should make sabaki by forcing, then extending. The exchange White A - Black B - White C is gote for white. Moreover, the Black connection at A is sente, because it threatens to invade White's corner.])
+(;B[pn];W[qi];B[ok];W[oi]C[Extending here is bad, White attacks while building a moyo.]))

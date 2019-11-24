@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[ja][ka][kb][mc][md][le][lf][kf][jf][if][hf][he][hd][gc][gb][ga][mb]
+AW[jc][jd][je][ke][ie][hc][hb][ha][kc][lc][lb][ld][jb]N[黑先]AP[MultiGo:4.4.4]SZ[19]
+AB[la]MULTIGOGM[0]
+
+(;C[审题：空间很小，计算也不复杂，应该找出正解。]N[审题])
+(;B[ma]C[黑1接，沉着，这样白棋就死了。]N[正解1];W[ia];B[ic]C[白死。])
+(;B[ma]N[正解2];W[id];B[ib]C[白死。])
+(;B[ib]N[失败];W[ic];B[ma];W[ia]))

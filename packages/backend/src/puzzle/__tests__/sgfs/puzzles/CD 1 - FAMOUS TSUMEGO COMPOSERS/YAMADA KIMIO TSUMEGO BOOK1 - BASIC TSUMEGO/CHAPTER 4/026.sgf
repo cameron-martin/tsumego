@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rc][rd][qe][pe][oe][ne][me][ld][kd][kc][kb][ka][la][qa][ra]AW[ma]
+[lb][lc][md][nd][od][ob][pa][qb][qc]N[026]AP[MultiGo:4.4.4]SZ[19]AB[rb]MULTIGOGM[0]
+
+(;C[观察白的棋形，有什么缺陷没有？
+
+本题与026题密切相关。]N[审题])
+(;B[nb]N[正解];W[mb];B[na];W[mc];B[pd];W[pc];B[oc])
+(;B[nb]N[变化];W[nc];B[mb];W[pc];B[pd])
+(;B[mb]N[失败1];W[nb];B[na];W[pc];B[mc];W[nc]C[这正事025题的内容。])
+(;B[pc]N[失败2];W[nb]))

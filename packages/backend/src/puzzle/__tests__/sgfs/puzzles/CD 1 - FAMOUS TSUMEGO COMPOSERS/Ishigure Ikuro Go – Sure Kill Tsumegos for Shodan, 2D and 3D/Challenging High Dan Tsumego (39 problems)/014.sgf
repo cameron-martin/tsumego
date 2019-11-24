@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[np][nq][mp][lq][mr][pr][qo][po][oo]AW[kr][lr][kq][kp][lo][mo][nn]
+[on][pn][qn][rn][ro][qp][pp][op][qr]N[014]AP[MultiGo:4.4.4]SZ[19]AB[no]MULTIGOGM[0]
+
+(;LB[lp:A]C[黑A是后手眼，因此必须在边上先手做出眼来。看看白形有什么可以利用的地方？]
+N[审题])
+(;B[qq]N[正解];W[pq]C[黑1挖，白2只好从这里打，走其他地方都简单不行];B[or]LB[lp:A]
+[rq:B]C[黑3退回是先手。接下来，白若A位破眼，则黑B位长，白不行。];W[rq];B[lp]C[黑活。])
+(;B[qq]N[变化];W[rq];B[pq];W[rr];B[lp])
+(;B[or]N[失败1];W[lp];B[qq];W[rq])
+(;B[oq]N[失败2];W[pq];B[rp];W[qq]))

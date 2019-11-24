@@ -1,0 +1,57 @@
+(;
+GM[1]
+SZ[19]
+AW[fq][fr][fo][fm][kq][nq][np]
+AB[pj][dj][dp][pd][pp][dd][eq][dn][hq][ho][oq][pn][jj]
+LB[fm:13][fo:3][fq:1][fr:5][eq:4][dn:6][ho:8][hq:2][kq:7][nq:9]
+LB[np:11][oq:10][pn:12]
+C[Problem 64. Black to play.  
+
+What should Black do after White jumps to 13 ? ]
+(;B[jq]
+TE[2]
+C[Correct Answer.  
+
+Attaching with 21 gives the black stones breathing room. ]
+;W[ep]
+C[White must secure her stones on the left with 2, but ... ]
+;B[eo]
+C[... after exchanging 3 ... ]
+;W[fp]
+C[... for 4, ... ]
+;B[kp]
+C[... Black gets to play another move on the bottom with 5. ]
+;W[dq]
+C[Next, White makes eye shape with 6 ... ]
+;B[cq];W[dr]
+C[... and 8, ... ]
+;B[cp];W[lq]
+C[... then defends her stones on the right with 10. ]
+;B[jo]
+C[When Black plays 11, all of his stones are secure, but the white stones on the right are still vulnerable. <= ]
+)
+(;B[fp]
+C[Variation.  
+
+Black could have wedged in with 1 and ... ]
+;W[gp];B[ep];W[hp];B[go];W[ip];B[fn]
+LB[er:A]
+C[... cut off the two white stones above with the sequence to 7. Black gets a thick wall on the left, but White's stones at the bottom are secure. Later, the point A is Black's privilege. <= ]
+)
+(;B[el]
+C[How the game continued.  
+
+Black expanded his territory along the left side with 1 ... ]
+;W[fl];B[ek]
+C[... and 3, but ... ]
+;W[ip]
+C[... after peeping with 4 and ... ]
+;B[hp];W[eo]
+LB[fp:A]
+C[... playing forcing moves with 6 (note that this move eliminated the aji of Black A) ... ]
+;B[do];W[em]
+C[... and 8, ]
+;B[dm];W[im]
+C[... White staked out a big moyo with 10. See Problem 68 for the continuation. <= ]
+)
+)

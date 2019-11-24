@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nd][pc][pd][qd][rd][rf][na][nb]AW[rc][qc][sd][pb][ob][ra]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[审题：不是很复杂的死活。黑棋的手段也是基本功。
+
+正解有二。失败图的计算也不复杂。]
+N[审题])
+(;B[qb]LB[rb:A][qa:B]C[黑棋先断一手。白棋只有两个选择，A或B位。A位的选择见正解2。]
+N[正解1];W[qa];B[oa];W[pa];B[sb]C[白死。])
+(;B[sb]C[黑棋先点也行]N[正解2];W[sc]C[白棋只能接住];B[qb];W[rb];B[pa]C[白死。]))

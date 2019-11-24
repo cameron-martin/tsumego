@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[gl][cm][dm][em][bn][fn][gn][bo][co][do][ho][ap][dp][hp][bq][ar][cr][cs][ds]AB[hm][cn][dn][en][hn][eo][fo][go][jo][bp][cp][cq][dq][eq][gq][hq][jq][lq][dr][es]C[Ex. 2 - Strategem
+
+This is a complicated position but it is not so difficult to find a tesuji.
+Damezumari looms ominous.]PL[W]
+(;W[ep]LB[ep:1]C[Diag. 1 - Failure
+
+W's de at 1 is too straightforward. ]
+;B[fq]LB[ep:1][fq:2]C[B connects securely at 2 and after this there is no way to continue the attack.])
+(;W[fq]LB[fq:1]C[Diag. 2 - Correct
+
+W 1 warikomi is a sharp move and with this everything is decided at once ]
+(;B[fr]LB[fq:1][fr:2]C[If B plays ate 2 from below, ]
+;W[fp]LB[fp:3][fq:1][fr:2]C[W plays nobi 3. It is as though B has a sword stuck in his throat and can turn his head neither left nor right without harming himself. ]
+;B[gp]LB[fp:3][gp:4][fq:1][fr:2]C[If B plays 4 ]
+;W[ep]LB[ep:5][fp:3][gp:4][fq:1][fr:2]C[W 5 can capture 6 stones in the corner.
+If B 5 instead of 4, W connects at 4 and B suffers an even greater loss.])
+(;B[fp]LB[fp:2][fq:1]C[Diag. 3 - Correct
+
+If B plays ate from above at 2 in answer to W 1, ]
+;W[fr]LB[fp:2][fq:1][fr:3]C[W plays sagari at 3 and B is in a tight fix. ]
+;B[gp]LB[fp:2][gp:4][fq:1][fr:3]C[If he connects at 4, ]
+;W[ep]LB[ep:5][fp:2][gp:4][fq:1][fr:3]C[W cuts at 5 and captures B's 7 stones.])
+(;B[ep]LB[ep:2][fq:1]C[Diag. 4 - Variation
+
+If B connects at 2 in reply to W 1 warikomi, ]
+;W[gp]LB[ep:2][gp:3][fq:1]C[W plays at 3 and B is in a helpless position.])))

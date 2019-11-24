@@ -1,0 +1,29 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cc][cd][ci][de][df][fc][gd]
+AW[cb][dc][eb][ed][ee]PL[W]C[White to play.
+
+Defense - Push Out]
+(
+;W[ge]
+;B[he]
+;W[gf]
+;B[id]
+;W[ef]C[RIGHT
+])
+(
+;W[ff]
+(
+;B[hf])
+(
+;B[fb])
+(
+;B[gf]
+;W[gg]C[White Ok]))
+(
+;W[ef]
+;B[gf]
+;W[eg]
+;B[dh]
+;W[fb]
+;B[gb]
+;W[bc]))

@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 20. Black to play.
+Black doesn't want to lose his two stones. How can he save them?]AW[fl][dm][el][dj]PB[ ]PM[1]PW[ ]AB[hm][fm][em][gj][gl]
+(
+;B[gm]C[Correct Answer
+Black can save his two stones by playing at 1.]
+)
+(
+;B[dl]C[Wrong Answer
+If Black plays at 1...]
+;C[...White will capture the black stones with 2.]W[gm]
+)
+
+)

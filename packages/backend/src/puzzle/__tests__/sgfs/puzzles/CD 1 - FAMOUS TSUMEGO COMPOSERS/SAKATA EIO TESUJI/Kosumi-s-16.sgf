@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[co][do][eo][bp][cp][bq][dq][eq][hq][iq][kq][er]AB[dp][ep][fp][cq][gq][br][cr][dr]C[Ex. 16 - Semeai
+
+This is a relatively high-kyu kosumi problem.
+One move against the 3 trapped W stones and B will have made a large capture.
+The solution is rather difficult.]PL[W]
+(;W[gr]LB[gr:1]C[Diag. 1 - Failure
+
+If W 1 hane, ]
+;B[fr]LB[fr:2][gr:1]C[after B 2 kosumi, he is left without a move.])
+(;W[fs]LB[fs:1]C[Diag. 2 - Correct
+
+Things start after W 1 kosumi. ]
+(;B[gr]LB[gr:2][fs:1]C[If B 2, ]
+;W[hr]LB[gr:2][hr:3][fs:1]C[W 3 osae ]
+;B[gs]LB[gr:2][hr:3][fs:1][gs:4]C[forces B 4 ]
+;W[gp]LB[gp:5][gr:2][hr:3][fs:1][gs:4]C[and W 5 atekomi is almost the finishing touch. ]
+(;B[fo]LB[fo:6][gp:5][gr:2][hr:3][fs:1][gs:4]C[If B 6 ]
+;W[fq]LB[fo:6][gp:5][fq:7][gr:2][hr:3][fs:1][gs:4]C[W 7 cuts and wins the semeai.])
+(;B[fq]LB[gp:5][fq:6][gr:2][hr:3][fs:1][gs:4]C[Diag. 3 - Correct
+
+If B 6 tsugi in response to B 5 atekomi]
+;W[fo]LB[fo:7][gp:5][fq:6][gr:2][hr:3][fs:1][gs:4]C[W 7 completes a large capture.
+W 5 is difficult to see.  It combines 2 tesujis.]))
+(;B[fr]LB[fr:2][fs:1]C[Diag. 4 - Correct
+
+If B 2 kosumitsuke in reply to W 1 kosumi, ]
+;W[hs]LB[fr:2][fs:1][hs:3]C[the tobi of W 3 is tesuji.
+Whatever B does, he cannot prevent the connection, and there is no alternative but to abandon the corner.])))

@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dj][dp][nc][kb][ne][pb]
+AB[pp][pj][pd][jp][kd][pf][qc]
+LB[nc:1][kd:2][ne:3][pf:4][pb:5][qc:6][kb:7]
+C[Problem 14. Black to play.  
+
+In this sanren-sei opening, Black makes a high two-space pincer with 2. The joseki to White 7 follows. Where should Black play next ? ]
+(;B[ng]
+TE[2]
+C[Correct Answer.  
+
+Capping with Black 1 is absolutely essential. Black has now transformed his sanren-sei formation into a large-scale moyo. ]
+;W[fq]
+TR[ng]
+C[Black's aim.  
+
+If White doesn't respond to the marked stone but plays 2 at the bottom, ... ]
+;B[md]
+C[... Black can force with 3, ... ]
+;W[nd];B[lg]
+LB[jb:A]
+C[... then jump to 5. Black can next aim at A. Black's sanren-sei strategy is now a success. <= ]
+)
+(;B[fq]
+C[Failure.  
+
+Clearly, Black 1 is a good point locally, but ... ]
+;W[ng]
+LB[ph:B][pn:A][fq:1]
+C[... White will take the vital point of 2, and Black's stone at the top is drifting in the shadow of White's influence. For the same reason, Black 1 at A is also bad. After 2, White can aim at the invasion at B. <= ]
+)
+)

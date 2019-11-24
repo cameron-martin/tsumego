@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[nf][md][ld][lb][mb][pb][pc][rc][rd][qd][pe][qf]AW[qb][qc][rb][sc]
+[pd][od][oe][oc][nc][nb]N[075]AP[MultiGo:4.4.4]SZ[19]AB[of]MULTIGOGM[0]
+
+(;C[黑棋可选的着手并不多。排除明显不行的着手后，正解就容易得到了。]N[审题])
+(;B[sb]N[正解];W[sa];B[ra];W[qa];B[sd];W[ob];B[sb]C[劫杀正解。])
+(;B[sb]N[失败1];W[sa];B[pa];W[re];B[qe];W[sd];B[rf];W[qa];B[se];W[oa])
+(;B[pa]N[失败2];W[sb];B[sd];W[oa])
+(;B[sd]N[失败3];W[pa];B[sb];W[ob]))

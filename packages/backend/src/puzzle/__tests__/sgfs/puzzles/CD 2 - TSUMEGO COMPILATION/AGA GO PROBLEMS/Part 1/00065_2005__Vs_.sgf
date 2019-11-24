@@ -1,0 +1,85 @@
+(;
+AB[pd][cp][hp][cf][di]
+AW[dd][fd][ep][qq]
+LB[en:A][dm:B][co:C]
+TR[hp]
+C[White's response to the marked stone?
+A, B, or C?
+
+Source:
+    "Go World", #32, Summer 1983, pp. 53-59
+    The Great Joseki Debate, by Honda Kunihisa 9-dan]
+(;
+W[en]
+C[Solid and correct.
+Black is too strong here
+to play less solidly.
+One representative line of play follows.];
+B[cn];
+W[el]
+C[White creates some breathing room.];
+B[cl];
+W[kp]
+C[Now White can go on the attack.];
+B[hm];
+W[gk]
+TR[di]
+C[The overall position is already
+unfavorable for Black.
+
+Black's marked stone is
+awkwardly placed.]
+)
+    (;
+    W[dm]
+    C[Too loose for White to expect a good
+result within Black's sphere of influence.
+The number of variations are too numerous
+to include here.  One representative line of
+play follows.];
+    B[eo];
+    W[fo];
+    B[en];
+    W[dp];
+    B[cn];
+    W[fn];
+    B[em];
+    W[cq];
+    B[co];
+    W[dr];
+    B[nq];
+    W[qn];
+    B[kp]
+    TR[di]
+    C[The game is promising for Black.
+The marked Black stone is at
+an ideal position in relation to
+the lower left stones.]
+    )
+    (;
+    W[co]
+    C[A sharp continuation.
+Again, the number of variations are too numerous
+to include here.  So one representative line of
+play follows.];
+    B[dp];
+    W[do];
+    B[eo];
+    W[bp];
+    B[bq];
+    W[bo];
+    B[eq];
+    W[fp];
+    B[fo];
+    W[fq];
+    B[er];
+    W[ck];
+    B[gp];
+    W[np]
+    C[White has made a good
+extension on the left, but Black
+has taken good profit in the
+corner.  Both sides have equal
+chances.]
+    )
+)

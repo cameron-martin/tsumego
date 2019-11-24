@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cf][cq][bn][co][do][en][dm][ep][eq][hp][pb][nc][kc][jc][kd][ke]
+AB[bq][ap][bo][cp][dp][dq][dr][dn][jp][po][pq][pk][pf][pd][qc][jd][id][jf]
+LB[ke:6][kd:4][jc:2][jf:5][id:3][jd:1]
+C[Problem 155. Black to play.  
+
+Black has reduced White's moyo with the moves 1 to 5. Taking the overall position into account, how should Black answer White 6 ? ]
+(;B[kf]
+TE[2]
+C[Correct Answer.  
+
+Black should block at 1. ]
+(;W[je]
+C[If White pushes through with 2 ... ]
+;B[if];W[ie]
+C[... and 4, ... ]
+;B[hf]
+LB[cc:A]
+C[... Black builds a huge moyo in the center of the board. Black is now aiming at the invasion of A. <= ]
+)
+(;W[qp]
+LB[kf:1]
+C[The actual game.  
+
+This position was taken from the second game of the 3rd Kisei title match, played between Fujisawa Shuko (White) and Ishida Yoshio. When Ishida played 1, Fujisawa probed with 2, ... ]
+;B[pp];W[km]
+C[... then jumped to 4, thereby avoiding the unfavourable result in the Correct Answer. <= ]
+))
+(;B[hg]
+C[Failure.  
+
+If Black blindly plays the joseki move of 1, ... ]
+;W[lg]
+C[... White jumps out to 2, erasing Black's moyo. Since Black's moyo is bigger than White's, the exchange favours White. <= ]
+)
+)

@@ -1,0 +1,31 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ac][ae][bb][bc][bh][cb][ch][db][dg][eb][ef][eg][fc][fd][fe]
+AW[ad][bd][cc][ce][cf][cg][dc][df][ec][ed][ee]PL[B]C[Black to play.
+
+Capturing stones - Reduce Opponent's Liberties]
+(
+;B[cd]
+(
+;W[be]
+;B[dd]
+;W[de]
+;B[af]C[RIGHT
+])
+(
+;W[dd]
+;B[be]
+;W[cd]
+;B[ag]C[RIGHT
+]))
+(
+;B[af]
+;W[ag]
+;B[bg]
+;W[dd])
+(
+;B[be]
+;W[cd]
+;B[ag]
+;W[af]
+;B[bf]
+;W[bg]))

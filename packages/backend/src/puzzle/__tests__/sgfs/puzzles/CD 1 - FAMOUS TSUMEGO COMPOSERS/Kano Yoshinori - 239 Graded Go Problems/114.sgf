@@ -1,0 +1,13 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[Problem 114. Black to play.
+How does Black play in this position?]PM[1]PB[ ]AB[ek][dl][fl][ck][dj][ch]AW[gk][el][ei][fk][ej]GN[ ]FG[259:]PW[ ]
+(
+;C[Correct Answer
+Taking a stone with Black 1 settles the ko. This is the correct answer.]B[em]
+)
+(
+;C[For Reference
+Black 1 here also settles the ko, but even though Black will eventually take the white stone, the result is less than satisfactory.]B[dk]
+)
+
+)

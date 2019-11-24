@@ -1,0 +1,73 @@
+(;
+AB[ck][cn][dn][hq][kq][pq][qo][qd][fc][kc]
+AW[dd][df][ci][qk][qh][co][dp][fp][fq][ic]
+TR[ic]
+C[Black's response to White's marked
+play?
+
+This kind of situation occurs
+regularly.  Play through the
+following variations to see
+some plausible approaches and
+the consequences.
+
+Source:
+    Go World #34, Winter 1983-84, pp. 12-13
+    Otake Hideo  vs.  Awaji Shuzo
+    8th Gosei Title
+    Otake's commentary.]
+(;
+B[cc]
+C[Black can invade the corner,
+but ...];
+W[dc];
+B[db];
+W[eb];
+B[cb];
+W[ec];
+B[be];
+W[oc]
+C[White has sente to attack in
+the upper right.]
+)
+    (;
+    B[dc];
+    W[cc];
+    B[cb];
+    W[ec]
+    C[Joseki move.];
+    B[db];
+    W[eb];
+    B[ed];
+    W[fb];
+    B[fd];
+    W[gb];
+    B[de];
+    W[cd];
+    B[ce];
+    W[be]
+    C[The last three moves form a
+well known joseki.]
+    (;
+    B[bf];
+    W[cf];
+    B[ee];
+    W[bd];
+    B[bg];
+    W[bb]
+    LB[dh:a][eg:b]
+    C[White can take the corner, but
+Black A, White B creates a
+lively situation.]
+    )
+        (;
+        B[cf]
+        C[Mistake.];
+        W[bf]
+        C[White captures the corner
+effortlessly and can connect underneath down the side.
+
+This is too good for White.]
+        )
+    )
+)

@@ -1,0 +1,14 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[jc][qj][qo][mq][jq][eq][dc][ch][qc][rd]AW[lc]
+[op][qd][od][qh][pq][cp][cm][ce][pc][rc]TR[rc]C[Black to play. How should Black answer when White cuts with the marked stone?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+;B[ph]
+(;W[pg];B[oh];W[qi];B[pj]
+(;W[qf];B[nj]C[CORRECT White secures the corner when he cuts wit the marked stone, so Black should switch to the outside and attach. After White prevents the cut making himself overconcentrated, Black makes good shape and thickness in the center.])
+(;W[aa];B[qe];W[qb];B[qg]
+(;W[qf];B[rg];W[pe];B[og];W[pf];B[ri]C[CORRECT White shouldn't play elsewhere, or his bad aji lets Black make profit in the upper right capturing the two stones after forcing White.])
+(;W[rg];B[qf];W[of];B[rf];W[sh];B[ri];W[rj];B[rk];W[rh];B[sj];W[sf];B[pi];W[se]
+;B[si]C[CORRECT If White tries to get away by playing atari underneath, he will lose the capturing race.])))
+(;W[qg];B[qi]
+(;W[pg];B[oh];W[og];B[nh]C[CORRECT White might also extend, and the following sequence seems natural. Black builds thickness while White's stones are being overconcentrated.])
+(;W[aa];B[qe];W[qb];B[pg];W[qf];B[pf];W[pe];B[re];W[rf];B[oe];W[pd];B[rh];W[sd]
+C[CORRECT If White plays elsewhere in this variation, Black will keep forcing ending in sente.])))

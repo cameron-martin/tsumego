@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dn][en][fn][do][go][ep][fp][gp][dq][gq][cr][dr]AB[dm][em][fm][cn][gn][hn][co][ho][cp][dp][cq][iq][br][ir][bs]C[4.  Oki
+
+Ex. 1 - Life or death
+Oki is a move which occupies the vital point in no uncertain manner.
+It has the particular feature of controlling the life or death of the opponent's group by snatching away his eyes. In the main it applies to the first or second line.
+
+This example concerns the life or death of the W group.]PL[B]
+(;B[er]LB[er:1]TR[aa]C[Diag. 1 - Failure
+
+B 1 tsuke is the wrong move.
+Far from taking W's eyes away, ]
+;W[eq]LB[eq:2][er:1]C[after W 2 ]
+;B[fr]LB[eq:2][er:1][fr:3]C[B 3 ]
+;W[gr]LB[eq:2][er:1][fr:3][gr:4]C[and W 4. 
+W 3 komitsuke instead of 2 is also good.])
+(;B[fr]LB[fr:1]C[Diag. 2 - Correct
+
+B 1 must be the oki here.]
+;W[gr]LB[fr:1][gr:2]C[If W 2 ]
+(;B[cs]LB[fr:1][gr:2][cs:3]C[the crawling move B 3 is good, and after these 2 tesujis W dies.]
+(;W[er]LB[er:4][fr:1][gr:2][cs:3]C[If W 4, ]
+;B[es]LB[er:4][fr:1][gr:2][cs:3][es:5]C[B plays 5 hane and you should confirm that there is no way for W to prevent the connection.])
+(;W[es]LB[fr:1][gr:2][cs:3][es:4]C[Diag. 3 - Correct
+
+When B plays 1 and 3, W 4 prevents the connection, ]
+;B[er]LB[er:5][fr:1][gr:2][cs:3][es:4]C[but after B 5 atekomi W cannot continue his resistance]))
+(;B[es]LB[fr:1][gr:2][es:3]TR[aa]C[Diag. 4 - Failure
+
+B 3 is a bad move.]
+;W[eq]LB[eq:4][fr:1][gr:2][es:3]C[After the sequence from W 4 to B 7 there is no alternative but to fight the ko.]
+;B[gs]LB[eq:4][fr:1][gr:2][es:3][gs:5]
+;W[hs]LB[eq:4][fr:1][gr:2][es:3][gs:5][hs:6]
+;B[hr]LB[eq:4][fr:1][gr:2][hr:7][es:3][gs:5][hs:6]C[Ko is failure.])))

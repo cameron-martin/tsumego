@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[sd][pa][rb][qc][pc][qd]AW[rc][pb][ob][oa][oc][pd][pe][qe][re][se]
+N[137]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;C[正解、失败都很简单。
+
+难度：☆]N[审题])
+(;B[ra]N[正解])
+(;B[qb]N[失败1];W[ra];B[qa];W[sb])
+(;B[sc]N[失败2];W[ra]))

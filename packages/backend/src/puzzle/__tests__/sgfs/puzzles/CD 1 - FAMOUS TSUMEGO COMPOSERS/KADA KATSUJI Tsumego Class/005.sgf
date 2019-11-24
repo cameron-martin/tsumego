@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[er][es][ar][bq][cq][dp]AW[cr][ap][bp][cp][cn][do][eo][ep][fq][fr]
+C[B]N[005]AP[MultiGo:4.4.4]SZ[19]AB[eq]MULTIGOGM[0]
+
+(;C[很容易就走成打劫活。能不能净活呢？
+可以先计算各种失败图。
+
+难度：B]N[审题])
+(;B[br]N[正解];W[bs];B[ds];W[dq];B[cs];W[fs];B[as]C[白一子接不归，黑活。])
+(;B[br]N[变化];W[bs];B[ds];W[cs];B[dq]C[双活。])
+(;B[dq]N[失败1];W[bs])
+(;B[dr]N[失败2];W[bs];B[cs])
+(;B[cs]N[失败3];W[bs];B[dr])
+(;B[bs]N[失败4];W[dq];B[dr];W[fs]))

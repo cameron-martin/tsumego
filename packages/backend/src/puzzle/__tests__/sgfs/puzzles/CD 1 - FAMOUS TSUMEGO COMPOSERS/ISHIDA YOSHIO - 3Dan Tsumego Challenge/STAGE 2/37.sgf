@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qs][ls][lr][mq][nq][pq][pr]AW[rs][rr][qq][qp][pp][op][np][mp][lp]
+[kq][kr][ks][nr]C[37]N[37]AP[MultiGo:4.4.4]SZ[19]AB[qr]MULTIGOGM[0]
+
+(;TR[nr]C[第37题 成劫争为最佳结果
+
+白棋夹攻。这时黑不能无条件成活，要用劫争来求活。]
+N[审题])
+(;B[ns]N[正解];W[os];B[mr]C[除了黑1夹之外，别无他法。劫活。])
+(;B[or]N[失败1];W[os]C[黑死。])
+(;B[oq]N[失败2];W[os];B[lq];W[ms]C[黑死。]))

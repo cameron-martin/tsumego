@@ -1,0 +1,69 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][fd][kc][nc][pb][ph][qm][qp][oq]
+AB[qc][pd][pf][qk][ok][dp][dj][cf]
+TR[ph]
+C[Problem 49. Black to play.  
+
+The marked white stone has a lot of room to maneuver. How should Black attack ? ]
+(;B[oi]
+TE[2]
+C[Correct Answer.  
+
+The shoulder hit of Black 1 is severe. ]
+;W[oh]
+C[If White 2, ... ]
+;B[nh]
+C[... Black presses with 3 and ... ]
+;W[og]
+C[... White has to turn at 4. ]
+;B[nd]
+C[Black now leans on White's stones above with 5. ]
+(;W[ng]
+LB[nd:5]
+C[White might want to ignore Black 5 and turn at 6. ]
+;B[mc]
+C[Black would the play 7 ... ]
+(;W[mb];B[md];W[nb]
+C[If White defends upon to 10, ... ]
+;B[mg];W[mh];B[ni];W[mf];B[lg];W[nf];B[lf]
+C[... Black traps White's stones on the right with the sequence to 17. <= ]
+)
+(;W[lg];B[md]
+C[... and 9, taking a large profit at the top. Black is satisfied with this result. <= ]
+))
+(;W[md]
+C[If White defends the top with 6, ... ]
+;B[me]
+C[... Black keeps up the pressure with 7. ]
+(;W[ld]
+C[After White 8, ... ]
+;B[ng]
+C[... Black turns at 9 and the white stones on the right are trapped. <= ]
+)
+(;W[ne]
+C[If White plays at 8 here, ... ]
+;B[nf]
+C[... Black ataris at 9 here. The white stones on the right are trapped. ]
+)))
+(;B[nh]
+C[Failure.  
+
+Capping with Black 1 doesn't work ... ]
+;W[pj]
+C[... because White will peep with 2. ]
+;B[pk];W[ni];B[oi];W[oh];B[mi];W[ng];B[nj];W[of]
+C[White now extricates her stones with the sequence to 10. White's stones are safe, but the three black stones in the upper right corner are in trouble. <= ]
+)
+(;B[ng]
+C[Failure.  
+
+Attacking from above with Black 1 ... ]
+;W[nh];B[mh]
+C[... and 3 is out of the question. ]
+;W[ni];B[mg];W[mi];B[li];W[lj];B[ki];W[mk]
+TR[qk][ok]
+C[After White 10, the two marked stones are isolated and without a base. <= ]
+)
+)

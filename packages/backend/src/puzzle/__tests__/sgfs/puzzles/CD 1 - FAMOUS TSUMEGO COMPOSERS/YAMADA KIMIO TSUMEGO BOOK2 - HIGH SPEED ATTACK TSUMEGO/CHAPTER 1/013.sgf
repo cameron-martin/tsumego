@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qd][qe][pe][of][nf][mf][le][ld][lc][lb][mb][sb][rb]AW[mc][md][me]
+[ne][oe][pd][pc][pb][qb][nb][ra]N[013]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;LB[qa:A][oc:B]C[黑A则白B，白活，这可以排除掉。]N[审题])
+(;B[oc]N[正解];W[nc];B[od];W[qa];B[oa];W[na];B[ob]C[白死。])
+(;B[oc]N[变化1];W[nc];B[od];W[na];B[qa];W[pa];B[ob])
+(;B[oc]N[变化2];W[od];B[nc];W[na];B[ob];W[oa];B[qa])
+(;B[oc]N[变化3];W[ob];B[na])
+(;B[na]N[失败1];W[oa];B[nc];W[oc])
+(;B[oa]N[失败2];W[na];B[oc];W[ob]))

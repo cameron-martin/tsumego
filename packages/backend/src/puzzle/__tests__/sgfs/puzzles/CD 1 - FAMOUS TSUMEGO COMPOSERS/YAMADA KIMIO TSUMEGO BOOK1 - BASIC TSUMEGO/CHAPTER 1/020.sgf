@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[od][oc][ne][nb][mc][qb][qc]AW[mb][nc][lb][lc][ld][le][mf][nf][oe]
+[pe][qe][rd][rc][rb]N[020]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[测试基本功的死活题。]N[审题])
+(;B[na]C[黑1立下是做活的要点。有此一手，黑活。]N[正解];W[pb]C[白2夹是徒劳的];B[pa]
+;W[ob];B[md]C[黑活。])
+(;B[oa]C[黑1貌似急所]N[失败1];W[pb];B[md];W[ob]C[但白4可以打吃，这样黑不行。])
+(;B[pb]N[失败2];W[na];B[oa];W[ob]C[劫。])
+(;B[nd]N[失败3];W[pb]C[黑缺少计算。]))

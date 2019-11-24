@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fl][fn][do][eo][fo][ho][bp][cp][hp][cq][dq][cr]AB[cj][cm][dn][en][bo][co][dp][ep][ip][fq][hq][iq][kq][dr][er]C[Ex. 10 - Shinogi
+
+W is not alive in the corner. Therefore, unless he can do something against the B group preventing his connection, he cannot get 2 eyes.
+]PL[W]
+(;W[eq]LB[eq:1]C[Diag. 1 - Failure
+
+W plays ate 1.]
+;B[fp]LB[fp:2][eq:1]C[After B 2 tsugi ]
+;W[gr]LB[fp:2][eq:1][gr:3]C[W tries oki 3. ]
+;B[fr]LB[fp:2][eq:1][fr:4][gr:3]C[However this allows B to connect at 4 ]
+;W[gq]LB[fp:2][eq:1][gq:5][fr:4][gr:3]C[And after W 5]
+;B[gp]LB[fp:2][gp:6][eq:1][gq:5][fr:4][gr:3]C[ B 6 he is unsuccessful.
+The idea is good but the order of moves is wrong.])
+(;W[gr]LB[gr:1]C[Diag. 2 - Correct
+
+It is correct to start with W1 oki without preparation. ]
+(;B[gq]LB[gq:2][gr:1]C[If B 2 tsugi, ]
+;W[eq]LB[eq:3][gq:2][gr:1]C[W plays tsukkomi 3 ]
+;B[fp]LB[fp:4][eq:3][gq:2][gr:1]C[and the cutting points 4]
+;W[fr]LB[fp:4][eq:3][gq:2][fr:5][gr:1]C[ and 5 become miai.
+This suji 1, together with the sequence up to B 4 and W 5 has clearly given W life.])
+(;B[fp]LB[fp:2][gr:1]C[Diag. 3 - Variation
+
+B 2 guzumi in answer to W 1 oki is rather a stout resistance ]
+;W[gq]LB[fp:2][gq:3][gr:1]C[but after W 3 ]
+;B[gp]LB[fp:2][gp:4][gq:3][gr:1]C[ and B 4]
+;W[fr]LB[fp:2][gp:4][gq:3][fr:5][gr:1]C[the atekomi W 5 is good and B's efforts are in vain.])
+(;B[fr]LB[fr:2][gr:1]C[Diag. 4 - Variation
+
+The guzumi B 2 in reply to W 1 is also a bad move. 
+]
+;W[gq]LB[gq:3][fr:2][gr:1]C[There is no hope for B after he is cut off by W 3.])))

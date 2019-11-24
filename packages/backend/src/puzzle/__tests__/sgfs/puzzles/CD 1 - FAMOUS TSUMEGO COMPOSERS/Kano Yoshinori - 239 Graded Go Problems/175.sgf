@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[gb][ea][ga][ed][ec][fb][cb][cc]GN[ ]AB[eb][fc][db][hc][da][hb][gc]PM[1]C[Problem 175. Black to play and get a ko. (1 move)
+(Please move one step forward to see the problem diagram...)]PW[ ]
+;W[dc]C[After White 1, how can Black get a ko?]
+(
+;B[fa]C[Correct Answer
+Black 2 is the correct answer. Whether the black or white stones on the upper edge can be taken or not will depend on the outcome of a ko fight.]
+)
+(
+;B[ha]C[Wrong Answer.
+If Black plays at 2...]
+;W[ca]C[...White will capture three stones with 3.]
+)
+
+)

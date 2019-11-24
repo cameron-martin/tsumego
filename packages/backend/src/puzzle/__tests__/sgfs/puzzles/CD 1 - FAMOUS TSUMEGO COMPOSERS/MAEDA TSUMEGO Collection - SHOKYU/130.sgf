@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[de][fe][ge][gc][hc][bd][cd][be]AW[cc][ad][dd][ec][fd][bc]N[130]AP[MultiGo:4.4.4]
+SZ[19]AB[cf]MULTIGOGM[0]
+
+(;C[白棋意外地脆弱。
+
+难度：☆☆]N[审题])
+(;B[eb]N[正解];W[fb];B[db];W[fc];B[dc];W[ed];B[bb])
+(;B[fb]N[失败];W[eb]C[角上白是活形。])
+(;B[eb]N[变化];W[db];B[fb]C[白角上是死形。]))

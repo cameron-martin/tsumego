@@ -1,0 +1,42 @@
+(;
+AB[qd][nc][kc][qg][nq][jq]
+AW[ic][pp][pn][qj]
+C[White plays in the upper right.
+
+Source:
+    American Go Journal, Vol. 17, No. 4, Dec 1982, pp. 27-28
+    Keshi and Uchikomi, Kaoru Iwamoto 9p];
+W[od]
+C[With supporting White stones not too far away, this play can be an effective reducing move.  The variations that follow  give a general idea for what Black and White can expect out of this position.];
+B[oc];W[pd]
+(;
+B[pc];W[qe]
+(;
+B[rd];W[of]
+LB[qf:a]
+C[White has successfully reduced Black's framework, and should have easy access to the center.  White can later play at A to separate the Black stone on the side.]
+)
+    (;
+    B[of]
+    C[An all-out play worthy of consideration.];
+    W[qf];B[rd]
+    C[The only move.];
+    W[rg]
+    C[A complex situation with chances for both sides.]
+    )
+    (;
+    B[pe]
+    C[Inferior.];
+    W[rd];B[qc];W[pf];B[oe];W[qf]
+    TR[qg]
+    C[And the marked Black stone becomes useless.]
+    )
+)
+    (;
+    B[qc]
+    C[If Black gives way here...];
+    W[og]
+    C[White simply pulls back and Black has no effective follow up to take adantage of the invading White group.]
+    )
+)
+

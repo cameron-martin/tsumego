@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 67. Black to play.
+Where should Black capture?]AW[ge][fi][hg][fe][ei][cg][di][fg][gh][df][hf][cf][ch][ee]PB[ ]PM[1]PW[ ]AB[cj][ff][dh][hh][gg][ci][he][fh][dg][ef][gf][eh]
+(
+;B[gi]C[Correct Answer
+Taking a stone with 1 is the correct answer.]
+)
+(
+;B[eg]C[Wrong Answer
+If Black takes a stone with 1 here, he will lose nine stones when White retakes to the right of 1.]
+)
+
+)

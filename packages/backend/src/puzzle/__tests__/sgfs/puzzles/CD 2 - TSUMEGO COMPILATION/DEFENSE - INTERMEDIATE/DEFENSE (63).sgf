@@ -1,0 +1,35 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cd][dc][de][df]
+AW[cf][cg][ci][ec][ed][gd][kc]PL[B]C[Black to play.
+
+Defense - Establish Solid Base]
+(
+;B[ce]
+(
+;W[db]
+;B[cb]
+;W[eb]
+;B[bf]
+;W[bg]
+;B[be]C[RIGHT
+])
+(
+;W[eb]
+;B[db]C[RIGHT
+]))
+(
+;B[jj]
+;W[bc])
+(
+;B[db]
+;W[bd]
+(
+;B[bc]
+;W[be]
+;B[eb]
+;W[fb])
+(
+;B[be]
+;W[ce]
+;B[bc]
+;W[dd])))

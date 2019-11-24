@@ -1,0 +1,33 @@
+(;
+AB[dr][pr][dq][fq][nq][pq][ep][fp][op][bo][co][jo][lo][no][bn][en][cm][dm][em][gm][im][fl]
+AW[er][fr][eq][iq][lq][qq][cp][dp][pp][do][eo][po][cn][dn][fn][qn][qk]
+C[White plays.
+Source:  Tesuji Dictionary, Vol. 1, Tsuke #13,
+Segoe Kensaku & Go Seigen, Ishi Press]
+(;
+W[gp]C[A clever sacrifice.];
+B[gq];
+W[gr];
+B[hp];
+W[hq];
+B[go];
+W[fo];
+B[gp];
+W[cq]C[The squeezing moves give White time to save
+both the corner and bottom groups.]
+)
+    (;
+    W[gq]C[Fails];
+    B[gp]
+    (;
+    W[hq];
+    B[fo]C[White loses the capture race.]
+    )
+        (;
+        W[hp];
+        B[go];
+        W[cr];
+        B[gr]C[White cannot avoid a huge loss.]
+        )
+    )
+)

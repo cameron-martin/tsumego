@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ce][cg][di][fd][gf][id][ig][jg][kg][md][lh][mi][qd][pe][mj][qn][cf][df][cn][dm][en][ei]
+AB[dp][pd][pp][eh][ef][de][dd][ec][kd][gh][ih][jh][li][le][me][nd][pc][qc][np][dg][gg][dn][do][co]
+LB[cn:1][dn:2][dm:3][en:5][co:4][do:6][ei:7][gg:8][df:9][dg:10]
+LB[cf:11]
+C[Problem 163. Black to play.  
+
+The game in Problem 159 continued to White 11. How should Black continue ? ]
+(;B[fc]
+TE[2]
+C[Correct Answer.  
+
+Since White's stones in the upper left are now strong, Black can no longer settle his stones in the corner as he did in the Correct Answer of Problem 155. Therefore, he should first exchange 1 ... ]
+;W[gd]
+C[... for 2, ... ]
+;B[ee]
+C[... then connect at 3. Black has substantial territory in the lower left and the top right, with prospects of making territory in the lower right, so he still has a good game. <= ]
+)
+(;B[ff]
+C[How the game continued.  
+
+Black played 1, needlessly risking a ko in the top left. ]
+;W[ee];B[fc];W[gd];B[cc];W[bc];B[bb];W[cb];B[db];W[dc]
+C[As it turned out, he didn't have enough ko threats, so he lost his group there. When you are in the lead, don't take risks like this. <= ]
+)
+)

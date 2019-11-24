@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[mo][ko][kq][jq][jr][mr][ms][rr][rp][qq][pq][oq]AW[kr][ks][lq][mq]
+[nq][ns][or][pr][qs]C[100]N[100]AP[MultiGo:4.4.4]SZ[19]AB[oo]MULTIGOGM[0]
+
+(;C[第100题 成劫争属失败
+
+走成劫争是简单的。但希望无条件杀白，因此需要妙手。
+
+初手有妙手。
+]
+N[审题])
+(;B[ps]C[黑1扑，绝妙。]N[正解];W[qr]C[白2不得不团眼];B[nr];W[lr];B[os]C[黑5是叫吃]
+;W[ns];B[os]C[刀把五，白死。])
+(;B[nr]N[失败1];W[ps];B[rs];W[lr];B[os])
+(;B[qr]N[失败2];W[ps];B[nr];W[lr]))

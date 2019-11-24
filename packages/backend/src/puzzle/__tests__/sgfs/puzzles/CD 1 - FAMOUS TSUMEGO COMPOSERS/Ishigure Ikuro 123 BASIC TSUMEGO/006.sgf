@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[mc][nc][kb][od][pd][qd][qc][re][se][sd][sc][qf][pf][na]AW[qb][rc]
+[rd][qe][pc][ob][oa][nb][sb][rb]N[006]AP[MultiGo:4.4.4]SZ[19]AB[mb]MULTIGOGM[0]
+
+(;C[基本死活。黑破眼的手法是基本功。]N[审题])
+(;B[ra]N[正解];W[qa];B[pb])
+(;B[ra]N[变化];W[oc];B[qa])
+(;B[pb]C[黑先扑不行]N[失败];W[pa];B[oc];W[ra]))

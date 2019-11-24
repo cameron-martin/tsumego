@@ -1,0 +1,16 @@
+(;GM[1]FF[3]AB[bq][cr][dr][er]AW[cn][cp][cq][eq][fq][fr]PL[W]C[White to play and kill.]
+AP[MultiGo:3.9.3]SZ[19]
+
+(;W[bs]
+(;B[bp]
+(;W[br];B[cs];W[bo];B[ar];W[ap];B[as];W[es])
+(;W[bo];B[br]
+(;W[ap])
+(;W[es])
+(;W[ar]TR[ar];B[cs];W[es];B[aq])))
+(;B[br]
+(;W[bp];B[es]
+(;W[aq];B[ar];W[cs])
+(;W[cs];B[aq];W[as]))
+(;W[es];B[bp];W[bo];B[ap];W[ar]C[Õý½â])))
+(;W[bp]TR[bp];B[bs];W[aq];B[ar]))

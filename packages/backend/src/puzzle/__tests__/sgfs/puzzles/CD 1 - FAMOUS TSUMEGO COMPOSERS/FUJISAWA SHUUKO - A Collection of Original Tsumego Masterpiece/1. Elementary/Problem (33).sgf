@@ -1,0 +1,8 @@
+(;AB[ra][rb][rc][qd][pd][od][nd][md][ld][kd][nc][kc][jb][ib]AW[qb][qc][pc][oc][pa]
+[nb][mc][lc][kb][la]C[黑先
+
+应该在哪里断？]SZ[19]
+
+(;B[ob]C[黑先白死]N[正解图1];W[mb];B[na];W[oa];B[qa]C[黑1断的方向正确。])
+(;B[ob]C[黑先白死]N[正解图2];W[na];B[mb];W[lb];B[qa])
+(;B[mb]N[失败图];W[ob];B[lb];W[na]C[白右面活出一半来。]))

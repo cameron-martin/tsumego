@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[dc][gb][fc][db][de][ga][da][dd][gc][ee][fd]GN[ ]AB[eb][ea][ge][ed][ec][fe][hd][hc][hb][ha]PM[1]C[SECTION 4. SEKI
+
+Problem 171. Black to play and get a seki. (1 move)
+How does Black play so that a seki results?
+(seki - an impasse or stalemate position between groups\; if one side tries to attack the other side's group his own group dies)]PW[ ]
+(
+;B[gd]C[Correct Answer
+Black 1 is the correct answer. The four black stones and the five white stones live in seki.]
+)
+(
+;B[fb]C[Wrong Answer
+Black 1 puts his own five stones in atari. Black has failed.]
+)
+
+)

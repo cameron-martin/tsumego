@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[bn][cm][dm][em][fn][gn][go][hp][hq][hr][hs][ep][cp][cq][gs][eq][bo]
+[bp]AW[cs][dr][dq][dp][co][dn][en][fo][fp][fq][gq][gr][fs][br]C[B]N[006]AP[MultiGo:4.4.4]
+SZ[19]AB[cr]MULTIGOGM[0]
+
+(;LB[er:A]C[从外侧压缩眼位的话，白走A位就能活棋。因此第一手必然是黑A。小心不要走成双活。
+
+难度：B]
+N[审题])
+(;B[er]N[正解];W[ds]C[白2接上是最具有迷惑性的抵抗。];B[eo];W[es];B[do];W[fr];B[eq]
+C[白死。])
+(;B[er]N[变化1];W[es];B[do]C[黑先扑一个，要紧];W[eo];B[cn]C[没有双活，白死。])
+(;B[er]N[变化2];W[eo];B[ds];W[es];B[cn])
+(;B[er]N[失败1];W[es];B[cn];W[do])
+(;B[er]N[失败2];W[eo];B[cn];W[ds]C[劫。白劫胜则双活。]))

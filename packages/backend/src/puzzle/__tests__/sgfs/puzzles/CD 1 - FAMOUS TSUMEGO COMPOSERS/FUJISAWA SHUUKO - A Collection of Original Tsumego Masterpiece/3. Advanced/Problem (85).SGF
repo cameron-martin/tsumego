@@ -1,0 +1,8 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[ne][nf][og][pg][qg][rg][rh][sf][ra][qb][pb][oc][od]AW[rb][sb][qc][pd][oe][pf][qf][rf][re]C[黑先 第一手抓住要点，然后百尺竿头更进一步。]
+
+(;B[sd];W[se]
+(;B[rd]
+(;W[qd];B[pe];W[qe];B[of]C[正解 黑先白死])
+(;W[pe];B[qd];W[pc];B[rc]C[变化]))
+(;B[pe];W[rd]C[失败]))
+(;B[rd];W[sd];B[qd];W[rc]C[失败]))

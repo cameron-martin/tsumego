@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[qn][rr][no][qq][np][mq][rn][or][oq][on][qr][ps]GN[ ]AB[pq][ro][pr][pp][qp][op][sr][rq]PM[1]C[Problem 208. Black to play.
+Capture three white stones using oiotoshi.]PW[ ]
+(
+;B[rs]C[Correct Answer
+Black 1 catches three white stones in the corner.]
+)
+(
+;B[qs]C[Wrong Answer
+In this case, sacrificing a stone with 1 leads to failure...]
+;W[rs]C[...After White 2, Black has no follow-up move to capture White.]
+)
+
+)

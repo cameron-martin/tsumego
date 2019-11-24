@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[ie][je][ke][kb][lb][hb][jc][ic]AW[jd][gb][gc][hc][he][hf][if][jf]
+[kf][lf][le][ld][lc][kc][mb][nc]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[id]MULTIGOGM[0]
+
+(;C[审题：黑棋在中间有一只后手眼，现在要想办法在边上先手确保一眼。]N[审题])
+(;B[ja]N[正解];W[ha];B[ib]LB[la:A][kd:B]C[黑活。以后选择A位还是B位，是白棋的权力。])
+(;B[ja]N[变化];W[ib];B[ha]LB[la:A][kd:B]C[由于A、B两点见合，白棋无法杀死黑棋，反而损官子。])
+(;B[ha]C[黑棋立下扩大眼位]N[失败];W[ja];B[jb];W[ga];B[ka];W[ia]))

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[rc][qc]AW[ob][nc][mc][ne][nf][ng][og][pg][qg][rg][rd]N[黑先]AP[MultiGo:4.4.4]
+SZ[19]AB[oc]MULTIGOGM[0]
+
+(;TR[rd]LB[pb:A]C[审题：黑A位挡有先手意味，还要瞄着边上的白一子。可选择的点并不多。]
+N[审题])
+(;B[pb]N[正解];W[od];B[pd];W[re];B[nb]C[打劫活正解])
+(;B[pb]N[变化];W[nb];B[qd];W[re];B[od]C[白棋不肯打劫的话，黑棋可做活。]))

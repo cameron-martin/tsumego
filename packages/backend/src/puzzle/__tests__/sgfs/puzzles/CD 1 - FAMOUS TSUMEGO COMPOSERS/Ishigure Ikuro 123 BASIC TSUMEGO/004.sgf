@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[md][nd][od][pd][qd][rc][rb][qa][ja][jb][jc][kc]AW[qb][qc][oc][ob]
+[nc][mc][mb][lb][kb][ka]N[004]AP[MultiGo:4.4.4]SZ[19]AB[lc]MULTIGOGM[0]
+
+(;LB[na:A]C[白棋走到A位就活了，因此黑的第一手是A位点。]N[审题])
+(;B[na]C[黑1点，白必须阻渡]N[正解];W[pa];B[oa];W[pc];B[pb]C[劫杀正解。])
+(;B[na]N[变化];W[pa];B[oa];W[ra];B[pc];W[pb];B[ma]C[白是死形。]))

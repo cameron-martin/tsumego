@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[rc][rb][qb][pb][ob][mc][nc][lc][ld][le][lf][lg][mg][ng][oh][ph][qg]
+[rf]AW[mf][nf][og][pg][pe][qe][re][rd][qc][pc][oc][md][nd]N[046]AP[MultiGo:4.4.4]
+SZ[19]AB[rh]MULTIGOGM[0]
+
+(;C[逐点计算可以得到正解，也可根据第一感进行计算。]N[审题])
+(;B[od]N[正解];W[oe];B[me]LB[pd:A]C[黑3先冲好，如果走A位，则白走3位可活];W[ne];B[pd]
+;W[qd];B[pf]C[白死。])
+(;B[od]N[变化1];W[pd];B[ne];W[oe];B[me]C[白死。])
+(;B[od]N[变化2];W[qf];B[me]C[白死。])
+(;B[of]N[失败1];W[oe];B[me];W[ne])
+(;B[ne]N[失败2];W[me];B[oe];W[of]))

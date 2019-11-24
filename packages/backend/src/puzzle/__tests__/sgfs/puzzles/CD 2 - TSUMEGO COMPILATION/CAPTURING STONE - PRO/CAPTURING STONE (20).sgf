@@ -1,0 +1,135 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[be][bg][ce][de][ec][ed][gc]
+AW[bd][cd][dc][dd]PL[B]C[Black to play.
+
+Capturing stones - Destroy Opponent's Eye Shape]
+(
+;B[cb]
+;W[db]
+(
+;B[ab]
+;W[bc]
+;B[bb]
+;W[ba]
+;B[ca]
+;W[da]
+(
+;B[ad]
+;W[ac]
+;B[eb]C[RIGHT
+])
+(
+;B[eb]C[RIGHT
+Eye kill Blind]))
+(
+;B[bc]
+;W[ad]
+;B[eb]
+;W[da]
+(
+;B[ab]
+;W[ba]
+(
+;B[bb]
+;W[ca]C[Both Alive])
+(
+;B[ca]
+;W[cc]
+;B[bb]
+;W[ac]))
+(
+;B[ba]
+;W[ab]
+(
+;B[bb]
+;W[ac]C[Both Alive])
+(
+;B[ac]
+;W[cc]
+;B[bb]
+;W[ca]))
+(
+;B[bb]
+;W[ba]
+(
+;B[ca]
+;W[ab]
+;B[aa]
+;W[ac]C[Ko Fight])
+(
+;B[ab]
+;W[ca]C[Both Alive])
+(
+;B[ac]
+;W[ab]
+;B[aa]
+;W[ca]C[Ko Fight]))))
+(
+;B[eb]
+;W[db]C[Ko Fight])
+(
+;B[bb]
+;W[cb]
+;B[bc]
+;W[ad]
+(
+;B[eb]
+;W[ba]
+;B[ab]
+;W[db]
+;B[da]
+;W[ac]
+;B[ea]
+;W[ca]C[Both Alive])
+(
+;B[ba]
+;W[eb]
+;B[fb]
+;W[ab]
+;B[ac]
+;W[ca]))
+(
+;B[bc]
+;W[ad]
+;B[cb]
+;W[db]
+;B[eb]
+;W[da]
+(
+;B[ba]
+;W[ab]
+(
+;B[ac]
+;W[cc]
+;B[bb]
+;W[ca])
+(
+;B[bb]
+;W[ac]C[Both Alive]))
+(
+;B[ab]
+;W[ba]
+(
+;B[ca]
+;W[cc]
+;B[bb]
+;W[ac])
+(
+;B[bb]
+;W[ca]C[Both Alive]))
+(
+;B[bb]
+;W[ba]
+(
+;B[ca]
+;W[ab]
+;B[aa]
+;W[ac]C[Ko Fight])
+(
+;B[ab]
+;W[ca]C[Both Alive])
+(
+;B[ac]
+;W[ab]
+;B[aa]
+;W[ca]C[Ko Fight]))))

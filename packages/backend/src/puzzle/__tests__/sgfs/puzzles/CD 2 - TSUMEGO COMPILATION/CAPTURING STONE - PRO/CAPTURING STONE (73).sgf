@@ -1,0 +1,30 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ad][bc][bf][cc][cf][dc][dg][eb][ef][fa][fb][fc][gb][gf][hc][hd][he]
+AW[bd][cd][ch][ck][db][dd][ec][ed][fd][gc][gd][hb][ib][jc]PL[W]C[White to play.
+
+Capturing stones - Reduce Opponent's Liberties
+
+Source: Guan-Zhi-Pu.]
+;W[cb]
+;B[bb]
+;W[da]
+;B[ba]
+;W[ab]
+(
+;B[ca]
+;W[ac]
+;B[ea]
+;W[af]
+;B[aa]
+;W[ac]
+;B[ab]
+;W[be]
+;B[db]
+;W[bg]C[RIGHT
+])
+(
+;B[ac]
+;W[ae]
+;B[be]
+;W[ha]C[RIGHT
+One Leg Stand]))

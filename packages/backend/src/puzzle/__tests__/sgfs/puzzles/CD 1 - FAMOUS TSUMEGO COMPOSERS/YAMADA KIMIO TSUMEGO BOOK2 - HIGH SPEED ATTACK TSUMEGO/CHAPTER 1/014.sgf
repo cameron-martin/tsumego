@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[me][le][ke][jd][jc][jb][ka][rb][rc][qc][pc][od][nd]AW[kb][lb][lc]
+[ld][md][nc][oc][pb]N[014]AP[MultiGo:4.4.4]SZ[19]AB[mc]MULTIGOGM[0]
+
+(;C[这道题有一定的计算量。失败图同样重要。]N[审题])
+(;B[na]N[正解];W[mb];B[pa];W[qa];B[oa]C[白死。])
+(;B[na]N[变化1];W[oa];B[la];W[nb];B[ma];W[mb];B[ja])
+(;B[na]N[变化2];W[ma];B[ob];W[mb];B[pa])
+(;B[nb]N[失败];W[ob];B[mb];W[pa]C[白4立下，是防守的好手];B[na];W[ma];B[la];W[oa]
+;B[ja];W[ma];B[mb];W[nb]C[劫。]))

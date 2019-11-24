@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rr][rq][rp][ro][pp][po][on][nn][mn][ln][ko][kp][kq][kr][lr][ls][mq]
+AW[mr][nr][lq][lp][mo][no][op][oq][pq][qq][qr][rs]N[038]AP[MultiGo:4.4.4]SZ[19]
+AB[ms]MULTIGOGM[0]
+
+(;C[白棋上边已有一眼。黑棋要破下边白的眼位。很像打劫的样子吧？能不能净杀？]N[审题])
+(;B[or]N[正解];W[os];B[nq];W[pr];B[ns];W[or];B[qs])
+(;B[or]LB[mp:A][nq:B]C[黑1时，白A则黑B先手打，然后从下边渡过]N[变化];W[nq];B[mp]
+C[黑3打是先手];W[lo]LB[np:A]C[白在A位提子也是一样];B[ns])
+(;B[ns]N[失败1];W[os];B[ps];W[pr])
+(;B[ps]N[失败2];W[os];B[ns];W[pr]))

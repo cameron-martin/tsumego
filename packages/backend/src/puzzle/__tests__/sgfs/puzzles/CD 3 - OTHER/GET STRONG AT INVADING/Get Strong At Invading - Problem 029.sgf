@@ -1,0 +1,22 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][jd][nc][ld]
+AB[dd][df][pd][pf][lc]
+LB[ld:2][lc:1]
+C[Problem 29. Black to play.  
+
+What should Black do when White attaches at 2 ? ]
+;B[kd]
+TE[2]
+C[Correct Answer.  
+
+Against White's attachment you should remember Black's wedge in at 1. This is Black's strongest reply. ]
+;W[ke]
+C[If White blocks at 2, ]
+;B[kc];W[md];B[jc];W[id];B[hb];W[gd];B[mb]
+C[... Black lives up to 9 and ... ]
+;W[nb];B[pb]
+C[... takes the corner with 11. White's compensation is her wall in the center, but it has cutting points at which Black can aim. <= ]
+)
+)

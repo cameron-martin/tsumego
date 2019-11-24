@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[od][nd][mc][mb][qb][rd][re][qe]AW[ob][pc][pd][qd][rc][rb]N[002]AP[MultiGo:4.4.4]
+SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[黑的进攻很容易失败。正解图需要多算几步。]N[审题])
+(;B[sc]N[正解];W[sb];B[ra];W[pa]C[白4尖是最强抵抗];B[qa];W[oc]C[白6接上试图做双活]
+;B[na];W[oa];B[qc];W[sd];B[nb]C[白死。])
+(;B[sc]N[变化];W[sb];B[ra];W[pb];B[qa]C[观察棋形，白是死形。])
+(;B[ra]N[失败];W[sc]))

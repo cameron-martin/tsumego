@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]PM[1]C[Problem 43. Black to play.
+How can Black play so as to give his eight stones a living shape?]GN[ ]AW[ie][ge][fc][ja][he][jd][fb][jc][jb][fa][fd]PW[ ]PB[ ]AB[gd][ic][gb][ib][ia][ga][hb][gc]
+(
+;C[Correct Answer
+Black can make life for his group by playing at 1.]B[hd]
+)
+(
+;C[Wrong Answer
+...]B[id]
+;C[...If White gets to play at 2, the black stones will die.]W[hd]
+)
+
+)

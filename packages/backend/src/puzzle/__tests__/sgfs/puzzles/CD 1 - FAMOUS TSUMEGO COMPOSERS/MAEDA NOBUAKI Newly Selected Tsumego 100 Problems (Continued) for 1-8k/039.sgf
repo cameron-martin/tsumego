@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[kc][kd][jd][id][hd][hc][hb][ka]AW[gb][gc][gd][ge][he][ie][je][ke]
+[le][lc][lb][la][jb][ld][ga]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[kb]MULTIGOGM[0]
+
+(;C[审题：空间有限，必须计算清楚，得到正解和失败图。]N[审题])
+(;B[ib]N[正解];W[ha];B[jc]LB[ia:A][ja:B]C[这是双方最佳应对，黑活。
+
+以后，白A黑B，黑地只有3目。注意，这是白的先手。])
+(;B[ib]N[变化];W[jc];B[ha];W[ja]C[黑地为零目，但白棋落了后手。])
+(;B[ha]N[失败];W[ib]C[刀把五的死形。]))

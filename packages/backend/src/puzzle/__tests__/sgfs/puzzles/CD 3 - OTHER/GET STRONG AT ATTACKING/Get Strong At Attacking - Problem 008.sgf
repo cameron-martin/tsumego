@@ -1,0 +1,50 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dp][qo][pb][nc]
+AB[jp][pq][pk][pd][pf]
+TR[qo]
+C[Problem 8. Black to play.  
+
+White has invaded Black's moyo with the marked stone. How should Black attack it ? ]
+(;B[qp]
+TR[pk]
+
+TE[2]
+C[Correct Answer.  
+
+Since Black's marked stone is in place, he should first exchange 1 ... ]
+;W[po]
+C[... for White 2 ... ]
+;B[np]
+C[... before jumping to 3. The two white stones are now heavy and vulnerable. <= ]
+;W[qm]
+C[White will try to secure her stones with moves like 4 and ... ]
+;B[rl];W[nm]
+LB[po:]
+C[... 6, but ... ]
+;B[nk]
+LB[oo:A][pk:5]
+TR[po]
+C[... Black can build up his moyo on the top by attacking with 5 and 7. White could also have played the marked stone at A, but her stones would still be vulnerable. <= ]
+)
+(;B[np]
+C[Failure.  
+
+Neglecting to exchange 1 for 2 in the Correct Answer and immediately extending to 1 ... ]
+;W[rq]
+TR[pk]
+C[... would permit White to secure her stone with 2. Not only has Black lost the territory he should have gotten in the corner, his marked stone has lost much of its value because it is no longer attacking effectively. <= ]
+)
+(;B[qm]
+LB[oo:A]
+TR[pk]
+C[Failure.  
+
+Black 1 is usually a severe pincer, but, since Black already has a pincer in place (the marked stone), it is redundant. The usual response to Black 1 it to jump to A, but ...  
+
+]
+;W[qq];B[qr];W[pp];B[oq];W[rq]
+C[... in this case White secures  her stones in the corner with the sequence to 6. <= ]
+)
+)

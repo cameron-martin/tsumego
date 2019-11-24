@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[re][pe][oe][rf][nd][sb][rc][qd]AW[rb][qb][qc][pd][od][ne][nf][of]
+[md][lc][kb][qf][qg][rg]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[审题：右边的黑棋没有两眼了，因此必须在白空里面生事。]N[审题])
+(;B[pc]N[正解];W[oc];B[ob]LB[nc:A][pb:B]C[黑1断、3扳打好次序。接下来白A则黑B，这样吃住角上白三子，黑大块也就活了。
+白棋不能在B位接，那样损失更大。])
+(;B[nc]N[失败];W[ob]C[对杀黑负。黑缺少计算。]))

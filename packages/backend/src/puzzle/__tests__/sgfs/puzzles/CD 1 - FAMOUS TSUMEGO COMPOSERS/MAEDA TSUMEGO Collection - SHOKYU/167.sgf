@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qd][qe][qb][pb][ob][oa]AW[rc][sd][rf][qf][pf][oe][pc][oc][nc][nb]
+N[167]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;C[劫活很容易，净活呢？
+
+难度：☆☆]N[审题])
+(;B[sb]LB[se:A][rb:B]C[黑1跳能够确保净活。以后收官的话，大致是白A黑B的进行]N[正解]
+;W[rb];B[se];W[re];B[rd];W[sf];B[ra])
+(;B[se]C[先跨怎么样？]N[变化];W[re];B[sb];W[rd];B[rb]C[黑损官子])
+(;B[rb]N[失败];W[sb];B[rd];W[se]))

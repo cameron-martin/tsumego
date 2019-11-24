@@ -1,0 +1,16 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[Problem 116. Black to play.
+(Please move one step forward to see the problem diagram...)]PM[1]PB[ ]AB[ek][fl][fj][fi][em][ei][cl][dj][di][bk][dl][cm][dk]AW[fh][fk][bm][bl][gl][gh][eh][cj][gk][ck][dh][hj][fm][bj][hi][ci][ch]GN[ ]FG[259:]PW[ ]
+;C[White has taken a stone in ko. How does Black respond?]W[el]
+(
+;C[Correct Answer 1
+Black 2, which is a ko threat, is the correct answer. If next White A, Black plays B.]L[aj][fl]B[ak]
+)
+(
+;C[Correct Answer 2
+Black 2 is also good...]B[al]
+;C[...If White 3...]W[ak]
+;C[...Black 4. In any case, Black cannot take at 4 immediately.]B[fl]
+)
+
+)

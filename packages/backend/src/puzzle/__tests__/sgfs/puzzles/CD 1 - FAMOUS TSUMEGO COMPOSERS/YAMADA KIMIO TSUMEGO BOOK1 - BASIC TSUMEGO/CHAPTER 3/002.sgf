@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pe][oe][od][oc][nc][nb][rc][se][re]AW[pc][pd][qd][rd][sd][qb]N[002]
+AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[黑棋的选择很少，变化也不多。计算吧。]N[审题])
+(;B[pb]N[正解];W[pa];B[ob];W[rb];B[sc];W[qc];B[qa]C[白死。])
+(;B[pb]N[变化1];W[pa];B[ob];W[sb];B[ra];W[qa];B[rb])
+(;B[pb]N[变化2];W[pa];B[ob];W[sc];B[rb];W[ra];B[sb])
+(;B[rb]N[失败];W[ra]LB[sc:A][qc:B]C[白2扳时，黑A则白B，白活。];B[sb];W[pa];B[sa]))

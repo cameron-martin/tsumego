@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[eo][bp][cp][dq][eq][dr][fr][gr]AB[fp][cq][fq][hq][cr][er][hr][ds][es]C[Ex. 5 - Semeai
+
+The 3 B stones in the magari shape on the side, being connected to the 2 stones in the corner, seem to have a lot of liberties.
+After your first couple of attempts you will soon realise that it is not easy for W to win.]PL[W]
+(;W[br]LB[br:1]C[Diag. 1 - Failure
+
+W 1 hasamitsuke fails ]
+;B[gs]LB[br:1][gs:2]C[when B 2 attacks the 2 stones. ]
+;W[bq]LB[bq:3][br:1][gs:2]C[After W 3 ]
+;B[gq]LB[bq:3][gq:4][br:1][gs:2]C[B 4, W loses.
+Although W can take the 2 stones in the corner, he does not succeed in depriving the B group of its base.])
+(;W[bs]LB[bs:1]C[Diag. 2 - Correct
+
+W 1 must be a point further here in order to win. ]
+(;B[cs]LB[bs:1][cs:2]C[If B 2 tsugi, ]
+;W[br]LB[br:3][bs:1][cs:2]C[W plays tsuke 3 and wins.])
+(;B[gs]LB[bs:1][gs:2]C[Diag. 3 - Correct
+
+W 1 is extremely powerful followed by B 2 hane ]
+;W[cs]LB[bs:1][cs:3][gs:2]C[and W tsukkomi 3.
+Since the 3 B stones in the magari shape have only 2 liberties, there is no need to be in a hurry to play ate.])
+(;B[br]LB[br:2][bs:1]C[Diag. 4 - Correct
+
+If B replies with 2 to W 1 oki, ]
+;W[cs]LB[br:2][bs:1][cs:3]C[W plays tsukkomi 3. ]
+;B[as]LB[br:2][as:4]C[B 4 is forced ]
+;W[cs]LB[br:2][as:4][cs:5]C[and now W throws in a stone at 5 ]
+;B[bs]LB[br:2][as:4][bs:6][fs:A]C[and B takes at 1
+After W ate at "A", W wins by one move
+])))

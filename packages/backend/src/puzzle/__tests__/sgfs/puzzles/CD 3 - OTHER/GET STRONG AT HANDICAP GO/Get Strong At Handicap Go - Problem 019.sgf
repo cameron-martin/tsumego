@@ -1,0 +1,54 @@
+(;
+GM[1]
+SZ[19]
+AW[cn][fm][dg][gg][hd][jj][im][nd][ne][nf][nh][jh][kb][lc][kd][ke][le][md]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][fd][fj][hj][fb][pg][lh][jf][je][jc][kc][me][mf][lf][kf][fp]
+TR[im]
+C[Problem 19. Black to play.  
+
+The game in Problem 15 eventually reached this position. White has just played the marked stone, threatening to engulf the three black stones. How should Black respond ? ]
+(;B[hh]
+TE[2]
+C[Correct Answer.  
+
+Black should first exchange 1 ... ]
+;W[hg]
+C[... for White 2, ... ]
+;B[fg]
+C[... then attach with 3. ]
+;W[ff]
+C[If White 4, ... ]
+;B[ef]
+C[... Black hanes with 5. ]
+(;W[eg]
+C[If White next ataris with 6, ... ]
+;B[fh]
+C[... Black draws back with 7. <= ]
+)
+(;W[fh]
+C[If White 6, ... ]
+;B[eg];W[eh];B[gh]
+C[... the sequence to Black 9 follows. In either case, White's stones are in tatters. Even if she manages to save one group, the other will die. <= ]
+))
+(;B[ch]
+C[How the game continued.  
+
+Black tried to live on the side with 1 ... ]
+;W[cg];B[dh]
+C[... and 3. This is usually a bad decision in an open position such as this because White can strengthen her stones and this will have a negative impact on the black stones in adjacent areas. ]
+;W[eg]
+C[In this game, White strengthened her stones with 4, denying Black the chance to cut through and link up to the top. ]
+;B[fh];W[eh]
+C[White 6 ... ]
+;B[ei];W[bh]
+C[... and 8 gave Black bad shape. ]
+;B[bi]
+C[If Black 9 next, ... ]
+;W[bf]
+C[... White will connect loosely with 10. ]
+;B[cj]
+C[Black must fix up his shape with 11, so ... ]
+;W[cc]
+C[... White can live and destroy Black's territory in the corner by jumping to 12. <= ]
+)
+)

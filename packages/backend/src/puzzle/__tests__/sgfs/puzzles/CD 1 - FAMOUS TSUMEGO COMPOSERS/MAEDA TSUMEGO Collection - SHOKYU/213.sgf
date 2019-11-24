@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[do][dp][dq][cq][fq][bn][cm]AW[cr][cp][co][bo][bq]N[213]AP[MultiGo:4.4.4]
+SZ[19]AB[dn]MULTIGOGM[0]
+
+(;C[角上经典死活，杀法是基本的。
+
+难度：☆☆]N[审题])
+(;B[ar]C[类似棋形，黑1点是手筋]N[正解];W[br];B[ao];W[ap];B[an];W[dr];B[er];W[ds]
+;B[bs]C[盘角曲四，白死。])
+(;B[dr]LB[ar:A]C[黑1挡，白A马上就可以做劫]N[失败];W[cs];B[ar];W[br];B[ao];W[ap]
+;B[an];W[as]C[白活。]))

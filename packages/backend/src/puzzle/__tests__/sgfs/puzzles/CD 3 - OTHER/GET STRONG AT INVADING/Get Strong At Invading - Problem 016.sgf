@@ -1,0 +1,22 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][lb][mc][nc][nb]
+AB[dd][hc][kb][mb][lc][pd][pf]
+LB[mc:2][kb:3][mb:1][nb:4][qc:B][ld:A]
+C[Problem 16. Black to play.  
+
+The moves to 3 are normal, but instead of A, White ataries with 4, aiming to invade the corner at B. How should Black answer ?  
+
+<See Reference Diagram 16 for White 4 at A.> ]
+;B[pb]
+TE[2]
+C[Correct Answer.  
+
+Defending the corner with 1 is best. ]
+;W[kc]
+C[White next plays 2 and ... ]
+;B[la];W[ld];B[jb];W[lb];B[ic]
+C[... the moves to 7 are natural. Black has no reason to be dissatisfied. <= ]
+)
+)

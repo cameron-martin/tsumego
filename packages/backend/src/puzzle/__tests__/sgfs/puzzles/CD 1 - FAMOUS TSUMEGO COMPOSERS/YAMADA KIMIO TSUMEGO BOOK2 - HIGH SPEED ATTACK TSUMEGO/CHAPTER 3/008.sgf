@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[nf][mf][lf][le][md][kd][kc][jc][jb][qb][qc][pd][pe]AW[lb][lc][ld]
+[me][ne][oe][nc][oc][pc]N[008]AP[MultiGo:4.4.4]SZ[19]AB[of]MULTIGOGM[0]
+
+(;LB[na:A]C[黑在A位大飞伸腿破眼是第一感吧。但是，要计算。]N[审题])
+(;B[mc]N[正解];W[mb];B[na]C[白死。])
+(;B[mc]N[变化];W[nb]C[白2退以及类似的抵抗是徒劳的];B[mb];W[ma];B[oa])
+(;B[na]N[失败1];W[oa];B[ob];W[pb];B[pa];W[ma];B[mb];W[la])
+(;B[na]N[失败2];W[oa];B[ob];W[nb];B[pa];W[ma]C[本图的次序，似乎要比失败图1更为自然一些。])
+(;B[oa]LB[pa:A][pb:B]C[黑1小飞破眼。对此，白A则黑B，白不活。]N[失败3];W[na];B[pa]
+LB[nb:A][la:B]C[接下来，白A则黑B托，白死];W[ob];B[ma];W[mb]C[劫。])
+(;B[oa]N[失败4];W[na];B[nb];W[ob];B[ma];W[pa];B[pb];W[mb]))

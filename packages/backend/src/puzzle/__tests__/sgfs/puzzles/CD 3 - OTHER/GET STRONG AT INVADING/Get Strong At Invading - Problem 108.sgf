@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][od][qd]
+AB[dc][de][hc][qg][qj]
+C[Problem 108. Black to play.  
+
+Where should Black attack White's moyo at the top ? ]
+;B[lc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the vital point. ]
+(;W[kd]
+C[If White 2, ... ]
+;B[nc]
+C[... Black forces with 3, ... ]
+;W[oc];B[me]
+C[... then jumps to 5. Black has made light sabaki. <= ]
+)
+(;W[nc]
+C[Variation.  
+
+If White defends the corner with 2, ... ]
+;B[kd]
+C[... Black will play 3, and the lone stone on the left will come under attack. <= ]
+)
+)

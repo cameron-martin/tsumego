@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[if][ge][ff][hf][gg][hh][ig][fg][gh]GN[ ]AB[gd][jh][fi][fh][ii][ef][ie][eg][jg][hi][he][jf][gi][fd][ee]PM[1]C[SECTION 2. KILLING GROUPS
+
+Problem 147. Black to play and kill White. (1 move)
+How does Black play to kill the white stones?]PW[ ]
+(
+;B[fe]C[Correct Answer
+Black 1 gives White a false eye. White now has only one real eye and is dead.]
+)
+(
+;B[ih]C[Wrong Answer
+If Black plays at 1...]
+;W[fe]C[...White 2 gives his group two eyes and White can never be killed.]
+)
+
+)

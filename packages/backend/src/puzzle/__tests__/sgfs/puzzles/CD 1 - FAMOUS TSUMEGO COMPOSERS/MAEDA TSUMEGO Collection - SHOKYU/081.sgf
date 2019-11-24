@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[nr][ns][pq][pr][rq][qq][op][np]AW[sq][rp][qp][pp][pn][oo][no][mo]
+[mp][lq][mr][rr]N[081]AP[MultiGo:4.4.4]SZ[19]AB[nq]MULTIGOGM[0]
+
+(;C[空间很小，计算不复杂。
+
+难度：☆☆]N[审题])
+(;B[qs]N[正解];W[qr];B[ps];W[sr];B[or]C[黑活。])
+(;B[qs]N[变化];W[qr];B[ps];W[or];B[sr];W[ss];B[rs]C[白强杀是不能成功的。])
+(;B[or]N[失败];W[ps];B[qr];W[qs]C[黑棋吃白二子接不归之后，仍然没有眼。];B[os];W[ss]
+;B[rs];W[qs]))

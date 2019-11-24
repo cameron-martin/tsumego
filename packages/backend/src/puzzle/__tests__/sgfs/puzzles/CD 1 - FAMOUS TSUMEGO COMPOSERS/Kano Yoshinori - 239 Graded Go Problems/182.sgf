@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ek][fl][hj][fi][hh][fh][ik][ii][ej][gh]GN[ ]AB[dl][gk][fj][hk][hi][el][ei][fk][di][gj][gi]PM[1]C[Problem 182. White to play. (3 moves)
+How does White play so as to capture seven black stones?]PW[ ]
+(
+;W[hl]C[Correct Answer
+The sequence White 1...]
+;B[ij]C[...]
+;W[gl]C[...followed by White 3 is the correct answer. White will capture seven stones on the next move.]
+)
+(
+;W[ij]C[Wrong Answer
+If White connects at 1...]
+;B[dj]C[...Black will play 2 and capture two white stones on the next move.]
+)
+
+)

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[hc][kc][lc][jc][ic][ib]AW[mc][nd][ld][kd][jd][id][hd][gc][gb][hb]
+[jb][ja]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[ia]MULTIGOGM[0]
+
+(;C[审题：黑棋做活的手法也是基本功，应该掌握。]N[审题])
+(;B[mb]N[正解];W[nb];B[ma]C[黑棋尽力扩大眼位。黑3立下后已经活了。];W[na];B[kb]LB[la:A]
+[lb:B][ha:C]C[以后，白A则黑B，黑活。不过要留意的是，白C是先手。])
+(;B[mb]N[变化];W[nb];B[ma];W[kb];B[ka]C[黑活。]))

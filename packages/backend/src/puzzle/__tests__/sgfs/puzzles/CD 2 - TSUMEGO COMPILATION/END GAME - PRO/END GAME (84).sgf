@@ -1,0 +1,42 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ca][cb][cf][ci][dc][dd][de][dg][dh]
+AW[da][db][df][ec][ed][ee][ef][fb]PL[W]C[White to play.
+
+Endgame moves - Break into
+
+Source: Guan-Zhi-Pu.]
+;W[ce]
+(
+;B[bc]
+;W[bf]
+;B[cg]
+;W[bd]
+;B[cc]
+;W[ab]
+;B[ac]
+;W[ad]
+;B[bg]
+;W[ba]
+;B[ae]
+;W[af]
+;B[ag]
+;W[be]C[RIGHT
+Both Alive])
+(
+;B[bd]
+;W[be]
+;B[cd]
+;W[bf]
+;B[cg]
+;W[bc]
+(
+;B[ad]
+;W[bb]
+;B[bg]
+;W[cc]C[White Ok])
+(
+;B[bb]
+;W[ad]
+;B[cc]
+;W[ab]
+;B[ac]C[Black More Ko's material])))

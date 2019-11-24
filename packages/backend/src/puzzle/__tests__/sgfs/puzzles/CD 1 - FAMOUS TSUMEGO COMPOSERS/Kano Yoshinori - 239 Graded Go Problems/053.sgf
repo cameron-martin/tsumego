@@ -1,0 +1,6 @@
+
+(;AP[GOWrite:2.0.07]SZ[13]GM[1]FF[4]PW[ ]PM[1]LB[fd:1][dm:1]FG[259:]C[Problem 53. Legal moves?
+Can Black play 1 at the top and at the bottom?]GN[ ]AW[gd][fc][em][fe][hd][cl][gj][gl][id][dl][gk][cm][fm][ed][el]PB[ ]AB[ek][ic][fl][ge][gm][hc][fk][bl][gc][kd][je][ie][ck][he][dm][jc][dk][fd]
+;L[jd][bm]C[An Illegal Move
+Black 1 in both diagrams cannot be played. If Black occupied the points A or B, Black 1 would capture the white stones.]
+)

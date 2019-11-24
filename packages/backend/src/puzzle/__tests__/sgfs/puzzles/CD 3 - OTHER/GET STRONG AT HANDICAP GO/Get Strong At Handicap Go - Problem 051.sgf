@@ -1,0 +1,70 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][jd][nc][ql][mp][nq][qc][pb][qb][re][qp][qq][ro]
+AB[pj][dj][dp][pd][pp][dd][pf][df][jp][jj][qj][np][no][pc][ob][oc][nd][pq][qo]
+TR[ro]
+C[Problem 51. Black to play.  
+
+How should Black continue after White hanes with the marked stone (White 4 in the game in Problem 47) ? ]
+(;B[qr]
+TE[2]
+C[Correct Answer.  
+
+The hane of Black 1 is severe. ]
+(;W[rr]
+C[If White blocks at 2, ... ]
+;B[rp]
+C[... Black can cut with 3 and ... ]
+;W[rq];B[rn];W[po];B[qn];W[pr];B[or]
+C[... play the sequence to 9. ]
+;W[oq]
+C[... Note how Black sacrifices the stone at 9, ... ]
+;B[op]
+C[... squeezing White with 11, ... ]
+;W[ps];B[mq]
+C[... 13 and ... ]
+;W[nr];B[mr]
+C[... 15 and confining her to the corner. ]
+;W[os];B[lp]
+C[With 17, Black captures a stone and dominates the center. <= ]
+)
+(;W[qn]
+C[Variation.  
+
+White might atari at 2, ... ]
+;B[po]
+(;W[rm]
+C[... then make eye shape with 4. ]
+;B[rr]
+LB[rk:A]
+C[However, Black takes the corner with 5. Black's influence at the bottom is thick and he can still threaten the white stones with A. <= ]
+)
+(;W[rr]
+LB[po:3]
+C[Variation.  
+
+After Black connects at 3, White could go for the corner with 4 ... ]
+;B[rn];W[pr]
+C[... and 6. ]
+;B[rp];W[qs];B[oq];W[rq];B[so];W[nr];B[or];W[os];B[mq]
+C[However, when Black cuts with 15, White is without a good follow-up. Again White is confined to the corner and Black is thick on the outside. IN handicap games, Black should always strive to make thick positions such as this and the one in the correct answer. <= ]
+)))
+(;B[rn]
+C[Variation.  
+
+The two-step hane of Black 1 is also severe,  but ... ]
+;W[pr]
+C[... White might play a complicated variation with 2 ... ]
+;B[or];W[qr]
+C[... and 4. ]
+;B[po]
+C[Black must connect at 5. ]
+;W[oq]
+C[If White next cuts with 6, ... ]
+;B[mq]
+C[... Black cuts with 7 and ... ]
+;W[lq];B[mr];W[nr];B[lr];W[kq];B[lp];W[kp];B[mo];W[ko];B[hp]
+C[... the sequence continues to 17. White's stones at the bottom are without eyes and under attack, while Black has secured territory on the lower right side. <= ]
+)
+)

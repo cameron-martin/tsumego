@@ -1,0 +1,60 @@
+(;
+AB[kc][od][qd][qh][ne]
+AW[dd][gc][qj][nd]
+TR[ne]
+C[White's response to Black's marked play?
+
+Source
+    Keshi and Uchikomi, by Kaoru Iwamoto 9p
+    American Go Journal, Vol. 17, No. 1, March 1982, p. 27.]
+(;
+W[ld]
+C[If White tries to play lightly...];
+B[kd];
+W[le];
+B[nc]
+TR[nd]
+C[White's marked stone has
+become useless.];
+W[lc]
+C[To stop Black from connecting.];
+B[ke];
+W[lf];
+B[jg];
+W[lh]
+TR[nd]
+C[And this is worse for White,
+e.g., because the marked
+stone is useless.]
+)
+    (;
+    W[md]
+    C[Correct.
+The only move.]
+    (;
+    B[oe]
+    C[A sturdy response.];
+    W[me];
+    B[ke];
+    W[mg];
+    B[kg]
+    C[And the result is even.  White has
+reduced Black's moyo, while
+Black has built thickness.]
+    )
+        (;
+        B[oc]
+        C[Another Black possibility.];
+        W[me];
+        B[ke];
+        W[nf];
+        B[oe];
+        W[lg]
+        LB[mb:a]
+        C[White is strong, but because
+Black can connect underneath
+at A, the result is again even.]
+        )
+    )
+)
+

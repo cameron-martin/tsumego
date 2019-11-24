@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[om][pm][qm][rn][ro][rp][qq][qr][pp][mq][mr][lp][lo][ln][mm]AW[nn]
+[on][qn][qo][qp][pq][pr][op][nr][os]N[030]AP[MultiGo:4.4.4]SZ[19]AB[nm]MULTIGOGM[0]
+
+(;C[黑棋的选择很有限，因此能够计算得到正解。]N[审题])
+(;B[oo]N[正解];W[no];B[oq];W[po];B[nq])
+(;B[oo]N[变化];W[po];B[no];W[mo];B[np])
+(;B[oq]N[失败];W[nq];B[oo];W[po];B[no];W[mo]))

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[oe][pe][qe][re][se][qc][pa][oa][nb][mb][oc]AW[ob][pb][qb][pc][pd]
+[qd][rd]N[027]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[空间小选择少，但是，黑的进攻手段需要仔细计算。]N[审题])
+(;B[rc]N[正解];W[sd];B[rb];W[ra];B[sb]LB[sc:A]C[由于白气紧，黑能走到A位，白是刀把五的死形。])
+(;B[rc]N[变化1];W[sc];B[ra];W[qa];B[rb];W[na];B[sd];W[sb];B[sa];W[sc];B[sb];W[sc]
+;B[rc])
+(;B[rc]N[变化2];W[rb]LB[sb:A]C[白2走A位也不行，主要是因为有气紧的毛病，可自行验证。]
+;B[ra];W[qa];B[sc])
+(;B[ra]N[失败1];W[qa];B[rc];W[sd]LB[sc:A]C[现在白4不会走在A位了。])
+(;B[sd]N[失败2];W[sc]))

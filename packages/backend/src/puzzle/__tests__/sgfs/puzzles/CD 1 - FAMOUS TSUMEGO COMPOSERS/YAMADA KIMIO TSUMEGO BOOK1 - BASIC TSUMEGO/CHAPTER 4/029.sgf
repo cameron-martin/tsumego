@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[ne][nd][nc][mc][lc][lb][ra][rb][rc][rd][re][qf][pf]AW[nb][oc][pc]
+[od][oe][pe][qe][qd][qb]N[029]AP[MultiGo:4.4.4]SZ[19]AB[of]MULTIGOGM[0]
+
+(;TR[ra]C[请注意，黑有硬腿，而且白气很紧。]N[审题])
+(;B[ob]N[正解];W[na];B[pa];W[qa];B[qc]C[白死。])
+(;B[ob]N[变化];W[pb];B[qa];W[pa];B[na])
+(;B[qa]N[失败1];W[pa];B[pb];W[ob];B[qc];W[na]C[劫。])
+(;B[qc]N[失败2];W[pb];B[qa];W[pa];B[na];W[ma];B[mb];W[oa]))

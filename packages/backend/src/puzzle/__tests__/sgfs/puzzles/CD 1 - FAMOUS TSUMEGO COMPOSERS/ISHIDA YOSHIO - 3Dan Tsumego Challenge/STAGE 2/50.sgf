@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[qn][pn][on][oo][pp][np][mp][lp][lq][lr][ns][rs][rr][rq][rp]AW[ms]
+[mq][nq][oq][op][po][qo][qp][qq][qr][ps]C[50]N[50]AP[MultiGo:4.4.4]SZ[19]AB[ro]
+MULTIGOGM[0]
+
+(;TR[ns][ms]LB[mr:A]C[第50题 成劫争为最佳结果
+
+黑△飞，白▲靠是最善应对。黑A位冲的话，则白就有漂亮的应手了。
+
+本形不是无条件杀白的。
+]
+N[审题])
+(;B[qs]N[正解];W[pq]C[这里，黑1挤进为最善的走法。白2只好拔一子，这时大家都明白了吧。]
+;B[os];W[or]C[成劫争为最佳结果。])
+(;B[mr]N[失败];W[pq]C[黑常识性地走黑1冲，但有白2这一漂亮应手，白无条件成活。];B[or]
+;W[nr]))

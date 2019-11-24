@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[ps][sp][rq][qq][pq]AW[sq][nr][nq][oq][lr][pp][qp][rp][ro][oo]C[78]
+N[78]AP[MultiGo:4.4.4]SZ[19]AB[or]MULTIGOGM[0]
+
+(;TR[sp][sq]C[第78题 无条件活出
+
+黑△扳，这块黑棋已经无条件成活了。
+
+白▲扑时，要加以提防。黑怎样求活？就是活出了也要求用最好的成活法。]
+N[审题])
+(;B[rr]C[黑1退可确保活棋]N[正解];W[so];B[sr];W[ns];B[pr]C[黑地4目。])
+(;B[qr]N[变化1];W[sr];B[rs]C[黑1（或3位）也能活，但损2目。])
+(;B[rr]N[变化2];W[rs];B[qs];W[ns];B[ss])
+(;B[rr]N[变化3];W[ns];B[qs])
+(;B[sr]N[失败];W[rs]C[这正是77题的内容。]))

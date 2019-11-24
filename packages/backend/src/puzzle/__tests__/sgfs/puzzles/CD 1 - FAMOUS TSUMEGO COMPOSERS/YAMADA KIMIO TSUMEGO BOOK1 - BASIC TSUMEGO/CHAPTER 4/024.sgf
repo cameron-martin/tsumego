@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nd][md][ld][kc][kb][ka][rb][rc][qc][pd]AW[la][lb][lc][nb][oc][pc]
+[qb][qa]N[024]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[白气紧。空间小选择少，计算吧。相信你的第一感，但是，要留意白棋的抵抗。]N[审题])
+(;B[mb]N[正解];W[mc];B[nc];W[ma];B[ob];W[pb];B[oa])
+(;B[mb]N[变化1];W[oa];B[pb];W[mc];B[nc])
+(;B[mb]N[变化2];W[pb];B[oa];W[mc];B[nc];W[ma];B[na])
+(;B[nc]N[失败1];W[mb])
+(;B[oa]N[失败2];W[ob];B[mb];W[mc];B[nc];W[ma]))

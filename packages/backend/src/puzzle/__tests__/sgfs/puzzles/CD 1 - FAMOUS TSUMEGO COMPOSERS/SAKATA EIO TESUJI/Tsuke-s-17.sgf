@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dk][cl][fl][gl][hl][cm][hm][fn][hn][bo][fo][go][fp][hp][dq][eq][br][cr]AB[dm][em][fm][gm][gn][do][ho][io][cp][gp][ip][kp][cq][fq][gq][dr]C[Ex. 17 - Shinogi
+
+W has a problem here, being faced with the threat of the cut or the separation below. It is a difficult position but a hint is to put pressure on the B group surrounding the single W stone on the lower side.]PL[W]
+(;W[er]LB[er:1]C[Diag. 2 - Failure
+
+If W 1 kakae, ]
+;B[ep]LB[dp:A][ep:2][er:1]C[B 2 can cut and it is all over.
+After this, if W plays tsukkomi A he can capture 2 B stones but W cannot be satisfied with cutting tails off like this.])
+(;W[ep]LB[ep:1]C[Diag. 2- Failure
+
+W 1 tsugi is likewise no good. ]
+;B[er]LB[ep:1][er:2]C[B can connect with 2 and he can make a large capture without more ado.])
+(;W[gr]LB[gr:1]C[Diag. 3 - Correct
+
+You may think that the tsuke W 1 is a peculiar play, but it is a splendid suji settling matters on both sides. ]
+(;B[hq]LB[hq:2][gr:1]C[It forces B 2 to capture,]
+;W[ep]LB[ep:3][hq:2][gr:1]C[then W3 connects. ]
+;B[er]LB[ep:3][hq:2][er:4][gr:1]C[Now in answer to B 4 watari ]
+;W[fr]LB[eq:3][hq:2][er:4][fr:5][gr:1]C[W can cut at 5.
+In short, this prevents his separation.])
+(;B[fr]LB[fr:2][gr:1]C[Diag. 4 - Correct
+
+If B intercepts with 2 in reply to W 1 ]
+;W[er]LB[er:3][fr:2][gr:1]C[the timely exchange of W 3 osae ]
+;B[hr]LB[er:3][fr:2][gr:1][hr:4]C[and B 4 kakae ]
+;W[ep]LB[ep:5][er:3][fr:2][gr:1][hr:4]C[W connects at 5.])))

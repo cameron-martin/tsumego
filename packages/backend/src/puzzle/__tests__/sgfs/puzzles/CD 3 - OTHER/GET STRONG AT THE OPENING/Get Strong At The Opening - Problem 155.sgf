@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dp][fp][jp][nq][nc][kc]
+AB[cj][cn][pq][qo][pi][pd][oe]
+C[Problem 155. Black to play.  
+
+Kobayashi Koichi used to play the black formation on the right. Where should Black play next ? ]
+(;B[oo]
+TE[2]
+C[Correct Answer.  
+
+Black should jump to 1, aiming to attack White at the bottom. White must defend. ]
+;W[no]
+C[If she attaches at 2, ... ]
+;B[nn]
+C[... Black makes a moyo on the right with 3 ... ]
+;W[mo]
+(;B[on]
+C[... and 5. <= ]
+)
+(;B[mn]
+C[Black 5 here is also a strong move. <= ]
+))
+(;B[cg]
+C[Failure.  
+
+Black 1 seems like a good point, but ... ]
+;W[oo]
+LB[qn:A]
+C[... White will press at 2, wiping out Black's moyo. Next, White A would be a severe move. <= ]
+)
+)

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[rb][rc][qd][sd][re][rf][qf][pf][of][nf][mf][lf][ld][le][lc][lb][ma]
+[na]AW[pc][qe][pe][oe][ne][me][md][mc][nb][oa][pa][qb][qc]N[087]AP[MultiGo:4.4.4]
+SZ[19]AB[ob]MULTIGOGM[0]
+
+(;C[空间小，变化少。只能做成聚眼杀。]N[审题])
+(;B[od]N[正解];W[pd];B[nc];W[mb];B[oc]C[白死。])
+(;B[od]N[变化];W[oc];B[pd]LB[mb:A][la:B][nd:C]C[以下，白A、黑B交换后，白C位入子要被提吃]
+;W[nd];B[rd]C[白死。])
+(;B[nc]N[失败1];W[mb];B[od];W[oc];B[pd];W[la])
+(;B[pd]N[失败2];W[od];B[nc];W[mb];B[oc];W[rd])
+(;B[oc]N[失败3];W[od];B[nc];W[mb]))

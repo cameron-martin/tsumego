@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[no][mp][mq][mr][nq][oq][or][rp][qo][po]AW[lr][kr][lp][lo][mn][nn]
+[on][pn][qn][ro][qp][pp][np][rq][qr]N[032]AP[MultiGo:4.4.4]SZ[19]AB[oo]MULTIGOGM[0]
+
+(;LB[op:A][ns:B]C[黑A位提的话，白B位点，首先要算清楚这个变化。]N[审题])
+(;B[qq]N[正解];W[pq];B[pr]C[黑活。])
+(;B[qq]N[变化];W[sp];B[pq];W[ns];B[ms];W[os];B[pr];W[ps]C[黑活。])
+(;B[op]N[失败1];W[ns];B[ms];W[os];B[pr];W[ps];B[qq];W[sp];B[pq];W[rr];B[rp];W[qp]
+C[黑死。])
+(;B[pr]N[失败2];W[op];B[qq];W[mo];B[rr];W[pq]C[黑死。]))

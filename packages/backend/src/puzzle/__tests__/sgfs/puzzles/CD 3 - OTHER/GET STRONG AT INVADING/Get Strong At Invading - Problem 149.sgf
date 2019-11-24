@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[bd][cf][ci][ic][lc][qf][qi]
+AB[cc][dd][fc][nc][pd][rd]
+C[Problem 149. White to play.  
+
+Here is another tight black formation. Can White invade Black's corner and live ? ]
+(;W[qc]
+TE[2]
+C[Correct Answer.  
+
+The moves from White 1 ... ]
+;B[qd];W[ob];B[nb];W[oc];B[od];W[rc]
+C[... to 7 are all good, but Black is too strong here and ... ]
+;B[pc];W[pb];B[rb]
+C[... White has no answer to Black 10. <= ]
+)
+(;W[re]
+C[Alternative.  
+
+Since White is unable to invade Black's corner, she should make this area as small as possible ... ]
+;B[qc];W[nb];B[ob];W[nd]
+LB[re:1][nb:3]
+C[... by playing the forcing moves of 1, 3, and 5. <= ]
+;B[oc])
+)

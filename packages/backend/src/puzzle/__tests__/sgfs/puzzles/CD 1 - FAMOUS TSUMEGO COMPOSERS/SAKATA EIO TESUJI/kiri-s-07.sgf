@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bk][ck][cl][el][cm][dn][eo][bp][fp][gp][bq][cq][dq][fr]AB[bl][bm][cn][fn][hn][bo][co][fo][io][cp][ep][iq]C[Ex. 7 - Shinogi
+
+The retreat of the B group on the left side seems to have been cut off, but a player skilled in tesuji ought to be able to tell that this is not really so.
+You will fail if you play the usual ate moves.]
+(;B[en]LB[en:1]C[Diag. 1 - Failure
+
+B 1 ate does not find W's weak point. ]
+;W[do]LB[en:1][do:2]C[After W 2 tsugi, ]
+;B[dp]LB[en:1][do:2][dp:3]C[B 3 ]
+;W[dm]LB[dm:4][en:1][do:2][dp:3]C[and W 4, B has done no more than confirm his helplessness.
+B 2 ate instead of 1 is useless after W 1 tsugi.])
+(;B[dm]LB[dm:1]C[Diag. 2 - Correct
+
+B 1 kiri here is correct.]
+(;W[em]LB[dm:1][em:2]C[If W 2 kakae,]
+;B[en]LB[dm:1][em:2][en:3]C[B plays tsukkomi and W cannot connect.
+With this the group on the left comes to life again.])
+(;W[dp]LB[dm:1][dp:2]C[Diag.3 - Correct
+
+If W 2 surrounding one stone on this side in reply to B 2 kiri, ]
+;B[do]LB[dm:1][do:3][dp:2]C[B now plays sashikomi 3 on this side.
+After this W cannot connect.])
+(;W[en]LB[dm:1][en:2]C[Diag. 4 - Variation
+
+It is hardly necessary to mention this but if W tries guzumi 2 in reply to B 1, ]
+;B[em]LB[dm:1][em:3][en:2]C[B 3 can capture 3 stones.])))

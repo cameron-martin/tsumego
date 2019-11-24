@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qr][pr][rq][qo][po][on][mn][nn][ln][kn][jo][jp][jq][jr][kr][lr][ls]
+[ms][lp]AW[mo][no][kp][kq][lq][mq][mr][or][os][pq][pp][lo]N[023]AP[MultiGo:4.4.4]
+SZ[19]AB[mp]MULTIGOGM[0]
+
+(;LB[op:A][oo:B]C[黑A扳，白不能走B位，这是可以利用的地方。]N[审题])
+(;B[nr]C[黑1挖]N[正解];W[ns]C[白只能打吃——只能，就意味着有简单的变化，即，白走其他地方都简单被杀]
+;B[op];W[np];B[oq])
+(;B[nr]N[变化];W[nq];B[ns];W[oo];B[oq])
+(;B[op]N[失败];W[np]LB[oo:A][oq:B]C[接下来，黑A则白B，白活];B[nr];W[oo];B[ns];W[nq]))

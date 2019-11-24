@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][bc][cd][ce][be][df][dg][cg][bg][cq]
+AB[cb][cc][dd][de][ec][ef][pp][pd]
+C[Problem 99. Black to play.  
+
+A joseki has been played out in the upper left corner and White has gotten a thick position on the upper left side. However, Black has kept sente. Where should he play now ? ]
+(;B[dp]
+TE[2]
+C[Correct Answer.  
+
+Since White's stone in the lower corner is low, Black can strike at 1. The reason for Black chose the joseki in the upper left was because he had this move. ]
+;W[cp]
+C[Crawling with 2 is the right direction. ]
+;B[do];W[er];B[gp]
+C[After Black 5, White's thickness has been neutralised. <= ]
+)
+(;B[pj]
+C[Failure.  
+
+It is not appropriate for Black to make a sanren-sei in this position. ]
+;W[dn]
+C[White will extend to 2, making an ideal position on the left side. If Black wanted to make a sanren-sei, he should have played differently in the upper left corner. <= ]
+)
+)

@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][fc][cd][ce][dp]
+AB[cf][de][df][pp][pj][pd]
+LB[de:1][ce:2][cf:3][cd:4][df:5][fc:6][pj:7]
+C[Problem 13. White to play.  
+
+After White 6, Black does not complete the joseki, but rushes to make a sanren-sei with 7. What should White do ? ]
+(;W[dj]
+TE[2]
+C[Correct Answer.  
+
+White should pincer Black's stones with 1 to make them heavy. ]
+;B[ge]
+C[If Black escapes into the center with 2, ... ]
+;W[hd]
+C[... White takes profit at the top with 3 while keeping up the pressure on the black stones. <= ]
+)
+(;W[jp]
+C[Failure.  
+
+White 1 is a good move because it erases the influence of Black's sanren-sei. However, it is bigger to attack the black stones on the upper left side. ]
+;B[dj]
+TR[pj]
+C[Black has now played the important moves of 2 and the marked stone on the right side. <= ]
+)
+)

@@ -1,0 +1,15 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[Problem 110. Black to play.
+What moves does Black make to kill the white group at the top and the white group at the bottom?]PM[1]PB[ ]AB[jl][jk][gg][eb][dl][hj][ed][ec][dm][fb][ej][ee][ic][fj][hg][im][ik][gj][ef][fg][ie][if][id][ib][dk]AW[gb][ff][fc][em][gm][hd][fe][hc][fk][hb][gk][hl][il][he][el][fa][gf][fd]GN[ ]FG[259:]PW[ ]
+(
+;C[Correct Answer
+Black 1...]B[gd]
+;C[...and 3 kill the respective white groups.]B[fl]
+)
+(
+;C[If White Plays First
+If it were White's turn to play, 1...]W[gd]
+;C[...and 3 would make both white groups unconditionally alive.]W[fl]
+)
+
+)

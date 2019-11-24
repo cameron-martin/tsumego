@@ -1,0 +1,13 @@
+(;GM[1]GN[XL]
+AB[qd][pd][rd][qc][oc][ob][oa][na]
+AW[ma][lb][nb][nc][od][pe][qe][re][qf]
+;W[sb](;B[qa];W[sd];B[pb])
+(;B[pb];W[qa](;B[rb];W[ra];B[sd];W[qb];B[rc])
+(;B[rc];W[qb];B[rb];W[ra];B[se];W[sf];B[sc])
+)
+(;B[rc];W[sd](;B[qa];W[sc];B[pb];W[rb];B[qb])
+(;B[sc];W[qb];B[rb];W[ra];B[se];W[pa];B[pc];W[sf];B[sa];W[sb];B[];W[sd];B[sa];W[se];B[qa])
+)
+(;B[rb];W[pb];B[pc];W[sd];B[sc];W[rc])
+(;B[sc];W[qb];B[rb];W[ra])
+)

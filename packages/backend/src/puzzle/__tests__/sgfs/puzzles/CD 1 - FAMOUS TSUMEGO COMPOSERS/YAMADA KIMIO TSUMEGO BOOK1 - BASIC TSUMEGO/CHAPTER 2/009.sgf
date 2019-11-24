@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][nd][md][ld][kc][kb][ka][la][ra][rb][rc][qd]AW[ma][lb][mc][oc]
+[pc][nc][qb][qa]N[009]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;LB[mb:A][oa:B]C[从外侧压缩白眼位，不能成功。摒弃一切幻象之后，其实就是先在A位扑，还是先在B位点的问题。]
+N[审题])
+(;B[oa]N[正解];W[ob];B[mb]LB[lc:A]C[黑3扑时，白不能A位接];W[nb];B[qc];W[na];B[pa]
+;W[pb];B[lc])
+(;B[oa]N[变化1];W[ob];B[pa];W[lc];B[na];W[nb])
+(;B[oa]N[变化2];W[lc];B[qc];W[pb];B[nb])
+(;B[mb]N[失败];W[nb];B[oa];W[lc]C[劫。]))

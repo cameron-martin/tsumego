@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[la][lb][lc][ld][le][lf][mf][nf][of][pe][pd][pc][qa][rb][sb][sc][rd]
+AW[mb][mc][md][me][ne][od][oc][nc][pb][qb][qc][rc]N[010]AP[MultiGo:4.4.4]SZ[19]
+AB[re]MULTIGOGM[0]
+
+(;TR[la]C[在失败图都计算好之后，能够发现正解。或者，利用你的第一感。
+观察棋形：黑有硬腿，但角上可能出现接不归。]
+N[审题])
+(;B[ob]N[正解];W[oa];B[na];W[nb];B[ma]C[白死。])
+(;B[ob]N[变化];W[nb];B[ma];W[na];B[pa];W[oa];B[ra])
+(;B[ma]N[失败1];W[na];B[oa];W[nb];B[pa];W[ra])
+(;B[na]N[失败2];W[ma];B[pa];W[ob];B[oa];W[ra])
+(;B[oa]N[失败3];W[na];B[ma];W[nb];B[pa];W[ra]))

@@ -1,0 +1,51 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dc][df][ch][bg][co][dp][dq][cr][hp][gq][jq][rp][rn][sn][sm][qm][ql][rl][qk][qj][pj][qi][ri][qh][qd][rd][qa][pa][pb][pc][oc][od][oe][mb][mc][lc][kc][kd][kb][jb][hb][hj][nk][hk]
+AB[bh][cj][cm][oq][qp][qn][dr][eq][gp][qo][ro][so][rh][sg][rf][re][qe][pe][pd][qc][rc][qb][ra][ne][nf][md][ld][nb][ib][ic][jc][jd][je][ke][fc][fe][gi][pk][ok][oj][ol][pi][ph][gj]
+TR[hp]
+C[Problem 115. Black to play.  
+
+White has just played the marked stone. What should Black do ? ]
+(;B[go]
+TE[2]
+C[Correct Answer.  
+
+Black should extend to 1. ]
+;W[ho]
+C[If White 2, ... ]
+;B[hn]
+C[... Black hanes with 3. ]
+;W[gn]
+C[When White cuts with 4, ... ]
+;B[gm];W[fn];B[fm]
+LB[gm:5]
+C[... Black plays 5 and 7. ]
+;W[en]
+C[White must play 8n to save her two stones, so ... ]
+;B[in]
+TR[hk][hj]
+C[... Black extends to 9, trapping the two marked stones. <= ]
+)
+(;B[fp]
+C[Failure.  
+
+In the game, Black drew back with 1, and ... ]
+;W[ho]
+C[... White exchanged 2 ... ]
+;B[fn]
+C[... for 3. ]
+(;W[dm]
+C[Attaching with White 4, however, was a mistake. ]
+;B[hm]
+C[Black again goes on the offensive with 5. ]
+;W[gk];B[dn];W[cn]
+C[The game continued to White 8. <= ]
+)
+(;W[hm]
+TR[fn]
+C[White's best move.  
+
+After Black jumped with the marked stone, White should have jumped to 4, linking up with her two stones in the center. White now has a won game. <= ]
+))
+)

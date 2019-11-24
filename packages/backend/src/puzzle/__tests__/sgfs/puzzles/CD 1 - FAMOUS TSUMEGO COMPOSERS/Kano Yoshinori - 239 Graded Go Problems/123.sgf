@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]PM[1]C[Problem 123. White to play and live. (1 move)
+What move does White make to give his stones life?]GN[ ]AW[eb][ea][ia][ja][ga][fb][hb][gc]PW[ ]PB[ ]AB[gd][kb][dc][ic][ib][fc][db][ec][hd][jb][da][ka]
+(
+;C[Correct Answer
+White 1 is the correct answer...]W[hc]
+;C[...If Black takes two stones with 2...]B[ha]
+;C[...White retakes with 3.]W[ia]
+)
+(
+;C[Wrong Answer
+If white plays at 1...]W[ha]
+;C[...Black 2 turns White's lower eye into a false eye and White is dead.]B[hc]
+)
+
+)

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[od][oe][ne][me][le][ke][kd][jc][jb][mc][qb][qc]AW[lb][lc][ld][md]
+[nd][oc][ob][pb]N[008]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;TR[mc]C[黑一子已经被吃住，白只能想办法压缩白的眼位。直接从里面动手，杀棋的希望很渺茫。]
+N[审题])
+(;B[pa]C[类似棋形下，底线扳常常值得重点考虑]N[正解];W[mb]C[白2曲是唯一“像样的”抵抗]
+;B[nc]C[黑3多弃一子是手筋。对此，白提子的话，边上做不出眼来];W[oa];B[la];W[ma];B[nb]
+C[白死。])
+(;B[pa]N[变化1];W[mb];B[nc];W[la];B[na])
+(;B[pa]N[变化2];W[oa];B[mb];W[nb];B[ma])
+(;B[mb]C[从里面动手先的话，只有黑1贴下这一手吧]N[失败];W[pa]C[白2占据急所];B[na]
+;W[la]C[白活。]))

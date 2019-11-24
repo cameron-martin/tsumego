@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qf][qg][qh][of][oe][pd][qd][rc]AW[qb][qc][pc][od][nd][ne][pe][ng]
+[og][pi][qi][rh][rg][rb]N[104]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;LB[ri:A]C[观察棋形，白有A位的断点。本题和103题一道，展示的是边上破眼的基本手法。
+
+难度：☆☆]
+N[审题])
+(;B[sd]N[正解];W[sb];B[rf];W[rd];B[re];W[sc];B[sf]C[黑劫活正解。])
+(;B[sd]N[变化];W[sb];B[rf];W[sf]C[白4扳现在不行];B[se];W[rd];B[sg]C[黑7提子是先手，活了。])
+(;B[sc]N[失败];W[se]C[白可以小飞破眼];B[sf];W[rf];B[re];W[sd]))

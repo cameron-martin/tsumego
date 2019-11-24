@@ -1,0 +1,63 @@
+(;
+AB[pp][oq][po][pn][qo][om]
+AW[on][pm][pl][qn][rn]
+C[White plays.
+
+Endgame
+pp. 94-95]
+(;
+W[sq]
+C[Inferior.
+
+The monkey jump is often
+the best sente move, but
+not here.  The reason is
+that White has no exciting
+follow up.]
+)
+    (;
+    W[rp]
+    LB[qq:a]
+    C[Best.
+
+Now White has a large
+follow up at A.];
+    B[ro]
+    C[Here is one likely
+continuation.];
+    W[so];
+    B[rq]
+    (;
+    W[sq]
+    (;
+    B[rr]
+    )
+        (;
+        B[sr]
+        C[Even if Black has the ko
+threats to play here, White
+more definitely ends in
+sente, than as with the
+monkey jump.]
+        )
+    )
+        (;
+        W[rr]
+        C[White can even play here
+with enough ko threats.]
+        (;
+        B[qp];
+        W[sq]
+        )
+            (;
+            B[sq]
+            C[Black cannot play here.];
+            W[qq];
+            B[qp];
+            W[sr]
+            C[And Black's position collapses.]
+            )
+        )
+    )
+)
+

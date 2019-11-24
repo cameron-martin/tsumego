@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[qg][pg][og][nf][ne][nd][od][ld][lc][lb][rb][rc][rd][re]AW[ma][mb]
+[mc][nc][oc][pd][qd][qe][qf][pf][oe][qb]N[101]AP[MultiGo:4.4.4]SZ[19]AB[rf]MULTIGOGM[0]
+
+(;LB[of:A][qc:B][pb:C][qa:D]C[黑在A位打不行，白B接上就活了。黑的选择，有B、C和D，可分别计算。]
+N[审题])
+(;B[qa]C[黑1扳，冷静。能够走出这一手，估计变化1至4都已经了然。]N[正解];W[pb];B[qc]
+;W[pc];B[of]C[白死。])
+(;B[qa]N[变化1];W[of];B[pc])
+(;B[qa]N[变化2];W[qc];B[pb];W[ob];B[pa])
+(;B[qa]N[变化3];W[ob];B[pa])
+(;B[qa]N[变化4];W[pa];B[qc];W[pc];B[pb];W[ob];B[oa])
+(;B[qc]N[失败1];W[pc];B[qa];W[ob];B[of];W[pa]C[劫。])
+(;B[pb]N[失败2];W[ob];B[qc];W[pc];B[qa];W[of]))

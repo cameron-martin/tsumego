@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][co][cn][dm][cj][nq][qq][qp][pn]
+AB[dp][pd][pp][dd][cf][db][en][dn][cp][jq][oo][pq]
+LB[fc:1][cf:2][db:11][cp:8][co:7][cn:3][dn:4][dm:5][en:6][cj:9]
+LB[jq:12][nq:11][oo:14][pn:13][qq:15][qp:17][pq:16]
+C[Problem 126. Black to play.  
+
+How should Black respond to White 17 ? ]
+(;B[on]
+TE[2]
+C[Correct Answer.  
+
+Pushing out with Black 1 ... ]
+;W[pm];B[om]
+C[... and 3, aiming to make a moyo at the bottom, is a good strategy. ]
+;W[po];B[op];W[pl]
+C[White will secure the right side with the sequence to 6, but ... ]
+;B[jo]
+C[... Black can then reinforce the bottom by jumping to 7. It will be now very hard for White to invade this huge valley of territory. <= ]
+)
+(;B[qr]
+C[How the game continued.  
+
+The hane of Black 1 was also a good move in this position. ]
+;W[po]
+C[White settled her stones on the right with 2, ... ]
+;B[np];W[mp];B[mo];W[lp]
+LB[mp:4]
+C[... then pulled out her stone at the bottom with 4 and 6. This was, however, an overplay. White's stones are heavy and vulnerable, while Black's are strong and flexible. See Problem 130 for the continuation. <= ]
+)
+)

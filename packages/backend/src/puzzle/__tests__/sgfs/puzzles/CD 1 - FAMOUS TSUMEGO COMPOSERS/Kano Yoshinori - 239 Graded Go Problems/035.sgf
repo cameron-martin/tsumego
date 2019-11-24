@@ -1,0 +1,17 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 5. KO
+
+Problem 35. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[gd][de][he][fe][gf]PB[ ]PM[1]PW[ ]AB[ff][fc][gg][ee][fd]
+;C[White plays double atari with 1. How should Black reply?]W[ef]
+(
+;B[ge]C[Correct Answer
+Taking the ko with 2 is the only move.]
+)
+(
+;B[fg]C[Wrong Answer
+If Black connects at 2...]
+;C[...White takes a stone at 3 and Black's stones are separated.]W[ed]
+)
+
+)

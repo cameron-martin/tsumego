@@ -1,0 +1,23 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][ld][nc][pb]
+AB[dd][gc][lc][qc][pd][pf]
+LB[lc:1][ld:2]
+C[Problem 34. Black to play.  
+
+If White responds to Black's invasion by attaching on top with 2, how should Black answer ?  
+
+<See Reference Diagram 34 for the correct joseki in the top right corner.> ]
+;B[mc]
+TR[ld]
+
+TE[2]
+C[Correct Answer.  
+
+Against the marked white stone Black should play 1 ... ]
+;W[md];B[nb]
+LB[ob:B][nd:A]
+C[... and 3, and the situation is similar to the answer in Problem 31. Black can link up by playing at A or B.  <= ]
+)
+)

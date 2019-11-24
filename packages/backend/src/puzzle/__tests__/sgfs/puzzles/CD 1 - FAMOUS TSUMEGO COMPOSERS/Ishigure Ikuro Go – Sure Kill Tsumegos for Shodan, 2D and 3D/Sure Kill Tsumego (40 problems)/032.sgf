@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rr][qr][ps][sq][sp][so][rn][qn][pn][oo][op][oq][no][mo][lo][ko][kp]
+[kr][ks]AW[np][nq][or][pr][pq][pp][po][qo][qq][rq][rp][lr][mr][lp][mp]N[032]AP[MultiGo:4.4.4]
+SZ[19]AB[lq]MULTIGOGM[0]
+
+(;LB[kq:A]C[黑如果A位被提子的话，边上可能出事。角上黑的断头多，也可能出现接不归。因此必须小心。]
+N[审题])
+(;B[ls]N[正解];W[ms];B[kq]C[黑1、白2交换之后，黑3粘，冷静];W[os];B[nr]C[白死。])
+(;B[ls]N[变化];W[ns];B[qs]C[白死。])
+(;B[os]N[失败1];W[ns]C[黑1冲、白2挡交换之后，白已是活形。])
+(;B[kq]N[失败2];W[ls];B[ns];W[nr];B[os];W[qs]))

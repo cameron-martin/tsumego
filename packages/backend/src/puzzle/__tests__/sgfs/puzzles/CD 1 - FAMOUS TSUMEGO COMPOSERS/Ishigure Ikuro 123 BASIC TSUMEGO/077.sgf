@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[ka][kb][kc][kd][ke][le][me][nf][of][pg][qf][rg][re][rd][qc][qb][oc]
+[pb]AW[la][lb][lc][ld][nd][ne][oe][pd][pc][qe][nb][ob]N[077]AP[MultiGo:4.4.4]SZ[19]
+AB[oa]MULTIGOGM[0]
+
+(;LB[pe:A][md:B][na:C]C[A、B、C三点，是显见的着手，计算可以从这里开始。或者，根据你的第一感开始计算。要多为白棋着想。]
+N[审题])
+(;B[nc]N[正解];W[ma]C[白2是防守的好手];B[mc];W[md];B[pe];W[pf]C[劫杀正解。])
+(;B[nc]N[变化];W[na];B[mb];W[ma];B[md]C[白的防守不够顽强。])
+(;B[md]N[失败1];W[mc])
+(;B[na]N[失败2];W[ma];B[nc];W[pa])
+(;B[pe]N[失败3];W[nc];B[md];W[mc]))

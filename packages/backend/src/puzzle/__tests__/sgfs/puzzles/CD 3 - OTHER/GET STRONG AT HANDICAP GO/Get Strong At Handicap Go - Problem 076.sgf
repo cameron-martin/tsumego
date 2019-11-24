@@ -1,0 +1,43 @@
+(;
+GM[1]
+SZ[19]
+AW[pm][lq][fq][dq][cr][er][fp][fn][qh][oh][pf][rf][nc]
+AB[pj][dj][dp][pd][pp][dd][np][dn][cq][ip][cp][ep][nm][nj][qf][qe][re][pb]
+LB[nm:1][qh:2][qf:3][nc:4][pb:5][oh:6][nj:7][rf:8][re:9][pf:10]
+LB[qe:11][fn:12]
+C[Problem 76. Black to play.  
+
+The game in Problem 72 continued with the sequence to White 12. What should Black do next ? ]
+(;B[kp]
+TE[2]
+C[Correct Answer.  
+
+Black's stone at the bottom is weak, so he must strengthen it. But simply running away into the center would please White. Black 1 kills two birds with one stone; it attacks the white stone and it strengthens Black's stone at the bottom. ]
+;W[lp]
+C[White can't fight. After she pushes up with 2, ... ]
+;B[lo]
+(;W[jr]
+C[... she must slide to 4 and ... ]
+;B[ko];W[hq]
+C[... ensure a link-up with 6. With the thickness Black makes in the center, he is satisfied with this result. See Problem 80 for an example of how White would continue if Black played as in this Correct Answer. <= ]
+)
+(;W[mo]
+C[If White 4 here, ... ]
+;B[mp]
+C[... Black cuts at 5, then, ... ]
+;W[ko]
+C[... if White 5, ... ]
+;B[ln]
+C[... he extends to 7 and White has no way to defend her stones at the bottom. <= ]
+))
+(;B[dl]
+C[How the game continued.  
+
+Black settled the left side with 1, but ... ]
+;W[lo]
+LB[in:B][nn:A]
+C[... White jumped to 2, threatening to play either A or B. ]
+;B[in]
+C[Black next jumped to 3, but his future prospects were unclear. <= ]
+)
+)

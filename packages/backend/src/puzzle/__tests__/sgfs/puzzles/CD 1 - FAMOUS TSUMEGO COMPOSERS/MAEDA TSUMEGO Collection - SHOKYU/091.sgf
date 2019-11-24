@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[mc][nc][oc][pd][qd][rd][rb][kb][kc]AW[qc][pc][ob][nb][mb][lb][qb]
+N[091]AP[MultiGo:4.4.4]SZ[19]AB[lc]MULTIGOGM[0]
+
+(;C[不要忽略了白棋的抵抗。
+
+难度：☆☆]N[审题])
+(;B[pa]N[正解];W[qa];B[la]C[注意，由于白棋气紧，角上没有吃黑接不归的手段])
+(;B[pa]N[变化];W[oa];B[qa];W[rc];B[sc];W[pb];B[sa];W[ra];B[qa])
+(;B[qa]N[失败];W[ra];B[sa];W[pa];B[rc]C[劫杀，黑进攻失败。]))

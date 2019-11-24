@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qe][pe][oe][od][nc][md][jc][rc][rd]AW[ob][oc][pc][pd][qc][rb][kd]
+[jd][kc][jb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[审题：唯一的麻烦是白棋可能从边上联络，因此要仔细选择进攻的手段。]N[审题])
+(;B[na]N[正解];W[sb]C[黑1跳好，白2最大限度地拓展眼位];B[pa];W[oa];B[qb];W[nb];B[mb]
+;W[ma];B[lb]C[白死。])
+(;B[nb]N[失败];W[oa]C[黑1挡，白2立下是先手];B[lb];W[sb]C[白活。]))

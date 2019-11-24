@@ -1,0 +1,35 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][hc]
+AB[dp][pd][pp][ec]
+LB[cd:1][ec:2][hc:3]
+C[Problem 138. Black to play.  
+
+This is a fundamental three-stone handicap position. How should Black continue ? ]
+;B[ef]
+TE[2]
+C[Correct Answer.  
+
+Jumping to 1, ... ]
+;W[cg]
+(;B[dh];W[ch];B[di];W[ci];B[dj];W[ck];B[de]
+C[... then plastering White against the left side with the sequence to 9, is a good strategy in a three-stone handicap game. ]
+;W[ce];B[kd]
+C[Black can now use this thick wall to attack the white stone at the top with the pincer of 11 ... ]
+;W[he];B[hg]
+C[... and the cap of 13. The two white stones at the top are now on the run. By chasing these stones, Black will be able to make territory at the top and thickness in the center. <= ]
+)
+(;B[kd]
+LB[cg:2]
+C[Variation.  
+
+Making a pincer immediately after White extends to 2 is also good, but it lacks the severity of the sequence in the Correct Answer. ]
+;W[ge]
+C[White plays the vital point of 4 and ... ]
+;B[cc];W[bc];B[dd];W[ce];B[eh];W[cb]
+C[... secures the corner with the sequence to 10. ]
+;B[pj]
+C[Black 11 is big, but Black's stones in the upper left are still not settled. Black can play this way if he is confident of his fighting ability. <= ]
+)
+)

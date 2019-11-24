@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 18. Black to play.
+One black stone is about to be captured. How can Black save it?]AW[jj][hk][hl][im][ij][kj]PB[ ]PM[1]PW[ ]AB[hm][cj][fk][gl][ej]
+(
+;B[gm]C[Correct Answer
+Black can save his stone by playing at 1.]
+)
+(
+;B[il]C[Wrong Answer
+Black 1 is unresonable since...]
+;C[...White will capture the black stone with 2.]W[gm]
+)
+
+)

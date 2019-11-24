@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 66. Black to play.
+Which white stone should Black take?]AW[ek][gk][hj][fm][jm][il][ik][el][fk]PB[ ]PM[1]PW[ ]AB[hm][jl][dl][ki][fl][hk][hl][em][im][dm][kk][gl]
+(
+;B[km]C[Correct Answer
+Taking one stone on the right with Black 1 is the correct answer.]
+)
+(
+;B[gm]C[Wrong Answer
+If Black takes one stone on the left, he will lose seven stones when White retakes to the left of 1.]
+)
+
+)

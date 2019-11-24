@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]GN[第232题]HA[0]EV[吴清源诘棋集（初级编）]AB[bd][cd][cf][df][ef][ge][gd][gb][hc][fb]AW[cc][dc][eb][fc][fd][dd][de]C[黑先
+
+对此形也可能贸然断定，白是无条件活]
+
+(;B[da]N[正解图];W[ca];B[cb];W[bb];B[ba];W[db];B[bc])
+(;B[bb]N[失败图];W[cb];B[da];W[ca];B[ea];W[bc];B[ac];W[ab];B[aa])
+(;B[da]N[正解变化图];W[ea];B[bb];W[bc];B[ac];W[cb];B[ca];W[db];B[ab]))

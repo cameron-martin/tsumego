@@ -1,0 +1,15 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[qe][oe][qd][oc][rd][pd][ob]GN[ ]AB[nc][od][nb][qc][rc][pe][pc]PM[1]C[Problem 191. Black to play.
+Two black stones are in atari. Which one should he save?]PW[ ]
+(
+;B[nd]C[Correct Answer
+Black has no choice but to connect with 1...]
+;W[pf]C[...After White captures with 2, Black's area at the top is intact.]
+)
+(
+;B[pf]C[Wrong Answer
+If Black saves this stone by playing 1 here...]
+;W[nd]C[...White captures with 2, and Black's stones are scattered without any base. This is a disaster for Black.]
+)
+
+)

@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ho][io][jo][dp][ep][fp][gp][cq][dq][hq][jq][kq][br][hr][kr]AB[cn][bp][cp][hp][ip][bq][eq][fq][gq][iq][cr][dr][ir][jr]C[Ex. 3 - Strategem
+
+You are to find a way to exploit B's bad aji on the side.
+You should try to play good follow-up moves.]PL[W]
+(;W[gr]LB[gr:1]C[Diag. 1 - Failure
+
+If W moves his 2 stones at once he fails.
+Even if he plays magari 1, ]
+;B[fr]LB[fr:2][gr:1]C[Nothing has happened after B 2]
+;W[fs]LB[fr:2][gr:1][fs:3]C[W 3 ate ]
+;B[er]LB[er:4][fr:2][gr:1][fs:3]TR[aa]C[and B 4 tsugi.])
+(;W[hs]LB[hs:1]TR[aa]C[Diag. 2 - Failure
+
+W 1 sagari is a good idea ]
+;B[gr]LB[gr:2][hs:1]C[but by itself it fails against B 2. ]
+;W[js]LB[gr:2][hs:1][js:3]C[If W 3, ]
+;B[gs]LB[er:A][gr:2][es:B][gs:4][hs:1][js:3]C[B 4 osae and W loses by 1 move.
+Even if W cuts at "A" after B 2, B plays "B" and W's plan fails.])
+(;W[er]LB[er:1]C[Diag. 3 - Correct
+
+W 1 kiri first is the best order of moves.]
+(;B[fr]LB[er:1][fr:2]C[B plays kakae 2, ]
+;W[hs]LB[er:1][fr:2][hs:3]C[then W sagari 3. ]
+;B[gs]LB[er:1][fr:2][gs:4][hs:3]C[After B 4, ]
+;W[js]LB[er:1][fr:2][gs:3][hs:4][js:5]C[when W plays hane 5  B cannot play ate against W one point above 4 because he is in damezumari on account of the single stone he is surrounding.])
+(;B[gr]LB[er:1][gr:2]C[Diag. 4  Variation
+
+If B cautiously plays 2 in reply to W 1 kiri, 
+]
+;W[ds]LB[er:1][gr:2][ds:3]C[W will be content to capture 2 stones at 3. ]
+;B[hs]LB[er:1][gr:2][ds:3][hs:4]C[When B takes at 4 he is alive but W has had great success in nibbling away at the corner.])))

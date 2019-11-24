@@ -1,0 +1,38 @@
+(;
+AB[cc][cd][de][ed][fc][gd][hc][ic][jc][ef][dg][eg][fg][eh][fi][gh][ld][qd][pq][op][jp]
+AW[qo][kq][dp][cb][dc][eb][fd][gb][gc][hb][jb][kb][cg][dh][di][ei][fj][gj]
+C[White's response to Black's marked play?
+
+Source:
+    "Go World", #32, Summer 1983, p. 8
+    Michael Redmond   vs.  Kajiwara Takeo
+    Lightening game.
+    Oeda Yusuke commentary.]
+TR[jp]
+(;
+W[jq]
+C[Correct.
+White retains sente.
+The game continued...];
+B[ip];
+W[kp];
+B[jn];
+W[ko];
+B[hm]
+)
+    (;
+    W[kp]
+    C[Bad.];
+    B[jo];
+    W[ir];
+    B[ko];
+    W[hp]
+    LB[hq:a]
+    C[But if White omits this move,
+Black has the good continuation
+at A.];
+    B[cq]
+    C[And Black has time to invade
+the corner.]
+    )
+)

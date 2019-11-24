@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[cn][co][dm][ek][ed][ee][dg][cg][gj][gl][fl][em]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][jj][cp][dn][en][cf][eh][gh][ej][dk][fm][gm][hm]
+TR[cg]
+C[Problem 27. Black to play.  
+
+This was the position eventually reached in the game in Problem 23. How should Black respond to the marked white stone ? ]
+(;B[dc]
+TE[2]
+C[Correct Answer.  
+
+Descending to Black 1 is a solid move. ]
+;W[ec]
+C[White must keep Black confined to the corner, so she blocks with 2. ]
+;B[df];W[ef];B[eg];W[de];B[ce];W[cd];B[bd];W[cc];B[bc];W[db]
+C[With the sequence to 12, White settles her stones at the top, but ... ]
+;B[bg]
+C[... Black gets a large territory on the left when he hanes at 13. White must now do something about her stones in the lower left. <= ]
+)
+(;B[ec]
+C[How the game continued.  
+
+The hane of Black 1 was an overplay. Black's stones were too thin to support such an aggressive move. ]
+;W[dc];B[cc];W[db];B[eb];W[cd];B[de];W[cb]
+(;B[ef];W[df];B[ce];W[bf]
+LB[df:10]
+C[After White 10 and 12, Black's stones in the corner were dead. In spite of this loss, however, Black can still deliver a decisive blow. See Problem 31 for the continuation. <= ]
+)
+(;B[bc]
+C[Instead of @, Black should have played 9 here. ]
+;W[bb]
+C[If White 10, ... ]
+;B[bd]
+C[... Black could live by turning at 11. <= ]
+))
+)

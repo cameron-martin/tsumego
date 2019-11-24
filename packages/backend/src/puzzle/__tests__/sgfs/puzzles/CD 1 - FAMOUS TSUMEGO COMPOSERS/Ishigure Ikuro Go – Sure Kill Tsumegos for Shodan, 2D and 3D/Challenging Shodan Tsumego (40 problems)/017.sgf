@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[kp][kq][kr][ls][mq][mp][mn][nn][om][pm][qm][rn][ro][rp][qq][qr][op]
+[qs]AW[lr][mr][nq][np][no][oo][pn][qo][qp][pq][pr][ps]N[017]AP[MultiGo:4.4.4]SZ[19]
+AB[pp]MULTIGOGM[0]
+
+(;LB[nr:A][or:B]C[黑A、白B的话，白棋要死。从这里计算白棋的抵抗，明白了黑为什么不成功之后，就能找出正解。]
+N[审题])
+(;B[ns]C[黑1点时，白不能挡下]N[正解];W[nr];B[oq]C[黑3冲又是先手];W[or]LB[po:A]C[白4走A位也是一样的]
+;B[ms]C[白死。])
+(;B[nr]N[失败1];W[ns];B[or];W[oq])
+(;B[ms]N[失败2];W[ns]))

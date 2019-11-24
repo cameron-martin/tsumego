@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 91. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[bh][ff][fi][dh][ci][ei][cg][di][dg][ef][fg][bi]PB[ ]PM[1]PW[ ]AB[bf][ge][fj][gg][fe][fh][dj][eh][df][cj][eg][hj][bj][hh][cf][gi][ej][ee]
+;C[White captures three black stones with 1. How should Black reply?]W[gh]
+(
+;B[fh]C[Correct Answer
+Black should retake with 2. Now all the white stones are dead.]
+)
+(
+;B[gf]C[Wrong Answer
+If Black plays 2...]
+;C[...White connects with 3 and all his stones are alive.]W[fh]
+)
+
+)

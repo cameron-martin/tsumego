@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[dl][dm][dn][cn][bn][an][eh][dg][cg][bf][ck][dk]AW[ci][bk][al][am]
+[bm][cm][cl][cj]N[064]AP[MultiGo:4.4.4]SZ[19]AB[dj]MULTIGOGM[0]
+
+(;C[黑棋有锐利的一击。
+
+难度：☆☆]N[审题])
+(;B[aj]LB[ak:A]C[黑1锐利。白很难办，必须阻渡，还得紧着黑气走，否则有A位的叫吃]N[正解]
+;W[ai];B[bi];W[bh];B[ah];W[bj];B[bg];W[ai]C[劫杀正解])
+(;B[aj]N[变化];W[bj];B[ai];W[bh];B[ah]C[白抵抗失败])
+(;B[bh]N[失败];W[bi]))

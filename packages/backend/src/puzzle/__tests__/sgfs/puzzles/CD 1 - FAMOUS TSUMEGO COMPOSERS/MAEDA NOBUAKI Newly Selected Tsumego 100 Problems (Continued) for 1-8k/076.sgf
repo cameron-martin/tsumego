@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[ge][ic][hc][gc][gd][ie][hg][ig][jg][kg][lf][mf][me][md][mc][mb][lb]
+[gf]AW[kf][je][jd][jc][kb][lc][ld][le][id][hd][he][jf]N[黑先]AP[MultiGo:4.4.4]SZ[19]
+AB[kd]MULTIGOGM[0]
+
+(;C[审题：白棋在中间有一只后手眼，因此黑必须想办法先手破掉白上边的眼位。有了这样的认识，这道题就不难了。]
+N[审题])
+(;B[kc]N[正解];W[ke];B[kc];W[ib];B[ka];W[ja]C[劫杀正解。])
+(;B[if]N[失败];W[ib];B[hb];W[ja]))

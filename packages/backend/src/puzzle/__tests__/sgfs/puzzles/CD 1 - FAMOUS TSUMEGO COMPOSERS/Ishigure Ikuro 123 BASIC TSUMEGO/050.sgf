@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[oe][ne][me][le][ke][kd][kc][kb][ka][ob][rc][rb][qd][qe]AW[pb][qb]
+[qc][pd][od][nc][mb][lb][lc][ld][md]N[050]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[白的棋形存在重大缺陷。]N[审题])
+(;B[qa]N[正解];W[pa];B[oc];W[nd];B[pc]C[白死。])
+(;B[qa]N[变化];W[oc];B[pa];W[pc];B[oa])
+(;B[oa]C[黑1立下如何？]N[失败];W[pc]C[白2很干净吧。]))

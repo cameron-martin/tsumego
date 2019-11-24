@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[nd][md][lc][kc][kb][mb][rb][qc][pc]AW[la][lb][mc][nc][oc][nb][pb]
+N[003]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[pa:A]C[A位夹是必然的一手，但要计算清楚后续变化。]N[审题])
+(;B[pa]N[正解];W[qa];B[oa];W[qb];B[ra]C[接不归，白死。])
+(;B[pa]N[变化];W[oa];B[ma]C[黑3先打是次序];W[na];B[qa])
+(;B[pa]N[失败];W[qa];B[qb];W[oa]))

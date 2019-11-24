@@ -1,0 +1,35 @@
+(;
+AB[jr][dq][jq][dp][fp][gp][jp][pp][do][eo][en][pn]
+AW[pr][cq][eq][fq][kq][nq][bp][ep][fo][go][bn][cn][dm][em][fm]
+C[Black plays.
+Source:  Tesuji Dictionary, Vol. 1, Tsuke #38,
+Segoe Kensaku & Go Seigen, Ishi Press]
+(;
+B[fr]
+C[Correct.];
+W[er];
+B[dr];
+W[gq]
+C[White's best chance.];
+B[hp];
+W[gr]
+C[White can make an eye.];
+B[fs]
+C[But Black prevents a second eye,
+and wins the liberty race.]
+)
+    (;
+    B[gq]
+    C[Fails.];
+    W[dr]
+    C[White connects.]
+    )
+    (;
+    B[dr]
+    C[Also fails.];
+    W[hp]
+    C[White captures the two Black
+stones.  Black's corner stones
+die.]
+    )
+)

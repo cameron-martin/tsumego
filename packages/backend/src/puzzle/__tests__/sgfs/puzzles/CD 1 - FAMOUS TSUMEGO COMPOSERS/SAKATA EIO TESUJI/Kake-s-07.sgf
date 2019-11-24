@@ -1,0 +1,37 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[ho][cp][dp][ip][jp][gq][hq]AW[cn][en][ko][gp]
+[hp][kp][iq][kq][ir]C[Ex.  7  - Capture
+
+The 2 W stones cannot be captured by shicho.
+If B clumsily plays ate he will lose his own 2 stones on the lower side.
+]
+AP[CGoban:2]SZ[19]GM[1]PB[Black]PW[White]KM[0]MULTIGOGM[1]
+
+(;B[fp]TR[aa]LB[fp:1]C[Diag.  1  -  Failure
+
+B cannot play this ate 1. ];W[go]LB[go:2]
+[fp:1]C[After W 2 de, ];B[fo]LB[fo:3][go:2][fp:1]C[B3 ];W[gn]LB[gn:4][fo:2][go:3]
+[fp:1]C[and W 4, it is all over.])
+(;B[go]LB[go:1]C[Diag.  2  -  Failure
+
+B 1 ate is bad. 
+];W[fp]LB[go:1][fp:2]C[After W 2 nobi B may feel he has done well, yet his moves have achieved nothing, ]
+;B[fo]LB[fo:3][go:1][fp:2]C[If B 3, ];W[fq]LB[fo:3][go:1][fp:2][fq:4]C[W can play osae 4 and it is B's 2 stones which are captured, not W's.])
+(;B[fo]LB[fo:1]C[Diag.  3  -  Correct
+
+B 1 kake is tesuji. 
+With this, W cannot move his stones and he is as good as hemmed in.]
+;W[fp]LB[fo:1][fp:2]C[Diag.  4  -  Variation
+
+If W runs away at 2 in answer to B 1, ]
+;B[fq]LB[fo:1][fp:2][fq:3]C[B must crawl first at 3 ];W[ep]LB[fo:1][ep:4][fp:2]
+[fq:3];B[eo]LB[eo:5][fo:1][ep:4][fp:2][fq:3]C[before playing B 5.];W[eq]LB[eo:5]
+[fo:1][ep:4][fp:2][eq:6][fq:3]C[After W 6 ];B[er]LB[eo:5][fo:1][ep:4][fp:2][eq:6]
+[fq:3][er:7]C[B again crawls at 7];W[dq]LB[eo:5][fo:1][ep:4][fp:2][dq:8][eq:6][fq:3]
+[er:7];B[dr]LB[eo:5][fo:1][ep:4][fp:2][dq:8][eq:6][fq:3][dr:9][er:7]C[and B 9, ]
+;W[cq]LB[eo:5][fo:1][ep:4][fp:2][cq:10][dq:8][eq:6][fq:3][dr:9][er:7];B[bq]LB[eo:5]
+[fo:1][ep:4][fp:2][bq:11][cq:10][dq:8][eq:6][fq:3][dr:9][er:7]C[then B plays 11 ]
+;W[cr]LB[fo:1][dp:5][ep:4][fp:2][bq:11][cq:10][dq:8][eq:6][fq:3][cr:12][dr:9][er:7]
+;B[br]LB[fo:1][dp:5][ep:4][fp:2][bq:11][cq:10][dq:8][eq:6][fq:3][br:13][cr:12][dr:9]
+[er:7]C[and B 13.
+B wins.
+Even though he has gone to the trouble of playing 1 first, if B plays 4 instead of 3, he fails after W 3 osae.]))

@@ -1,0 +1,40 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[af][bc][bf][bj][cc][cf][cj][dd][dj][ed][ee][ef][ei][fh]
+AW[ae][be][bh][cd][ce][ci][de][df][dg][dh]PL[B]C[Black to play.
+
+Capturing stones - Sacrificing Stones]
+(
+;B[bi]
+(
+;W[di]
+(
+;B[ah]
+;W[ag]
+(
+;B[cg]
+;W[ai]
+;B[bg]C[RIGHT
+Handle 5])
+(
+;B[bg]
+;W[cg]C[Ko Fight]))
+(
+;B[bg]
+;W[cg])
+(
+;B[cg]
+;W[bg]))
+(
+;W[ah]
+;B[bg]C[RIGHT
+]))
+(
+;B[ah]
+;W[bi]
+;B[ai]
+;W[ag]
+;B[bg]
+;W[cg])
+(
+;B[bg]
+;W[bi]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qf][pf][og][ng][mf][lf][le][ld][lc][mc][mb][na][rb][rc][qd]AW[nb]
+[ob][nc][md][me][of][oe][pe][pd][qc][qb]N[015]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;LB[nf:A][ne:B]C[白气紧。从A、B一带动手压缩眼位貌似不行。]N[审题])
+(;B[qa]N[正解];W[pa];B[pc];W[pb];B[oc];W[nf];B[nd]C[白死。
+
+计算时，重要的是黑5这一手，另外要知道黑7打吃白接不归。])
+(;B[qa]N[变化];W[pb];B[oc];W[nf];B[nd];W[ne];B[od])
+(;B[pa]N[失败];W[qa]LB[pb:A]C[白当然不会在A位应。]))

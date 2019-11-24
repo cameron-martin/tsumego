@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[bp][co][dp][dq][fq][eq][gq][fr][cr]AW[aq][ap][bo][bn][cn][dn][eo]
+[fp][gp][hp][hq][hr][gr][dr][ds][ar]C[B]N[019]AP[MultiGo:4.4.4]SZ[19]AB[bq]MULTIGOGM[0]
+
+(;C[黑的选择很少，计算吧。
+
+难度：B]N[审题])
+(;B[bs]N[正解];W[br];B[cp];W[cs];B[es]C[劫活正解。])
+(;B[bs]N[变化];W[fs];B[es];W[er];B[cs]C[黑活。])
+(;B[br]N[失败1];W[cp];B[do];W[bs])
+(;B[cp]N[失败2];W[bs];B[br];W[cs])
+(;B[cs]N[失败3];W[br]LB[do:A][cq:B]C[A、B位难以两全，黑死。]))

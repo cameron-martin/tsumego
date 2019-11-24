@@ -1,0 +1,15 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[Problem 118. Black to play.
+(Please move one step forward to see the problem diagram...)]PM[1]PB[ ]AB[jj][jc][ej]AW[cj][dd]GN[ ]FG[259:]PW[ ]
+;C[How does Black respond to White 1? (There are two correct answers.)]W[kk]
+(
+;C[Correct Answer
+Either Black 1 or Black A is the correct answer.]L[jk]B[kj]
+)
+(
+;C[Wrong Answer
+If Black plays 2 elsewhere...]B[ke]
+;C[...White will play 3 and Black is at a disadvantage.]W[jk]
+)
+
+)

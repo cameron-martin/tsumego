@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[bd][cf][ci][ld][le][me][qf][pj]
+AB[cc][dd][fd][jd][ke][lf][nd][pd]
+LB[mf:A][me:1]
+C[Problem 57. Black to play.  
+
+White seems to be afraid to play 1 at A ( White 5 in the Correct Answer to Problem 55), but White 1 here is a bad move. How does Black take advantage of this mistake ? ]
+;B[pf]
+TE[2]
+C[Correct Answer.  
+
+Black shifts the attack to the right with 1 ... ]
+;W[pg];B[of]
+C[... and 3. ]
+(;W[qe]
+LB[pg:2]
+C[If White 2 and 4, ... ]
+;B[mf]
+C[... Black plays 5. The white stones at the top are almost dead. <= ]
+)
+(;W[mf]
+C[Variation.  
+
+If White might turn at 5, ... ]
+;B[qg]
+C[... Black cuts at 5, seizing the initiative on the right side. <= ]
+)
+)

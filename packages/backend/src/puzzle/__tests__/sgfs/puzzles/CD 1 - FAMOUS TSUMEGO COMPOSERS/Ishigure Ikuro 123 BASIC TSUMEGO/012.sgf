@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qf][rg][pg][og][nf][mf][me][ld][lc][mb][nb][ra][rb][rc][qc]AW[oa]
+[ob][oc][pc][nc][qb][qa][md][ne][of][pf][pe]N[012]AP[MultiGo:4.4.4]SZ[19]AB[re]
+MULTIGOGM[0]
+
+(;C[黑只能想办法破掉白在中间的眼，可选择的点并不多。]N[审题])
+(;B[pd]N[正解];W[od];B[mc];W[qd];B[nd]C[劫杀正解。这是两手劫。])
+(;B[pd]N[变化];W[qd];B[od]LB[oe:A][qe:B]C[以下，白A则黑B，白死];W[qe];B[rd]C[接不归，白死。])
+(;B[mc]N[失败1];W[nd];B[pd];W[qd]C[白活。])
+(;B[nd]N[失败2];W[od]C[白活。]))

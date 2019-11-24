@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pp][qp][rp][ro][nr][nq][oq][lr]AW[sr][sp][rq][qq][pq][or][ps]C[77]
+N[77]AP[MultiGo:4.4.4]SZ[19]AB[oo]MULTIGOGM[0]
+
+(;TR[sr]LB[sq:A]C[第77题 提子是恶手
+
+黑A位扑，白▲提子是恶手，这样一来白就死了。请走出责难白▲这一手的下一步棋。]
+N[审题])
+(;B[rs]N[正解];W[qs];B[ns];W[rr];B[pr]C[黑1、3是好次序，白死。])
+(;B[ns]N[失败];W[rs]))

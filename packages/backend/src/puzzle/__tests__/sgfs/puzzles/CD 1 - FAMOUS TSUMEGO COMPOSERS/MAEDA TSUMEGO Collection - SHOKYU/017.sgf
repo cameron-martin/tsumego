@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[od][nd][nc][lc][ka][kb][kc][rc][qc][pd]AW[lb][nb][oa][oc][pc][pb]
+N[017]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[初级死活
+
+难度：☆☆]N[审题])
+(;B[ma]N[正解];W[qb];B[rb];W[qa];B[na]C[白死。])
+(;B[qb]N[失败];W[mb]C[黑缺少计算]))

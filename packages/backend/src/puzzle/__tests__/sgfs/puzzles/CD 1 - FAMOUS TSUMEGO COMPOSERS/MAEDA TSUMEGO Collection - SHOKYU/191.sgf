@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rc][qc][rd]AW[pc][oc][nc][nb][oa][qd][qe][re][oe]N[191]AP[MultiGo:4.4.4]
+SZ[19]AB[pb]MULTIGOGM[0]
+
+(;C[黑棋的选点极为有限，因此计算就不难了。
+
+难度：☆☆]N[审题])
+(;B[ra]N[正解];W[pa];B[sb];W[qb];B[sd])
+(;B[ra]N[变化];W[sb];B[pa])
+(;B[sb]N[失败1];W[ra];B[qa];W[sd])
+(;B[qa]N[失败2];W[sd]))

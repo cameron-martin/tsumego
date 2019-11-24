@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][ce][pq][qo]
+AB[ic][pd][nc][eq][cp]
+C[Problem 84. White to play.  
+
+Black has extended to 1. Where should White play so as to maintain the balance of territories ? ]
+(;W[qi]
+TE[2]
+C[Correct Answer.  
+
+It is imperative that White extends along the right side with 1. ]
+;B[kq]
+C[The remaining big points at 2 ... ]
+;W[ck]
+C[... and 3 will now be shared by Black and White. <= ]
+)
+(;W[ck]
+C[Failure.  
+
+If White extends to 1, ... ]
+;B[qj]
+C[... Black will make a double-wing formation from his corner enclosure in the upper right with 2. This in considered to be advantageous for Black. <= ]
+)
+)

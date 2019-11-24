@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[dm][cf][hc][bd][ch][bc][ec][gm]
+AB[pj][dj][dp][pd][pp][dd][fp][fd][cc][fj][jq][he][lc]
+LB[lc:6][dm:1][fp:2][cf:3][fd:4][hc:5][bd:7][cc:8][ch:9][fj:10]
+LB[gm:11][jq:12][bc:13][he:14][ec:15]
+C[Problem 88. Black to play.  
+
+After the sequence of White 13 for Black 14, White peeped at 15. How should Black respond ? ]
+(;B[fc]
+TE[2]
+C[Correct Answer.  
+
+The two black stones in the upper left corner are not worth defending, so Black should just block at 1, ... ]
+;W[fb];B[ce];W[be];B[gb];W[eb];B[gc];W[ed];B[ee];W[cb];B[eg]
+C[... making a thick wall at the top with the sequence to 11. Even if White gets profit in the corner, Black's thickness affects the whole board, and he is sure to get more territory at the top than White does in the corner. <= ]
+)
+(;B[ed]
+C[How the game continued.  
+
+Black defended against the peep by connecting at 1 and White linked up her stones with the sequence to 8. ]
+;W[fc];B[ic];W[ib];B[jc]
+LB[ic:3]
+C[Black 3 and 5 were a tesuji combination to make thickness in the center, but ... ]
+;W[hd]
+C[... the exchange of White 6 ... ]
+;B[ie]
+C[... for Black 7 ... ]
+;W[cb]
+LB[ge:A]
+C[... left behind the bad aji of White A. <= ]
+)
+)

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qf][qg][pg][og][nf][mf][me][md][lc][mb][nb][rb][rc][rd]AW[nc][nd]
+[ne][of][pf][qe][pd][qc][qb][ob]N[016]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;LB[qd:A][oc:B]C[黑A则白B，白活，因此计算时可不予考虑。]N[审题])
+(;B[pa]N[正解];W[pb];B[oc];W[qd];B[oe];W[pe];B[od]C[白死。
+
+在进攻中，黑1、3是重要的两手。])
+(;B[pa]N[变化1];W[pb];B[oc];W[od];B[pe])
+(;B[pa]LB[qa:A][oa:B]C[黑1点时，白A则黑B，变化与本图类似]N[变化2];W[oa];B[qa];W[qd]
+;B[pb];W[pc];B[ra]C[本图还可以衍生出一些变化来，但都容易计算。])
+(;B[oc]N[失败];W[pa];B[pc];W[qd]))

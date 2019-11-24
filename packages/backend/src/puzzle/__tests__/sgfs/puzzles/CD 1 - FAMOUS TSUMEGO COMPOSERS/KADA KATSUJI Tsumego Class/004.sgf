@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[es][fs][gr][hr][fq][gp][fn][en][dn][cn][bm][bo][ao][ap][dp][cp]AW[do]
+[eo][ep][eq][er][fr][bp][bq][cr][co]C[C]N[004]AP[MultiGo:4.4.4]SZ[19]AB[ds]MULTIGOGM[0]
+
+(;C[并没有那么难。逐点计算是能够得到正解的，因为选择实在太少。
+
+难度：C]N[审题])
+(;B[dr]N[正解];W[dq];B[br]C[黑1冲、3挤，次序好];W[cs];B[aq];W[gs]C[计算的关键在于明白：白提子后仍然不能成活]
+;B[cq]C[白死。])
+(;B[dr]N[变化];W[ar];B[bs])
+(;B[bs]N[失败1];W[cs];B[aq];W[ar]C[黑先从3位冲，依然不能成功。])
+(;B[br]N[失败2];W[ar];B[bs];W[cs];B[dr];W[cq]))

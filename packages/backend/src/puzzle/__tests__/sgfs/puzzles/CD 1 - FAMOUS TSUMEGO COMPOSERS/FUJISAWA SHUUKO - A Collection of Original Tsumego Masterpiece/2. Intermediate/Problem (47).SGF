@@ -1,0 +1,4 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[od][nd][nc][mb][lb][na][sb][re][qe][pe][pb]AW[rb][rc][qc][pd][oc][ob][nb]C[白先 利用弃子求活。]
+
+(;W[qa];B[pc];W[sa];B[ra];W[sc]C[正解 白先活])
+(;W[pc];B[qa];W[qb];B[pa];W[ra];B[sc];W[sd];B[rd]C[失败]))

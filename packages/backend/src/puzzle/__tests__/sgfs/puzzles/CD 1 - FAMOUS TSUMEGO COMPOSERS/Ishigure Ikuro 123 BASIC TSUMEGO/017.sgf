@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[od][nc][mc][lc][lb][la][ma][rd][rc][qd]AW[mb][nb][oa][pb][pc][oc]
+[qc][rb]N[017]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[失败图很容易得到。]N[审题])
+(;B[ra]N[正解];W[qa];B[sb];W[sa]C[劫杀正解。两手劫。])
+(;B[ra]N[变化];W[sb];B[qa]C[白死。])
+(;B[qa]N[失败1];W[ra])
+(;B[sb]N[失败2];W[ra]))

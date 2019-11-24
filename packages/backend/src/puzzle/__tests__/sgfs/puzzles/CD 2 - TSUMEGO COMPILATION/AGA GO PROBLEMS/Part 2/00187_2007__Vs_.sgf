@@ -1,0 +1,11 @@
+(;AB[sb][rb][pc][qc][pb][oc][pd][nd][md][lc][kc][kb]AW[nb][nc][lb][rc][rd][qd][qf][pe][oe][od][ne][me][le][qb]C[White plays
+
+Source:
+    American Go Journal, Vol. 18, No. 4, Nov 1984, p. 15
+    based on an ancient Chinese problem.]SZ[19]
+;W[ob]C[OK, the first move is easy.];B[qa]
+(;W[ra]C[This unique working move may be the most counter-intuitive in the tsumego universe!]
+(;B[pa]C[If Black makes life in the corner ...];W[mc];B[ld];W[oa];B[sa];W[ma]C[White does the same with a couple forcing moves.])
+(;B[sa]C[Living this way still allows White to live with the same 2 forcing moves.];W[oa];B[pa];W[mc];B[ld];W[ma])
+(;B[mc]C[If the thought of White living along the top is intolerable, Black can play here.];W[pa];B[oa];W[na]C[But White sets up a huge ko, with Black unable to connect due to a shortage of liberties.];B[mb];W[pa];B[qb];W[sc];B[oa]C[Although Black does have the internal ko threat to provide the small consolation of being able to take the ko first.]))
+(;W[oa]C[Wrong move order.];B[mc];W[pa];B[qb];W[ra];B[mb]C[And White is the one in a shortage of liberties.]))

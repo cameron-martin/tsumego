@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[rb][pc][qc][qd][qe][oe][of][nf][mf][lf][kf][ke][kd][kc][kb][md][mb]
+AW[la][lb][lc][ld][le][me][ne][nd][od][pd][ob]N[070]AP[MultiGo:4.4.4]SZ[19]AB[mc]
+MULTIGOGM[0]
+
+(;C[空间小，但变化蛮有意思。聚眼杀得到充分体现。]N[审题])
+(;B[oa]LB[na:A][oc:B]C[黑1在底线托是手筋，对此，白走A、B位都简单死掉]N[正解];W[pb]
+;B[pa];W[qa];B[nc];W[oc];B[qb];W[na];B[pa]C[白死，刀把五。])
+(;B[oa]N[变化1];W[pb];B[pa];W[qa];B[qb]LB[nc:A]C[黑5先断，而不是如正解图那样先走A位，如何？]
+;W[na];B[nc];W[oc];B[pa]C[还原到正解图。])
+(;B[oa]N[变化2];W[pa];B[nc];W[oc];B[pb])
+(;B[oa]N[变化3];W[pb];B[pa];W[qb];B[oc];W[nc];B[nb])
+(;B[oc]N[失败1];W[nc];B[pb];W[oa])
+(;B[oc]N[失败2];W[nc];B[oa];W[pb];B[pa];W[qa];B[qb];W[na]C[现在可以看出，黑1、白2的交换，失去了聚眼杀的可能性。])
+(;B[pb]N[失败3];W[oa];B[nc];W[oc]C[白活。]))

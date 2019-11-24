@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[od][nd][mc][mb][nb][qb][pc][oc]AW[lb][lc][ld][md][ne][oe][pd][qd]
+[qc][rb][qa]N[218]AP[MultiGo:4.4.4]SZ[19]AB[ob]MULTIGOGM[0]
+
+(;C[黑棋做活的手法也是基本功。
+
+难度：☆☆]N[审题])
+(;B[ma]LB[pb:A][oa:B]C[黑1立下即活，以后白A、黑B定形。]N[正解];W[oa]C[白2跳入强杀黑是不能得逞的]
+;B[pb];W[pa];B[ra];W[sa];B[na]C[打三还一有眼。])
+(;B[pa]C[做劫 = 缺少计算。]N[失败]))

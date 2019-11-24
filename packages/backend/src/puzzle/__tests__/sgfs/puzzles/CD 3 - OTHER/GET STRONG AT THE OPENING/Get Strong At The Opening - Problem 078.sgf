@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][cn][dp]
+AB[fq][kq][qp][pd]
+LB[pd:1][dc:2][dp:4][cn:6][fq:5][kq:7][qp:3]
+C[Problem 78. White to play.  
+
+The formation of 3, 5, and 7 is known as the mini-Chinese opening. Where should White play next ? ]
+(;W[qj]
+TE[2]
+C[Correct Answer.  
+
+If Black is able to take the big point (oba) on the right side, a large-scale moyo will come into being. Therefore, it is important for White to establish a presence there by playing 1. ]
+;B[qh]
+C[If Black 2, ... ]
+;W[qm]
+C[... White settles her stones by extending to 3. <= ]
+)
+(;W[de]
+C[Failure.  
+
+If White makes a corner enclosure with 1, ... ]
+;B[pj]
+C[... Black will map out a large-scale moyo on the right side with 2. His opening strategy has been a great success. <= ]
+)
+)

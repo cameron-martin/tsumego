@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[io][gp][hp][jp][eq][fq][hq][kq][dr][er][ir]AB[fo][go][ho][dp][fp][cq][gq][cr][fr][gr][hr][cs]C[Ex. 3 - Semeai
+
+This is a semeai with 3 liberties against 4.
+Clearly B is at a disadvantage but he can find a way of turning the tables with great force.]
+(;B[es]LB[es:1]TR[aa]C[Diag. 1 - Failure
+
+Hane or not, B 1 is no good ]
+;W[hs]LB[es:1][hs:2]C[W does not meekly play osae but hane 2 here. ]
+;B[ds]LB[es:1][hs:2]C[If B 3, ]
+;W[fs]LB[ds:3][es:1][fs:4][hs:2]C[W can play horikomi 4 and a snapback is produced.])
+(;B[is]LB[is:1]C[Diag. 2 - Correct
+
+B 1 hane here is the tesuji for the occasion. ]
+(;W[jr]LB[jr:2][is:1]C[After W 2]
+;B[es]LB[jr:2][es:3][is:1]C[B's hane 3 is good ]
+(;W[ds]LB[jr:2][ds:4][es:3][is:1]C[and if W 4 osae ]
+;B[ep]LB[ep:5][jr:2][ds:4][es:3][is:1]C[B plays tsume 5 and wins the semeai.])
+(;W[fs]LB[jr:2][es:3][fs:4][is:1]C[Diag. 3 - Correct
+
+If W 4 uchikaki after B3]
+;B[ds]LB[jr:2][ds:5][es:3][fs:4][is:1]C[B can confidently connect at 5.
+This is the difference with the failure in diagram 1, the effectiveness of hane being that a snapback is avoided.
+With this simple hane B increases his liberties by one. Incidentally, this is a suji which can be used in actual games.]))
+(;W[fs]LB[fs:2][is:1]C[Diag. 4 - Variation
+
+B 1 hane is sente.
+W cannot play 2 in answer to this. ]
+;B[iq]LB[iq:3][fs:2][is:1]C[B, after 3 ]
+;W[ip]LB[ip:4][ir:3][fs:2][is:1]
+;B[jr]LB[ip:4][iq:3][jr:5][fs:2][is:1]C[then B  5, can capture one stone and W loses.])))

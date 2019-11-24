@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[nd][md][ld][kd][jc][jb][ja][ka][ra][rb][qc][pc]AW[kb][kc][lc][mc]
+[nc][oc][pb][qb][la]N[005]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;TR[ra]LB[ma:A][mb:B]C[白气很紧，黑还有硬腿。黑走A位的话，白B马上可以做劫——至少得探讨一下能不能净杀吧？]
+N[审题])
+(;B[mb]N[正解];W[nb];B[qa]C[黑先冲一个，要紧];W[pa];B[na]C[白死。])
+(;B[mb]N[变化1];W[nb];B[qa];W[oa];B[ma])
+(;B[mb]N[变化2];W[nb];B[ma];W[qa]C[白活。])
+(;B[na]N[失败1];W[nb];B[oa];W[ob];B[ma];W[mb])
+(;B[ob]N[失败2];W[nb];B[ma];W[mb])
+(;B[pa]N[失败3];W[oa];B[qa];W[mb];B[ob];W[na]))

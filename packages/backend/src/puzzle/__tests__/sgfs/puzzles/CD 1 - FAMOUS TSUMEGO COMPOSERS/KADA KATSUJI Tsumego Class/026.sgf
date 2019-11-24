@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[hp][gp][fp][ep][dp][cp][bq][br][bs][gr][js][jq][jr]AW[cq][eq][fq]
+[gq][hq][es][ir][is][cr]C[A]N[026]AP[MultiGo:4.4.4]SZ[19]AB[ip]MULTIGOGM[0]
+
+(;LB[gs:A]C[从外侧压缩白的眼位貌似不行，这容易计算。白如果走到A位的话，就很容易做活。
+
+难度：A]
+N[审题])
+(;B[hr]N[正解];W[iq];B[cs]C[黑1、白2交换后，黑3冲是手筋];W[gs];B[er];W[dr];B[fr]
+;W[dq];B[ds]C[白死。])
+(;B[hr]N[变化1];W[iq];B[cs];W[gs];B[er];W[dr];B[fr];W[fs];B[ds];W[hs];B[dq])
+(;B[hr]N[变化2];W[iq];B[cs]LB[gs:A]C[黑3冲后，白若不走A位的话更加不堪，容易计算出。比如……]
+;W[dq];B[ds];W[dr];B[fr];W[er];B[fs])
+(;B[dq]N[失败1];W[gs])
+(;B[dr]N[失败2];W[dq]))

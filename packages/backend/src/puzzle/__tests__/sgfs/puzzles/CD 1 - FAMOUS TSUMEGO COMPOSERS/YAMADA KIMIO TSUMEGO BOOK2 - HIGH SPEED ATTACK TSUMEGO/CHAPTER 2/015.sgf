@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nd][md][ld][kd][kc][jb][ic][nc][rb][rc][qd][pd]AW[kb][lb][lc][nb]
+[oa][oc][pc][qc][qb]N[015]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[mb:A][mc:B][ma:C]C[第一感就是黑A挖、C立？请计算确认之。]N[审题])
+(;B[qa]N[正解];W[pa];B[ob];W[pb];B[mb];W[mc];B[ma]C[白死。])
+(;B[qa]N[变化1];W[ma];B[mc];W[mb];B[pa];W[ka];B[ob])
+(;B[qa]N[变化2];W[pb];B[ra];W[pa];B[mb];W[mc];B[ma])
+(;B[qa]N[变化3];W[pb];B[mb];W[mc];B[ma];W[na];B[ra])
+(;B[mb]N[失败1];W[mc];B[ma];W[qa]C[白活。]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[lp][mp][np][pp][qp][qq][pn][rr][or][kr]AW[qr][pq][nq][oq][mq][nr]
+[rs]N[105]AP[MultiGo:4.4.4]SZ[19]AB[kq]MULTIGOGM[0]
+
+(;C[黑角上需要防守，怎么办才好呢？
+
+难度：☆☆]N[审题])
+(;B[pr]N[正解];W[qs];B[sq];W[lr];B[ss]C[劫杀正解])
+(;B[sq]N[变化];W[lr];B[pr]C[黑1、3的次序也行];W[qs];B[ss])
+(;B[ms]N[失败];W[rq]C[黑棋先从边上动手不行]))

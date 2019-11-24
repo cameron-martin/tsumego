@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qd][pe][oe][ne][me][ld][lc][lb][mb][rb][rc]AW[mc][md][od][pd][nd]
+[nb][ob][qb][qc]N[001]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;C[很基本的死活题。]N[审题])
+(;B[qa]N[正解];W[pa];B[pc];W[ra];B[oc])
+(;B[qa]N[变化];W[na];B[pa])
+(;B[oc]N[失败1];W[pc];B[pa];W[qa])
+(;B[na]N[失败2];W[pa]))

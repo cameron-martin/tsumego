@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[bi][ai][bk][cl][cm][bm][bg][cg]AW[bo][cn][dn][em][dk][ck][dj][di]
+[ci][bj][eg][df][cf][cd][cp]N[022]AP[MultiGo:4.4.4]SZ[19]AB[ch]MULTIGOGM[0]
+
+(;LB[aj:A][ak:B]C[黑棋只有两个选择，A或B。
+
+难度：☆]N[审题])
+(;B[ak]C[黑活。]N[正解])
+(;B[aj]N[失败];W[al];B[ak];W[am];B[an];W[bn]))

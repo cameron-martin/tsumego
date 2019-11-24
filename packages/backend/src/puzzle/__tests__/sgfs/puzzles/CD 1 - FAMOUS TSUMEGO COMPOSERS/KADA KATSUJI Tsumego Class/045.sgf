@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[cq][cp][do][dn][ep][fo][fn][gn][hn][ho][ip][iq][ir][is][cs]AW[dq]
+[dp][fp][fq][go][hp][hq][hr][hs][ds][dr]C[A]N[045]AP[MultiGo:4.4.4]SZ[19]AB[cr]
+MULTIGOGM[0]
+
+(;LB[fr:A]C[第一感是走在A位，但这需要计算。
+
+难度：A]N[审题])
+(;B[fr]N[正解];W[er];B[fs];W[gp];B[es]C[计算到了黑5，就能得到正解];W[eq];B[gr];W[eo]
+;B[gs]C[白死。])
+(;B[fr]N[变化];W[eq];B[gp]LB[gq:A][fs:B]C[接下来，白A则黑B，白死];W[fs];B[gq])
+(;B[gp]N[失败1];W[fs];B[gq];W[gr];B[eq];W[er])
+(;B[fs]N[失败2];W[gp];B[fr];W[eq];B[gr]C[黑5不过是后手双活而已。]))

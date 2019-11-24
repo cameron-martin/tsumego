@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[do][fo][dp][gp][hp][ip][dq][jq][kq][gr][kr][ks]AB[eq][fq][gq][hq][iq][ir][jr][js]C[Ex. 4 - Life or Death
+
+You are to waken the single stone asleep deep in the heart of the B group.
+The main idea is to kill the B group rather than connect along the edge.]PL[W]
+(;W[hs]LB[hs:1]C[Diag. 1 - Failure
+
+W 1 kosumi is one of the methods mentioned previously but it cannot be used in this case. ]
+;B[dr]LB[dr:2][hs:1]C[After hane 2 ]
+;W[cr]LB[cr:3][dr:2][hs:1]
+;B[ds]LB[cr:3][dr:2][er:A][fr:B][hr:D][ds:4][fs:C][hs:1]C[and sagari 4 B is alive.
+Even if W now plays "A", B "B", W "C", B lives with "D".
+Again, if W "C" kosumi instead of "A", B plays at "A" and it is seki.])
+(;W[ds]LB[ds:1]C[Diag. 3 - Correct
+
+W 1 tobi is tesuji. ]
+(;B[hs]LB[ds:1][hs:2]C[If B 2 kosumi, ]
+;W[fs]LB[ds:1][fs:3][hs:2]C[W plays at 3 and connects with his single stone.])
+(;B[er]LB[er:2][ds:1]C[Diag. 4 - Variation
+
+If B 2 sagari in reply to W 1 tobi, ]
+;W[fs]LB[er:2][ds:1][fs:3]C[W plays kosumi on both sides at 3 ]
+;B[es]LB[er:2][ds:1][es:4][fs:3]
+;W[hs]LB[er:4][ds:1][es:2][fs:3][hs:5]C[and 5 and this is death through gomoku nakade.
+W 1 tobi is the right suji to give the alternatives of taking away eyes or connecting along the edge.]))
+(;W[dr]LB[dr:1]TR[aa]C[Diag. 2 - Failure
+
+W 1 sagari is a clumsy move. ]
+;B[hs]LB[dr:1][hs:2]C[It fails after B plays kosumi at the vital point of 2. ]
+;W[er]LB[dr:1][er:3][hs:2]C[After W 3 ]
+;B[fr]LB[dr:1][er:3][fr:4][hs:2]C[and B 4, W's single stone cannot connect with the left stone.]))

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[pq][pp][pr][ps][oo][rs][rr]AW[op][mp][mo][nn][on][pn][qn][qp][rp]
+[rq][lq][lr][ls][sr]N[031]AP[MultiGo:4.4.4]SZ[19]AB[qq]MULTIGOGM[0]
+
+(;C[黑棋已有一眼，必须在边上再鼓捣出另一只眼。]N[审题])
+(;B[nq]C[黑1刺是先手，如果吃住白一子能够成一眼]N[正解];W[np];B[ns]C[黑3跳又是急所，这样黑棋确保边上一眼。])
+(;B[nr]N[失败1];W[oq])
+(;B[oq]N[失败2];W[nr]))

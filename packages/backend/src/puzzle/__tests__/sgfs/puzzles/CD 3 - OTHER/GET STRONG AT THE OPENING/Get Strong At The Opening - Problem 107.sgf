@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[cb][cc][dd][df][qf][qi][pp][pn][qq][cn][dj]
+AB[dc][ec][fd][ff][jd][oc][qd][pr][nq][kq][dp][fp]
+C[Problem 107. White to play.  
+
+The fuseki is almost over and the middle game is about to begin. Where should White play ? ]
+(;W[oe]
+LB[nc:A]
+
+TE[2]
+C[Correct Answer.  
+
+White 1 is the vital point. When White plays here, she is expanding her own moyo on the right and preventing Black from expanding his moyo at the top. If Black doesn't answer White 1 and plays elsewhere, White will attach at A. ]
+;B[nd];W[ne];B[md];W[lf])
+(;W[mo]
+LB[en:A]
+C[Failure.  
+
+Playing at 1 (or A) misses the point. ]
+;B[oe]
+C[Black will jump to 2 and a territorial moyo emerges at the top. If you compare this diagram with the Correct Answer, the difference should be obvious. <= ]
+)
+(;W[en]
+C[Failure.  
+
+Also wrong. <= ]
+)
+)

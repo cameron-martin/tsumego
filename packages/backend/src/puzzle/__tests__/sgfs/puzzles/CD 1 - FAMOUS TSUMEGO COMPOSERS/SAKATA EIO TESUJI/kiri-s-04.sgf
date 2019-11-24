@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[jo][bp][bq][cq][dq][fq][gq][jq][hr]AB[cn][bo][ho][cp][dp][fp][gp][hq][lq]C[Ex. 4 - Strategem
+
+You are to sever the connection in W's weak position.
+It will be necessary to use a sacrifice stone.]
+(;B[ir]LB[ir:1]TR[aa]C[B 1 hanedashi is poor. ]
+;W[iq]LB[iq:2][ir:1]C[After W 2 kiri, ]
+;B[hp]LB[hr:2][ir:1]C[B 3 connects ]
+;W[gr]LB[hp:3][iq:2][gr:4][ir:1]C[after W 4, B has strayed off course.
+Obviously B's tsukiatari at 2 instead of 1 is worst of all and when W answers at 1, B is beyond hope.])
+(;B[gr]LB[gr:1]C[Diag. 2 - Correct
+
+B 1 kiri is a splendid move. ]
+(;W[fr]LB[fr:2][gr:1]C[W plays at 2 ]
+;B[ir]LB[fr:2][gr:1][ir:3]C[and after B 3 hanedashi ]
+;W[gs]LB[fr:2][ir:3][sr:1][gs:4]C[W 4 takes ]
+;B[iq]LB[iq:5][sq:1][fr:2][ir:3][gs:4]C[B 5 separates W's 2 stones])
+(;W[iq]LB[iq:2][gr:1]C[W cannot play against B 1 hane; he suffers an even greater separation here after B 3 hanekomi]
+;B[eq]LB[eq:3][iq:2][gr:1]C[he suffers an even greater separation here after B 3 hanekomi.
+The simple kiri suji displays its true value whenever it works on both sides, as here.]))
+(;B[eq]LB[eq:1]C[Diag. 4 - Reference
+
+After the exchange of B 1 ]
+;W[er]LB[eq:1][er:2]C[and W 2 ]
+;B[gr]LB[eq:1][er:2][gr:3]C[B's cut at 3 is not appropriate. ]
+;W[ep]LB[ep:4][er:2][gr:3]C[When W comes out with 4 ]
+;B[ir]LB[ep:3][gr:2][ir:5]
+;W[eo]LB[eo:6]C[and 6, B has not done well.]))

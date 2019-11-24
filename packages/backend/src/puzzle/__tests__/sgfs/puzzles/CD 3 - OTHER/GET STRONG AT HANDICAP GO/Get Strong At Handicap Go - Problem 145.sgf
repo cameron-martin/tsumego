@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[qc][qd][qf][rf][cd][cc][cf][dc][ec][fb][gb][gc][hb][ic]
+AB[dp][pd][pp][dd][ed][fd][fc][hc][hd][gd][id][pc][pe][og][qh][jd]
+C[Problem 145. Black to play.  
+
+Black is thick, but he doesn't have any territory. White, on the other hand, has iron-clad territory in two corners. Where should Black play so as to best utilise his thickness ? ]
+(;B[jp]
+TE[2]
+C[Correct answer.  
+
+Making a sanren-sei at the bottom has a good feel to it. All of Black's stones are facing the center and working as one strategic force. ]
+;W[jc];B[kc];W[kb]
+LB[jc:2]
+C[If White tries to break into Black's territory at the top with 2 and 4, ... ]
+;B[lb]
+LB[kc:3]
+C[... Black crushes her to the edge with 3 and 5. <= ]
+)
+(;B[jc]
+C[Failure.  
+
+Black 1 is small. Black does get some territory at the top, but not much more than he got in the Correct Answer. ]
+;W[jq]
+C[White immediately establishes a beachhead at the bottom with 2 and Black's stones are not working together as efficiently as they were in the Correct Answer. <= ]
+)
+)

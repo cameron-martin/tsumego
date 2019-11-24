@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[rs][rq][rp][oq][or]AW[nr][mr][ms][np][op][pp][qp][ro][so][sp]C[46]
+N[46]AP[MultiGo:4.4.4]SZ[19]AB[ns]MULTIGOGM[0]
+
+(;LB[qq:A][sr:B]C[第46题 探求急所
+
+黑A位扩大眼位，让白B位一攻，黑顿死。
+
+因此黑只能在急所处防守。这样一考虑，还剩下28秒。请确认黑无条件活。]
+N[审题])
+(;B[sr]C[黑1是角上“二一”路的急所。黑1占据急所防守后，无论白如何攻击，黑都活了。]
+N[正解];W[qr];B[qq];W[ps];B[pr])
+(;B[sr]N[变化];W[pr];B[pq];W[os];B[ps]C[黑可吃白的接不归而活。])
+(;B[qq]N[失败1];W[pq];B[pr];W[sr];B[sq];W[ps]C[这正是45题的内容。])
+(;B[qr]N[失败2];W[sr];B[sq];W[qq];B[rr];W[ps]))

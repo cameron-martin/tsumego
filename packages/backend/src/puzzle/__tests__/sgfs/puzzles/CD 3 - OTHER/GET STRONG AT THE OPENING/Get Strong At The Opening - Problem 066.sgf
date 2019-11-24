@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[bc][cc][dc][ed][ee][cf][cg][di][dp][po][pm][qn][qi]
+AB[bb][db][eb][ec][bd][cd][dd][ce][pq][nq][qp][qo][qd][oc]
+C[Problem 66. White to play.  
+
+There is a wide space between White's thickness on the upper left and her stone below. However, Black has a good attacking move on the upper right. What should White do ? ]
+(;W[dn]
+LB[qf:A]
+
+TE[2]
+C[Correct Answer.  
+
+White might be tempted to extend to A on the right side, but, in this case, it is better to strengthen the stone in the lower left with 1. ]
+;B[qg]
+C[If Black 2, ... ]
+;W[mp]
+C[... White will play 3 ... ]
+;B[np];W[mn]
+LB[ql:B]
+C[... and 5, mapping out a large-scale moyo. Note that White 5 indirectly defends against the invasion at B. <= ]
+)
+(;W[qf]
+C[Failure.  
+
+If White extends to 1, ... ]
+;B[cn]
+C[... Black approaches at 2 and breaks up White's position on the left side ... ]
+;W[co];B[dn];W[fp];B[ck]
+C[... with the sequence to 6. The effectiveness of White's thickness above is now neutralised. <= ]
+)
+)

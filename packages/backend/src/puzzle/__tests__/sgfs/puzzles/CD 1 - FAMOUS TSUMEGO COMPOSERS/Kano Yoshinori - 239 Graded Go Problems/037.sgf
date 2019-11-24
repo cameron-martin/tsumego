@@ -1,0 +1,15 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 37. Black to play.
+(Please move one step forward to see the problem diagram...)]AW[hk][fm][il][dm][el][dk][cl][di]PB[ ]PM[1]PW[ ]AB[ek][jj][fl][kl][hj][gm][kk][ij][fk][gj]
+;C[How should Black respond to White 1?]W[gl]
+(
+;B[em]C[Correct Answer
+Taking the ko with 1 is the right move.]
+)
+(
+;B[hm]C[Wrong Answer
+If Black extends to 2...]
+;C[...White connects at 3 and the two black stones cannot escape.]W[em]
+)
+
+)

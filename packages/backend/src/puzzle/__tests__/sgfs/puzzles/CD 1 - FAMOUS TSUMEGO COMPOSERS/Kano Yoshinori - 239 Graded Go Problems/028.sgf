@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 28. Black to play.
+How should Black give atari to the lone white stone?]AW[if][id][ge][hi][hd][ih][ig][gh][je]PB[ ]PM[1]PW[ ]AB[ie][gd][hh][hg][hf][he][ee][fd]
+(
+;B[gf]C[If Black gives atari with 1, the lone white stone cannot escape.]
+)
+(
+;B[fe]C[Wrong Answer
+Black 1 is the wrong direction...]
+;C[...White will capture five black stones with 2.]W[gf]
+)
+
+)

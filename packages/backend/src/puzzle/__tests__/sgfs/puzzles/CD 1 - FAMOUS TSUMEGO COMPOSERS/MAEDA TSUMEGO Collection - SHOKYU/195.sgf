@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pr][or][pp][rp][qp]AW[nr][nq][oq][pq][oo][po][qo][ro][rm][os]N[195]
+AP[MultiGo:4.4.4]SZ[19]AB[qq]MULTIGOGM[0]
+
+(;LB[qr:A]C[黑A接不行，这可以作为另一道死活题。
+
+难度：☆☆]N[审题])
+(;B[rr]N[正解];W[ps];B[qs];W[qr];B[pr]LB[or:A][qr:B][sq:C]C[黑活。
+要杀黑，白只有C位点入。为了方便计算，设想白A黑B已经交换，黑可以以“胀牯牛”活棋。])
+(;B[rs]N[失败1];W[rr];B[qr];W[sr])
+(;B[qr]N[失败2];W[ps]))

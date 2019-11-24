@@ -1,0 +1,5 @@
+(;CA[gb2312]AB[jb][jc][jd][kf][lf][if][hf][he][hd][le][ld][lc][lb][la][gb][jf][ja]
+AW[ka][kb][kc][kd][ke][je][ie][id][ic][ib]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[hb]MULTIGOGM[0]
+
+(;LB[ia:A]C[审题：显然，让白棋走到A位就活了。]N[审题])
+(;B[ia]C[黑多送一子]N[正解];W[ha];B[ia]LB[ja:A][jc:B]C[黑3扑，白死。之后，A、B两处见合，白死。]))

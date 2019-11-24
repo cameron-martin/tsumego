@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[pd][pc][pe][pf][qg][rf][rh][ob][nb][na]AW[qf][qc][qd][qe][rb][pb]
+[pa][oa]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;C[审题：从外边缩小眼位还是先从里面动手呢？]N[审题])
+(;B[ra]N[正解];W[qb];B[sc]C[黑1、白2必然，黑3大飞破眼，白死。
+
+很简明。])
+(;B[sc]LB[ra:A]C[黑棋先从外围入手如何？
+白棋要做活，只有死死咬住黑棋，让黑无暇在A位破眼。]
+N[变化];W[sd]C[白2最紧凑];B[ra]C[黑3还得回头破眼。
+
+与正解相比，不够简明吧。])
+(;B[re]N[失败];W[rd];B[ra];W[qb];B[sc];W[sd];B[sb]C[双活。]))

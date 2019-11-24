@@ -1,0 +1,24 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][jq][qo][qj][qg][oc][mc]
+AB[cj][dp][op][pq][qd][pe][kc][hc]
+C[Problem 160. White to play.  
+
+It is White's turn and if she plays the right move she can seize the initiative. Where should she play ? ]
+(;W[qb]
+TE[2]
+C[Correct Answer.  
+
+White 1 is the vital point. With this move, White makes a base for her stones at the top right and deprives Black a base for his. ]
+;B[of]
+C[Therefore, Black must run into the center with 2. ]
+)
+(;W[fc]
+C[Failure.  
+
+White 1 puts pressure on the two black stones at the top, but ... ]
+;B[pc]
+C[... Black turns the tables on White by attaching with 2. Black has taken nearly 10 points of territory and the two white stones at the top are under attack. <= ]
+)
+)

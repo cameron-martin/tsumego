@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[fj][hj][gg][hh][fh][ei][ii][gj][ih][eh]GN[ ]AB[ff][jh][fk][dj][di][dg][gh][gk][hk][jg][dh][hf][ji][ij][ej][ig][gf]PM[1]C[Problem 165. Black to play and kill White. (1 move)
+How does Black kill the white stones?]PW[ ]
+(
+;B[gi]C[Correct Answer
+By sacrificing two stones with Black 1, Black reduces White's group to one eye and kills it.]
+)
+(
+;B[fg]C[Wrong Answer
+If Black plays at 1...]
+;W[gi]C[...White captures a stone with 2. He has made two real eyes and is alive.]
+)
+
+)

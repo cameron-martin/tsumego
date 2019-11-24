@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[rd][qa][pb][qc]AW[oa][ob][oc][pc][qd][qe][re]N[黑先]AP[MultiGo:4.4.4]
+SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[审题：空间很小，找出正解容易。]N[审题])
+(;B[sb]C[尖是防守的急所，这样就活了。]N[正解];W[sd];B[ra]C[黑活。])
+(;B[rb]N[失败1];W[pa])
+(;B[sd]N[失败2];W[sb];B[rb];W[pa]))

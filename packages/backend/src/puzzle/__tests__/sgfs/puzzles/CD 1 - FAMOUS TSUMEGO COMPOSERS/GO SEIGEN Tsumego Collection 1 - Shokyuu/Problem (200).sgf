@@ -1,0 +1,13 @@
+(;AB[dc][fc][gc][hd][id][jd][kc][lc][mb]AW[kd][jc][ic][hc][gb][ia][kb]SZ[19]C[黑先
+
+
+leoly：此题与第2题同形。第2题可以看做是此题的变化图。];B[jb]
+
+(;W[ib];B[ka]LB[ja:a]C[白不能从这边打，所以白只能在a位打若3位立。])
+(;W[ka];B[ga]LB[ha:a][ib:b]C[3位夹好手。白若a，则黑b，白不行。所以白必须b位长。];W[fb];B[eb]
+(;W[fa];B[hb])
+(;W[ha];B[ib];W[hb];B[fa];W[ea];B[fa]))
+(;W[ja];B[la];W[ka]C[黑3白4的交换关键，这就是第2题的要点。];B[ga]
+(;W[ha];B[ib];W[hb];B[fb]LB[lb:a]C[若没有黑3白4的交换，此时白在a位挤，黑不能扳破眼，被白活出。])
+(;W[fb];B[eb];W[ha];B[ib];W[hb];B[fa];W[ea];B[fa])
+(;W[fb];B[eb];W[fa];B[hb])))

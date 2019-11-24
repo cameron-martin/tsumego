@@ -1,0 +1,40 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][jc][pc][qf][oe]
+AB[dc][cf][hc][nc]
+LB[oe:2][nc:1]
+C[Problem 79. Black to play.  
+
+Suppose White answers the invasion of Black 1 with 2. How does Black continue ? ]
+;B[ne]
+TE[2]
+C[Correct Answer.  
+
+Black exchanges 1 ... ]
+(;W[of]
+C[... for 2, ... ]
+;B[je]
+C[... then caps with 3. Black's moves flow very beautifully. <= ]
+)
+(;W[nf]
+LB[ne:1]
+C[Variation.  
+
+White could answer 1 with 2 ... ]
+;B[me];W[je]
+C[... and jump to 4. ]
+;B[od]
+C[Black would then play 5, ... ]
+(;W[pd]
+C[... followed by White 6. ]
+;B[of]
+C[If the ladder is favourable, Black would atari at 7 ... ]
+;W[pe];B[ng]
+C[... and 9. <= ]
+)
+(;W[pe]
+LB[od:5]
+C[White could also answer 5 with 6 here, but her shape in this corner is full of holes. <= ]
+))
+)

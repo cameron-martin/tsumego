@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qr][pq][pp][po][pn][op][mq][nn][mn][ln][ko][kp][kq][kr][ir][rq]AW[lr]
+[lq][lp][lo][no][np][oq][nr][pr][qs][qq]N[219]AP[MultiGo:4.4.4]SZ[19]AB[rr]MULTIGOGM[0]
+
+(;C[黑棋的选点不多。
+
+难度：☆☆☆]N[审题])
+(;B[rs]C[黑1从外围动手，冷静]N[正解];W[ps];B[or];W[os];B[nq];W[mr];B[or]C[劫杀正解。])
+(;B[nq]C[从内部动手要失败]N[失败1];W[or];B[ps];W[os])
+(;B[os]N[失败2];W[ps];B[or];W[ns];B[nq];W[or]))

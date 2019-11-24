@@ -1,0 +1,8 @@
+(;AB[rb][qb][pd][od][nd][md][ld][kd][jd][mc][jc][ib][hb][na]AW[pa][pb][ob][oc][nc]
+[mb][lc][kc][jb][ka]C[黑先
+
+注意由内侧开始进攻。]SZ[19]
+
+(;B[ma]C[黑先白死]N[正解图1];W[lb];B[ia];W[la];B[ja]C[黑1横是急所。白2做眼。黑3立下再转由外侧进攻，由于4位与5位见合，黑必得一，白死。])
+(;B[ma]C[黑先白死]N[正解图1];W[la];B[ia];W[ja];B[lb])
+(;B[lb]N[失败图];W[kb];B[ma];W[la]))

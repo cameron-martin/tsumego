@@ -1,0 +1,64 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][cd][cf][cj][ck][ee][ef][ej][fg][gf][gi]
+AW[bc][bg][cc][ch][dd][ec][eg][eh]PL[W]C[White to play.
+
+Defense - Connect Underneath
+
+Source: Gokyo Seimyo.]
+(
+;W[ad]
+(
+;B[be]
+;W[bf]
+(
+;B[ae]
+;W[de]C[RIGHT
+])
+(
+;B[ce]
+;W[ae]C[RIGHT
+]))
+(
+;B[ae]
+;W[ce]
+(
+;B[bf]
+;W[be]
+;B[dg]
+;W[af]
+;B[dh]C[RIGHT
+])
+(
+;B[be]
+;W[de]
+;B[df]
+;W[bf]C[White Ok])))
+(
+;W[de]
+;B[df]
+(
+;W[ad]
+;B[ae]
+;W[be]
+;B[ac]
+;W[ce]
+;B[bf]
+;W[ad]
+;B[bd])
+(
+;W[ce]
+;B[bf]
+;W[be]
+;B[af]))
+(
+;W[ce]
+;B[bf])
+(
+;W[bf]
+;B[ce])
+(
+;W[be]
+;B[bf]
+;W[af]
+;B[ce]
+;W[ad]C[Ko Fight]))

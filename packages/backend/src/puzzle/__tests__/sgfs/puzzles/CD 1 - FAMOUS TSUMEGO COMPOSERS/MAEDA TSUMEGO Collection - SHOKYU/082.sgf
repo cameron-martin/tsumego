@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[fg][fh][gi][gj][fk][fl][el][dm][cm][bm][cl][ck][df][cf][bf][dg]AW[bg]
+[cg][dh][eh][fi][fj][ek][dk][dl][dj][di][cj][bk][bl]N[082]AP[MultiGo:4.4.4]SZ[19]
+AB[ff]MULTIGOGM[0]
+
+(;C[第一手显而易见。但后面的计算也要进行。
+
+难度：☆☆])
+(;B[bi]N[正解];W[bj];B[ah];W[aj]C[本题的关键在于计算清楚白4立下是否是先手。注意，是在脑子里计算。棋摆出来之后，不是先手是显然的。]
+;B[al];W[ag];B[ch];W[ai];B[af]C[白死。])
+(;B[bi]N[失败1];W[bj];B[bh];W[ch];B[ag];W[ah];B[ai];W[aj];B[af];W[al])
+(;B[bi]N[失败2];W[bj];B[ag];W[aj]))

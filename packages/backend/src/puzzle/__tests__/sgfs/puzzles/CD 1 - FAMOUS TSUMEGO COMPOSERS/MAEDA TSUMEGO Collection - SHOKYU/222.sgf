@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[op][pp][qq][qr][mq][mr]AW[rq][qp][po][qo][oo][np][mp][lp][lq][lr]
+[rr]N[222]AP[MultiGo:4.4.4]SZ[19]AB[oq]MULTIGOGM[0]
+
+(;C[初级死活。
+
+难度：☆]N[审题])
+(;B[pr]N[正解];W[nr];B[nq];W[ms];B[os];W[ns];B[qs]LB[or:A][ls:B]C[黑A、白B的交换有没有必要，取决于劫才的状态。就局部而言，能不交换就不交换。])
+(;B[nq]N[失败];W[pr];B[qs];W[or]))

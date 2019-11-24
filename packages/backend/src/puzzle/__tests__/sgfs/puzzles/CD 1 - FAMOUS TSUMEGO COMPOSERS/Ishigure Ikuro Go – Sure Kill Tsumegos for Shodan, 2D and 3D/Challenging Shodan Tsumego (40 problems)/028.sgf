@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[lq][mp][mo][mn][on][oo][pm][pl][ql][rm][rn][ro][sp][qp][nq][nr][pr]
+[os]AW[op][pp][pq][po][pn][qn][qm][qq][rq][rp][so][qr][mq][np]N[028]AP[MultiGo:4.4.4]
+SZ[19]AB[oq]MULTIGOGM[0]
+
+(;LB[qo:A]C[如果黑A位接，那么下边白棋为了做活，将会拼命折腾。明白了这一点，就能得到正解。]
+N[审题])
+(;B[rs]LB[qo:A][qs:B]C[黑1点，白不能走A位提子，那样黑B回家之后，白角上没有眼]N[正解]
+;W[qs];B[qo]C[白死。])
+(;B[qo]N[失败];W[ps];B[qs];W[rs];B[sr];W[ps]C[劫。]))

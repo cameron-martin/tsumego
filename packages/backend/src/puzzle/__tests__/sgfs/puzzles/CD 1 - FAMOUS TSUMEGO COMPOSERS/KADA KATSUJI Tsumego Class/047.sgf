@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[do][ep][fp][gq][gr][gs][es][aq][bp][bo]AW[br][dq][eq][ds][fr][fs]
+C[B]N[047]AP[MultiGo:4.4.4]SZ[19]AB[co]MULTIGOGM[0]
+
+(;C[排除掉所有失败图之后，是能够得到正解的。
+
+难度：B]N[审题])
+(;B[bs]N[正解];W[cq];B[bq];W[cs];B[ar];W[as]C[劫杀正解。])
+(;B[bs]N[变化1];W[cq];B[er];W[dr];B[ar];W[cs];B[bq];W[as]C[还是劫。与正解相比，多了一个交换。这个交换没有意义。])
+(;B[bs]N[变化2];W[bq];B[er];W[dr];B[ar]C[这样白死。])
+(;B[er]N[失败];W[dr];B[bs];W[ar]C[黑进攻的次序错误。
+
+其他简单的失败图就不给出了。]))

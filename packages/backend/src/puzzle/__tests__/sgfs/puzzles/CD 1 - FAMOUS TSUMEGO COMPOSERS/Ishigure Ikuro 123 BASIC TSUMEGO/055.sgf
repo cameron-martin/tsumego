@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rb][rc][pa][pb][nd][qd][qe][pf][nc][ka][ne][nf][ng][mg][lg][kg][jf]
+[je][jd][kc][kb]AW[oc][od][pd][qc][qb][mc][md][me][mf][lf][kf][ke][ld][lb][nb][ob]
+N[055]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;LB[oa:A]C[白A位打是先手吗？]N[审题])
+(;B[mb]C[黑1扑是手筋，能够想到这一手，所有变化都计算到了吧]N[正解];W[ma];B[oa]C[白死。])
+(;B[mb]N[变化];W[oa];B[ma];W[qa];B[pb]C[白死。])
+(;B[la]N[失败];W[oa];B[ma];W[qa];B[mb];W[pb]))

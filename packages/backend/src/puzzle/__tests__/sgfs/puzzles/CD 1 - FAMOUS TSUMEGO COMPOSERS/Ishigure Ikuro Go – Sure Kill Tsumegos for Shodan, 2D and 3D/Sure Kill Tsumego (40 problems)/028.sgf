@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[lp][lq][lr][ls][ms][nr][mo][mn][nn][on][pn][qn][ro][rp][rq][rr][rs]
+[qs]AW[or][pr][qr][qq][qo][po][no][np][mp][mq][mr][ns][os]N[028]AP[MultiGo:4.4.4]
+SZ[19]AB[ps]MULTIGOGM[0]
+
+(;C[逐点计算吧，如果实在没感觉的话。有感觉就从第一感开始计算。
+]N[审题])
+(;B[pp]N[正解];W[qp];B[oo];W[op];B[oq]C[双倒扑，白死。])
+(;B[oo]N[失败1];W[op];B[pp]LB[qp:A][oq:B]C[黑3打，白A则黑B，还原到正解图];W[pq]
+C[但白4可以弃子做活大部。])
+(;B[qp]N[失败2];W[pp];B[oo];W[op]))

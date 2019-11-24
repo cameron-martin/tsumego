@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ce][de][bf][bb][bc]AW[cc][cd][dd][ee][fc][df][cf][cg][ci][cb]N[025]
+AP[MultiGo:4.4.4]SZ[19]AB[bd]MULTIGOGM[0]
+
+(;C[分割眼位，确保活棋。
+
+难度：☆]N[审题])
+(;B[ae]N[正解];W[ba];B[bg];W[bh];B[ag])
+(;B[be]N[失败1];W[ba])
+(;B[ba]N[失败2];W[be]))

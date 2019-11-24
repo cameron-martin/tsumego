@@ -1,0 +1,5 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[qj][cj][pf][pd][cd][pb][cm][bp][qp][oq]AW[de]
+[dp][kp][cq][gq][dc][nc][dd][jd]TR[cd]LB[dd:1]C[Black to play. When Black peeps with the marked stone, White connects with 1. How should Black continue?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+;B[hf];W[hd]C[How does Black start a ko in the top left corner?];B[cc];W[ce];B[db]
+;W[eb];B[bb];W[da];B[ca]C[CORRECT Black should reduce White's moyo, Black can make a ko in the corner whenever he wishes to.])

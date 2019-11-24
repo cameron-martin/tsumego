@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[nr][qr][qs][qp][rp][ro][qn][pn][on][nn][kq][lr][mq][mp]AW[no][np]
+[nq][oo][po][qo][pp][or][pr][mr][ms]N[018]AP[MultiGo:4.4.4]SZ[19]AB[mo]MULTIGOGM[0]
+
+(;C[正解不难得到。失败图也要计算。可选择的点很少。]N[审题])
+(;B[os]N[正解];W[ps];B[pq];W[ns];B[oq]C[白死。])
+(;B[pq]N[失败];W[oq];B[os];W[qq];B[ps];W[rr];B[rq];W[rs];B[pq]C[劫。]))

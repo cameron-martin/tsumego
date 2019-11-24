@@ -1,0 +1,8 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[ld][gd][fb][eb][db][dc][cj][dh][pc][qc][od]
+[dp][fq][pn]AW[pk][pf][de][ce][ed][ec][bh][cc][qd][jq][pq][np][nn][rc][re]C[Black to play. How can Black make sabaki in the lower right corner?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[qq]
+(;W[qr];B[pp];W[oq];B[rq];W[rr];B[oo];W[no];B[rn]C[CORRECT Black should attach, and answer White's hane with a hane. After few forcing moves Black can live.])
+(;W[qp];B[pp];W[po];B[qo];W[op];B[rp];W[pp];B[rr]C[CORRECT If White plays the hane from above, Black can still live in the corner.]))
+(;B[co];W[qp]C[Black can no longer make sabaki in the lower right corner.]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rd][qe][qf][pf][nf][mf][me][md][mc][mb][ma][pc][ra][rb]AW[qa][qb]
+[qc][qd][pe][oe][ne][nd][nb][ob]N[047]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[压缩白的眼位还是从里面动手？有没有棋形的急所？]N[审题])
+(;B[oa]N[正解];W[na];B[pb];W[pa];B[pd]C[白死。])
+(;B[oa]N[变化1];W[pb];B[na]C[白死。])
+(;B[oa]N[变化2];W[na];B[pb];W[pd];B[nc]C[白死。])
+(;B[nc]N[失败1];W[oc];B[na];W[oa])
+(;B[na]N[失败2];W[oa];B[pb];W[pd];B[oc];W[nc])
+(;B[pb]N[失败3];W[pd];B[oc];W[nc]))

@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[en][fn][go][ho][hp][hq][ir][jr][js][cr][cq][bo][co]AW[dq][dp][eo]
+[fp][gp][gq][gr][hr][es][is]C[A]N[017]AP[MultiGo:4.4.4]SZ[19]AB[do]MULTIGOGM[0]
+
+(;LB[dr:A][er:B]C[黑A则白B，白是曲四活形。从外侧压缩白的眼位似乎不能成功，请计算确认之。
+
+难度：A]
+N[审题])
+(;B[er]N[正解];W[dr]C[黑1点，白2必挡];B[fr]LB[eq:A][hs:B]C[黑3平是杀着。白走A或B位已经无法做活了。]
+;W[fo]C[白只能尽力扩大眼位];B[eq];W[fq];B[gs]C[白死。])
+(;B[er]N[变化];W[dr];B[fr];W[fo];B[eq];W[hs];B[fs];W[ds];B[ep])
+(;B[er]N[失败1];W[dr];B[fs];W[fr];B[ds];W[eq];B[es];W[gs];B[cs];W[fo])
+(;B[fr]N[失败2];W[er];B[fo];W[ep];B[fq];W[hs];B[fs];W[dr])
+(;B[hs]N[失败3];W[gs]LB[fr:A][fo:B]C[黑1提子，白2挡住后，黑已无法杀白。可自行演算。例如，黑A则白B，双活。再例如……]
+;B[er];W[dr];B[fr];W[fo];B[eq];W[fq]))

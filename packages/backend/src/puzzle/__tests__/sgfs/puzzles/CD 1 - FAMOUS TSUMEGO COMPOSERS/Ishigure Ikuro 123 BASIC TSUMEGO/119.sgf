@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rb][sb][sc][rd][re][se][qf][rg][rh][qh][ph][og][ng][mf][me][md][lc]
+[nc][oa][nb]AW[rc][ob][oc][nd][ne][of][pf][pg][qg][pa][qb][qc][qd]N[119]AP[MultiGo:4.4.4]
+SZ[19]AB[na]MULTIGOGM[0]
+
+(;LB[qe:A][pe:B]C[黑A则白B，白活，这个首先可以排除。观察棋形，白气紧。]N[审题])
+(;B[od]LB[oe:A][pe:B][qe:C][pd:D]C[黑1断，手筋。对此，白应在A、B、C、D都不行，这些都容易计算。]
+N[正解];W[pd];B[pb];W[pc];B[ra];W[qa];B[pe]C[白死。])
+(;B[od]N[变化];W[pd];B[pb];W[pc];B[ra];W[qe];B[oe]C[白6试图抵抗，但黑7打先手];W[pe]
+;B[qa]C[白死。])
+(;B[pe]N[失败];W[qe];B[rf];W[pd]))

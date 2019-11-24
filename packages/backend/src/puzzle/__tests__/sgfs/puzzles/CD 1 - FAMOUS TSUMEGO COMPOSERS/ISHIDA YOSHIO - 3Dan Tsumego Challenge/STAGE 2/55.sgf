@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pp][qo][ro][so][rq][mr][or][oq][ps]AW[rr][qs][qq][pq][qp][rp][ns]
+C[55]N[55]AP[MultiGo:4.4.4]SZ[19]AB[op]MULTIGOGM[0]
+
+(;C[第55题 成劫争为最佳结果
+
+下一手走在这边还是那边？两边一计算与比较，那正解就自然而然地出来了。
+
+成劫争为最佳结果。]
+N[审题])
+(;B[sq]N[正解];W[sp];B[qr]C[黑1、3是次序];W[sr];B[rs];W[pr];B[os]C[成劫争为正解。])
+(;B[qr]N[失败];W[pr];B[sq];W[sr]C[白活。]))

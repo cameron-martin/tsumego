@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[hn][fn][dr][dq][ep][fm][en][eo][go][hq][hp][fp]GN[ ]AB[do][fq][dl][fl][dn][gp][gq][gm][gn][dp][eq]PM[1]C[Problem 206. Black to play.
+Capture six white stones using oiotoshi.]PW[ ]
+(
+;B[em]C[Correct Answer
+Black 1 puts six white stones into atari and no matter what White does his stones cannot escape.]
+)
+(
+;B[hm]C[Wrong Answer
+Black 1...]
+;W[ho]C[...lets White off the hook. He connects at 2 and now...]
+;B[em]C[...when Black plays 3...]
+;W[fo]C[...White connects at 4 and all his stones are safe.]
+)
+
+)

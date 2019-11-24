@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[mo][mn][nn][np][pq][qq][rq][rr][qo][qn][pm][ls][lr][lq]AW[no][oo]
+[pp][mp][mq][mr][oq][pr][qr][qs]N[020]AP[MultiGo:4.4.4]SZ[19]AB[lp]MULTIGOGM[0]
+
+(;C[空间小，选择少。失败图容易得到。]N[审题])
+(;B[nr]N[正解];W[nq]C[黑1、白2是必然的交换];B[os]C[黑3尖是手筋];W[or];B[ms]C[劫杀正解。])
+(;B[nr]N[变化];W[nq];B[os];W[ms];B[or])
+(;B[ms]LB[ns:A][os:B][or:C]C[无论黑走1位冲，还是A、B、C点，……]N[失败];W[nr]C[只要白占据到2位，就活了。]))

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pb][pc][qc][qd][nd][pf][of][oe][od][la][md][ld][lc][lb]AW[rb][mb]
+[ob][rc][qb][rd][re][qf][qg][pg][og][ng][nf][ne][lf][ke][kd][kc][kb][ka][pd][pa]
+N[008]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;LB[oc:A]C[黑肯定要想办法做白棋的接不归。A位要被叫吃是黑形的缺陷。]N[审题])
+(;B[nb]C[挖是防守的急所]N[正解];W[oc];B[pe];W[na];B[nc];W[oa];B[ma]C[黑活。])
+(;B[nb]N[变化];W[na];B[oc];W[nc];B[ma]C[黑活。])
+(;B[oc]N[失败];W[nb]C[没有接不归，黑死。]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qd][rd][ob][pc][qc]AW[pb][oc][nc][nb][re][rf][pf][pe][pd][rb][rc]
+N[212]AP[MultiGo:4.4.4]SZ[19]AB[qb]MULTIGOGM[0]
+
+(;LB[pa:A][sd:B]C[黑A则白B，黑不行。黑必须在角上搞出一个先手来，然后再在A位提子。
+
+难度：☆☆]
+N[审题])
+(;B[sb]N[正解];W[ra];B[pa];W[sd];B[sc]C[白接不归，黑活。])
+(;B[sb]N[变化];W[ra];B[pa];W[na];B[sc]C[黑活。]))

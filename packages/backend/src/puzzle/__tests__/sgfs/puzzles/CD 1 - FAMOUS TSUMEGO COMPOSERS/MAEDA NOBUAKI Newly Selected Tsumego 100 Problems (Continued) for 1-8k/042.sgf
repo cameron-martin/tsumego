@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[nb][mb][lc][kc][kd][pd][qd][qc][rd][sd][qf][pb][pa]AW[qb][rc][sc]
+[pc][oc][nc][mc][ob][ld][le][ne][rb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[oa]MULTIGOGM[0]
+
+(;C[审题：黑棋的问题，是在于可能有接不归。这里，黑棋的手法是基本功。]N[审题])
+(;B[sb]N[正解];W[sa];B[qa]C[白气紧，没法打吃黑棋，死了。])
+(;B[lb]N[失败];W[qa];B[na];W[sa]C[白活，黑失败。]))

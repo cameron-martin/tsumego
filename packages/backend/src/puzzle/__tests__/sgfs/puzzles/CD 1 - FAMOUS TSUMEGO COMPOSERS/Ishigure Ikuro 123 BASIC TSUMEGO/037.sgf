@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rd][re][rf][qg][pg][og][ng][mf][lf][le][ld][kc][mc][mb][nc][qb]AW[nb]
+[na][pa][pb][pc][oc][nd][me][nf][of][pf][qf][qe]N[037]AP[MultiGo:4.4.4]SZ[19]AB[qc]
+MULTIGOGM[0]
+
+(;LB[pd:A][ne:B]C[有一些点明显不行，可以先排除掉。重点是A和B。]N[审题])
+(;B[pd]N[正解];W[qd];B[od];W[oe];B[md];W[pe];B[od];W[pd];B[ne]C[劫杀正解。])
+(;B[pd]N[变化];W[od];B[qd];W[pe];B[ne])
+(;B[ne]N[失败];W[oe];B[pd];W[qd]))

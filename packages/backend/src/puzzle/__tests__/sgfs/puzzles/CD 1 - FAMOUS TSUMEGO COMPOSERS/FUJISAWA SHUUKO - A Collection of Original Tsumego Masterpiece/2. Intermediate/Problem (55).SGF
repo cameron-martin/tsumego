@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[oe][od][oc][nb][mb][ra][rb][rf][qf][qe]AW[sb][qb][qc][qd][re][ob][oa]C[黑先 从对左方白两子的进攻开始。]
+
+(;B[qa];W[pc];B[na];W[pb];B[rd]C[正解 黑先白死])
+(;B[pb];W[qa];B[pc];W[se]C[失败])
+(;B[se];W[qa];B[rc];W[rd];B[sd];W[sc]C[失败]))

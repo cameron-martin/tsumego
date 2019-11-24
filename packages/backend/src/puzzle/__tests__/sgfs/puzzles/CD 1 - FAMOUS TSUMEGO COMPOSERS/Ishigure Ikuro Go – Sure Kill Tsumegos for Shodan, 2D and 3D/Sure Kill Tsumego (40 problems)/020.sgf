@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[mp][pp][po][qo][rn][rp][so][pr][qr][lr][mr][nq]AW[nr][or][os][ms]
+[pq][qq][rq][rr][qp]N[020]AP[MultiGo:4.4.4]SZ[19]AB[oq]MULTIGOGM[0]
+
+(;C[走出劫杀很容易，净杀呢？]N[审题])
+(;B[rs]N[正解];W[qs]C[黑1扳，白2必须扑，走其他地方都简单死];B[sq];W[ss];B[sp]LB[sr:A]
+C[白不能走A位粘，死了。])
+(;B[sq]N[失败1];W[sr];B[rs];W[sp])
+(;B[sr]N[失败2];W[sq];B[rs])
+(;B[qs]N[失败3];W[rs];B[sq];W[ps]))

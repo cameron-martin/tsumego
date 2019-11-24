@@ -1,0 +1,44 @@
+(;
+GM[1]
+SZ[19]
+AW[qf][pl][pn][lo][lq][nr][lm][oj][qj][pj][ni]
+AB[dp][pd][pp][dd][jj][nd][np][pq][nn][nl][ip][mk][qi][pi][oi]
+LB[oi:1][ni:2][pg:A]
+C[Problem 132. Black to play.  
+
+In the game continuation of Problem 128, Black should have jumped to A. Instead he exchanged 1 for White 2, which weakened his stones below. How can Black savage the position ? ]
+(;B[nj]
+TE[2]
+C[Correct Answer.  
+
+Black should cut with 1. Even though the three black stones on the right are short of liberties, they still have enough room to escape. ]
+;W[mi]
+C[When White extends to 2, ... ]
+;B[pg]
+C[... Black escapes by jumping to 3. ]
+;W[lk]
+C[White can confine Black to the lower right by attaching with 4, but ... ]
+;B[lj]
+C[... Black counterattacks with the hane of 5. ]
+;W[mj];B[nk];W[ll]
+LB[nm:A]
+C[When White connects at 8, she is threatening the wedge in at A (Do you see the danger ?). Black must take defensive action. Next ... ]
+;B[mn]
+C[... Black must first peep with 9 ... ]
+;W[ln];B[mp]
+C[... and 11, ... ]
+;W[lp];B[qn];W[qo];B[po]
+LB[qn:13]
+C[... then attach and cut with 13 and 15, leaving the eight white stones an the bottom without eyes. ]
+;W[qm];B[rn];W[ro];B[on];W[pm];B[rp];W[rm];B[li]
+C[Black has a won game. <= ]
+)
+(;B[og]
+C[How the game continued.  
+
+Jumping to 1 revealed a negative attitude. ]
+;W[mj]
+LB[oo:B][pg:A]
+C[White connected with 2 and her stones on the right became strong because they had access to the center. In the upper right, White can aim at breaking Black's shape by playing on the vital point of A, perhaps living there as well. In the lower right, the peep at White B will also be troublesome for Black. <= ]
+)
+)

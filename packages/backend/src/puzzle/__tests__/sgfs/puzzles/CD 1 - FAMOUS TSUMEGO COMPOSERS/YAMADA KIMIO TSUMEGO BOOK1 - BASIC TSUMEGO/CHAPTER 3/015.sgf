@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[le][me][nf][of][pf][pe][pd][qc][qb][jb][jc][kc]AW[pb][pc][od][oe]
+[md][mc][nb][lb]N[015]AP[MultiGo:4.4.4]SZ[19]AB[lc]MULTIGOGM[0]
+
+(;LB[pa:A][ma:B][oc:C]C[重点考虑A、B、C三点吧。]N[审题])
+(;B[oc]LB[ob:A][ma:B]C[黑1断是手筋。对此，白A则黑B]N[正解];W[nc];B[ma];W[la];B[nd]
+;W[ob];B[ne]C[白死。])
+(;B[oc]N[变化];W[nc];B[ma];W[ob];B[ne];W[nd];B[la];W[pa];B[na])
+(;B[pa]N[失败1];W[oc])
+(;B[ma]N[失败2];W[oc]C[从两个失败图可以看到，2位是急所。]))

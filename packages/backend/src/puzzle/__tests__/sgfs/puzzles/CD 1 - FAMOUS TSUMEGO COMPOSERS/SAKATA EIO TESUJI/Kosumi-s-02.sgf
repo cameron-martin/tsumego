@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bp][cp][dp][ep][fp][bq][fq][br][er]AB[go][gp][cq][dq][eq][gq][cr][fr][gr][bs]C[Ex. 2 - Semeai
+
+The problem is how to take the 5 B stones in the corner.
+If you make a simple move you will not be able to capture. ]PL[W]
+(;W[dr]LB[dr:1]C[Diag 1 - Failure
+
+B 1 ate is an easy way to play but the result is a terrible failure. ]
+;B[cs]LB[dr:1][cs:2]C[When B 2 connects, whichever side W plays on he cannot play the tsukkomi. ]
+;W[ar]LB[ar:3][dr:1][cs:2]C[If W 3 
+]
+;B[es]LB[ar:3][cr:2][dr:1][es:4]C[B 4 captures the 2 white stones first.
+The idea you want is to eliminate the hane B 4.])
+(;W[es]LB[es:1]C[Diag. 2 - Failure
+
+W 1 sagari is useless. ]
+;B[ds]LB[ds:2][es:1]C[B plays tsuke against it and there is no way to continue against B.])
+(;W[ds]LB[ds:1]C[Diag.3 - Correct
+
+There remains the kosumi of W 1, and without this move B cannot be captured.
+This is the vital point of B's 4 stones.
+B cannot play the hane on the right-hand side, and ate from the inside (left side) is also impossible. (cont.)
+
+]
+(;B[cs]LB[cs:2][ds:1]C[If B 2,]
+;W[ar]LB[ar:3]C[W plays 3 and wins by one move.])
+(;B[fs]LB[ds:1][fs:2]C[Diag. 4 - Variation
+
+If B plays 2 in answer to W's kosumi, ]
+;W[cs]LB[cs:3][ds:1][fs:2]C[W 3 tsukkomi has a resounding effect and W wins.])))

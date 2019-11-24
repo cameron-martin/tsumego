@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[od][nd][nc][nb][re][qe]AW[ob][pb][oc][pd][qd][qc]N[黑先]AP[MultiGo:4.4.4]
+SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[审题：黑棋的第一手是很显然的，但是，不要低估了白棋的抵抗。]N[审题])
+(;B[rb]C[黑1是只此一手]N[正解];W[rc];B[sc];W[sb]C[白4扑是防守的好手];B[sd];W[ra]
+;B[sa]C[劫杀是正解。])
+(;B[rb]N[变化];W[rc];B[sc];W[sd];B[sb];W[rd];B[qb]C[白棋防守失败。]))

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[nd][md][ld][kd][jd][jc][jb][ja][ka][lb][rb][qc][rd][pd]AW[kb][kc]
+[lc][mc][nc][la][ma][pb][pc]N[083]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[空间小，可以逐点计算。或者，根据第一感计算。注意，白的气很紧，这是缺陷。另外，黑角上没有接不归。]
+N[审题])
+(;B[pa]N[正解];W[qa];B[na];W[mb];B[ob];W[oc];B[qb];W[oa]C[劫杀正解。])
+(;B[pa]N[变化1];W[qa];B[ob]LB[na:A]C[黑3不在A位打，而是先扳，则次序错误。];W[oc]
+;B[na];W[oa];B[mb];W[nb];B[la];W[qb])
+(;B[pa]N[变化2];W[oa];B[ob];W[oc];B[na];W[mb];B[qb])
+(;B[pa]N[变化3];W[qb];B[qa];W[oc];B[mb];W[nb];B[oa])
+(;B[pa]N[变化4];W[qb];B[na];W[mb];B[ob];W[oc];B[qa])
+(;B[ob]N[失败1];W[oc];B[na];W[mb];B[pa];W[nb])
+(;B[na]N[失败2];W[mb];B[pa];W[nb]))

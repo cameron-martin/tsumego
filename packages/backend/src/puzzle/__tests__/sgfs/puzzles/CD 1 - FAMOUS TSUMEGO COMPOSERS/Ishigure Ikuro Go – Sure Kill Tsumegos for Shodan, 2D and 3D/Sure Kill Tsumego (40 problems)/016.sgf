@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[oo][no][np][nq][or][os][rq][rp][qo]AW[op][pp][qq][pr][ps][rr][sr]
+N[016]AP[MultiGo:4.4.4]SZ[19]AB[po]MULTIGOGM[0]
+
+(;C[空间很小，变化也少。]N[审题])
+(;B[rs]N[正解];W[qs];B[pq];W[oq];B[qp]C[白不能粘，提子也不行，死。])
+(;B[pq]N[失败];W[oq];B[qp];W[pq];B[rs]LB[qs:A]C[黑5走A位的变化一样];W[nr]C[白6从边上打，要么逸出，要么就地做活。])
+(;B[pq]N[失败变化];W[rs];B[qr];W[oq];B[qp]))

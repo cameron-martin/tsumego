@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[md][me][lf][je][ie][he][hc][ic][hb][nb]AW[ib][kb][kd][ld][lc][mc]
+[jc]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[审题：空间很小，变化也不太多。]N[审题])
+(;B[la]N[正解];W[ja];B[ha];W[ma];B[mb]LB[lb:A][ia:B]C[接下来，白A则黑B，白没有两眼]
+;W[ia];B[lb]LB[ka:A][jd:B]C[黑7接后，A、B两点见合，白死。])
+(;B[ia]N[失败];W[ja]C[劫杀，黑进攻失败。]))

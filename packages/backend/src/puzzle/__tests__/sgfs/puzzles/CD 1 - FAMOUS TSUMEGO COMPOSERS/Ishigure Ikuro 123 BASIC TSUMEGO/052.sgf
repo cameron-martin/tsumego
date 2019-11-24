@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[sb][rb][qb][pb][ob][nb][mb][lc][ld][le][lf][mg][ng][og][pg][qg][rg]
+[sf][pc]AW[rf][pd][od][oc][mc][md][mf][nf][of][qc][rc][sc][sd][se][re]N[052]AP[MultiGo:4.4.4]
+SZ[19]AB[sg]MULTIGOGM[0]
+
+(;C[观察白的棋形，如果白要做活，哪些地方时应该占据的？]N[审题])
+(;B[nc]N[正解];W[nd];B[me];W[ne];B[pe];W[pf];B[qf];W[qe];B[qd]C[双倒扑，白死。
+计算的关键在于，黑1、3是否是先手？])
+(;B[nc]LB[ne:A]C[黑1冲是否是绝对先手？白棋是否只能挡住？
+
+黑1冲后，有A位的点。]
+N[变化1];W[qf];B[ne];W[qd];B[pe]C[结论：黑1冲是绝对先手，白棋只能挡住。黑1冲时，白的其他抵抗也很容易计算。])
+(;B[nc]N[变化2];W[nd];B[me]C[现在要计算黑3冲时，白是否只能挡住？];W[qf];B[ne]C[结论：黑3冲时，白只能挡住。白4走其他地方也容易计算。])
+(;B[pe]N[失败];W[pf];B[qf];W[qe]))

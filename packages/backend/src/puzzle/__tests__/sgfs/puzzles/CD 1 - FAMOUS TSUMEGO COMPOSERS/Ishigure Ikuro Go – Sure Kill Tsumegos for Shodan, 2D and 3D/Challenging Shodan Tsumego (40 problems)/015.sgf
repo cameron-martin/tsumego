@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pr][or][nq][mq][lq][lr][rr][qq]AW[ks][kr][kq][kp][lp][mp][np][op]
+[qp][rp][rq][sr][qr][qs]N[015]AP[MultiGo:4.4.4]SZ[19]AB[pq]MULTIGOGM[0]
+
+(;LB[ps:A]C[黑A打，白提子的话，黑就活了。因此白不会这样简单应对，这是计算的入手点。也可以先计算你的第一感。]
+N[审题])
+(;B[ms]N[正解];W[ps];B[os];W[rs];B[nr])
+(;B[ns]N[失败1];W[ps])
+(;B[ps]N[失败2];W[ns];B[ms];W[ls];B[nr]))

@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[qf][pl][pn][lo][lq][nr][lm]
+AB[dp][pd][pp][dd][jj][nd][np][pq][nn][nl][ip]
+LB[qf:1][nd:2][ip:6][lm:11][lo:9][lq:5][nr:7][pq:8][np:4][nn:10]
+LB[nl:12][pl:13]
+C[Problem 128. Black to play.  
+
+A sharp skirmish has taken place in the lower right with the sequence to 13. How should Black continue ? ]
+(;B[pj]
+TE[2]
+C[Correct Answer.  
+
+Even though there are many open areas where Black can stake out territory, it is more urgent for him to press his advantage on the right with Black 1. ]
+;W[ok]
+C[White must escape with 2, but ... ]
+;B[pg]
+C[... Black attacks the white stone above with 3 ... ]
+;W[pf];B[og]
+C[... and builds influence with 5. ]
+;W[of]
+C[If White next plays 6, ... ]
+;B[ng];W[nk];B[ml]
+C[... Black will be satisfied with the result after the sequence to Black 9. While White is trying to escape with her stones on the right side, she will be unable to make any territory, but Black will be building up influence and the white stones at the bottom will come under attack. <= ]
+)
+(;B[qi]
+C[How the game continued.  
+
+Black 1 was too low an invasion in this position. ]
+;W[pj];B[pi];W[oj]
+LB[pj:2]
+C[White moved out into the center with 2 and 4. ]
+;B[mk]
+C[Black could not allow his stones in the lower right to be confined to the corner, so he played 5, ... ]
+;W[qj]
+C[... enabling White to settle her stones on the right with 6 and rob the two black stones of a liberty. Now Black was the one under attack. See Problem 132 for the continuation. <= ]
+)
+)

@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[do][eo][fo][go][cp][hp][ip][jp][cq][fq][gq][jq][er][fr]AB[ep][fp][gp][dq][eq][hq][iq][kq][dr][jr][kr][gs]C[Ex. 12 - Semeai
+
+This is a semeai. The B keima stone on the edge is not as effective as you may think.
+If you can find its weak point you can win.
+Since the liberties are 3 apiece, W, being the first to play, has the advantage.]PL[W]
+(;W[cr]LB[cr:1]TR[aa]C[Diag. 1 - Failure
+
+Usually W checks at 1 
+]
+;B[es]LB[cr:1][es:2]C[but this allows B 2 hane.]
+;W[dp]LB[dp:3][cr:1][es:2]C[Even if W checks at 3, ]
+;B[ds]LB[dp:3][cr:1][ds:4][es:2]C[B can capture the 4 W stones with 4 (cont.)]
+;W[cs]LB[dp:3][cr:1][cs:5][ds:4][es:2]
+;B[fs]LB[dp:3][cr:1][cs:5][ds:4][es:2][fs:6]C[and 6 ate.])
+(;W[hr]LB[hr:1]TR[aa]C[Diag. 2 - Failure
+
+The exchange of W 1 ate ]
+;B[ir]LB[hr:1][ir:2]C[and B 2 is intended as a preparatory measure but it serves no useful purpose. ]
+;W[cr]LB[cr:3][hr:1][ir:2]C[After W 3]
+;B[es]LB[cr:3][hr:1][ir:2][es:4]
+;W[dp]LB[dp:5][cr:3][hr:1][ir:2][es:4]C[and 5 ate ]
+;B[ds]LB[dp:5][cr:3][hr:1][ir:2][ds:6][es:4]
+;W[cs]LB[dp:5][cr:3][hr:1][ir:2][cs:7][ds:6][es:4]
+;B[fs]LB[dp:5][cr:3][hr:1][ir:2][cs:7][ds:6][es:4][fs:8]C[the sequence up to 8, W again fails.])
+(;W[hs]LB[hs:1]C[Diag. 3 - Correct
+
+Tsuke is a "light" suji but its very lightness is like a knockout blow to the opponent. 
+W 1 is a sharp move. ]
+(;B[hr]LB[hr:2][hs:1]C[After forcing B 2, ]
+;W[cr]LB[cr:3][gs:2][hs:1]C[W plays 3]
+;B[es]LB[cr:3][es:4][gs:2][hs:1]
+;W[dp]LB[dp:5][cr:3][es:4][gs:2][hs:1]C[ and 5 tsume. ]
+;B[ds]LB[dp:5][cr:3][ds:6][es:4][gs:2][hs:1]C[If B 6 tsugi, ]
+;W[cs]LB[dp:5][cr:3][cs:7][ds:6][es:4][gs:2][hs:1]C[W plays ate 7 and B is in damezumari, so there is no way for to connect, is there ?])
+(;B[es]LB[es:2][hs:1]C[Diag. 4 - Variation
+
+If B 2 in answer to W 1 tsuke 
+]
+;W[ir]LB[ir:3][es:2][hs:1]C[W cuts at 3 and captures 2 stones.])))

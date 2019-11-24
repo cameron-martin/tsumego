@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dl][fl][hl][cm][hm][cn][in][do][eo][go][io][ep][gq][iq][ir]AB[dn][en][fn][gn][hn][bo][co][dp][dq][eq][gr][hr]C[Ex. 4 - Shinogi
+
+If you can find the flaws in W's connection you can easily do something for the 5 B stones. A fairly indirect way of playing is suitable in a case like this.]
+(;B[ho]LB[ho:1]C[Diag. 1 - Failure
+
+B 1 de spoils the special aji of this position  ]
+;W[gp]LB[ho:1][gp:2]C[ after W 2 tsugi. ]
+;B[hp]LB[ho:1][gp:2][hp:3]C[Even if B comes down at 3 ]
+;W[hq]LB[ho:1][gp:2][hp:3][hq:4]
+;B[ip]LB[ho:1][gp:2][hp:3][ip:5][hq:4]C[then out at 5, ]
+;W[jp]LB[ho:1][gp:2][hp:3][ip:5][jp:6][hq:4]C[after W 6 there is no way to escape.])
+(;B[gp]LB[gp:1]C[Diag. 2 - Correct
+
+While his plan is to capture the 3 W stones by damezumari B must start with 1 horikomi. ]
+(;W[hp]LB[gp:1][hp:2]C[If W 2 ]
+;B[fp]LB[fp:3][gp:1][hp:2]C[B 3 can capture the 3 stones.
+The idea is to approach the vital point of the 3 stones indirectly.])
+(;W[fp]LB[fp:2][gp:1]C[Diag. 3 - Correct
+
+If W plays ate 2 against B 1 ]
+;B[hp]LB[fp:2][gp:1][hp:3]C[B plays nobi 3. ]
+;W[ho]LB[ho:4][fp:2][gp:1][hp:3]C[W 4 ]
+;B[fo]LB[fo:5][ho:4][fp:2][gp:1][hp:3]C[and B 5 are miai cutting points and W is helpless.])
+(;W[ho]LB[ho:2][gp:1]C[Diag. 4 - Correct
+
+W tries 2 tsugi against B 1. 
+]
+;B[fo]LB[fo:3][ho:2][gp:1]C[of course B takes at 3 and with this, success is his.
+
+You will no doubt appreciate the effect of the warikomi suji 1, forcing W into damezumari.])))

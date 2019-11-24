@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][hd][fj][dm][hb][hc][ef][eg]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][fp][pn][fd][cd][ee][gc][ff]
+LB[hb:1]
+C[Problem 21. Black to play.  
+
+In the game in Problem 17, White descended to 1. How should Black respond ? ]
+(;B[jb]
+LB[kc:A]
+
+TE[2]
+C[Correct Answer.  
+
+White could settle her stones at the top by jumping to A, so Black should prevent this by confining her to the top left with 1. ]
+;W[ge];B[fe];W[fb]
+C[The farthest White can enter into Black's territory is 4, but ... ]
+;B[db]
+C[... Black's stones are in no danger after he defends with 5. ]
+;W[hg];B[fg]
+C[After 7, White's stones at the top are still without a base and Black is threatening to  turn White's potential Territory on the left into his own, so ... ]
+;W[eh]
+C[... White will be strongly inclined to defend at 8. ]
+;B[el]
+C[Even so, Black's stone on the left still has an escape route at 9. <= ]
+)
+(;B[gb]
+C[How the game continued.  
+
+Black was suckered into making another move to defend his corner territory with 1. Having invested so many stones to take this territory, one could understand his urge to defend it, but another way of looking at it is: too many stones have been invested to take a relatively small territory, so his stones are overconcentrated. ]
+;W[nc]
+C[As a result, White got the jump on Black at the top when ... ]
+;B[nd];W[md];B[ne];W[oc]
+C[... she took up a position in the upper right with the sequence to 6. ]
+;B[pc]
+C[In spite of these inferior moves, Black can still deliver a knockout punch. See Problem 25 for the continuation. <= ]
+)
+)

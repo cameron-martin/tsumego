@@ -1,0 +1,49 @@
+(;
+AB[do][eo][fo][cp][gp][cq][gq][cr][gr]
+AW[cm][bn][co][bp][dp][ep][fp][bq][dr][fr]
+C[Black plays
+
+Source:
+    Qi Jing Zhong Miao #345, an ancient collection of mostly kyu level life and death problems.
+
+Analysis:
+    Myron Souris]
+(;
+B[ds]
+(;
+W[er];B[fs];W[es];B[fq];W[cs];B[eq]
+)
+    (;
+    W[es];B[dq]
+    (;
+    W[eq];B[fq]
+    )
+        (;
+        W[er];B[fq]
+        )
+    )
+    (;
+    W[dq];B[fs]
+    )
+)
+    (;
+    B[er]
+    C[Fails];
+    W[dq]
+    LB[eq:a][es:b]
+    C[Correct.  If instead, White A or B, Black can connect!];
+    B[ds];W[br];B[cs];W[bs];B[es];W[fs]
+    )
+    (;
+    B[cs]
+    C[Fails];
+    W[br]
+    (;
+    B[ds];W[er];B[fs];W[es];B[fq];W[bs]
+    )
+        (;
+        B[dq];W[er];B[fs];W[bs]
+        )
+    )
+)
+

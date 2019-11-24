@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[re][qf][pf][oe][ne][me][md][lc][kc][kb][nb][qb][rb][rd]AW[mb][mc]
+[nd][od][pe][qd][qc][pb][ob]N[017]AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[0]
+
+(;C[本题简单。]N[审题])
+(;B[nc]C[黑1是先手]N[正解];W[na];B[pa];W[oc];B[pd]C[白死。])
+(;B[nc]N[变化];W[na];B[pa];W[qe];B[pc])
+(;B[pd]N[失败];W[pc];B[nc];W[na];B[pa];W[qe]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[dj][dk][cl][cm][bn][co][ce][bf][cg][ch][ci]AW[bm][bl][bk][ck][cj]
+[bi][bh][bg]N[001]AP[MultiGo:4.4.4]SZ[19]AB[bj]MULTIGOGM[0]
+
+(;C[本题考的是死活的基本概念
+
+难度：☆]N[审题])
+(;B[aj]C[黑1立下后，白即不活]N[正解];W[ag];B[ai];W[ak];B[am]C[白死])
+(;B[aj]N[变化];W[ag];B[ai];W[am];B[ak]C[白死])
+(;B[ag]N[失败];W[aj]C[白2提子就活了。]))

@@ -1,0 +1,39 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ck][dm][cn][gn][co][fo][gp][cq][fq][cr][er][fr]AB[fm][dn][en][cp][dp][ep][fp][eq][dr][ds]TR[ep]C[Ex. 2 -  Sabaki
+
+This is a variation of the star-point joseki, seen especially in handicap games.
+When B has played the marked tsugi, the corner being short of liberties, W has dared to try and snatch away B's eyes.]
+(;B[bq]LB[bq:1]C[Diag. 1 - Failure
+
+If B 1 hane here, ]
+;W[br]LB[bq:1][br:2]C[allowing the cut with W 2]
+;B[bo]LB[bo:3][bq:1][br:2]
+;W[dq]LB[bo:3][bp:A][bq:1][dq:4][br:2]C[and  4, B loses his base in the corner.
+ If B plays at "A" with his 1 then W plays 4.
+Or, if instead of 1, B plays 4 tsugi, W plays "A" and either way B has failed.
+])
+(;B[br]LB[br:1]C[Diag. 2 - Correct
+
+B 1 tsuke is a shinogi suji. ]
+;W[bq]LB[bq:2][br:1]C[If W 2, ]
+;B[bp]LB[bp:3][bq:2][br:1]C[B intercepts with 3]
+(;W[ar]LB[bp:3][bq:2][ar:4][br:1]C[in reply to W 4 ate ]
+;B[bs]LB[bp:3][bq:2][ar:4][br:1][bs:5]C[then B 5 sagari and W can neither live nor connect.
+B 1 is, correctly speaking, the "belly attachment" suji.
+After this W is beaten completely. ])
+(;W[ap]LB[ap:4][bp:3][bq:2][br:1]C[Diag. 3 - Variation
+
+If B 3, W 4 hane is a confusing move ]
+(;B[ar]LB[ap:4][bp:3][bq:2][ar:5][br:1]C[but when B simply plays sagari 5, ]
+;W[aq]LB[ap:4][bp:3][aq:6][bq:2][ar:5][br:1]C[W 6 ]
+;B[bo]LB[bo:7][ap:4][bp:3][aq:6][bq:2][ar:5][br:1]C[and B 7 there is no way out.])
+(;B[bo]LB[bo:5][ap:4][bp:3][bq:2][br:1]C[Diag. 4 - Failure
+
+The slack move of B 5 in reply to W 4 hane  
+]
+;W[bs]LB[bo:5][ap:4][bp:3][bq:2][br:1][bs:6]C[fails after W 6 ]
+;B[ar]LB[bo:5][ap:4][bp:3][bq:2][ar:7][br:1][bs:6]
+;W[dq]LB[ao:A][bo:5][ap:4][bp:3][bq:2][dq:8][ar:7][br:1][bs:6]C[and W 8.
+If B 8 instead of 7, W lives with 7, W lives with 7.
+If osae "A" instead of B 5, W can continue to resist with the ko at 7.]))))

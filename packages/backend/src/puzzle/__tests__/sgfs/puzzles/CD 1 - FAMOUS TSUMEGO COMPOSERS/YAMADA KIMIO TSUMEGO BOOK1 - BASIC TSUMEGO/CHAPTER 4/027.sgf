@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qe][pe][of][nf][mf][me][ld][lc][lb][mb][ra][rb][rc]AW[mc][nb][na]
+[nd][ne][oe][pd][pc][qb]N[027]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[本题的失败图容易计算。在看清楚失败的手段后，正解就呼之欲出了。]N[审题])
+(;B[pa]N[正解];W[qa];B[pb];W[qc];B[oc];W[od];B[nc];W[ob];B[nc]C[白死。])
+(;B[pa]N[变化];W[pb];B[qa];W[oc];B[oa];W[md];B[ob])
+(;B[pb]N[失败];W[pa];B[ob];W[oc];B[qc];W[oa]C[由于失败图都比较简单，故只给出一个。]))

@@ -1,0 +1,51 @@
+(;
+GM[1]
+SZ[19]
+AW[cc][cd][de][dg][ch][fc][hc][ge][he][ie][je][jd][hg][ih][md][od][pc][qd][rd][rc][oc]
+AB[cb][dc][eb][ed][ee][ef][gf][fh][dp][pp][pd][id][ic][jc][kd][ke][jf][kg][le][lf][qc][pe][dk][qb][qe]
+LB[rc:A][qb:B][oc:C][qe:D][rd:E]
+C[Problem 50. Black to play.  
+
+After the sequence to White E, how should Black attack the white stones at the top center ? ]
+;B[ij]
+TE[2]
+C[Correct Answer.  
+
+Black must cap at 1. ]
+(;W[hi]
+C[If White 2, ... ]
+;B[gh]
+LB[ig:A]
+C[... Black 3 threatens to cut off the white stones at the top with A, ... ]
+;W[ig]
+C[... so White must defend there. ]
+;B[gk]
+C[Black 5 now blocks White's escape route. <= ]
+)
+(;W[hj]
+C[Variation.  
+
+Attaching with 2 is White's best chance to create complications, but ... ]
+;B[hi];W[ii];B[hh];W[ig]
+(;B[ik];W[gg];B[ei]
+C[... Black secures his stones with 9. White must escape. ]
+;W[kh]
+C[If she attaches with 10, ... ]
+;B[oe]
+C[... Black plays the sente move of 11 ... ]
+;W[rb];B[lh]
+C[... and attacks with 13 ... ]
+;W[ki];B[mj]
+C[... and 15 Black will build a moyo while White escapes. <= ]
+)
+(;B[ki]
+C[Jumping to Black 7 is also a strong move. ]
+;W[gg];B[ei];W[jj];B[ik];W[ji];B[oe]
+C[Here too, Black exchanges 13 ... ]
+;W[rb]
+C[... for 14, ... ]
+;B[lj]
+LB[ij:1]
+C[... then starts to map out his moyo with 15, while keeping the white stones under attack. See Problem 135 for another response to the cap of Black 1. <= ]
+))
+)

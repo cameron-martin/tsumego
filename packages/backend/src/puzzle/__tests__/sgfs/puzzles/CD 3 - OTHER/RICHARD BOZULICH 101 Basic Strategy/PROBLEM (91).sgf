@@ -1,0 +1,7 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[el][cn][dj][np][lq][pq][pd][en][dk][pk]AW[dc]
+[kc][ck][cl][dl][co][dp][fp][jp][lo]LB[dj:7][ck:6][dk:5][cl:2][dl:8][el:9][cn:1]
+[en:3][co:10][fp:4]C[Black to play. The sequence to Black 9 is a standard pattern. At this point White attaches with 10. Is this a forcing move? How should Black respond?]
+AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[cj];W[bn];B[ce]C[CORRECT Black should not answer White 10 in the problem diagram, Instead, he should seize the initiative by turning, White has to link up his three stones above, and Black can establish a position on the left side by approaching the top left corner.])
+(;B[dn];W[cj];B[di];W[ch]TR[co]LB[eg:A][cg:B]C[If Black connects, the marked stone has become a forcing move. If Black next plays A, White can play B, leaving White with a solid position on the left, while Black's stones are thin and vulnerable]))

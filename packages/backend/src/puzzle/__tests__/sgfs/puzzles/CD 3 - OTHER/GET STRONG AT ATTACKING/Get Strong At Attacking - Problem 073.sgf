@@ -1,0 +1,24 @@
+(;
+GM[1]
+SZ[19]
+AW[ec][dc][cd][cf][cg][qc][oc][re][qp][pq][np][on][om][pn][qn][rn][pl][nl][ml][mm][lj]
+AB[df][dg][dh][ed][fc][gd][mc][ne][pe][ep][jp][po][qo][rm][qm][pm][ol][ok][pk][nk][nm]
+C[Problem 73. Black to play.  
+
+All of White's groups are safe. What should Black do ? ]
+(;B[kg]
+TE[2]
+C[Correct Answer.  
+
+Since there is nothing to attack, now is a good time for Black to reinforce his moyo at the top with 1. Black can expect a large territory here. <= ]
+)
+(;B[mk]
+C[Failure.  
+
+In the game, Black cut trough with 1 ... ]
+;W[lk];B[ll]
+C[... and 3, hoping to isolate the white stones in the center and attack them. ]
+;W[kl];B[lm];W[mn];B[km]
+C[But the black stones became heavy and vulnerable. <= ]
+)
+)

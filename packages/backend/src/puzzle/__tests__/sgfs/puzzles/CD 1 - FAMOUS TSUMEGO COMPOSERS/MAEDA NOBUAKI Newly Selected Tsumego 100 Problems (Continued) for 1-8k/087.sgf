@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[jd][je][ie][he][hd][hc][hb][kc]AW[kf][if][hf][gf][ge][gd][gc][gb]
+[ib][ic][id][kd][le][lc][mc][jf]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[jc]MULTIGOGM[0]
+
+(;C[审题：空间不大，应该能够找出正解。]N[审题])
+(;B[ka]C[黑1跳下，既吃住白三子，又扩大眼位]N[正解];W[lb];B[kb]C[黑活。])
+(;B[ka]N[变化];W[ha];B[ia];W[ja];B[jb])
+(;B[jb]N[失败1];W[lb];B[ia];W[ic])
+(;B[lb]N[失败2];W[ha]C[黑死。]))

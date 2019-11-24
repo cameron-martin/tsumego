@@ -1,0 +1,22 @@
+(;
+GM[1]
+SZ[19]
+AW[bc][cc][dd][ed][gc][qj][oj][qn][pn][po][dp][cn][cj][dj]
+AB[kc][od][qd][qh][qo][qp][pq][op][jp][fq][fo][ch][cd][ce][ef]
+LB[eh:A][fo:B]
+C[Problem 107. White to play.  
+
+Instead of securing his stones at A, Black jumps to B. How should White attack the black stones on the left ? ]
+;W[dg]
+TE[2]
+C[Correct Answer.  
+
+White 1 is the vital point. ]
+;B[cg]
+C[If Black defends at 2, ... ]
+;W[df]
+C[... White plays 3 ... ]
+;B[de];W[ee]
+C[... and 5. and the black stones are in trouble. White is threatening to play A, but, if Black defends there, his stones will have a hard time making two eyes. <= ]
+)
+)

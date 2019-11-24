@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rb][rc][ob][oc]AW[qd][pd][od][nd][mc][mb][pa][rd]N[009]AP[MultiGo:4.4.4]
+SZ[19]AB[pc]MULTIGOGM[0]
+
+(;C[黑很容易就走死了。要做活，必须得动点脑筋。可以从各种失败图开始计算。]N[审题])
+(;B[qc]N[正解];W[sc];B[qa]LB[oa:A][sb:B]C[黑3时，白A则黑B，黑活。];W[sb];B[pb]C[黑活。])
+(;B[qc]N[变化];W[ra];B[sc];W[oa];B[qa]LB[na:A]C[黑5扑也可走A位];W[qb];B[na];W[nb]
+;B[pb];W[ma];B[sa]C[循环劫活。])
+(;B[qc]N[失败1];W[sc];B[sb];W[ra];B[oa];W[qb])
+(;B[oa]N[失败2];W[sc];B[sb];W[qb];B[qc];W[ra])
+(;B[sc]N[失败3];W[qc];B[qb];W[oa]))

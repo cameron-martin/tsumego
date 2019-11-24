@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[ic][jd][kd][ld][md][nd][od][pd][pc][qb][rc][ra][mc][ia]AW[pa][pb]
+[oc][nc][nb][mb][kc][kb][ja][qa]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[ib]MULTIGOGM[0]
+
+(;C[审题：不是很难的题目。黑棋组合了两个基本进攻手段。]N[审题])
+(;B[na]N[正解];W[ma];B[oa]C[黑1、3先手破眼];W[ob];B[ka]LB[la:A][lc:B][jb:C][lb:D]
+C[黑5是致命一击，白死。以下，白A则黑B，白C则黑D。])
+(;B[ka]N[失败];W[oa]))

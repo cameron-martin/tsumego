@@ -1,0 +1,16 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[mp][ms][qp][mn][qr][oo][po][ln][lq][ns][lp][qq][lr]GN[ ]AB[kr][ls][kp][ko][ks][kq][mq][mr]PM[1]C[Problem 200. Black to play.
+How does Black catch two white stones?]PW[ ]
+(
+;B[or]C[Correct Answer
+Black 1 is an example of a net on the edge of the board. The two white stones cannot escape.]
+)
+(
+;B[nr]C[Wrong Answer
+Black 1 fails...]
+;W[os]C[...]
+;B[or]C[...]
+;W[ps]C[...White runs away and links up with his other stones with the sequence to 4.]
+)
+
+)

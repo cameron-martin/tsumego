@@ -1,0 +1,114 @@
+(;
+AB[pd][dq][cq][fq][cn][dm][pq][qp][qo][qm]
+AW[dd][cm][dn][co][dp][en][qq][pp][po][qn]
+C[Black's response to the marked stone?
+
+Source:
+    "Go World", #31, Spring 1983, p. 30
+    Fujisawa Shuko  vs.  Cho Chikun, 7th Kisei Title Match, Game 1
+    Takagawa commentary.]
+TR[qn]
+(;
+B[pn]
+C[The usual move, but doesn't work
+out well in this position.];
+W[rn];
+B[rq];
+W[qr];
+B[ro]
+(;
+W[rm]
+(;
+B[oq];
+W[np];
+B[rr];
+W[ql];
+B[pm];
+W[pl];
+B[nm];
+W[op];
+B[ol];
+W[pj];
+B[ok];
+W[so];
+B[rp];
+W[nq];
+B[pr];
+W[or];
+B[qs];
+W[qh];
+B[kp];
+W[lo]
+C[A success for White.
+White occupies the valuable right side,
+while Black has to attack at the bottom,
+which is not worth much.]
+)
+    (;
+    B[pm]
+    C[Fails.];
+    W[so];
+    B[rp];
+    W[rr]
+    C[And the ladder against the two White
+stones is bad for Black.]
+    )
+)
+    (;
+    W[oq]
+    C[Inferior.];
+    B[rm];
+    W[on];
+    B[pm]
+    TR[fq]
+    C[Hopeless for White.
+White's thickness points toward
+Black's strong marked stone, while
+Black thickness works well with the
+stone in the upper right.]
+    )
+)
+    (;
+    B[rn]
+    C[This game line gives Black
+better prospects.]
+    (;
+    W[pn]
+    (;
+    B[oq]
+    C[The game continued ...];
+    W[rm];
+    B[ro];
+    W[ql];
+    B[rq]
+    )
+        (;
+        B[rp]
+        C[Joseki, but ...];
+        W[oq];
+        B[pr];
+        W[pm];
+        B[ql];
+        W[or];
+        B[qr];
+        W[pl];
+        B[pk];
+        W[ok];
+        B[pj];
+        W[oj];
+        B[pi];
+        W[hq]
+        LB[er:a]
+        C[White has this good extension
+from the wall, and aims at White A.]
+        )
+    )
+        (;
+        W[oq];
+        B[pn];
+        W[pr]
+        C[The ponnuki exchange is
+satisfactory for Black.]
+        )
+    )
+)

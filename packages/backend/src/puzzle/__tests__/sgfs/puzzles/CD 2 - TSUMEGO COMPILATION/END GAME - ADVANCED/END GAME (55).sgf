@@ -1,0 +1,40 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ac][bc][bf][bh][cc][cf][ch][dd][de][df][dg]
+AW[ab][ai][bb][be][bi][cb][ce][ci][dc][dh][ec][ed][ee][eg][ei][ff]PL[W]C[White to play.
+
+Endgame moves - Threaten the Opponent's Stones
+
+Source: Guan-Zhi-Pu.]
+(
+;W[af]
+(
+;B[ag]
+;W[ae]
+;B[cd]
+;W[bg]
+;B[cg]
+;W[ah]
+;B[bg]
+;W[ef]C[RIGHT
+Both Alive])
+(
+;B[cd]
+;W[ah]
+;B[ae]
+;W[bg]
+;B[bd]))
+(
+;W[ae]
+;B[cd]
+(
+;W[af]
+(
+;B[bg]C[Eye kill Blind])
+(
+;B[ag]
+;W[bg]
+;B[cg]
+;W[ah]))
+(
+;W[bg]
+;B[ah])))

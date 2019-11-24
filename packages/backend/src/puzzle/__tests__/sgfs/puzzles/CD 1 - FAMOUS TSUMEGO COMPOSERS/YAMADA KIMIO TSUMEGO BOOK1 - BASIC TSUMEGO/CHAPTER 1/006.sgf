@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[qc][rd]AW[re][qf][pe][pd][pc][nc]N[006]AP[MultiGo:4.4.4]SZ[19]AB[qd]
+MULTIGOGM[0]
+
+(;C[基本死活。黑做活的手法也是基本功。]N[审题])
+(;B[rb]N[正解];W[pb];B[sc])
+(;B[rb]N[变化];W[sc];B[pb];W[ob];B[pa];W[sd];B[sb])
+(;B[pb]N[失败];W[ob];B[rb]C[黑1扳时，如果白外围比较强，白2甚至可以走3位，强硬杀黑。]
+;W[pa];B[qa]C[劫。]))

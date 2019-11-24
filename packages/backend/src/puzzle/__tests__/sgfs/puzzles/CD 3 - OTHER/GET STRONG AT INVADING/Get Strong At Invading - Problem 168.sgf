@@ -1,0 +1,76 @@
+(;
+GM[1]
+SZ[19]
+AW[ec][eb][dc][dd][fd][de][ck][qq][pq][nq][nr][pb][nc][ld][kd][ke][dq]
+AB[cb][db][cc][cd][fc][cf][lq][mo][pp][op][qp][pj][pd][pf][jf][kf][le][me]
+LB[jf:7][kd:6][kf:5][ke:4][le:3][ld:2][me:1]
+C[Problem 168. White to play.  
+
+This position is taken from a game played between Takemiya (Black) and Otake. Takemiya likes to map out big moyos and that is what he has done here. Where do you think Otake should play ? ]
+(;W[kk]
+LB[pn:C][mp:B][ko:A]
+TR[ki][ll][mo][jf]
+
+TE[2]
+C[Correct Answer.  
+
+We have marked another line for your convenience. If you were Otake, would you have entered into the black moyo as far as White 1 ?  
+
+Black has a lot of weak point at A, B, and C, so you want to play within striking distance of these points. This is why Otake decided to play at 1. ]
+(;B[mk]
+C[Takemiya was concerned about an invasion. If he played 2, ... ]
+;W[qh]
+C[... the invasion at 3 would be very disconcerting. <= ]
+)
+(;B[ik]
+C[If Black played a capping move with 2, however, ... ]
+;W[km]
+C[... White would jump to 3. Black has no follow-up, so the game would be easy for White. <= ]
+)
+(;B[do]
+C[How the game continued.  
+
+Black switched from the center to the lower left with 2 and ... ]
+;W[fp];B[dl];W[cl];B[dm];W[ej];B[cq];W[cr];B[cp];W[er];B[cm]
+C[... played the moves to 12. ]
+;W[ch]
+C[After exchanging 13 ... ]
+;B[cg]
+C[... for 14, ... ]
+;W[nj]
+C[... White came back to the right and played 15. It is hard to say which side has the advantage. <= ]
+))
+(;W[lk]
+TR[ll][ki]
+C[Failure.  
+
+A deep invasion with White 1 cannot be dismissed, but ... ]
+;B[jk]
+C[... the cap of Black 2 could be troublesome. White's stone would probably live, but with Black's thickness above it, it would be hard for White to gain any advantage. <= ]
+)
+(;W[jk]
+TR[ll][ki]
+C[Failure.  
+
+White 1 is not a good erasing move. ]
+;B[lk]
+LB[qj:B][qh:A]
+C[Black would answer with 2. There may still be an invasion at A, but Black would defend at B and get a lot of territory below. <= ]
+)
+(;W[kj]
+TR[ll][ki]
+C[Failure.  
+
+White 1 is too near the thick black wall above, so it cannot be very good. ]
+;B[do]
+C[For the time being, Black would play at 2, just as in the actual game. <= ]
+)
+(;W[do]
+C[Failure.  
+
+White 1 ... ]
+;B[jk]
+TR[ll][ki]
+C[... lets Black perfect his moyo with 2. White will make some intrusion into it, but Black can expect a large territory around here when the game is over. = ]
+)
+)

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[mb][qc][qd][pd][od][nc]AW[kc][lb][mc][md][ne][oe][pe][qe][rd][rc]
+[rb][pc]N[003]AP[MultiGo:4.4.4]SZ[19]AB[ob]MULTIGOGM[0]
+
+(;TR[pc]C[黑既要在边上做出一眼，又要阻止白一子回家。]N[审题])
+(;B[na]N[正解];W[pb];B[qb];W[qa];B[pa];W[oa];B[oc])
+(;B[na]N[变化];W[la];B[pa]C[从官子角度考虑，这是双方最佳进行。])
+(;B[ma]N[失败1];W[pb];B[qb];W[qa];B[pa];W[oa])
+(;B[qb]N[失败2];W[ma];B[na]))

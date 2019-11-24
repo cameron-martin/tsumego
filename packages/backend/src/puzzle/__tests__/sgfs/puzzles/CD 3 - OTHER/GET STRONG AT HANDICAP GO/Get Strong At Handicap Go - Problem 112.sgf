@@ -1,0 +1,50 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][kc][nb][qf][ql][cn][bl][ck][dk][ej]
+AB[dp][pd][pp][dd][db][df][hc][nd][qn][fp][bk][cj][bi]
+LB[nb:1]
+C[Problem 112. Black to play.  
+
+White slides to 1, hoping to uproot the two black stones in the upper right corner. How should Black respond ? ]
+(;B[qd]
+TE[2]
+C[Correct Answer.  
+
+Black 1 forces White... ]
+;W[pi]
+C[... to reinforce the right with 2. ]
+;B[oc]
+C[Next, Black defends the corner with 3. Black is happy with this result because he has stabilised his stones in the corner and the white stones at the top are still unsettled. <= ]
+)
+(;B[pi]
+C[Variation.  
+
+Invading with Black 1 is also a strong move. ]
+;W[qd]
+C[White makes sabaki by attaching at 2. ]
+;B[qc];W[pc];B[oc];W[pb];B[qe];W[rd];B[ob];W[pe];B[od];W[qb]
+LB[re:B][rc:A]
+C[After White 12, the points A and B are miai. ]
+;B[rc]
+C[If Black 13, ... ]
+(;W[re]
+C[... White can capture at 14. <= ]
+)
+(;B[pc]
+C[How the game continued.  
+
+Black 1 didn't put pressure on the right side, so ... ]
+;W[rd]
+C[... White could strengthen her stones there with 2 ... ]
+;B[rc];W[qd];B[qc];W[ph]
+C[... to 6. Compared with the Correct Answer, the territory Black got in the corner was smaller and White's stones at the top had more flexibility to withstand an attack. <= ]
+)
+(;W[rb]
+C[White can also take two stones in the corner, ... ]
+;B[re]
+C[... letting Black play 15 ... ]
+;W[sc];B[rf]
+C[... and 17. <= ]
+))
+)

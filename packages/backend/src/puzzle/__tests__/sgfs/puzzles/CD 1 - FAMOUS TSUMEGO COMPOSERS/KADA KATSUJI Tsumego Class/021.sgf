@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[iq][ir][ep][dp][dr][cq][cp][bo][ao][gr][gq]AW[br][cr][dq][eq][fr]
+[gs][hr][ap]C[A]N[021]AP[MultiGo:4.4.4]SZ[19]AB[gp]MULTIGOGM[0]
+
+(;LB[ds:A]C[白走到A位很容易就活了，因此黑A是第一感，啊，这还是黑的先手，有谱了。
+
+
+难度：A]
+N[审题])
+(;B[ds]N[正解];W[cs];B[ar];W[as];B[bs]C[劫杀正解。])
+(;B[ds]N[变化1];W[cs];B[ar];W[as];B[bs];W[bq]C[白如果不想打劫，试图净活的话……]
+;B[bp];W[as];B[aq];W[ap];B[aq];W[er];B[ap]C[白死。])
+(;B[ds]N[变化2];W[cs];B[ar];W[bq];B[bp];W[as];B[aq];W[ap];B[aq];W[er];B[ap]C[这与变化1没有本质不同。])
+(;B[ds]N[变化2];W[er];B[ar];W[aq];B[bq];W[as];B[cs]))

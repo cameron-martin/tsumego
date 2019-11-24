@@ -1,0 +1,58 @@
+(;
+GM[1]
+SZ[19]
+AW[ef][dg][hd][hb][hf][nc][nd][cn]
+AB[jp][jd][pj][dj][dp][pd][pp][dd][fd][eg][oc][jf][pf][dm][fp]
+TR[ef]
+C[Problem 33. Black to play.  
+
+How should Black respond to the marked white stone ? ]
+(;B[df]
+TE[2]
+C[Correct Answer.  
+
+Black is strong around here, so he shouldn't be afraid to crosscut with 1. ]
+;W[ff]
+C[White extends towards her stones at the top with 2 and ... ]
+;B[cf]
+C[... Black descends to 3. ]
+;W[dh]
+C[Since the ladder is unfavourable for White, she must extend to 4. ]
+;B[fg];W[ei];B[gg];W[gf];B[gi]
+C[After Black 9, White finds her three stones on the left under attack. ]
+)
+(;B[ff]
+C[Variation.  
+
+Black could also hane at 1. ]
+;W[fg]
+C[White ataris with 2 ... ]
+;B[eh];W[fe]
+C[... and 4, but ... ]
+;B[ee]
+C[... Black 5 is a double atari. ]
+;W[gf]
+C[White captures with 6, ... ]
+;B[df];W[ff]
+LB[df:7]
+C[... then connects with 8 in answer to Black 7. ]
+;B[cf]
+LB[dh:B][ei:A]
+C[Black descends to 9 and has secured the territory there. If White A, Black will simply secure the white stone with B. <= ]
+)
+(;B[cf]
+C[How the game continued.  
+
+Black 1 was a bad move. ]
+;W[df]
+C[It induced White to connect with 2, rendering the lone black stone useless. ]
+;B[ce];W[cg]
+C[White got a thick position on the outside, ... ]
+;B[fb]
+C[... while Black took the corner territory. ]
+;W[ec]
+C[White exchanged 6 ... ]
+;B[dc]
+C[... for Black 7 to leave some aji behind. <= ]
+)
+)

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[nc][nb][ma][qb][qc][qd][pd][od]AW[lb][mb][mc][md][me][ne][oe][pe]
+[qe][rd][rc][rb]N[012]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;C[边上死活基本形。掌握是基本功。]N[审题])
+(;B[ob]TR[ma]C[黑在有扳的一方曲是要领]N[正解];W[na];B[pc];W[pa];B[qa]C[黑活。])
+(;B[ob]N[变化];W[pc];B[na];W[pa];B[qa];W[pb]C[选择本图还是正解图，由白棋决定。])
+(;B[qa]N[失败1];W[na])
+(;B[pb]N[失败2];W[qa]))

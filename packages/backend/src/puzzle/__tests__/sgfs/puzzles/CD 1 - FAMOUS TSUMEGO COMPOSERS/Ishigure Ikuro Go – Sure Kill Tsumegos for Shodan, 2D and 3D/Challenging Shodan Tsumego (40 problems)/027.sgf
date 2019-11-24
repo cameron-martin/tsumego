@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qp][qn][pn][on][nn][mn][mo][mp][mq][nq][ms][rr][rq]AW[no][oo][po]
+[pp][np][oq][pq][qr][rs][os]N[027]AP[MultiGo:4.4.4]SZ[19]AB[qq]MULTIGOGM[0]
+
+(;C[怎么看都像打劫杀啊。坚持一下，再计算一下……]N[审题])
+(;B[qs]LB[pr:A][nr:B]C[黑1扑时，白A则黑B，白死]N[正解];W[ps];B[or]C[黑1扑、3挖是次序]
+;W[nr];B[ns]C[白死。])
+(;B[pr]LB[qs:A][or:B][nr:C][ns:D]C[黑1打时，白不能A位接。那样的话，黑B、白C、黑D，白死。]
+N[失败1];W[ps]C[劫杀。])
+(;B[or]N[失败2];W[nr];B[ns];W[pr];B[mr];W[qs]C[劫杀。]))

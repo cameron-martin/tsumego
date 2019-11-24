@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[qe][re][pa][pb][pc]AW[rd][sd][qc][qb][rb]N[黑先]AP[MultiGo:4.4.4]
+SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[审题：空间很小，所以容易计算。]N[审题])
+(;B[sb]N[正解];W[qa];B[se];W[sa]C[白棋扑劫，轮到黑提劫，所以这是黑的先手劫。而且，黑棋劫胜，一手就消劫，所以是紧劫。])
+(;B[ra]N[失败];W[qa];B[sb];W[sa]C[这是白的先手劫，黑进攻失败。]))

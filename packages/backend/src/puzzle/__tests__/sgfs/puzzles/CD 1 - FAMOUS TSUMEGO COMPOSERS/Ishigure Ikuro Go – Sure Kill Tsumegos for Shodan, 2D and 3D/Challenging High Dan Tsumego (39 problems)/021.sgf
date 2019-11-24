@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[ko][ln][mn][nn][on][oq][op][pp][qp][rq][rr][kr][lr][kq]AW[qr][pq]
+[or][mr][mq][lq][lp][lo][no][mo][np]N[021]AP[MultiGo:4.4.4]SZ[19]AB[kp]MULTIGOGM[0]
+
+(;C[只能从下边动手，失败图容易得到。]N[审题])
+(;B[qs]N[正解];W[ps];B[qq];W[rs];B[pr]C[劫杀正解。这是紧劫。])
+(;B[qs]N[变化];W[nq];B[ps];W[os];B[ms])
+(;B[ps]N[失败];W[qs]LB[pr:A][nr:B]C[白2挡后，黑走A或B位，白都要活，可自行演算。]))

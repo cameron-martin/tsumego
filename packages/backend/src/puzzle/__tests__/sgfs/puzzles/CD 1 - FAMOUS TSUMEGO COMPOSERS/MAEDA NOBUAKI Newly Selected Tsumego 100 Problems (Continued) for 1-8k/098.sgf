@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ke][kf][jf][if][nb][nc][mc][lc][gb][ib][ic][id][fc][fd][fe][kd][hf]
+AW[jd][jc][jb][kc][ka][lb][ie][he][ge][gd][gc][ff][mb][je]N[黑先]AP[MultiGo:4.4.4]
+SZ[19]AB[gf]MULTIGOGM[0]
+
+(;C[审题：黑棋要注意自身的缺陷]N[审题])
+(;B[ia]N[正解];W[ja];B[ma];W[fb];B[eb];W[hb];B[ga])
+(;B[ma]N[失败];W[hb]LB[fb:A]C[黑棋从另一侧动手，白2一挖，黑棋麻烦了。最不济白棋还可以打劫。
+白棋甚至可以考虑走A位，但这需要考虑外部的情况。]
+;B[hc];W[ia];B[ha];W[hd]))

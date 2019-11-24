@@ -1,0 +1,54 @@
+(;
+GM[1]
+SZ[19]
+AW[ci][cn][md][mg][db][fc][hd][cb][en][mi][dk]
+AB[dp][pd][pp][dd][cc][df][fp][jd][jf][jh][pf][bb][gn][dl]
+LB[dl:1][dk:2]
+C[Problem 124. Black to play.  
+
+The game in Problem 120 continued with the exchange of Black 1 for White 2. What should Black do next ? ]
+(;B[ck]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a strong move. ]
+;W[ek]
+C[If White extends to 2, ... ]
+;B[cj];W[di];B[el];W[fl];B[cm]
+C[... Black makes shape with the sequence to 7. ]
+(;W[bn]
+C[If White 8, ... ]
+;B[fm]
+C[... Black hanes at 9, splitting the white stones above from the ones below. <= ]
+)
+(;W[fm]
+C[If White 8 here, ... ]
+;B[co]
+C[... Black links up with 9. <= ]
+)
+(;W[cp]
+TR[cm]
+C[Continuation.  
+
+After Black played the marked stone, White might make sabaki with 8, but ... ]
+;B[fm];W[em];B[bn];W[bo];B[dj];W[ej];B[bm];W[do];B[fk];W[gl];B[ei];W[fj];B[gk];W[hl];B[bi];W[fi];B[eh]
+C[... Black secures a large territory on the left with the sequence to 18, ... ]
+;W[hj];B[dq];W[cq];B[ip]
+LB[dq:27]
+C[... then secures some more stones at the bottom with 27 and 29. <= ]
+))
+(;B[el]
+C[How the game continued.  
+
+Black 1 revealed a negative attitude. ]
+;W[cl];B[ck];W[bk];B[cm];W[bl];B[dm];W[bm]
+C[White was able to link up her stones on the left and take some profit with the sequence to 8. ]
+;B[dn]
+C[If Black were to play at 9 after this, ... ]
+;W[co]
+LB[do:A]
+C[... White would extend to 10 ant threaten to push in at A. ]
+;B[do]
+C[Therefore, Black would defend there and White would wrest the corner away from Black. <= ]
+)
+)

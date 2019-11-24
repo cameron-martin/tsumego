@@ -1,0 +1,52 @@
+(;
+AB[cd][cf][ch][hd][dp][do][nc][pd][op]
+AW[ed][ef][eh][cq][cp][er][qj][qp][oq]
+C[Black's response the marked White move?
+
+Source:
+    Go World #34, Winter 1983-84, p. 26
+    Awaji Shuzo  vs.  Otake Hideo
+    8th Gosei Title
+    Awaji's commentary.]
+TR[oq]
+(;
+B[pp]
+C[Correct.];
+W[pq];
+B[qo];
+W[nq];
+B[qh]
+C[And Black can switch to the top to
+get the jump on White.]
+(;
+W[oj];
+B[rp];
+W[qq];
+B[pn]
+C[And Black's lower right group
+does not have to worry about
+coming under attack.]
+)
+    (;
+    W[rp]
+    C[If White ignores Black's approach, ...];
+    B[oi]
+    LB[oj:a]
+    C[Black can proceed here or at A.]
+    )
+)
+    (;
+    B[nq]
+    C[Wrong.
+
+Locally joseki, but works poorly here. ];
+    W[pq];
+    B[np];
+    W[po];
+    B[jq]
+    TR[er]
+    C[And White's marked stone is
+perfectly placed to destroy any
+Black plans in this area.]
+    )
+)

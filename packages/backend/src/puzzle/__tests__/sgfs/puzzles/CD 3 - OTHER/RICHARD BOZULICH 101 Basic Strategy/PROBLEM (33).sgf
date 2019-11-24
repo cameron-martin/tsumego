@@ -1,0 +1,11 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[qd][pf][bp][cn][ck][pq][oq][mq][qm]AW[dd][cf]
+[kc][oc][dp][cq][fq][op][np][qo]C[Black to play. How should Black strenghten his position on the right side?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[on];W[pp];B[qq];W[mp];B[lq];W[mn]
+(;B[pj]C[CORRECT Black should attack the three white stones below with the forcing move. In order to prevent his stones from being split, White must protect, but these moves induce Black to secure his position at the bottom right. After White jumps, Black extends to the side, staking out territory on the right side.])
+(;B[nl]C[CORRECT If Black wants to attack White's heavy stones while creating a moyo, this move works well with his strategy.]))
+(;B[pj];W[qq]
+(;B[nq];W[qp];B[jq]C[Playing on the side star point is passive. White can now secure his stones in sente, because Black must protect his stones with the jump.])
+(;B[pp];W[po];B[qp];W[nq];B[nr];W[mr];B[or];W[lq]C[Getting confined in the corner like this can't possibly be good for Black.]))
+(;B[ch];W[qq];B[nq];W[qp]LB[kq:A][pj:B]C[Playing on the left is not urgent. After this sequence White can attack at A or B.]))

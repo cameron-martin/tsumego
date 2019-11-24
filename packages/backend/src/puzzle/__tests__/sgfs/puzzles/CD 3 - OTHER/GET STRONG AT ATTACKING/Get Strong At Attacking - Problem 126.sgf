@@ -1,0 +1,51 @@
+(;
+GM[1]
+SZ[19]
+AW[eb][dc][cd][df][gd][pb][ob][nc][kc][of][qf][rf][pg][ph][qi][qn][rp][bq][dq][dp][ep][er][cn][cm][dl][dk][fk][hk][jk]
+AB[ec][gc][hd][ge][fe][qb][qc][ke][nf][og][pf][pe][pd][qe][pp][nq][eq][gp][fp][eo][do][co][bo][di][fi][dm][em][hm][jm]
+TR[rp]
+C[Problem 126. Black to play.  
+
+White slides into the corner with the marked stone. What should Black do ? ]
+(;B[om]
+LB[qm:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black jumps all the way out with 1, aiming at A. ]
+;W[pl]
+C[White defends with 2 and ... ]
+;B[ol]
+C[... Black pushes with 3, ... ]
+;W[pk]
+C[... forcing White to extend to 4. ]
+;B[gj];W[gk];B[ij];W[ik]
+(;B[ki]
+C[Black now attacks with the sequence to 9. The white stones on the left are in a pinch. Next ... ]
+;W[ci]
+C[White has to make eye shape for her stones. She does this by playing at 10 and ... ]
+;B[ch];W[bi];B[bh];W[dj];B[dh];W[bk]
+LB[fb:A]
+C[... playing the sequence to 16. Black ends in sente, and the moyo and territory he has built below and above are enough to win. Next, Black can attack the white stones in the upper left corner by playing A in sente. If Black becomes thick around here, it could affect the white stones in the upper right. <= ]
+)
+(;B[cj]
+C[Failure.  
+
+Attacking White's eye shape with Black 9 is not good. ]
+;W[ki]
+C[White can take the vital point of 2 and Black won't be able to make much territory at the top. <= ]
+))
+(;B[pn]
+C[Failure.  
+
+Black 1 ... ]
+;W[pm];B[on]
+C[... and 3 are not good because ... ]
+;W[pl];B[gj];W[gk];B[ij];W[ik];B[nl]
+C[... Black ends in gote with 9. ]
+;W[ki]
+LB[ci:A]
+C[White can now play 10. In this variation, White still has the option to attach at A. <= ]
+)
+)

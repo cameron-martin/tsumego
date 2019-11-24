@@ -1,0 +1,61 @@
+(;
+GM[1]
+SZ[19]
+AW[de][dc][rd][qf][qi][nq][np][jp][jq][iq][fq][cn][cp][cq][cr][dr][ql]
+AB[dp][pd][pp][jc][nd][qc][qn][oq][ip][hp][hq][eq][er][dq][do][cg][cj][gc]
+LB[jo:A]
+TR[gc][cg]
+C[Problem 162. Black to play.  
+
+Playing Black A, as in the Correct Answer to Problem 158, is best. However, with the marked stones in place, the two white stones in the upper left are vulnerable. If Black wants to attack them, what is the best way to do so ? ]
+(;B[cd]
+TE[2]
+C[Correct Answer.  
+
+The peep of Black 1 is the vital point. ]
+(;W[dd]
+C[If White connects with 2, ... ]
+;B[ce]
+C[... Black links up with 3 and ... ]
+;W[cc]
+C[... White must settle her stones with 4. ]
+;B[jo]
+C[Next, Black can hane at 5. <= ]
+)
+(;W[ce]
+C[Variation.  
+
+If White blocks with 2, ... ]
+;B[be];W[bf];B[bd];W[cf];B[dd];W[ed];B[ec]
+C[... Black cuts through with the sequence to 9. ]
+;W[cc]
+C[If White resists with 10 ... ]
+;B[bc];W[bb]
+C[... and 12, ... ]
+;B[ee]
+C[... Black forces with 13, ... ]
+;W[fd];B[bg]
+C[... 15, ... ]
+;W[af];B[fe]
+C[... and 17. ]
+;W[gd];B[df]
+C[After Black 19, the ladder starting with ... ]
+;W[ef]
+C[... White 20 - ... ]
+;B[dg]
+C[... Black 21 - ... ]
+;W[ge]
+C[... White 22 is unfavourable for  White, so her position collapses. <= ]
+))
+(;B[be]
+C[How the game continued.  
+
+Black slid to 1 and ... ]
+;W[cd];B[bd]
+C[... crawled to 3. Compared with the Correct Answer, Black did not get as much territory, so he doesn't get full marks for these moves. ]
+;W[bc];B[cl]
+C[Next, the exchange of Black 5 ... ]
+;W[cm]
+C[... for White 6 was bad for Black because it induced White to play 6, which strengthened her corner and diminished Black's influence in the center. See Problem 165. ]
+)
+)

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[re][pe][pf][of][nf][mf][md][lc][lb][ma][sb][rc]AW[mb][nb][nd][ne]
+[oe][pd][pc][qc][qb][rb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[审题：白棋棋形有缺陷，看准了，给与致命一击。]N[审题])
+(;B[ob]N[正解];W[na];B[nc]C[白死。黑1处是形的急所。])
+(;B[nc]N[失败1];W[ob])
+(;B[na]N[失败2];W[ob]))

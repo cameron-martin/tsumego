@@ -1,0 +1,39 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ce][cf][cg][dc][dd][fh][fi][gc][gd][gg][he][hf][ic]
+AW[ch][df][dh][dk][ec][ee][eh][fc][fg][ge][gf]PL[B]C[Black to play.
+
+Attack - Cut
+
+Source: Gokyo Shumyo.]
+(
+;B[fe]
+(
+;W[ff]
+;B[eg]
+;W[dg]
+;B[ef]
+;W[de]
+;B[ed]C[RIGHT
+])
+(
+;W[ed]
+;B[ef]
+;W[eg]
+;B[ff]
+;W[dg]
+;B[de]C[RIGHT
+]))
+(
+;B[ff]
+;W[fe]
+;B[eg]
+;W[dg])
+(
+;B[dg]
+;W[eg])
+(
+;B[fd]
+;W[ed])
+(
+;B[ed]
+;W[fd]))

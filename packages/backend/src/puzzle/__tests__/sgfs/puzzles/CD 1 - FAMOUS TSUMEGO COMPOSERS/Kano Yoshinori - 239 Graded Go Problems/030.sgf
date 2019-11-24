@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 30. Black to play.
+How can Black give double atari?]AW[jj][lj][hh][kk][ii][gh]PB[ ]PM[1]PW[ ]AB[jl][jk][hj][hi][ij]
+(
+;B[ji]C[Correct Answer
+Black 1 here is also double atari. One of the two threatened white stones will be captured.]
+)
+(
+;B[ih]C[Wrong Answer
+If Black plays atari with 1...]
+;C[...White connects at 2 and cannot be captured.]W[ji]
+)
+
+)

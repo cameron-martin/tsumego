@@ -1,0 +1,25 @@
+(;
+GM[1]
+SZ[19]
+AW[ch][jc][lc][pc][qc][qe][qf]
+AB[dc][cf][hc][nc][pb][pe]
+LB[qc:2][pb:1]
+C[Problem 88. Black to play.  
+
+White draws back with 2 in answer to Black 1. How does Black play next ? ]
+(;B[ne]
+LB[oc:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black should make shape by jumping to 1. If Black gets to play at A later, he will have made a wonderful shape. <= ]
+)
+(;B[oc]
+C[Failure.  
+
+If Black rushes to play 1, ... ]
+;W[ne]
+C[... White strikes at 2. Clearly, this is the vital point of the whole position. <= ]
+)
+)

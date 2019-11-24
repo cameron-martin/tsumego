@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[ne][mf][ng][og][pg][qg][qf][rf][sf][ra][qb][pb][oc][nb]AW[rb][sb]
+[qc][pc][od][oe][of][qe][re]N[019]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;TR[sf]C[白气紧，而且黑有硬腿。]N[审题])
+(;B[rc]N[正解];W[rd];B[pd];W[qd];B[sd]C[白死。])
+(;B[rc]N[变化1];W[rd];B[pd];W[sc];B[se];W[sd];B[pe])
+(;B[rc]N[变化2];W[sd];B[pf];W[pe];B[qd];W[pd];B[rd])
+(;B[se]N[失败1];W[sd];B[rd];W[rc]C[劫。])
+(;B[rd]N[失败2];W[sd])
+(;B[pe]N[失败3];W[sd]C[白2是防守的好手。]))

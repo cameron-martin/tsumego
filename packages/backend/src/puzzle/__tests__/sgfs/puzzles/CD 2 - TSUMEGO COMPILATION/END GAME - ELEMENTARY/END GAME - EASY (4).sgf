@@ -1,0 +1,33 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ad][bc][be][cc][ce][dc][ed][fc]
+AW[bd][cd][cf][cg][ck][dd][de][di][ef]PL[B]C[Black to play.
+
+Endgame moves - Invade]
+(
+;B[ag]
+;W[af]
+;B[bf]
+;W[bg]
+;B[ae]
+;W[bh]C[RIGHT
+])
+(
+;B[af]
+(
+;W[bh]
+;B[ah]
+;W[ai]
+;B[ag]
+;W[bj]C[RIGHT
+Black More Ko's material])
+(
+;W[ag]
+;B[bg]
+;W[bf]
+;B[ah]
+;W[bh]
+;B[bi]C[Ko Fight]))
+(
+;B[bf]
+;W[bg]
+;B[ae]))

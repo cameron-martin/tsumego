@@ -1,0 +1,36 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dj][dp][pf][md][nc][oc][qb]
+AB[jp][jd][pd][pe][nd][ne][pj][pp]
+C[Problem 30. Black to play.  
+
+Black has made a sanren-sei on the right side and occupied both star points in the middle of the upper and lower sides. What is Black's best move in this position ? ]
+(;B[me]
+TR[jd]
+
+TE[2]
+C[Correct Answer.  
+
+Black should push along the fifth line, forcing White in the direction of the marked stone. All of Black's stones are now working together harmoniously. ]
+;W[ld]
+C[If White 2, ... ]
+;B[le]
+C[... Black continues to press White with 3. ]
+;W[nq]
+C[If White next approaches with 4, ... ]
+;B[no]
+LB[kd:C][mb:B][lb:A]
+C[... Black 5 builds a magnificent moyo on the right side . Moreover, Black still threatens White with the sequence Black A - White B - Black C. <= ]
+)
+(;B[np]
+C[Failure.  
+
+If Black plays somewhere else, such as at 1, ... ]
+;W[me]
+C[... White will seize the initiative at the top with 2 ... ]
+;B[og];W[gd]
+TR[jd]
+C[... and 4. The marked black stone is now under a severe attack. <= ]
+)
+)

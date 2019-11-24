@@ -1,0 +1,39 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cn][en][fn][gn][in][eo][ho][ep][hp][dq][hq][dr][hr]AB[dl][fl][cm][gm][hm][bn][hn][fo][go][cp][dp][fp][cq][eq][gq][er]TR[fo][go][fp]C[Ex. 12 - Semeai 
+
+If W can just capture the 3 marked stones his group in the centre will live.
+If B keeps calm ko will be the correct answer.]PL[W]
+;W[ds]LB[ds:1]C[Diag. 1 - Correct
+
+To state the conclusion first, W 1 sagari is correct ]
+(;B[fq]LB[fq:2][ds:1]C[as is the reply of B2 tsugi. ]
+;W[es]LB[fq:2][ds:1][es:3]C[If, after W3, ]
+;B[fs]LB[fq:2][ds:1][es:3][fs:4]C[B 4 ]
+;W[gs]LB[fq:2][ds:1][es:3][fs:4][gs:5]C[W 5 ate, ]
+;B[gr]LB[fq:2][gr:6][ds:1][es:3][fs:4][gs:5]C[ B persists with 6 it is ko.])
+(;B[es]LB[ds:1][es:2]C[Diag. 2 - Variation
+
+If B 2 osae in reply to W1 sagari, ]
+;W[fq]LB[fq:3][ds:1][es:2]C[after the horikomi W 3 ]
+;B[fr]LB[fr:4][ds:1][es:2]C[with the capture of W 3 ]
+;W[gp]LB[gp:5][fr:4][ds:1][es:2]C[and the ate of W 5]
+;B[fq]LB[gp:5][fq:6][fr:4][ds:1][es:2]C[B 6 connecting ]
+;W[gr]LB[gp:5][fq:6][fr:4][gr:7][ds:1][es:2][ss:3]C[Black has no successful way of connecting. The suji of W 1 sagari potentially sacrificing 3 stones skillfully brings him life. ])
+(;B[cr]LB[cr:2][ds:1]C[Diag. 3 - Variation
+
+What is W to do if B plays 2 after W1? 
+]
+;W[fs]LB[cr:2][ds:1][fs:3]C[The tobi 3 is correct. ]
+(;B[es]LB[cr:2][ds:1][es:4][fs:3]C[If W intercepts with 4,]
+;W[fq]LB[fq:5][cr:2][ds:1][es:4][fs:3]C[W sacrifices 5 ]
+;B[fr]LB[cr:2][fr:6][sr:5][ds:1][es:4][fs:3]C[then if B 6 ]
+;W[gp]LB[gp:7][cr:2][fr:6][ds:1][es:4][fs:3]C[ with the ate of 7 the centre group is again brought to life.])
+(;B[cs]LB[cr:2][cs:4][ds:1][fs:3]C[Diag. 4 - Variation
+
+If B 4 ate after B 2 and W 3 tobe, ]
+;W[es]LB[cr:2][cs:4][ds:1][es:5][fs:3]C[W 5 connects. ]
+;B[gs]LB[cr:2][cs:4][ds:1][es:5][fs:3][gs:6]C[After B 6 ]
+;W[fr]LB[cr:2][fr:7][cs:4][ds:1][es:5][fs:3][gs:6]C[W 7, it is impossible to capture the W group.
+From the variations in diagrams 2, 3 and 4 you will see that the tsugi of B 1 in diagram 1 is his strongest play.
+])))

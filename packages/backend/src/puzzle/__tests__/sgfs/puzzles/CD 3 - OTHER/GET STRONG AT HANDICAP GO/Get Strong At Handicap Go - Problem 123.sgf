@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[cm][dm][em][fm]
+AB[dp][pd][pp][dd][cn][dn][en][jj]
+LB[cn:2][dn:4][en:6][cm:3][dm:1][em:5][fm:7]
+C[Problem 123. Black to play.  
+
+White has extended to 7. Can Black ignore this move and play somewhere else, or does he have to defend ? ]
+(;B[cg]
+TE[2]
+C[Correct Answer.  
+
+Black's stones in the lower left are strong, so he should extend to 1, neutralising White's wall and limiting White's expansion to A. ]
+;W[fn]
+C[If White turns at 2, ... ]
+;B[fp]
+C[... Black defends the bottom with 3. <= ]
+)
+(;B[fp]
+C[How the game continued.  
+
+Black reinforces the bottom with 1, but ... ]
+;W[cf]
+LB[cq:A]
+C[... White 2 was an ideal extension. Black had invested a lot of stones at the bottom, but the territory there was not secure, since White could invade at A. <= ]
+)
+)

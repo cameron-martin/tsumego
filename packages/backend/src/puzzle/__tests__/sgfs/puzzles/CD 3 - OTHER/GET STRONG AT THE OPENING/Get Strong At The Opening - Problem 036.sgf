@@ -1,0 +1,32 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][oc][qo][pl][qi]
+AB[cp][pq][qd][pe][np]
+LB[qd:1][pe:7][oc:4][dc:2][pq:3][cp:5][qo:6][qi:8][np:9][pl:10]
+C[Problem 36. Black to play.  
+
+This is a game between Shusaku (Black) and his teacher Honinbo Shuwa. After White 10, where do you think Shusaku played ? ]
+;B[ce]
+LB[fq:B][eq:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black made an approach move at 1. It might seem that making a corner enclosure at A or B would also be good, but Black preferred to let White make an approach move there. ]
+(;W[eq]
+C[White's approach move.  
+
+Against White 2, ... ]
+;B[iq]
+TR[np]
+C[... the pincer of Black 3 makes an ideal extension from his marked stone on the right. <= ]
+)
+(;W[lq]
+C[Continuation.  
+
+In the Shuwa - Shusaku game, White played 2 and ... ]
+;B[fq]
+C[... Black made a corner enclosure with 3. <= ]
+)
+)

@@ -1,0 +1,46 @@
+(;
+GM[1]
+SZ[19]
+AW[gd][nc][mf][lp][mp][nq][mr][or][pq][qq][qn]
+AB[pj][dj][dp][pd][pp][dd][df][pf][qp][op][np][oq][no][mo][lo][jp]
+TR[mf]
+C[Problem 55. Black to play.  
+
+White has just played the marked stone with the dual intention of building a moyo at the top and reducing the scale of Black's moyo on the right. How should Black respond ? ]
+(;B[qj]
+TE[2]
+C[Correct Answer.  
+
+Black should reinforce his territory on the right with an 'iron pillar' at 1. ]
+;W[gf]
+C[If White jumps to 2, Black need not worry about White's moyo at the top. ]
+(;B[pb]
+LB[lc:A]
+C[Black can simply defend the corner with 3 and aim to invade the top at A. <= ]
+)
+(;B[mh]
+LB[pb:@]
+C[Variation.  
+
+Black 3 is an even stronger move than @. ]
+;W[qc]
+C[If White invades the corner with 4, ... ]
+;B[pc];W[pb];B[qd];W[rb];B[rc]
+C[... Black plays the sequence to 9, ending in sente. ]
+;W[qb];B[kh]
+C[He then jumps to 11 and builds a vast moyo in the center. <= ]
+))
+(;B[gf]
+C[How the game continued.  
+
+Capping with 1 was a good move, too, but ... ]
+;W[ph]
+C[... it let White start operations on the right with 2. ]
+;B[qj]
+C[Again, the 'iron pillar' of Black 3 is the key move. ]
+;W[nh]
+C[If White 4, ... ]
+;B[qh]
+C[... Black links up with 5. <= ]
+)
+)

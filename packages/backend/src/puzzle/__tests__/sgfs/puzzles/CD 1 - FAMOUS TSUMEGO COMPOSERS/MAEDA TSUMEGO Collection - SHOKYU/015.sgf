@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[rn][pp][oo][pq][or][os][ps][nq][rp][rl][sl][qm][qn]AW[sm][sn][so]
+[ro][qp][qq][qr][rq][pr][po]N[015]AP[MultiGo:4.4.4]SZ[19]AB[qo]MULTIGOGM[0]
+
+(;C[不难的死活题。
+
+难度：☆☆]N[审题])
+(;B[rs]N[正解];W[qs]C[黑1点，白2必挡];B[sq];W[sp];B[sr]C[白死。])
+(;B[sr]N[失败];W[sq]LB[qs:A][rs:B]C[以下，黑A则白B];B[rs];W[qs]C[白活。]))

@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[bd][cd][bc][dc][db][ec][fb][gc][hc][qf][nq][jp]
+AB[dp][pd][pp][dd][cc][be][ce][ed][fd][gd][fc][qj][pn][dj]
+LB[qf:1]
+C[Problem 151. Black to play.  
+
+White approaches with 1. Where should Black play next ? ]
+(;B[hq]
+TE[2]
+C[Correct Answer.  
+
+White's stone on the right side is outnumbered, so playing there is not urgent. Instead, Black should extend to 1, aiming to play the sequence Black A - White B - Black C - White D - Black E. The white stones at the bottom would then be in disarray. <= ]
+)
+(;B[qe]
+C[Failure.  
+
+Black 1 ... ]
+;W[pf];B[nc]
+C[... and 3 are good moves that attack the white stone on the right, but ... ]
+;W[cn]
+LB[hq:A]
+C[... White opens a new battlefield with 4. The fighting around will now be difficult, but, if Black had a stone at A, he would have a clear advantage. <= ]
+)
+)

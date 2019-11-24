@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[rq][qp][pp][oq]AW[op][np][mq][kq][po][qo][ro][rp]N[075]AP[MultiGo:4.4.4]
+SZ[19]AB[oo]MULTIGOGM[0]
+
+(;C[黑棋做活的方法是基本知识，应该掌握。
+
+难度：☆☆]N[审题])
+(;B[rr]C[并是防守的急所]N[正解];W[or];B[pr];W[nr];B[ps]C[黑活。])
+(;B[qr]LB[pq:A]C[白A位打，黑死。]N[失败1])
+(;B[nr]LB[rr:A]C[白A位夹，黑死。]N[失败2]))

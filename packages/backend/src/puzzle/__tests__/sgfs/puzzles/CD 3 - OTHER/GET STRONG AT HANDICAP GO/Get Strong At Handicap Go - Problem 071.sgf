@@ -1,0 +1,45 @@
+(;
+GM[1]
+SZ[19]
+AW[nc][nq][cq][dq][fq][cn][dm][hc][be][ed][db][eb][ec][fd][df][dh]
+AB[pj][dj][dp][pd][pp][dd][pf][qm][ip][co][dn][en][fc][cm][bd][ce][de][ee][fe][dc][cb]
+TR[dh]
+C[Problem 71. Black to play.  
+
+White has just played the marked stone (12 in Problem 67). How should Black respond ? ]
+(;B[ci]
+TE[2]
+C[Correct Answer.  
+
+Black 1 secures the lower left side and eliminates the bad aji there. It also deprives the three white stones in the upper left of a base, ... ]
+(;W[gh]
+C[... so White must escape into the center with 2. ]
+;B[bg]
+C[Next, Black slides to 3 and White no longer has any counterplay on the left side. It should now be an easy game for Black. <= ]
+)
+(;W[ch]
+C[If White 2 here, ... ]
+;B[fh]
+C[... Black caps with 3. <= ]
+))
+(;B[kd]
+C[How the game continued.  
+
+Black invaded the top with 2, ... ]
+;W[pc]
+C[... so White settled her stones in the upper right ... ]
+;B[qc];W[qb];B[qd];W[ob]
+C[... with the sequence to 6. ]
+;B[he]
+C[The black stone at the top was now vulnerable, so Black reached out to it with 7, a move which also affected the white stones in the upper left. ]
+;W[cj]
+C[White switched to the left side with 8 and ... ]
+(;B[ck];W[cl]
+TR[cn][dm]
+C[... the aji of the marked stones came to life when White ataried with 10. See Problem 75 for the continuation. <= ]
+)
+(;B[dk]
+LB[ck:@]
+C[Black 9 here, building a thick wall towards the center, would have been better than @. <= ]
+))
+)

@@ -1,0 +1,34 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bb][bd][bi][bj][cc][ch][ci][dc][eh][fc][ff][gc][gh][hd][hg][hi][if]
+AW[bc][be][bg][bh][bk][cd][ce][cj][ck][de][ee][ej][el][fe][ge][gf]PL[W]C[White to play.
+
+Attack - Cut]
+(
+;W[dh]
+;B[di]
+(
+;W[fh]
+;B[fi]
+;W[ei]
+(
+;B[eg]
+;W[dg]C[RIGHT
+])
+(
+;B[dg]
+;W[fg]C[RIGHT
+]))
+(
+;W[ei]
+;B[dg]))
+(
+;W[fh]
+;B[fi]
+;W[dh]
+;B[dg]
+;W[di]
+;B[cg]
+;W[eg]
+;B[ei]
+;W[dj]
+;B[ef]))

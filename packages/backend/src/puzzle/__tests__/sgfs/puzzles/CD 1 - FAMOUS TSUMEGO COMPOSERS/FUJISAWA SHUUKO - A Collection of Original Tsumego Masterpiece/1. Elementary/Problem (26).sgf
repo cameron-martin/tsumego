@@ -1,0 +1,7 @@
+(;AB[ra][rd][re][pd][od][nd][nc][nb][mb][oa]AW[qa][pa][ob][oc][pc][rc][qc]C[黑先
+
+做成丁四的次序。]
+SZ[19]
+
+(;B[qb]C[黑先白死]N[正解图];W[na];B[sb];W[sc];B[rb]C[黑1先打吃，然后再3尖是好次序，以下进行到黑5粘成丁字四。另外，要注意黑3如下在5位则是恶手，这样白3位扳就成双活。])
+(;B[sb]N[失败图1];W[sc];B[qb];W[rb];B[pb];W[pa];B[qa];W[sa]))

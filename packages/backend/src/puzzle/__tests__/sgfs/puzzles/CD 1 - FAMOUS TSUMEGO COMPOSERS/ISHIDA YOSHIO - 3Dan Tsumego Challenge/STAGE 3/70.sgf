@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[np][mp][lp][kq][jq][jr][js][qs][rr][rq][qq][pp]AW[kr][ls][lq][mq]
+[nq][nr][oq][pr][qr]C[70]N[70]AP[MultiGo:4.4.4]SZ[19]AB[op]MULTIGOGM[0]
+
+(;TR[qs][oq]C[第70题  白扩大眼位很好
+
+黑△扳，白▲扩大眼位也许是最强的应法。
+
+还是要走好次序，成劫争属失败。]
+N[审题])
+(;B[os]C[黑1点，这是眼形的急所]N[正解];W[ps]C[白2必然];B[ns]C[黑3爬，击中要害。]
+;W[ms];B[lr]C[黑5扑是计算好的手筋。
+
+什么时候扑，这一次序很重要。];W[mr];B[ks]
+C[白死。])
+(;B[os]N[变化];W[ps];B[ns];W[lr];B[pq];W[or];B[ms])
+(;B[lr]N[失败];W[os]C[黑1先扑不行，白2占据急所，活了。]))

@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[ic][bc][cd][ce][ch][cn][qn]
+AB[dp][pd][pp][dd][cc][cb][ec][kc][fp]
+LB[kc:1][qn:2]
+C[Problem 141. Black to play.  
+
+White doesn't answer Black's pincer at 1. Instead she makes an approach move in the lower right with 2. What should Black do ? ]
+(;B[de]
+TE[2]
+C[Correct Answer.  
+
+Just as in Problem 140, Black should press White with 1 ... ]
+;W[df];B[ef]
+C[... and 3. ]
+;W[dg]
+C[This time, however, Black is one move ahead at the top, so ... ]
+;B[je]
+C[... the white stone there will come under great pressure when Black plays the knight's move of 5. <= ]
+)
+(;B[nq]
+C[Failure.  
+
+Answering White's approach move with 1 loses the initiative at the top. ]
+;W[ef]
+TR[ic]
+C[White jumps to 2, taking the pressure off her marked stone. In an handicap game, Black must be more aggressive. When White plays her first move in the upper left corner, she is outnumbered, so Black should strive to keep his advantage at the top with a well-times pincer. <= ]
+)
+)

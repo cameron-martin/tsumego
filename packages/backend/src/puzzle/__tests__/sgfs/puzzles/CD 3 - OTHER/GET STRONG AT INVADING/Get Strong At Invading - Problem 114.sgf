@@ -1,0 +1,33 @@
+(;
+GM[1]
+SZ[19]
+AW[kc][od][qd][ld][bd][cf][ci]
+AB[cc][dd][fd][ic][mc]
+LB[ld:1]
+C[Problem 114. Black to play.  
+
+How does Black answer the diagonal move of White 1 ? ]
+(;B[pc]
+TE[2]
+C[Correct Answer.  
+
+Black hits the vital point of the one-space enclosure with 1, ... ]
+;W[qc];B[oc];W[pd];B[md];W[me];B[kb];W[jb];B[lb];W[jc]
+(;B[nb]
+C[... then lives with the moves to 11. <= ]
+)
+(;B[ib]
+LB[nb:@]
+C[Instead of @, Black could also play 11 here. <= ]
+))
+(;B[oc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a move for special situations. ]
+;W[pc]
+C[White answers with 2, ... ]
+;B[nd]
+C[... and Black expands with 3. <= ]
+)
+)

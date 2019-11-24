@@ -1,0 +1,68 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][fq][qn][qj][md][nc][oc]
+AB[dd][dj][cn][dp][pp][nq][pc][pd][nd][ne][pf]
+C[Problem 30. Black to play.  
+
+Black's position in the upper right is thick, while White's stones at the top are thin. How should Black attack ? ]
+(;B[kd]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the vital point in this position. Next ... ]
+(;W[me]
+C[Pushing up with 2 is only natural, but ... ]
+;B[mf]
+C[... Black blocks with 3, ... ]
+(;W[le]
+C[... forcing White to turn with 4. ]
+;B[lb]
+C[Next, Black peeps with 5 and ... ]
+;W[mc]
+TR[fc]
+C[... White's stones are left heavy and separated from the marked one on the left. White is in trouble. See Problem 136 for the continuation. <= ]
+)
+(;W[ke]
+C[Variation.  
+
+If White attaches at 4, ... ]
+;B[le]
+C[... Black will wedge in at 5. ]
+;W[ld];B[lf];W[kc];B[jd];W[jc];B[id];W[ic];B[hd];W[hc];B[gd]
+C[The sequence to 15 is inevitable. White has secured the top, but Black's thickness in the center is strategically overwhelming. <= ]
+))
+(;W[le]
+C[Variation.  
+
+The diagonal move of White 2 is another possibility. ]
+;B[lb]
+C[Again Black peeps with 3. ]
+;W[mc];B[ke]
+C[After exchanging 5 ... ]
+;W[lf]
+C[... for 6, ... ]
+;B[lh]
+TR[fc]
+C[... Black caps with 7. If the fight spreads to the left, the marked stone will be weakened. <= ]
+)
+(;W[kb]
+C[Variation.  
+
+If White slides to 2, ... ]
+;B[jc]
+C[... Black will force White to run along the second line. ]
+;W[jb];B[ic];W[ib];B[hc];W[hb];B[gc];W[gb];B[fd];W[ec];B[ed]
+C[After the sequence to 13, Black's wall in the center is superior to White's territory at the top. <= ]
+))
+(;B[me]
+C[Failure.  
+
+Turning at 1 is not a good move ... ]
+;W[ld]
+C[... because White is able to make territory by running on the fourth line ... ]
+;B[le];W[kd];B[ke];W[jd]
+TR[fc]
+C[... and the marked stone works well in protecting White's left flank. Moreover, the two white stones on the right side neutralises Black's wall. <= ]
+)
+)

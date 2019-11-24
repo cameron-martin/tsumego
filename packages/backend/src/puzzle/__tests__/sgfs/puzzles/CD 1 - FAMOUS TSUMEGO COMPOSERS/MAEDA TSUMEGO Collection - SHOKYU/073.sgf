@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ci][cj][bi][df][cf][bf][bg]AW[bh][ah][ai][bj][bk][cn][dn][ej][ei]
+[eg][dg][cg]N[073]AP[MultiGo:4.4.4]SZ[19]AB[ch]MULTIGOGM[0]
+
+(;C[不要想当然，一切都要以计算为依据。
+
+难度：☆☆]N[审题])
+(;B[cl]C[黑1先罩好]N[正解];W[bl];B[aj];W[ak];B[ag];W[aj];B[bm])
+(;B[aj]C[黑1先扑不行]N[失败];W[ak];B[cl];W[bm])
+(;B[cl]N[变化];W[bm];B[bl];W[al];B[ag]))

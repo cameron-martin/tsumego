@@ -1,0 +1,15 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[am][bm][bn][ao][bo][bp][cp][aq][dq][eq][ar][br][er]AB[bl][cl][cm][cn][co][dp][ep][fp][bq][cq][fq][cr][fr]C[Diag. 3 - Reference
+
+Here is another example where the correct hane is essential.]
+(;B[es]LB[es:1]TR[aa]C[In this position if B 1 captures 3 stones, ]
+;W[cs]LB[cs:2][es:1]C[W lives by getting 2 eyes in the corner with 2 ]
+;B[dr]LB[dr:3][cs:2][es:1]
+;W[bs]LB[dr:3][bs:4][cs:2][es:1]C[and 4.])
+(;B[bs]LB[bs:1]C[Diag. 4 - Reference 
+
+Again the hane of B 1 is the one to kill W. ]
+;W[ds]LB[bs:1][ds:2]C[If W 2, ]
+;B[cs]LB[bs:1][cs:3][ds:2]C[B connects at 3 and W cannot play ate on either side.
+He is dead.]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[lc][lb][kb][pb][pc][oc]AW[jb][jc][kc][ld][md][nd][od][pd][qd][qc]
+[qb]N[010]AP[MultiGo:4.4.4]SZ[19]AB[nc]MULTIGOGM[0]
+
+(;C[边上基本死活。]N[审题])
+(;B[oa]C[黑1尖是防守的急所]N[正解];W[nb]C[白2点入最凶];B[ka]C[黑3立下扩大眼位];W[ma]
+;B[mc]LB[na:A][mb:B]C[观察棋形，由于A、B两点见合，这是双活。])
+(;B[mc]N[失败1];W[nb];B[ka];W[oa];B[pa];W[ma]C[失败图])
+(;B[mc]N[失败2];W[oa];B[pa];W[nb];B[ka];W[ma])
+(;B[na]N[失败3];W[ka]C[白2一扳，黑死。]))

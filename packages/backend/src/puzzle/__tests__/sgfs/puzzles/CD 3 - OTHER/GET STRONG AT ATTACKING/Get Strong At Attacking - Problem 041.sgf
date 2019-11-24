@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[bd][dd][fc][dr][fq][iq][pp][oq][ol][ql][lc][me]
+AB[cf][ef][dj][dp][cq][dn][qj][oj][od][qd][jc][kd]
+LB[lc:A][kd:B][me:C]
+C[Problem 41. Black to play.  
+
+How should Black continue after the sequence to White C ? ]
+(;B[nc]
+LB[ld:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black should first defend the corner with 1, threatening to take the territory at the top by playing at A. ]
+;W[ld]
+C[White defends at this point with 2. but ... ]
+;B[kf]
+C[... Black continues the attack with 3 ... ]
+;W[mg];B[lh]
+C[... and 5. The white stones are in trouble. <= ]
+)
+(;B[ld]
+C[Failure.  
+
+Cutting trough with Black 1 ... ]
+;W[md];B[mc]
+C[... and 3 is crude. ]
+;W[nc];B[mb];W[oc]
+LB[lb:A]
+C[Note that after White 6, White threatens to capture the two marked stones by playing A. ]
+;B[lb]
+C[Black can capture one stone with 5 and 7, but ... ]
+;W[pd];B[pe];W[pc]
+C[... Black's corner in the upper right has been destroyed. <= ]
+)
+)

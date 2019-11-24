@@ -1,0 +1,24 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bb][dc][dd][ea][eb]
+AW[be][bg][ce][df][ec][ee][fb][fc]PL[W]C[White to play.
+
+Capturing stones - Reduce Opponent's Territory
+
+Source: Guan-Zhi-Pu.]
+(
+;W[cc]
+;B[cd]
+;W[bc]
+;B[bd]
+;W[ab]
+;B[cb]
+;W[ad]
+;B[ac]
+;W[bc]C[RIGHT
+])
+(
+;W[bc]
+;B[cc]
+;W[ab]
+;B[bd]
+;W[ad]C[Ko Fight]))

@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[lc][pc][qe][cf][df][ci]
+AB[dd][ce][fd][jc]
+C[Problem 84. Black to play.  
+
+White's three-space extension from her corner enclosure is ideal. However, Black has a strong position on the left. How should Black invade ? ]
+(;B[nc]
+TE[2]
+C[Correct Answer.  
+
+Black should invade at 1. ]
+;W[le]
+C[If White jumps out with 2, ... ]
+;B[ne]
+C[... Black escapes into the center with 3. <= ]
+)
+(;B[oc]
+C[Failure.  
+
+Attaching with 1 ... ]
+;W[pd];B[pb];W[qb];B[md];W[ld];B[me]
+LB[md:5]
+C[... and trying to escape with 5 and 7 is not good. ]
+;W[mc]
+LB[ld:6]
+C[Black's shape is destroyed when White plays 6 and 8. <= ]
+)
+)

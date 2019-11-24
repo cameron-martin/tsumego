@@ -1,0 +1,14 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[ge][jh][ff][fj][hd][fe][ei][ii][gj][je][eh][id][eg][jg][hi][jf]GN[ ]AB[if][fi][hh][he][fh][gi][ih][gf][fg][ig]PM[1]C[Problem 132. Black to play and live. (1 move)
+What move does Black make to give his stones life?]PW[ ]
+(
+;B[gg]C[Correct Answer
+Black 1 is the correct answer. White cannot destroy Black's eyes, so he is alive.]
+)
+(
+;B[hg]C[Wrong Answer
+If Black plays at 1...]
+;W[ie]C[...White 2 destroys Black's second eye and he is dead.]
+)
+
+)

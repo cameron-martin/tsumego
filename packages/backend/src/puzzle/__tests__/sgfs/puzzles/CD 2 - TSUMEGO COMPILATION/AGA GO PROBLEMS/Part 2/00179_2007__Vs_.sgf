@@ -1,0 +1,33 @@
+(;
+AB[qd][nc][ce][dq]
+AW[pp][dc][ed][do]
+C[Black's response to White's marked play?
+
+Source:
+    Go World, #38, Winter 1984-85, p. 15
+    29th Honinbo, Awaji Shuzo vs. Rin Kaiho]
+TR[do]
+(;
+B[co]
+C[Inferior];
+W[cn];B[cp];W[dn];B[fq];W[ch]
+C[An ideal pincer.]
+)
+    (;
+    B[eo]
+    C[The game line.]
+    (;
+    W[en]
+    C[Inferior];
+    B[ep];W[dm];B[ch]
+    C[And now Black plays the ideal extension.]
+    )
+        (;
+        W[cq]
+        C[Instead, this joseki line is reasonable.];
+        B[dn];W[dp];B[ep];W[eq];B[dr];W[cr];B[bo];W[er];B[cp];W[ds];B[dq];W[hq]
+        C[And the position is balanced.]
+        )
+    )
+)
+

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[co][do][fo][gn][gp][gq][hr][iq][cs][br][bq]AW[cp][dp][cq][cr][dr]
+[fp][fq][gr][gs]C[C]N[046]AP[MultiGo:4.4.4]SZ[19]AB[bp]MULTIGOGM[0]
+
+(;C[失败图的计算比较容易。多计算几个失败图之后，正解大概就会自动浮现了吧。
+
+难度：C]
+N[审题])
+(;B[es]N[正解];W[ds];B[fr]C[黑3断是致命一击，充分利用白气紧的缺陷];W[er];B[ep]C[白死。])
+(;B[es]N[变化];W[ds];B[ep];W[eq];B[fr];W[eo])
+(;B[eq]N[失败1];W[ep];B[er];W[fr];B[es];W[ds])
+(;B[ds]N[失败2];W[es];B[er];W[eq];B[fs];W[fr]))

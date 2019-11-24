@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[op][pp][qp][rr][rs][lr][lq][lp][mp]AW[pq][oq][nq][mq][or][mr][qr]
+N[066]AP[MultiGo:4.4.4]SZ[19]AB[np]MULTIGOGM[0]
+
+(;C[死活的原则是首先考虑从外侧压缩眼位。
+
+难度：☆]N[审题])
+(;B[qq]C[黑1从外围动手好。这样，白无论如何挣扎，都是不归路一条。]N[正解];W[qs];B[ns]
+;W[ms];B[os])
+(;B[qs]C[黑1冲不是先手]N[失败];W[qq];B[rq];W[ps]))

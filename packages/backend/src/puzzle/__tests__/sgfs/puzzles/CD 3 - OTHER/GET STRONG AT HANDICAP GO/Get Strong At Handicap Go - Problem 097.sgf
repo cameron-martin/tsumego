@@ -1,0 +1,60 @@
+(;
+GM[1]
+SZ[19]
+AW[ec][fc][gd][dg][cn]
+AB[dp][pd][pp][dd][fd][fe][dj][fp]
+LB[cn:1][fp:2][dg:3][dj:4][fc:5][fd:6][gd:7][fe:8][ec:9][ed:A]
+C[Problem 97. Black to play.  
+
+White extends to 9, threatening to push through the gap at A. Should Black be concerned about this ? How should he respond ? ]
+;B[dc]
+TR[dg]
+
+TE[2]
+C[Correct Answer.  
+
+Since the marked stone is two spaces away, Black should block with 1 and ... ]
+;W[ed];B[ee];W[de]
+LB[ed:2]
+C[... let White cut through with 2 and 4. ]
+;B[db];W[hc];B[df];W[ce];B[cf];W[be];B[bf]
+C[Black then confines White to the corner with the sequence to 11. ]
+;W[bc];B[bb]
+C[After the exchange of 13 ... ]
+(;W[ab]
+C[... for White 14, ... ]
+;B[eg]
+C[... Black makes shape with 15 and builds a moyo on the left side. ]
+;W[cb]
+C[White can live in the corner with 16, but ... ]
+;B[bd]
+C[... Black captures three stones with 17. ]
+;W[ad]
+LB[bd:17]
+C[Resistance.  
+
+If White resists with 18 after Black 17 in the Correct Answer, ... ]
+;B[cd];W[ae];B[af];W[ac];B[ba];W[ca]
+(;B[cc];W[aa];B[ba]
+C[... Black captures all the white stones with the sequence to 27. <= ]
+)
+(;B[da]
+C[If Black plays 25 here, ... ]
+;W[aa]
+C[... he will lose the capturing race. <= ]
+))
+(;W[ef]
+LB[bb:13]
+C[Variation.  
+
+If White answers Black 13 by cutting at 14, ... ]
+;B[bd];W[cd];B[cc];W[ad]
+C[(Note that after White captures with 18, ... ]
+;B[af]
+C[... Black 19 is best.) ]
+;W[ae];B[ab]
+C[... Black captures the white stones in the corner with the sequence to 21. ]
+;W[ff]
+C[The ladder at 22 hit's Black's bottom-right corner stone. <= ]
+)
+)

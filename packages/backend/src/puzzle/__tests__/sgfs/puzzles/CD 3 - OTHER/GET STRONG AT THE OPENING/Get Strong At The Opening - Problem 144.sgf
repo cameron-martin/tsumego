@@ -1,0 +1,34 @@
+(;
+GM[1]
+SZ[19]
+AW[od][qc][oq][pq][qp][qn][dp][cj]
+AB[cd][ed][jc][qd][op][nq][np][cn][iq]
+LB[kq:D][co:C][cl:B][cg:A]
+TR[cn]
+C[Problem 144. White to play.  
+
+Black has played the marked stone, separating the white stones on the left. Black has strong positions above and below, so attacking this stone in not a good idea. Where should White play ? ]
+(;W[cg]
+TE[2]
+C[Correct Answer.  
+
+White should extend to 1, strengthening her weakest stone. ]
+;B[fq]
+C[Next, Black will approach with 2 and ... ]
+;W[fp]
+C[... White responds by attaching with 3. ]
+;B[gp];W[eq];B[fo];W[ep]
+C[After White 7, all of White's stones are secure. <= ]
+)
+(;W[co]
+C[Failure.  
+
+If White defends her corner with 1 ... ]
+;B[dn];W[fq]
+C[... and 3, the white stone on the side will come under attack ... ]
+;B[ch]
+C[... when Black extends from his corner enclosure with 4. ]
+;W[ej];B[fn]
+C[After 6, Black has taken the lead. <= ]
+)
+)

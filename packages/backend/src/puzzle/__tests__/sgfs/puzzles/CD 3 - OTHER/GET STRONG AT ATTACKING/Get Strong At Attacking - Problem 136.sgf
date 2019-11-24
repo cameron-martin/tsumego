@@ -1,0 +1,46 @@
+(;
+GM[1]
+SZ[19]
+AW[fc][qn][qj][oc][nc][mc][md][me][le]
+AB[dd][dp][cn][dj][pp][nq][pd][pc][nd][ne][pf][mf][kd][lb]
+TR[le]
+C[Problem 136. White to play.  
+
+In Variation 1 of Problem 30, White extended with the marked stone. How should Black continue at the top ? ]
+;B[gd]
+TE[2]
+C[Correct Answer.  
+
+The shoulder hit of Black 1, a leaning attack, is a move that would not occur to many players, but, in this position, it is quite severe. <= ]
+(;W[ee]
+C[White tries to break out into the center with 2 ... ]
+;B[de];W[ge]
+C[... and 4, but ... ]
+;B[he];W[gf];B[hf]
+LB[he:5]
+C[... Black plays 5 and 7. These last two moves attack the six white stones in the right, so ... ]
+;W[lf]
+C[... White must get into the center with 8. ]
+;B[gc]
+C[Black now takes the initiative on the left with 9 ... ]
+;W[fd];B[gg]
+C[... and 11. The white stones there are now in trouble. <= ]
+)
+(;W[fd]
+C[If White pushes with 2 ... ]
+;B[fe];W[ee]
+C[... and 4, ... ]
+;B[ff]
+C[... Black extends to 5. ]
+;W[ed]
+C[After White connects with 6, ]
+;B[kg]
+C[... Black attacks the stones on the right with 7. ]
+;W[ke];B[jd];W[je];B[id];W[jg];B[jh];W[ig];B[ie];W[if];B[kh];W[ih]
+C[White manages to get out into the center with the sequence to 18, but ... ]
+;B[dc]
+C[... Black switches back to the left and ... ]
+;W[de];B[be];W[bf];B[bd];W[dg];B[fh]
+C[... traps the white stones with the sequence to 25. White is unable to live. <= ]
+)
+)

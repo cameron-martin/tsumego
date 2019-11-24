@@ -1,0 +1,44 @@
+(;
+AB[or][pq][oq][pp][jp][dp][po][mo][qn][nn][dn][qm][nm]
+AW[qr][pr][qq][nq][fq][qp][qo][no][mn][cj]
+C[White plays.
+
+Source:
+    Tesuji Dictionary, Vol. 1, Tsuke #81,
+    Segoe Kensaku & Go Seigen, Ishi Press]
+(;
+W[kp]C[Correct.  A dual purpose move.]
+(;
+B[jo]C[If Black defends the stone to the left...];
+W[mp]C[White unleashes a well-known tesuji against
+the stones to the right.];
+B[lo];
+W[ko];
+B[ln];
+W[kn];
+B[lm];
+W[jn]C[Now White has plenty of counterplay possibilities.]
+)
+    (;
+    B[mp]C[If Black defends the stones to the right...];
+    W[jq];
+    B[iq];
+    W[ip];
+    B[jo];
+    W[hq];
+    B[ir];
+    W[jr]C[White captures the 2 Black stones on the bottom,
+and still has aji on the right.]
+    )
+)
+    (;
+    W[lo]C[Inferior.];
+    B[mp];
+    W[lp];
+    B[mq];
+    W[lq];
+    B[mr]C[Black simply descends, and White
+is still uncomfortable on the left.]
+    )
+)
+

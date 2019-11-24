@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][ef][gf][qn][rp][qc][qd][qf][nc][md]
+AB[dd][fd][di][dp][jp][pp][np][pd][oc][nd][mc][lc][ne]
+TR[gf]
+C[Problem 32. Black to play.  
+
+White has just played the marked stone. How should Black continue ? ]
+(;B[gi]
+TR[pd][oc][nd][ne][mc][lc]
+
+TE[2]
+C[Correct Answer.  
+
+The marked stones are thick, so Black should jump to 1 and drive the white stones toward that strong position. ]
+;W[he];B[hc];W[je];B[ji]
+C[White will probably live in gote, but Black is satisfied with the moyo he has staked out at the bottom. <= ]
+)
+(;B[hd]
+C[Failure.  
+
+Black 1 is overly defensive. ]
+;W[fi]
+TR[di]
+C[White will immediately take the initiative and attack the marked stone with 2. With his thick position at the top, Black's territory is overconcentrated. <= ]
+)
+)

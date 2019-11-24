@@ -1,0 +1,41 @@
+(;
+GM[1]
+SZ[19]
+AW[bd][cf][ci][id][jc][ld][qf][pj]
+AB[cc][dd][fd][jd][ic][me][nd][pd]
+LB[id:5][ic:4][jc:3][me:2][ld:1]
+C[Problem 58. Black to play.  
+
+Black 2 gives White the chance to attach and cut with 3 and 5 on the left. With good play, however, Black can come out of this position with an advantage. How should Black play ? ]
+(;B[kc]
+TE[2]
+C[Correct Answer.  
+
+Black should atari with 1 ... ]
+;W[jb];B[hc]
+C[... and extend to 3. ]
+;W[kd]
+C[After 4, ... ]
+;B[je];W[lc]
+(;B[kf]
+C[... Black confines White to the side with 7. ]
+;W[nb]
+C[White lives with 8. <= ]
+)
+(;B[ib]
+LB[kf:@]
+C[Instead of 7 at @, Black could play here. ]
+;W[kb];B[mb]
+C[<= ]
+))
+(;B[jb]
+TE[2]
+C[Correct Answer.  
+
+Black could also play 1 ... ]
+;W[kc];B[hc]
+C[... and 3. ]
+;W[je];B[hd];W[ie];B[kb];W[lb];B[mc];W[lc];B[he]
+C[After 11, White's group is still not alive , so Black can make further gains by attacking it. <= ]
+)
+)

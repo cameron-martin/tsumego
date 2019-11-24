@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[mp][lp][kq][jq][jr][or][ps][qr][rq][qp][pp][op]AW[os][pr][pq][oq]
+[nq][mq][lq][kr][ks]C[99]N[99]AP[MultiGo:4.4.4]SZ[19]AB[np]MULTIGOGM[0]
+
+(;TR[ps][os]C[第99题 请注意接不归
+
+
+黑△渡过，白▲扑，黑要躲开接不归来杀白。
+
+初手是漂亮的好手。]
+N[审题])
+(;B[ms]C[黑1锐利]N[正解];W[nr];B[lr]LB[ns:A]C[白2则黑3，白走3位则黑A位提子。白死。])
+(;B[ns]N[失败];W[ms]C[黑1提子，白2靠住之后，就活了。];B[mr];W[nr];B[ls];W[lr]C[白吃黑的接不归，活了。]))

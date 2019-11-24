@@ -1,0 +1,40 @@
+(;
+AB[bp][cp][dp][dq][dr][er][co][dn][dm]
+AW[bo][cn][cm][dl][do][eo][ep][eq][fr][gq]
+C[Black plays.
+
+Source:  "Tesuji", Ch. 2, pp. 18-19,
+         James Davies, Ishi Press]
+(;
+B[fn]
+C[Natural, but wrong.];
+W[fm]
+C[This slap tesuji captures the Black stones.]
+(;
+B[en]
+C[Black's best chance.];
+W[gn]
+C[But White captures Black in a loose ladder.];
+B[fo];
+W[go];
+B[gp];
+W[hp]
+)
+    (;
+    B[el]
+    C[Another possible Black escape strategy.];
+    W[em]
+    C[But White catches Black in an ordinary ladder.];
+    B[en];
+    W[gn]
+    )
+)
+    (;
+    B[em]
+    C[Ugly, but correct.
+
+Black forms a normally bad empty triangle shape,
+but Black's stones survive to split White's
+groups with the potential for attack later.]
+    )
+)

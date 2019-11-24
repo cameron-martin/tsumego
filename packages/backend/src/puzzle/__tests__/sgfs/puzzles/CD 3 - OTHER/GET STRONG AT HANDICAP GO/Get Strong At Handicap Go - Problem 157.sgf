@@ -1,0 +1,30 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][dc][ec][cf][qf][qg][ph][oh][qi][ri][rj][jq][qn][qp][qq][rr]
+AB[dp][pd][pp][fc][fd][ed][jd][nd][qh][pi][pj][qj][rk][gq][qr][pr][pq][ql]
+TR[qn]
+C[Problem 157. Black to play.  
+
+White has just played the marked stone (White 10 in the game continuation of Problem 153). How should Black continue ? ]
+(;B[qo]
+TE[2]
+C[Correct Answer.  
+
+Wedging in with Black 1 is the tesuji. ]
+;W[ro];B[po];W[pn];B[on];W[rm];B[om]
+LB[rh:B][sj:A]
+C[The sequence to Black 7 is inevitable. Because Black has the forcing exchange of Black A - White B, the white stones in the corner have bad aji. ]
+;W[rs]
+C[Therefore, White has to defend with 8 and Black ends in sente. <= ]
+)
+(;B[pn]
+C[How the game continued.  
+
+Attaching with Black 1 was a mistake. ]
+;W[pm];B[qo];W[ro];B[po];W[qm];B[om];W[ol];B[nl];W[pl];B[nk];W[oj]
+LB[om:7]
+TR[qj][pi][pj]
+C[White was able to make a big gain on the right with the sequence to 12. The three marked black stones still have some aji, but it is clear that Black has suffered a big loss compared with the Correct Answer. In addition, Black's wall has a defect since White can atari the stone at 7. <= ]
+)
+)

@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qp][pp][pq][oq][or][rr][sr][sp]AW[qr][rq][os][ns][nr][nq][np][op]
+[po][qo][ro][so]N[011]AP[MultiGo:4.4.4]SZ[19]AB[rp]MULTIGOGM[0]
+
+(;C[空间小选择不多。黑气很紧，这是要注意的地方。]N[审题])
+(;B[rs]C[黑1做眼]N[正解];W[ps];B[qq]C[黑活3目棋，这是大家都看清楚变化以后的进行。])
+(;B[rs]N[变化1];W[qq];B[ps];W[pr]LB[qs:A]C[白4在A位打是一样的];B[sq]C[黑活。])
+(;B[rs]N[变化2];W[pr];B[sq])
+(;B[ps]C[黑1先扳也能活，但是要损一目]N[失败1];W[pr];B[rs];W[qs];B[sq]C[黑3目地，但扑的一子损进去了。])
+(;B[qq]N[失败2];W[rs]LB[pr:A][qs:B]C[以下，黑A则白B，黑气紧无法阻止白棋回家，这样黑死]
+;B[ps];W[qs]C[黑死。])
+(;B[sq]N[失败3];W[rs];B[ps];W[pr]))

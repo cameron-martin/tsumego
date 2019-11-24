@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[en][fo][go][hp][hq][hr][hs][cs][br][bq][bp][bo][cq][cn]AW[cr][dr]
+[dq][cp][do][eo][fp][gq][gr][gs]C[A]N[035]AP[MultiGo:4.4.4]SZ[19]AB[dn]MULTIGOGM[0]
+
+(;C[从外侧压缩白的眼位如何？这可以作为计算的开始。
+
+难度：A]N[审题])
+(;B[fr]N[正解];W[fq];B[er];W[dp]C[很容易漏算白4接上的抵抗吧];B[es];W[ds];B[eq]C[白死。])
+(;B[fr]N[变化];W[er];B[fq];W[fs];B[ds];W[co];B[ep])
+(;B[co]N[失败1];W[dp]C[白已是活形。])
+(;B[gp]N[失败2];W[fr]C[白是活形。])
+(;B[er]N[失败3];W[eq];B[fr];W[dp];B[ds];W[es]))

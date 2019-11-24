@@ -1,0 +1,16 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[dp][qm][fd][dd][nc][kc][fp][jq][mq]AW[cn][pf]
+[ck][qk][po][qo][pq][bd][pd][cf]LB[qm:1][qo:2]C[Black to play. After Black invades with 1, White makes an iron pillar with 2. How should Black continue?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[qj]
+(;W[pj];B[pk]
+(;W[pl];B[ok];W[ql];B[pi]C[CORRECT Black's invading stone was in danger of becoming heavy, so he made sabaki by attaching. If White hanes, Black can capture a stone in a ladder.])
+(;W[qi];B[rj];W[pl];B[ok];W[ql];B[pi];W[oj];B[oh];W[nj];B[qh];W[nl]C[CORRECT Black's invading stone was in danger of becoming heavy, so he made sabaki by attaching. If White resists the ladder, Black makes a living group on the right. White's position below is a bit overconcentrated, while his two in the upper right have become dangerously thin.]))
+(;W[pk];B[pj]
+(;W[ok];B[rk];W[rl];B[rj];W[ql];B[rf];W[qf];B[re]
+(;W[qh];B[rg];W[oh];B[rh]C[CORRECT Black's invading stone was in danger of becoming heavy, so he made sabaki by attaching. If White extends towards the center, Black takes away White's territory and White makes shape in the center, Black lives on the side. Again, White's stone on the lower right are overconcentrated.])
+(;W[rg];B[qg];W[qh];B[pg];W[rh];B[ph];W[qd];B[qi]C[CORRECT Black's invading stone was in danger of becoming heavy, so he made sabaki by attaching. In this variation, White can't cut, his three cutting stones are captured.]))
+(;W[oj];B[rj];W[rk];B[ok];W[pl];B[oi];W[nj];B[qg];W[qf];B[rf];W[re];B[rg]LB[rd:A]
+C[CORRECT Black's invading stone was in danger of becoming heavy, so he made sabaki by attaching. If White extends towards the center and makes a hane on top of the two black stones, the continuation is as follows. Black lives on the side and has the big endgame move at A.])))
+(;B[om];W[ok];B[mm];W[nn];B[nm];W[lp];B[lq];W[jo];B[hp];W[mk];B[km];W[ln];B[lm]
+C[Black must not run. White will keep attacking Black while keeping the group heavy. White has built a moyo in the upper right, Black's stones are vulnerable while White has sente.]))

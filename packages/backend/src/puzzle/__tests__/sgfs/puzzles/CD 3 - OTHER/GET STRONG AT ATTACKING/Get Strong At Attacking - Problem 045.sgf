@@ -1,0 +1,22 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][ec][df][dp][jq][jd][jg]
+AB[pq][po][pj][pd][md][fc][fd][gg]
+TR[pj]
+C[Problem 45. White to play.  
+
+Black has just staked out a position on the right side with the marked stone. What should White do next ?  
+
+[You will find a supplement to this Problem Diagram as "Problem 140"] ]
+;W[hd]
+TE[2]
+C[Correct Answer.  
+
+White 1 is the vital point; it makes the difference between Black being attacked or White. ]
+;B[ff]
+C[Black must defend with 2, ... ]
+;W[dh]
+C[... and White stakes out the territory on the left side by jumping to 3. <= ]
+)
+)

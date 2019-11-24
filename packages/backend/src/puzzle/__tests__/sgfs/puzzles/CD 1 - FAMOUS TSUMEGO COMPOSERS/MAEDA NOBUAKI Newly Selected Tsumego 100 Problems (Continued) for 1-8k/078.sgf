@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[mc][nc][lb][ic][ib][hb][gb][jd][je][ld]AW[lc][kc][jc][jb][mb][hc]
+[hd][id][fc][fd][fb]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[me]MULTIGOGM[0]
+
+(;C[审题：对杀问题。不难找到正解。]N[审题])
+(;B[ka]N[正解];W[kb];B[ja];W[la];B[ia]C[对杀黑胜。])
+(;B[ka]N[变化];W[ja];B[kd])
+(;B[ia]C[黑1立下貌似手筋]N[失败1];W[ka]C[白2尖，敌之要点即我之要点];B[nb];W[ga]
+;B[la];W[gc]C[对杀黑负。])
+(;B[ja]N[失败2];W[ka];B[ia];W[la]C[以后无论如何变化，对杀都是白胜。];B[kd];W[kb]
+;B[na];W[nb];B[ob];W[gc]))

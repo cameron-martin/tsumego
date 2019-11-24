@@ -1,0 +1,8 @@
+(;AB[rb][rc][qc][qe][oe][ne][lf][ke][kd][kc][kb][lb][la]AW[qb][pc][oc][nc][mb][md]
+[ld][lc]C[白先
+
+第一着是关键，从中央入手。]SZ[19]
+
+(;W[oa]C[白先活]N[正解图];B[qa];W[nd];B[na];W[ma];B[ob];W[pb];B[pa];W[nb]C[黑棋接不归，白棋净活。])
+(;W[nd]N[失败图1];B[na];W[nb];B[ma];W[oa];B[pb];W[qa];B[ra])
+(;W[qa]N[失败图2];B[ma];W[na];B[ob]))

@@ -1,0 +1,14 @@
+
+(;GM[1]AP[GOWrite:2.0.07]SZ[13]FF[4]PB[ ]PW[ ]GN[ ]AW[ek][cd][jj][jh][mf][em][kh][ei][lg][mg][eb][lh][gk][eg][fm][ed][ec][ej][ee][fl][bc][hg][fe][da][di][cb][ef][eh][cc][dc][hf][kk][gf][ig][ab]C[Problem 60. Black to play.
+Where is the last point of profit?]PM[1]FG[259:]AB[fc][bd][lf][dg][ce][df][kf][dl][dh][ci][cf][he][dm][fb][me][fd][ea][ic][bf][ge][ld][dj][kg][ad][ie][if][cj][kc][jf][dk][el][ch][ac][fa]
+(
+;B[de]C[Correct Answer
+Black 1 is the last point of profit left.]
+)
+(
+;B[jg]C[Wrong Answer
+Black 1 is on a dame point...]
+;C[...White 2 takes the last point of profit. Black has lost a point.]W[de]
+)
+
+)

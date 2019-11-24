@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dn][en][co][eo][cp][cq]AB[dl][cm][cn][gn][do][dp][gp][eq][hq]TR[do][dp]C[Ex. 8  - Shinogi
+
+If W can succeed in capturing the 2 marked stones he will feel much better. ]PL[W]
+(;W[ep]LB[ep:1]C[Diag. 1 - Failure
+
+W 1 ate is a vulger play. ]
+;B[dq]LB[ep:1][dq:2]C[Even if, after B 2 tsugi, ]
+;W[fq]LB[ep:1][dq:2][fq:3]C[W plays hanedashi 3 ]
+;B[fr]LB[ep:1][dq:2][fq:3][fr:4]C[he fails when B answers at 4.])
+(;W[fq]LB[fq:1]C[Diag. 2 - Correct
+
+Direct means, that is atari, should be used at the last moment.
+W 1 tsukekoshi is the way to attack the vital point of the 2 stones, from a distance. ]
+(;B[fr]LB[fq:1][fr:2]C[If B 2 hane from below, ]
+;W[er]LB[fq:1][er:3][fr:2]C[W's cut 3 here is tesuji and consistent with his strategy. ]
+(;B[fp]LB[fp:4][fq:1][er:3][fr:2]C[After B 4, ]
+;W[ep]LB[ep:5][fp:4][fq:1][er:3][fr:2]C[W 5 plays ate for the first time and in doing so captures 2 B stones.
+The effect of the suji 1 and 3 is that B cannot connect.])
+(;B[dr]LB[fq:3][dr:4][er:1][fr:2]C[Diag. 3 - Correct
+
+If B 4 kakae on this side after W 1 and 3 ]
+;W[dq]LB[dq:5][fq:3][dr:4][er:1][fr:2]C[B plays 5 sashikomi.]))
+(;B[dq]LB[dq:2][fq:1]C[Diag. 4 - Variation
+
+B cannot resist the tsukekoshi W 1 with 2. ]
+;W[fr]LB[dq:2][fq:1][fr:3]C[W 3 sagari is good ]
+;B[cr]LB[dq:2][fq:1][cr:4][fr:3]C[and if B 4 ]
+;W[br]LB[dq:2][fq:1][br:5][cr:4][fr:3]
+;B[dr]LB[dq:2][fq:1][br:5][cr:4][dr:6][fr:3]C[and B 6 ]
+;W[bs]LB[dq:2][fq:1][br:5][cr:4][dr:6][fr:3][bs:7]C[when W plays 7 sagari B loses.])))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qf][of][nf][me][nd][le][ke][kd][kc][jb][ja][pf][qc][pb][rd]AW[kb]
+[lb][lc][ld][md][oe][ne][pd][oc][ob]N[008]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;C[看上去白做眼的空间很大，从外侧压缩白的眼位估计多半不行，只有占据急所。注意，左侧白气紧，而且黑有硬腿。]
+N[审题])
+(;B[mb]C[1位是棋形的急所。要有这种第一感。]N[正解];W[la];B[mc];W[nc];B[ma]C[黑3、5的次序可以交换]
+;W[od];B[ka]C[白死。])
+(;B[mb]N[变化1];W[ma];B[la];W[ka];B[mc])
+(;B[mb]N[变化2];W[ma];B[na]C[黑3从这里打也行。])
+(;B[nb]N[失败];W[mb]C[白2还可以走其他地方，也能做活，可自行计算。]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][nd][md][mc][lb][kc][qb][qc][pc][rc]AW[mb][nb][nc][oc][pd][pe]
+[qe][re][se][rd][sc][rb]N[069]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[角部对杀。]N[审题])
+(;B[ra]C[黑1打是绝对先手]N[正解];W[sb];B[oa]C[黑3飞，手筋];W[pb];B[qa];W[ob];B[ma]
+C[对杀黑胜。])
+(;B[sb]LB[sa:A][qa:B]C[黑1扑如何？对此，白A则黑B，对杀黑胜。]N[失败];W[ra]C[但白2可以立下。以下的变化，均假设黑拒绝打劫。]
+;B[qa];W[pb];B[sa];W[rb];B[ra];W[oa];B[ma];W[pa]C[尽管黑可以随时开劫，但毕竟不是净杀白。])
+(;B[sb]N[失败变化];W[sa];B[qa]C[黑1扑，白2提子，黑3立下是对杀手筋。
+数气：白3气，黑5气，没有公气，轮白走，对杀肯定白负。]))

@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[kc][le][me][md][mc][mb][ne][oe][od][pc][pe][qe][re][kd]AW[qb][qc]
+[qd][pd][oc][nc][nb][nd][ma][lb][lc][ld][ke][je][ic][jd][rc]N[黑先]AP[MultiGo:4.4.4]
+SZ[19]AB[rd]MULTIGOGM[0]
+
+(;C[审题：手筋问题。如何在白空里面搞出是非？次序是重要的。]N[审题])
+(;B[kb]N[正解];W[la];B[oa]C[黑1打、3点是好次序];W[ob];B[ka]C[这样白无法反抗])
+(;B[kb]N[变化];W[la];B[oa];W[na];B[pb]C[白的损失更大])
+(;B[oa]C[黑1先点如何？]N[失败];W[kb];B[na];W[pb];B[la];W[ob]C[白棋把损失降到最低。黑失败。]))

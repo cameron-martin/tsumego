@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qd][qe][qf][pg][og][ng][mg][lf][le][md][mc][mb][ma][na][oe][rb]AW[pe]
+[pd][qc][qb][ra][oa][nb][nc][nd][me][nf][of]N[006]AP[MultiGo:4.4.4]SZ[19]AB[rc]
+MULTIGOGM[0]
+
+(;LB[pf:A][ob:B]C[白A、B两处是眼见的弱点，另外就是白气紧。]N[审题])
+(;B[ob]N[正解];W[pa];B[pf]LB[pb:A][od:B]C[黑3挤时，白A则黑B，白死。];W[od];B[pc]
+C[白死。])
+(;B[ob]N[变化];W[pa];B[pf];W[oc];B[pb];W[pc];B[ne];W[od];B[ne])
+(;B[pf]N[失败1];W[ob];B[ne];W[od];B[ne];W[qa])
+(;B[ob]N[失败2];W[pa];B[pc];W[oc]C[黑操之过急。]))

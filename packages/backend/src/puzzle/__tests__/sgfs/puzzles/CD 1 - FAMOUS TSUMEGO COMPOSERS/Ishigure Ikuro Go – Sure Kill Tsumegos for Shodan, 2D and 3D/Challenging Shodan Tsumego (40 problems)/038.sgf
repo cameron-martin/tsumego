@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[rq][pp][op][qp][qn][pn][om][nm][mm][ln][lo][lp][lq][lr][ls][ms][rr]
+AW[mn][nn][on][oo][np][nq][mr][or][pq][qq][qr][qs][mp][mo]N[038]AP[MultiGo:4.4.4]
+SZ[19]AB[mq]MULTIGOGM[0]
+
+(;C[空间小选择少，一定要得到正解。]N[审题])
+(;B[os]N[正解];W[ps]C[黑1、白2的交换是必然的，白2走其他地方都不行];B[oq]C[黑3先挤]
+;W[ns]C[白4只得提子];B[nr]C[于是成为劫杀。])
+(;B[os]N[变化];W[ps];B[nr]LB[oq:A][ns:B]C[黑3提子，意图是白A、黑B];W[ns];B[oq];W[mr]
+C[还是劫，但这是白的先手劫。])
+(;B[oq]N[失败];W[nr];B[ns];W[os]C[黑缺少计算。]))

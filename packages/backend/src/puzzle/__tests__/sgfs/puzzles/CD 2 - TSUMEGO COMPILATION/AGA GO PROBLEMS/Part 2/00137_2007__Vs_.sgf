@@ -1,0 +1,52 @@
+(;
+AB[pa][oa][na][ma][la][sb][pb][ob][nb][hb][rc][kc][ic][rd][qd][kd][oe][ne][le][qf]
+AW[qa][ka][rb][mb][lb][jb][qc][oc][nc][mc]
+C[Black plays.
+
+Source:
+    Igo Hatsuyo-ron #69:  300 year old problem set for
+    student professionals.
+Analysis:
+    Myron Souris]
+(;
+B[kb]
+C[Correct];
+W[ja];B[pc];W[pd];B[qb];W[qc];B[pb];W[qb];B[ob]
+(;
+W[od]
+C[Maybe White's best try.];
+B[la];W[sc]
+(;
+B[sa]
+C[Black avoids the trap and denies White an eye in the corner.];
+W[oa];B[ma]
+C[And White has a dead shape.]
+)
+    (;
+    B[sd]
+    C[Fails.];
+    W[sa]
+    C[White has a ko, and a billion internal ko threats.  For example...];
+    B[ra];W[pe];B[pf];W[qe];B[re];W[rf]
+    )
+)
+    (;
+    W[la];B[pc]
+    C[Black captures something and White dies.]
+    )
+    (;
+    W[nb];B[la];W[ma];B[oa]
+    C[White has only 1 eye.]
+    )
+)
+    (;
+    B[pc]
+    C[Fails:  incorrect move order.];
+    W[pd];B[qb];W[qc];B[pb];W[qb];B[ob]
+    LB[kb:a]
+    C[Black no longer has the sente play at A.];
+    W[nb];B[na];W[kb]
+    C[And White lives.]
+    )
+)
+

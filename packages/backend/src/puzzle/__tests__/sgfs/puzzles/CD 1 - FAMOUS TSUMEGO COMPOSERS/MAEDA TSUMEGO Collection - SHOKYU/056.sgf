@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oc][od][pd][qd][rc][pb][ob]AW[rb][rd][re][qe][pe][oe][ne][nd][nc]
+[mb][ma]N[056]AP[MultiGo:4.4.4]SZ[19]AB[nb]MULTIGOGM[0]
+
+(;C[计算的手数虽多，但都是必然的进行，因此并不困难。
+
+难度：☆☆]N[审题])
+(;B[qc]N[正解];W[sc];B[qa]C[黑3尖之后，黑棋活了。以后的进行可能有点小变化，但黑棋活了。]
+;W[na];B[qb];W[sb];B[oa])
+(;B[sc]N[失败];W[qc];B[qb];W[sb];B[pc];W[sd];B[qc];W[na]))

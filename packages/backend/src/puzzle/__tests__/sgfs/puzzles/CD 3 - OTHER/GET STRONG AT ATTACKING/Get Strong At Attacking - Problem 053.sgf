@@ -1,0 +1,47 @@
+(;
+GM[1]
+SZ[19]
+AW[lc][qc][qd][qf][rf][pp][dp][bd][cf][ci]
+AB[dd][cc][fd][jd][pc][pd][pe][og][qh][jq]
+TR[lc]
+C[Black to play.  
+
+White has invaded deep inside Black's moyo with his marked stone. What should Black do ? ]
+(;B[jc]
+TE[2]
+C[Correct Answer.  
+
+Black 1 is a solid move. It secures Black's territory in the top left and prevents White from establishing a base there. ]
+;W[le]
+C[White is forced to escape into the center, but ... ]
+;B[md]
+C[... Black peeps with 3, ... ]
+;W[ld];B[lg]
+C[... then severely attacks by capping with 5. ]
+;W[kf];B[jh]
+LB[kf:6]
+C[In response to White 6 Black exchanges 7 ... ]
+;W[if]
+C[... for White 8, ... ]
+;B[dh]
+C[... then switches to the left and forces with 9. ]
+;W[ch];B[hh];W[gf];B[he];W[hf]
+C[After the sequence to White 14, ... ]
+;B[df]
+C[... Black attaches with 15 and the white stones are in trouble. <= ]
+)
+(;B[le]
+C[Failure.  
+
+If Black caps with 1, ... ]
+;W[jc]
+C[... White can make a base for her stones at the top by attaching with 2. ]
+;B[ic];W[kd];B[ke];W[id]
+C[After the exchange of White 6 ... ]
+;B[je]
+C[... for Black 7, ... ]
+;W[ib];B[hc];W[hb];B[gc];W[kb];B[mb];W[gb];B[fb];W[ja]
+TR[ci][cf][bd]
+C[... White can easily live with the sequence to 16. Compared to the Correct Answer, Black has failed to get any territory at the top and, with White's marked stones on the left, his thickness is ineffective. <= ]
+)
+)

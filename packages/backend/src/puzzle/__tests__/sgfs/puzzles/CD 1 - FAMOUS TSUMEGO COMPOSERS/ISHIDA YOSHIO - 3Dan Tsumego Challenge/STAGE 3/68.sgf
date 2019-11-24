@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[po][op][np][mp][lp][kp][jq][jr][js][nr][rs][rr][qq]AW[qr][pr][os]
+[oq][nq][mq][mr][kr]C[68]N[68]AP[MultiGo:4.4.4]SZ[19]AB[pq]MULTIGOGM[0]
+
+(;C[第68题 有好手
+
+如考虑缩小地域来攻击，那是杀不成白的。第一手可用常用手筋，不知您掌握否。]
+N[审题])
+(;B[or]C[黑1走成二子而弃之是漂亮的手筋]N[正解];W[ns];B[or];W[nr];B[qs];W[ps];B[ls]
+C[白死。])
+(;B[or]N[变化];W[lq];B[ls];W[ns];B[or];W[nr];B[qs])
+(;B[ls]N[失败1];W[qs])
+(;B[qs]N[失败2];W[ks]))

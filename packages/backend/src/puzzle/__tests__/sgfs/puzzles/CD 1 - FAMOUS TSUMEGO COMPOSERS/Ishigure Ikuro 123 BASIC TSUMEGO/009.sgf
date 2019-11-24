@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[pc][qe][pe][oe][nd][md][mc][ld][kd][jd][jc][jb][ja][pb][rb][rc][rd]
+AW[ka][kb][kc][lc][mb][nc][oc][od][oa][pd][qd][qc][qb]N[009]AP[MultiGo:4.4.4]SZ[19]
+AB[qa]MULTIGOGM[0]
+
+(;LB[ra:A][ob:B]C[可以先从失败图开始计算。或者根据你的第一感开始计算。黑A、B，明显不行，可排除在计算之外。]
+N[审题])
+(;B[pa]LB[nb:A][ma:B]C[一类死活题中，有时候先自补是正解。
+黑1之后，白A则黑B，白死。]
+N[正解];W[ob];B[ma];W[ra];B[lb]C[白没有两眼。])
+(;B[pa]N[变化1];W[na];B[la];W[ob];B[lb];W[ra];B[ma])
+(;B[pa]N[变化2];W[la];B[nb])
+(;B[ma]N[失败1];W[na];B[la];W[lb];B[pa];W[ob])
+(;B[la]N[失败2];W[ma]))

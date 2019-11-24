@@ -1,0 +1,38 @@
+(;
+AB[qe][qf][qh][og][oi][oj][ok][mj][lj][kj][lk][mm][mo][np][op][pp][oq]
+AW[qd][rd][pe][oc][qj][nk][mk][ll][kl][kk][kn][jp][lp][mp][nq][nr][no][nn]
+C[Black plays.
+Source:  "Attack and Defense", Ch. 2, p. 51
+         Akira Ishida & James Davies, Ishi Press]
+
+(;
+B[ml]
+C[Cutting is bad!];
+W[pn];
+B[qo];
+W[qn]
+LB[po:a][nl:b]
+C[White invades Black's right side.
+And White A threatens B.]
+)
+    (;
+    B[mn]
+    C[Correct.  A beautiful sacrifice of three stones.]
+    (;
+    W[nm];
+    B[nl];
+    W[ml];
+    B[ol];
+    W[ln];
+    B[on];
+    W[lo]
+    C[If White proceeds with capturing the three stones,
+Black seals off the right side, and does so in sente!]
+    )
+        (;
+        W[pn];
+        B[on]C[If White tries to enter the right side,
+Black can wedge in and cut off White.]
+        )
+    )
+)

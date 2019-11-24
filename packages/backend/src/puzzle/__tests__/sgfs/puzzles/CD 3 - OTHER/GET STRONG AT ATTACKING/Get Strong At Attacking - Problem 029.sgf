@@ -1,0 +1,29 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][df][qq][nr][nq][mp][no][nn][on][om][ol][nk][ql][lo][dp][go][ip][jp][kp]
+AB[fc][kc][qd][qi][pp][oq][or][pn][ro][nm][mm][mn][mo][lp][lq][kq][jq][hq][gq]
+TR[lo][mo][mn][mm][nm]
+C[Problem 29. Black to play.  
+
+Black's marked stones are in danger, and he can't capture the marked white one because the ladder is unfavourable. What should Black do ? ]
+;B[ko]
+TE[2]
+C[Correct Answer.  
+
+Black should atari with 1, ... ]
+;W[ln];B[km]
+C[... then cast a net with 3. ]
+;W[kn];B[jn];W[jo]
+LB[ko:1]
+C[White can capture the stone at 1, but ... ]
+;B[lm]
+C[... she gets squeezed in the sequence to 7. ]
+;W[ko]
+C[After White 8, ... ]
+;B[in]
+C[... Black makes good shape with 9 and ends in sente, ... ]
+;W[ho]
+C[... since White is forced to connect at 10. <= ]
+)
+)

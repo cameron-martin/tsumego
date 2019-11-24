@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pq][or][qr][qs][lr][kr][mq][nq]AW[rs][rr][qq][qp][pp][pn][np][mp]
+[lq][kq][jq][jr][js][mr]C[60]N[60]AP[MultiGo:4.4.4]SZ[19]AB[oq]MULTIGOGM[0]
+
+(;TR[mr]LB[ms:A]C[第60题 成劫争为最佳结果
+
+从上题可知，白▲断，黑A位应是不行的。那么黑的最佳应手是什么呢？]
+N[审题])
+(;B[ps]LB[ms:A]C[黑A位吃白一子是不成的，因此只能走1位做眼，这是最佳的抵抗。]N[正解]
+;W[ns];B[nr];W[ls]C[白2至4为必然的次序，成劫争为正解。])
+(;B[ps]N[变化];W[ls];B[ns]C[白2软弱，黑3占据急所，活了。])
+(;B[ms]N[失败1];W[os]C[白2托是手筋，黑死。这正是59题的内容。])
+(;B[ns]N[失败2];W[ps]C[黑死。]))

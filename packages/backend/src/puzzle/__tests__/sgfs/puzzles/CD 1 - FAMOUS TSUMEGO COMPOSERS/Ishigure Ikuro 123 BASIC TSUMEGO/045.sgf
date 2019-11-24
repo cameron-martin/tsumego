@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[pe][of][nf][mf][lf][le][lc][kb][mb][ma][nc][rb][rc][qe]AW[mc][md]
+[me][ne][oe][od][pd][qc][qb][nb][ob]N[045]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[逐点计算能够得到正解。也可先计算第一感。]N[审题])
+(;B[oc]N[正解];W[pc];B[pa];W[qa];B[na]LB[oa:A]C[黑5在A位冲也可杀白，但不够规范。
+
+白死。])
+(;B[oc]N[变化];W[qa];B[oa])
+(;B[qa]N[失败1];W[pa];B[pc];W[pb]LB[oc:A][na:B]C[接下来A、B两点见合，白活。])
+(;B[na]N[失败2];W[pa])
+(;B[pa]N[失败3];W[qa]))

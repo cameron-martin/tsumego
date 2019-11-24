@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[od][mc][lc][lb][la][ma][rc][rd][qd][pd]AW[mb][nb][na][ob][nc][pc]
+[qc][md][ld][kd][jc]N[092]AP[MultiGo:4.4.4]SZ[19]AB[nd]MULTIGOGM[0]
+
+(;C[对杀问题。白气不清楚，取决于黑的收气方法。黑只有三气。因此必须采取最紧凑的手段。]
+N[审题])
+(;B[pb]N[正解];W[qb];B[pa];W[oc];B[rb];W[ra];B[qa]C[计算到黑7扑，应该就得到正解了。]
+;W[oa];B[pa]C[对杀黑胜。])
+(;B[pb]N[变化];W[qb];B[pa];W[qa];B[oc];W[oa];B[pb];W[pa];B[rb];W[ra];B[sb])
+(;B[qb]N[失败];W[pb];B[pa];W[rb];B[ra];W[qa]C[劫。尴尬吧？]))

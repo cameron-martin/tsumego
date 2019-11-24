@@ -1,0 +1,27 @@
+(;
+GM[1]
+SZ[19]
+AW[ic][md][nc][od]
+AB[dd][gc][oc][pc][qd][qf]
+LB[ie:A]
+C[Problem 27. Black to play.  
+
+Black attacks with the marked stone, aiming to invade. If White doesn't defend by playing A, where does Black invade ? ]
+(;B[lc]
+LB[nb:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black 1 is the vital point. Black threatens to link up with his stones on the right by playing at A. ]
+;W[mb]
+C[White must defend at 2. <= ]
+)
+(;B[kc]
+C[Failure.  
+
+An invasion at Black 1 is also possible, but ... ]
+;W[jd];B[kd];W[ke];B[ib];W[hb];B[jb];W[hc];B[gb];W[le];B[ha];W[he]
+C[... with the moves to 12, White gets a thick shape in the center of the board. <= ]
+)
+)

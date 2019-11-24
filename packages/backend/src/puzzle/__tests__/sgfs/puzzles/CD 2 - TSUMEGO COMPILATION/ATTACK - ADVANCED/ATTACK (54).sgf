@@ -1,0 +1,28 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cd][cj][dd][ee][fe]
+AW[cc][cf][dc][fd]PL[W]C[White to play.
+
+Attack - Destroy Opponent's Shape]
+(
+;W[ed]
+;B[de]
+;W[gd]
+;B[ge]C[RIGHT
+])
+(
+;W[gd]
+(
+;B[bc]
+;W[bb]
+;B[bd]
+;W[ed]
+;B[df])
+(
+;B[ed]
+;W[ec]
+;B[ge]))
+(
+;W[bd]
+;B[be]
+;W[bc]
+;B[ce]))

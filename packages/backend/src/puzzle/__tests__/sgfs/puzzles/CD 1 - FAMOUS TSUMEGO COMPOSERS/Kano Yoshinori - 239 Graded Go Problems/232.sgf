@@ -1,0 +1,13 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[kb][nc][mc][nb][lb][oa][lc][ka][ob]GN[ ]AB[pa][md][kc][ja][ld][pb][oc][jc][nd][jb][pc]PM[1]C[Problem 232. White to play.
+How does White secure life for his stones?]PW[ ]
+(
+;W[ma]C[Correct Answer
+White 1 is the correct answer. White is absolutely alive.]
+)
+(
+;B[ma]C[If Black Plays First
+If it were Black's turn to play, Black 1 would reduce White to one eye and he would eventually be captured.]
+)
+
+)

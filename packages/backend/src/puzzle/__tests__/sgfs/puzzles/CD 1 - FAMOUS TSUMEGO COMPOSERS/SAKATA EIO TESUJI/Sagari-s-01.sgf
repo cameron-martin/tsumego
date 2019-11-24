@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[co][do][eo][fp][cq][fq][cr][fr]AB[fo][go][dp][ep][gq][dr][er][gr][ir]C[2. Sagari
+
+Ex.1 - Semeai 
+
+Sagari refers mainly to a descent to the first line and there are numerous examples of its effect in life and death problems or semeais.This is a semeai between 3 W stones and 4 B stones.
+If W struggles clumsily, he cannot possibly win.]PL[W]
+(;W[es]LB[es:1]C[W 1 unfortunately fails. ]
+;B[ds]LB[ds:2][es:1]C[W is lost after B 2 ]
+;W[fs]LB[ds:2][es:1][fs:3]C[W 3 ]
+;B[gp]LB[gp:4][ds:2][es:1][fs:3]C[and B 4 tsume.])
+(;W[fs]LB[fs:1]C[Diag. 2 - Failure
+
+W 1 sagari is the calm move appropriate to this situation. ]
+(;B[gp]LB[gp:2][fs:1]C[After B2, ]
+(;W[dq]LB[gp:2][dq:3][fs:1]C[ W 3 ]
+;B[eq]LB[gp:2][dq:3][eq:4][fs:1]
+;W[ds]LB[gp:2][dq:3][eq:4][ds:5][fs:1]C[and W 5 are no good. ]
+;B[gs]LB[gp:2][dq:3][eq:4][ds:5][fs:1][gs:6]C[They are foiled by B 6 osae and so this sequence fails.])
+(;W[ds]LB[gp:2][ds:3][fs:1]C[Diag.3 - Correct
+
+W 3 must be hane. ]
+;B[es]LB[gp:2][ds:3][es:4][fs:1]C[If B 4, ]
+;W[dq]LB[gp:2][dq:5][ds:3][es:4][fs:1]C[Then W plays de 5 and B cannot connect.]))
+(;B[eq]LB[eq:2]C[Diag 4. - Variation
+
+If B 2 fills in a dame in reply to W 1 sagari ]
+;W[ds]LB[eq:2][ds:3][fs:1]C[Then W 3 hane, ]
+;B[es]LB[eq:2][ds:3][es:4][fs:1]C[If B 4, ]
+;W[cp]LB[cp:5][eq:2][ds:3][es:4][fs:1]C[W 5 sequence wins for W.
+If you think deeply about the effect of the sagari 1, you will be able to solve such problems quite easily])))

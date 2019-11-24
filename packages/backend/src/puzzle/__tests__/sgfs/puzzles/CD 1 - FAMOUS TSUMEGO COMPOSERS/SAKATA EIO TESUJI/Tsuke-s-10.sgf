@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bm][cm][dm][em][do][ep][bq][cq][dq][eq][er]AB[bk][ck][el][fl][fm][cn][dn][bo][fo][cp][dp][fp][fq][fr]C[Ex. 10 - Watari
+
+W wants to connect his 4 stone on the upper side with the corner. You are to be prepared for a second suji after having considered how to find B's weak point.]PL[W]
+(;W[en]LB[en:1]C[Diag 1 - Failure
+
+The exchange of W1 de ]
+;B[eo]LB[en:1][eo:2]C[and B2  is good ]
+(;W[bp]LB[en:1][eo:2][bp:3]C[but then W3 ate is not good.]
+;B[co]LB[en:1][co:4][eo:2][bp:3]C[It allows B 4 to capture 1 stone and then there is nothing more that can be done. W's move 3 must be given more consideration.
+])
+(;W[ao]LB[en:1][ao:3][eo:2]C[Diag 2. - Correct
+
+W 3 tsuke after W 1, B 2, is an inspired move. ]
+(;B[ap]LB[en:1][ao:3][eo:2][ap:4]C[If now B 4 hanedashi ]
+;W[bp]LB[en:1][ao:3][eo:2][ap:4][bp:5]C[W plays sashikomi ]
+;B[co]LB[en:1][ao:3][co:6][eo:2][ap:4][bp:5]C[B 6 takes ]
+;W[an]LB[an:7][en:1][ao:3][co:6][eo:2][ap:4][bp:5]C[W 7 hiki, securing the connection.])
+(;B[an]LB[an:4][en:1][ao:3][eo:2]C[Diag.3 - Correct
+
+Even if B plays this hanedashi 4 in reply to W 3 it comes to the same thing. ]
+;W[bn]LB[an:4][bn:5][en:1][ao:3][eo:2]C[Again W connects after sashikomi 5.]
+;B[co]LB[an:4][bn:5][en:1][ao:3][co:6][eo:2]C[B 6 takes one stone]
+;W[ap]LB[an:4][bn:5][en:1][ao:3][co:6][eo:2][ap:7]C[and W plays 7 hiki.
+W's tsuke 3 is a very good point, creating the miai points on either side for W 5, this sashikomi being ate on the 2 B stones.])))
+(;W[eo]LB[eo:1]C[Diag. 4 - Failure
+
+To return to the beginning, if W's de 1 is on this side ]
+;B[en]LB[en:2][eo:1]C[after B2 ]
+;W[ao]LB[en:2][ao:3][eo:1]C[W 3 tsuke does not work]
+;B[ap]LB[en:2][ao:3][eo:1][ap:4]C[with B 4]
+;W[bp]LB[en:2][ao:3][eo:1][ap:4][bp:5]C[W 5 hanedashi ]
+;B[an]LB[an:6][en:2][eo:1][ap:4][bp:5]C[B 6 takes.]))

@@ -1,0 +1,53 @@
+(;
+AB[sr][rq][kq][iq][qp][kp][ro][oo][no][mo][qn]
+AW[rs][rr][qq][pq][mq][lq][dp][nn]
+C[Black plays.
+Source:  Tesuji Dictionary, Vol. 1, Tsuke #26,
+Segoe Kensaku & Go Seigen, Ishi Press]
+(;
+B[lr]
+C[A crude move that gives White the key defensive point.];
+W[mr];
+B[kr];
+W[oq]
+C[White lives easily.]
+)
+    (;
+    B[mr]
+    C[Correct.  "A good point for my opponent
+can be a good point for me!"];
+    W[lr]
+    (;
+    B[or]
+    (;
+    W[oq];
+    B[nq];
+    W[np];
+    B[nr]
+    C[Black next cuts White into two groups
+and all the White stones die.]
+    )
+        (;
+        W[nr]
+        C[And if White goes for eyes immediately.];
+        B[oq]
+        C[Black splits White and the left White
+group cannot make two eyes.]
+        )
+    )
+        (;
+        B[nq]
+        C[Wrong move order!];
+        W[nr];
+        B[or];
+        W[ms];
+        B[oq]
+        C[Black has to go back to defend.];
+        W[kr];
+        B[jr];
+        W[ks]
+        C[White makes life and Black only captures
+half the original White stones.]
+        )
+    )
+)

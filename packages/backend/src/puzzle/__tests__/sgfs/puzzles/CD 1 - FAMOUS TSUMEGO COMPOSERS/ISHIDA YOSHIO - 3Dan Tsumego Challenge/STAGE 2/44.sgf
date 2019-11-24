@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[mr][sq][sp][rp][qp][pp][op][nq]AW[or][oq][pq][rq][rr][sr]C[44]N[44]
+AP[MultiGo:4.4.4]SZ[19]AB[mp]MULTIGOGM[0]
+
+(;LB[rs:A]C[第44题 走成聚杀形
+
+在A位攻击是不行的，请考虑别的方法。一旦最初一手走在真正的急所处，就可走成聚杀形来杀白。]
+N[审题])
+(;B[ps]C[黑1点是破坏白眼形的急所。]N[正解];W[os];B[qr];W[qq];B[rs]C[黑3是次序。白死。])
+(;B[ps]N[变化];W[qq];B[rs]LB[qr:A][os:B]C[黑1点时，白2扩大眼位，黑3是很关键的一手。以下A、B见合，白死。])
+(;B[ps]N[失败1];W[qq];B[os];W[qs]LB[pr:A][ns:B]C[A、B见合，白活。])
+(;B[qr]N[失败2];W[qq];B[rs];W[ps]C[黑计算不够，成后手双活。
+
+黑3若走4位，则白走3位。]))

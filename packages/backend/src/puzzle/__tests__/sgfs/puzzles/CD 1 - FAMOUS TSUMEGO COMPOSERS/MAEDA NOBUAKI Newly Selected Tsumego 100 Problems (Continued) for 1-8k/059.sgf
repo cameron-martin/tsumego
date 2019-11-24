@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[rf][qg][od][nd][nc][mb][lc][pb][qd]AW[nb][ob][oc][pc][qc][re]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[审题：真的不能杀吗？再坚持一下，再计算一下。]N[审题])
+(;B[rc]C[黑1扳，想到这个容易]N[正解];W[rb];B[sb]C[黑3连扳，想到这个需要计算];W[rd]
+;B[sc];W[ra];B[qb];W[pa];B[na]C[白死。])
+(;B[rc]N[失败1];W[rb];B[rd]C[如果是实战，在黑1、白2交换之后，没有人会走黑3接吧？但在计算死活题时，由于都是在脑子里面计算，有可能想不到的。]
+;W[sb])
+(;B[rb]N[失败2];W[rc];B[rd];W[sb]))

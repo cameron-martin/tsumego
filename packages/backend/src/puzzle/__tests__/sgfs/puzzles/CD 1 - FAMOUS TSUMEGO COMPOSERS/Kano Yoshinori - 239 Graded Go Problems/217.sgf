@@ -1,0 +1,13 @@
+
+(;GM[1]SZ[19]FF[4]AP[GOWrite:2.0.07]PB[ ]FG[259:]AW[qn][op][oo][om]GN[ ]AB[pp][qp][mq][np]PM[1]C[Problem 217. Black to play.
+How does Black link up his two groups of stones?]PW[ ]
+(
+;B[oq]C[Correct Answer
+By playing at 1, Black links up his stones on the left and right.]
+)
+(
+;W[oq]C[If White Plays First
+If it were White's turn to play, he would play 1 and the black stones would be separated into two groups.]
+)
+
+)

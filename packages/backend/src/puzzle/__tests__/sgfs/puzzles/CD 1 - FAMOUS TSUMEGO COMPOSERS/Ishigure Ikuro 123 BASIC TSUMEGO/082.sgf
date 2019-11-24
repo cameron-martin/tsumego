@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[ne][me][le][ke][kc][lc][kb][ka][rb][rc][qd][qe][pf]AW[la][lb][mb]
+[md][nd][od][pd][pb][qb][qc]N[082]AP[MultiGo:4.4.4]SZ[19]AB[ob]MULTIGOGM[0]
+
+(;LB[mc:A][nb:B]C[黑A则白B，白活。必须另觅它途。观察棋形，左侧白气很紧，右侧可能有渡过。]
+N[审题])
+(;B[qa]C[黑1扳，要求渡过。对此，白只能阻渡]N[正解];W[pa];B[oc]C[黑3长是先手];W[pc]
+;B[mc]C[白死。])
+(;B[qa]N[变化];W[pa];B[oa]C[黑3打吃，随手];W[ra];B[oc];W[pc];B[nb];W[mc];B[na]C[黑后手双活。])
+(;B[oc]N[失败1];W[nb];B[oa];W[pc];B[qa];W[pa];B[mc];W[nc])
+(;B[nb]N[失败2];W[mc];B[oc];W[na];B[oa];W[pc])
+(;B[oa]N[失败3];W[pa];B[oc];W[pc];B[mc];W[nc]))

@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[cn][do][fn][en][go][hp][hq][hr][gr][eq][er][bq][aq][cp]AW[es][fs]
+[fr][gq][fp][ep][dp][dq][cq][cs]C[B]N[011]AP[MultiGo:4.4.4]SZ[19]AB[bo]MULTIGOGM[0]
+
+(;LB[dr:A][fq:B][gp:C]C[容易计算，黑的第一手只能是A位，黑走B或C位明显不行。
+
+难度：B]
+N[审题])
+(;B[dr]N[正解];W[br];B[bs]C[黑3扑是手筋];W[as];B[ar];W[fq];B[bs]C[白若劫胜则双活。
+
+劫杀正解。])
+(;B[dr]N[变化1];W[br];B[bs];W[as];B[ar];W[bs];B[fq];W[gp];B[gs])
+(;B[dr]N[变化2];W[br];B[bs];W[cr];B[gp];W[fq];B[ar])
+(;B[dr]N[失败];W[br];B[ar];W[bs];B[gp];W[fq]))

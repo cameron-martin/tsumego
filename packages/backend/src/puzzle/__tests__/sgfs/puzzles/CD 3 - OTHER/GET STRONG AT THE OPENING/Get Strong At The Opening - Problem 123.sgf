@@ -1,0 +1,45 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][fc][dj][dp][kq][ko][kl]
+AB[jd][pd][pf][qk][mm][np][pq]
+LB[fp:A][fq:B][er:C]
+TR[kl]
+C[Problem 123. Black to play.  
+
+White has just played the marked stone, mapping out a huge moyo on the left, so the lower left is now the most important place to play. But where should Black play: at A, B, or C ? ]
+(;B[fp]
+TE[2]
+C[Correct Answer.  
+
+Black should approach high with 1. ]
+;W[dn]
+C[If White 2, ... ]
+;B[ip]
+LB[km:A]
+C[... Black extends to 3, aiming to exploit the thinness of White's two-space jump by attaching at A. ]
+;W[jn]
+C[White will defend at 4, but ... ]
+;B[hn]
+C[... Black plays 5, wiping out much of White's moyo. <= ]
+)
+(;B[fq]
+C[Failure.  
+
+White answers Black 1 ... ]
+;W[fo]
+C[... by capping at 2. ]
+;B[cq]
+C[If Black invades the corner with 3, ... ]
+;W[dq];B[cp];W[co];B[bo];W[cn];B[bn];W[cm];B[dr];W[er];B[cr];W[eq]
+TR[kl]
+C[... after the sequence to 14, the marked stone makes a huge moyo with White's other stones on the left. <= ]
+)
+(;B[er]
+C[Failure.  
+
+If Black 1 here, ... ]
+;W[fq]
+C[... White makes a bigger moyo with 1. <= ]
+)
+)

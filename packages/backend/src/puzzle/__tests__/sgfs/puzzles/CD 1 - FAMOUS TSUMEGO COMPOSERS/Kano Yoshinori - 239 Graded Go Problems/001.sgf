@@ -1,0 +1,18 @@
+
+(;GM[1]SZ[13]FF[4]AP[GOWrite:2.0.07]PM[1]GOGGPAP[GOWrite\:2.0.07]AW[if][hf][gg]FG[259:]C[LEVEL ONE
+
+SECTION 1. HOW TO CAPTURE STONES
+
+Problem 1. Black to play.
+How does Black play to capture a white stone?]AB[hg][fg][gf]GN[ ]PW[ ]PB[ ]
+(
+;B[gh]C[Correct Answer
+By playing at 1, Black can capture one white stone.]
+)
+(
+;B[ig]C[Wrong Answer
+If Black plays 1 at here...]
+;W[gh]C[...White can escape by playing at 2.]
+)
+
+)

@@ -1,0 +1,31 @@
+(;
+AB[pc][qo][pq][ch][cf][df][ce][cd][dc]
+AW[eb][ec][de][ef][eg][dg][eq][qe]
+C[White plays.
+
+Source:
+    Match the Joseki to the Fuseki
+    Go World #1, May-June 1977, pp. 29-30]
+(;
+W[mc]
+C[White must approach the top right corner from the left.];
+B[od]
+C[Usual.];
+W[jd]
+C[The follow up here makes the most of the upper left thickness.];
+B[qh]
+C[One possible continuation is for Black to pressure the lone White stone.];
+W[pf];B[ne];W[og];B[qd];W[pi]
+C[But White is satisfied with his prospects in this game.]
+)
+    (;
+    W[od];B[oc];W[nd]
+    C[Joseki, but horrible in this situation.];
+    B[mc]
+    LB[qj:A]
+    C[Black poking out here severely reduces the effectiveness of White's wall on the left.  Furthermore, a White follow up at A is not worth very much because Black's solid lower right corner limits White's potential expansion.
+
+White already has a losing game.]
+    )
+)
+

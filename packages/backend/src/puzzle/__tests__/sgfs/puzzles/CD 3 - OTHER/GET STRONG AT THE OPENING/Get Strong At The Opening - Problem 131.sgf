@@ -1,0 +1,44 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ce][dc][fc][dq][gq][qj][dl]
+AB[de][df][cf][co][fo][pp][qd][oc]
+LB[dj:A][cq:C][hp:B]
+C[Problem 131. Black to play.  
+
+Before pincering the white stone on the left side, does Black need to make any preparatory moves ? Of course, Black would like to finish up on the left side in sente so he can play on the right side before White. ]
+(;B[dj]
+TE[2]
+C[Correct Answer.  
+
+Black must first play 1. ]
+;W[fl]
+C[When White jumps to 2, ... ]
+;B[hp]
+(;W[hq];B[ip];W[iq];B[jp];W[kq];B[ep]
+C[... Black can force with the sequence to 9, ... ]
+;W[eq];B[hl]
+C[... then cap at 11. <= ]
+)
+(;W[gp]
+LB[hp:3]
+C[White's failure.  
+
+In response to Black 3, White must not cut through with 4 ... ]
+;B[go];W[ho]
+C[... and 6. ]
+;B[hq];W[hr];B[ir];W[gr];B[hn];W[io];B[gm]
+C[After Black 13, White will be find herself in a severe fight. (See Problem 151 in Get Strong at Joseki 1.) ]
+))
+(;B[hp]
+C[Failure.  
+
+If Black plays 1 here, ... ]
+;W[hq]
+C[White will play 2 ... ]
+;B[ip];W[iq]
+C[... to 4, ... ]
+;B[jp];W[di]
+C[... then extend to 6. <= ]
+)
+)

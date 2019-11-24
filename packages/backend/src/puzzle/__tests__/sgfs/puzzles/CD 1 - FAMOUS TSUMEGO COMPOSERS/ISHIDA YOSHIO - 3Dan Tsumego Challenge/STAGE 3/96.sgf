@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[rn][sp][nq][nr][ns][pq][op][oo][po][qo]AW[rq][qr][pr][or][os][pp]
+[qp]C[96]N[96]AP[MultiGo:4.4.4]SZ[19]AB[rp]MULTIGOGM[0]
+
+(;TR[pq][pr]C[第96题 内部的急所
+
+黑△与白▲交换后的棋形。黑如从外侧缩小白的眼位，则白可活。因此要从内部来攻杀。请无条件杀白。
+]
+N[审题])
+(;B[rr]N[正解];W[sr];B[rs]C[黑1、白2、黑3是必然的进行。];W[qq]LB[sq:A][qs:B]C[白4叫吃，黑不能走A位，那样的话，白B是先手，活了。]
+;B[qs];W[oq];B[sq]C[白死于气紧。])
+(;B[rr]N[变化];W[sr];B[rs];W[qs];B[qq];W[ss];B[rr]C[黑7是常用的破眼手筋。])
+(;B[qq]N[失败1];W[rr])
+(;B[sq]N[失败2];W[sr];B[rs];W[qs];B[rr];W[qq]))

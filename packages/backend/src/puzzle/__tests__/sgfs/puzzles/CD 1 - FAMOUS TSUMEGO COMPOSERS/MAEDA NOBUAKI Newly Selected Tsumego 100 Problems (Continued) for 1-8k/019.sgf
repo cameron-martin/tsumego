@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[od][oc][kc][ke][qc][qd]AW[mc][nd][ne][oe][pe][qe][re][rc][rb]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[审题：不是很难，手数虽然多，但计算不复杂。]N[审题])
+(;B[nb]C[黑1尖要求渡过，是先手]N[正解];W[mb];B[pb];W[qb]C[白棋看清楚了，不得不让黑做活]
+;B[na]C[黑活。])
+(;B[nb]N[变化];W[mb];B[pb];W[oa]C[白棋要强硬杀黑];B[na];W[pa];B[qb];W[qa];B[rd]
+;W[sd];B[ra];W[sa];B[sc]C[白棋角上出问题了。])
+(;B[pb]N[失败1];W[nb]C[这样不行。])
+(;B[mb]C[托也不行]N[失败2];W[nb];B[nc];W[lb]))

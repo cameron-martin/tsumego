@@ -1,0 +1,6 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[od][oc][nb][mb][sd][rd][qd][pd]AW[rc][qc][pc][qa][ob][na]C[黑先 断吃的问题]
+
+(;B[pb]
+(;W[pa];B[sc];W[sb];B[rb]C[正解 黑先白死])
+(;W[oa];B[rb]C[变化]))
+(;B[sc];W[sb];B[rb];W[ra]C[失败]))

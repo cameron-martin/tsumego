@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 62. Black to play.
+Where should Black play to capture two white stones?]AW[if][hh][hf][gg][fh][ih][gf]PB[ ]PM[1]PW[ ]AB[jh][fi][hi][hg][ig][gh]
+(
+;B[ii]C[Correct Answer
+By playing at 1, Black can take two white stones.]
+)
+(
+;B[jg]C[Wrong Answer
+If Black plays at 1...]
+;C[...White captures with 2 and Black can no longer take the two white stones.]W[gi]
+)
+
+)

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pn][rm][rr][qq][pp]AW[rl][ql][om][on][oo][nq][pr][qr][rp]N[225]AP[MultiGo:4.4.4]
+SZ[19]AB[po]MULTIGOGM[0]
+
+(;LB[rq:A][rn:B]C[角上的棋形是不是很常见呢？黑A则白B，黑死了。
+
+难度：☆☆]N[审题])
+(;B[ro]N[正解];W[rq];B[sr]C[到此是必然的进行。现在再观察棋形，黑活很明显了吧。]
+;W[qm];B[rn];W[rs];B[qp])
+(;B[ro]N[变化];W[rq];B[sr];W[qp];B[pq]C[白4、黑5这种交换对白没有任何帮助。])
+(;B[rq]N[失败];W[rn]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[nq][op][oo][pq][pr][qq][lr][lq]AW[rp][qp][pp][oq][or][nr][mr][rq]
+N[102]AP[MultiGo:4.4.4]SZ[19]AB[mq]MULTIGOGM[0]
+
+(;C[基本对杀。黑的手法是基本功。
+
+难度：☆☆]N[审题])
+(;B[ps]N[正解];W[qr];B[rr];W[rs]C[白4反打时，黑已经长出了一气];B[ms])
+(;B[ps]N[变化];W[qs];B[rr]LB[sr:A][rs:B]C[以下，白A则黑B，白差一气];W[os];B[qr]
+;W[rs];B[ss];W[rs];B[qs]C[白始终差一气。]))

@@ -1,0 +1,51 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[bd][bg][cd][cg][de][dg][ee][ef][eg]
+AW[bc][bh][bj][cc][ch][dc][dh][ed][eh][fe][ff][fg]PL[W]C[White to play.
+
+Capturing stones - Reduce Opponent's Territory
+
+Source: Guan-Zhi-Pu.]
+(
+;W[ag]
+;B[af]
+;W[ad]
+;B[cf]
+;W[be]C[RIGHT
+])
+(
+;W[cf]
+;B[ad]
+;W[bf]
+;B[af]
+;W[be]
+;B[ce]C[Both Alive])
+(
+;W[ad]
+;B[ae]
+(
+;W[cf]
+;B[bf]
+(
+;W[ce]
+;B[ag])
+(
+;W[ag]
+;B[ce]))
+(
+;W[be]
+;B[ac]
+;W[bf]
+;B[cf]
+;W[ag]
+;B[ce])
+(
+;W[af]
+;B[be]
+(
+;W[cf]
+;B[ag]
+;W[bf]
+;B[dd]C[Both Alive])
+(
+;W[ag]
+;B[cf]))))

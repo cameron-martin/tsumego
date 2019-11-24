@@ -1,0 +1,20 @@
+(;
+GM[1]
+SZ[19]
+AW[dc][cn][dq][pb][qb][qc][qd][qf][qg][nc][ne][ng]
+AB[eb][fd][de][be][pp][ob][oc][pc][pd][pe][pf][pg][ph]
+LB[ph:A]
+C[Problem 122. White to play.  
+
+How should White attack the black stones after Black extends to A ? ]
+;W[oi]
+TE[2]
+C[Correct Answer.  
+
+White should play the shoulder hit of 1. ]
+;B[qh];W[qj];B[rh];W[rf];B[qk];W[pk];B[rj];W[ql];B[rk]
+C[Black struggles to get a position on the right side, but ... ]
+;W[pl]
+C[... White gets a lot of influence on the outside with 11. Black, for his part, has gained almost no territory. <= ]
+)
+)

@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[pq][lp][lo][kq][kr][rr][rq][qp][pp][op]AW[lr][ls][mq][or][pr][qq]
+[qr][qs]C[58]N[58]AP[MultiGo:4.4.4]SZ[19]AB[np]MULTIGOGM[0]
+
+(;TR[pq][pr]C[第58题 绝杀的技巧
+
+黑△与白▲交换，缩小地域是当然之着。接着黑有绝杀的技巧。
+
+冷静地考虑，理当并不困难。]
+N[审题])
+(;B[nr]N[正解];W[nq];B[os]C[黑1靠很锐利，白2只好遮断，黑3扳击中要害，白没法抵抗了。])
+(;B[nr]N[续正解];W[nq];B[os];W[ms];B[ns]LB[oq:A][lq:B]C[白不能兼顾A、B，死。])
+(;B[nq]N[失败];W[nr];B[lq];W[mr]C[直四，活形。]))

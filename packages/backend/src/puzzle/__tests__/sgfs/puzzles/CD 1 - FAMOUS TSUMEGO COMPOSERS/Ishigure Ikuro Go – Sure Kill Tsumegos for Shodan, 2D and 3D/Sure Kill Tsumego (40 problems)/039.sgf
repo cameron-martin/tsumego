@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[mo][no][oo][po][qo][ro][qp][nr][or][oq][pr][os][lp][lq][mq]AW[nq]
+[mr][mp][np][op][pp][pq][qq][qr][rp][sr]N[039]AP[MultiGo:4.4.4]SZ[19]AB[lo]MULTIGOGM[0]
+
+(;C[黑5子只有两气了，必须补棋。但是单纯自补的话，角上白棋可能做活。]N[审题])
+(;B[rs]N[正解];W[qs];B[rr];W[rq];B[sp]LB[ps:A]C[黑棋始终不让白有机会在A位入子。白死。])
+(;B[lr]N[失败];W[rs]))

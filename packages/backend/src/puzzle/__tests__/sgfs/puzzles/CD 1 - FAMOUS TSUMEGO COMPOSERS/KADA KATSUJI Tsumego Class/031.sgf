@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[dr][ds][aq][an][bn][bo][cp][dp][ep][fp][fq][gr]AW[bp][cq][dq][eq]
+[er][fr][gs][ao][bq]C[B]N[031]AP[MultiGo:4.4.4]SZ[19]AB[hr]MULTIGOGM[0]
+
+(;C[计算时，多替白棋考虑。
+
+难度：B]N[审题])
+(;B[br]N[正解];W[ar];B[as];W[bs]C[白4扑容易疏忽];B[cs];W[ap];B[es]C[白先提劫，白要打两次劫才能成活，因此对黑更有利。])
+(;B[br]N[变化1];W[ar];B[as];W[bs];B[cr];W[ar]C[白先提劫，但白劫胜就活了，因此不是两次劫。
+
+黑的进攻不如正解。])
+(;B[br]N[变化2];W[ar];B[as]LB[bs:A]C[正解中，白先在A位扑……];W[ap]C[现在白4打，而不是扑]
+;B[cr];W[bs];B[ar]C[黑眼杀白。])
+(;B[ap]N[失败1];W[ar])
+(;B[ar]N[失败2];W[ap];B[bs];W[br]))

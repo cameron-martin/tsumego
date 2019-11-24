@@ -1,0 +1,46 @@
+(;
+AB[pd][hd][ed][cd][ce][ee][eg][dg][cg][dh][ci][cj][ck][dj][ej][fj][bl][bm][cm][dm][dq]
+AW[cc][dc][ec][fd][fe][ff][cf][ch][bh][bi][bj][bk][di][ei][fi][cl][dl][el][co][pq]
+C[White plays.
+
+Kobayashi Koichi vs. Cho Chikun
+37th Honinbo Title, game 2
+Source:  Go World #29, Autumn 1982, p. 30]
+(;
+W[gj]
+C[A Kobayashi mistake.];
+B[fk];
+W[bg];
+B[bf];
+W[em];
+B[ag]
+LB[dn:a]
+C[Correct.
+Trying to lead a second group out
+with Black A would be too dangerous.
+
+With this line from the game Black later
+gets sente to play first at the top.]
+)
+    (;
+    W[gi]
+    C[Works better]
+    (;
+    B[bg];
+    W[gk]
+    C[White can squeeze here in sente and
+then play first at the top.]
+    )
+        (;
+        B[gj];
+        W[bg]
+        C[White can now win the semeai.];
+        B[bf];
+        W[df];
+        B[ef];
+        W[be];
+        B[af];
+        W[bd]
+        )
+    )
+)

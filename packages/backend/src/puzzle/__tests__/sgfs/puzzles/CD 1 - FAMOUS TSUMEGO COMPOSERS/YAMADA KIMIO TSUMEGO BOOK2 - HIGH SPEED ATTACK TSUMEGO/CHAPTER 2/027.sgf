@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[rc][qc][pd][od][nd][nb][lc][me][le][ke][jd][jc][jb][ja][ka][qa]AW[kb]
+[lb][la][kc][kd][ld][md][nc][oc][pc][pb][qb]N[027]AP[MultiGo:4.4.4]SZ[19]AB[rb]
+MULTIGOGM[0]
+
+(;C[不是很难的题目。抓住白气紧的弱点进行攻杀。]N[审题])
+(;B[na]N[正解];W[pa];B[mc];W[mb];B[mc]C[白死。])
+(;B[na]N[变化1];W[oa];B[ob]C[黑可以渡过。由于白气紧，这里没有接不归。])
+(;B[na]N[变化2];W[mb];B[pa])
+(;B[pa]N[失败];W[oa];B[ra];W[mb]))

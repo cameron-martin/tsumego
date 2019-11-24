@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cn][hq]AB[dp][fp]C[Reference
+
+Here is the sequence leading up to this position.  It results from W's tsume against the ikken tobi ]PL[W]
+;W[eo]LB[eo:1]C[W1 nozoki ]
+;B[ep]LB[eo:1][ep:2]C[B connects ]
+;W[go]LB[eo:1][go:3][ep:2]C[then kakae 3 after the nozoki. ]
+;B[fo]LB[eo:1][fo:4][go:3][ep:2]C[ Then B4 ]
+;W[fn]LB[fn:5][eo:1][fo:4][go:3][ep:2]C[W 5 ]
+;B[gn]LB[fn:5][gn:6][eo:1][fo:4][go:3][ep:2]C[Then B 6 cuts ]
+;W[ho]LB[fn:5][gn:6][eo:1][fo:4][go:3][ho:7][ep:2]C[W 7 extends ]
+;B[dn]LB[dn:8][fn:5][gn:6][eo:1][fo:4][go:3][ho:7][ep:2]C[and B 8 tsuke]
+;W[dm]LB[dm:9][dn:8][fn:5][gn:6][eo:1][fo:4][go:3][ho:7][ep:2]C[W 9 hanes.])

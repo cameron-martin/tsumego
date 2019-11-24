@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[no][oo][po][qo][qp][qq][qr][rq][sq][ls][lr][lq][mp]AW[sr][rr][rs]
+[qs][pr][pq][pp][op][np][mr][ms]N[025]AP[MultiGo:4.4.4]SZ[19]AB[mo]MULTIGOGM[0]
+
+(;LB[ps:A]C[观察棋形：白气紧，A位有扑。这些都是可以利用的地方。
+
+空间小，选择少。开动脑筋吧。]
+N[审题])
+(;B[nq]N[正解];W[nr]C[对于黑1的扳入，白2是必然的];B[os]C[黑3点是手筋];W[ps];B[or]
+C[白两边不入子，死了。])
+(;B[nq]N[变化];W[nr];B[os];W[or]LB[ps:A]C[黑3点时，白必须紧着黑气走，否则黑要在A位打吃]
+;B[ps];W[ns];B[ps])
+(;B[os]N[失败];W[nq];B[ps];W[or];B[ss];W[ns];B[qs];W[mq]))

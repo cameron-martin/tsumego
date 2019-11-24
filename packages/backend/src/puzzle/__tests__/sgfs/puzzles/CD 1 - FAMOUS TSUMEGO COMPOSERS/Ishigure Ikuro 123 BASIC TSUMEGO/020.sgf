@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qc][pc][rb][nb][se][re][qe]AW[pb][oc][mc][nc][mb][pd][pe][pf][qf]
+[rf][sf][rd][qb]N[020]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[空间很小，因此选择和变化都很少。注意，黑气很紧。]N[审题])
+(;B[sc]N[正解];W[ra]C[黑1、白2是必然的交换];B[ob]LB[qa:A][sa:B]C[黑3先断好。白若A位粘，黑B抛劫后，白加大了对劫的投资。]
+;W[na];B[sa]C[黑5抛劫。
+劫活正解。])
+(;B[sc]N[变化];W[ra];B[sa]C[这是黑3直接抛劫的变化。
+
+与正解图相比，差别很细微吧。])
+(;B[rc]N[失败];W[ra];B[sd];W[sb]C[黑死。]))

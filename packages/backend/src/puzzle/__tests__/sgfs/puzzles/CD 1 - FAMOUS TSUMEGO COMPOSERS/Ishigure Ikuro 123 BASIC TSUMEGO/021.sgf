@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[mb][pd][pe][pf][qf][rf][sf][rd][pb][oc][nc]AW[se][re][qe][qd][qc]
+[pc][rb][nb]N[021]AP[MultiGo:4.4.4]SZ[19]AB[mc]MULTIGOGM[0]
+
+(;C[空间很小，黑的选择很少，变化也不复杂，但容易出现盲点。
+
+本题与020题密切相关。]
+N[审题])
+(;B[ra]N[正解];W[qa];B[qb];W[sc];B[sa]LB[ob:A][pa:B]C[黑5长进角，是容易忽略的好手。
+
+由于白A黑B之后，不能出棋，白死。])
+(;B[ra]N[变化];W[qa]C[黑1、白2是必然的交换];B[qb]C[黑3也是必然之着];W[rc];B[pa]
+;W[sd];B[sb]C[白死。])
+(;B[qb]N[失败];W[sc];B[ra];W[ob];B[na];W[sa];B[sb]C[劫杀。这正是020题的正解。]))

@@ -1,0 +1,76 @@
+(;
+AB[ra][mb][qb][sb][mc][rc][kd][md][qd][ke][me][qe][re][pf][og]
+AW[ob][jc][kc][nc][qc][id][rd][ne][oe][pe][if][lf][mf][jg][ng]
+C[Black plays.
+
+Source:
+    Qi Jing Zhong Miao #444, an ancient collection of mostly kyu level life and death problems.
+
+Analysis:
+    Myron Souris
+
+This is the kind of wonderful problem that looks impossible at first glance, and then looks more impossible (is that possible?) the longer you look.]
+(;
+B[oc]
+C[The only move!]
+(;
+W[pc]
+(;
+B[od]
+C[Again, the only move!]
+(;
+W[nd];B[nb];W[pd];B[oa];W[pa];B[pb];W[na];B[oc]
+C[Again the only move!]
+(;
+W[oa];B[ma];W[od];B[qa];W[oc];B[nf]
+C[And the snapback is a cool finish.]
+)
+    (;
+    W[od];B[qa]
+    )
+    (;
+    W[nf];B[qa];W[od];B[ma]
+    )
+)
+    (;
+    W[pd]
+    C[Transposes to the main line.];
+    B[pb];W[nd];B[oa];W[na];B[nb];W[pa];B[oc]
+    )
+)
+    (;
+    B[oa]
+    C[Fails];
+    W[nb]
+    (;
+    B[na];W[pa];B[ma];W[pb]
+    )
+        (;
+        B[pb];W[na];B[nd];W[od]
+        )
+    )
+)
+    (;
+    W[nd];B[nb];W[pc];B[oa]
+    C[And Black connects underneath.]
+    )
+)
+    (;
+    B[oa]
+    C[Fails];
+    W[nb]
+    (;
+    B[na];W[pa]
+    (;
+    B[ma];W[pb];B[nd];W[od];B[oc];W[pc];B[nf];W[of]
+    )
+        (;
+        B[nd];W[od];B[oc];W[pc];B[ma];W[pb]
+        )
+    )
+        (;
+        B[nd];W[od];B[pb];W[na];B[oc];W[pc];B[nf];W[of];B[pd];W[nf]
+        )
+    )
+)
+

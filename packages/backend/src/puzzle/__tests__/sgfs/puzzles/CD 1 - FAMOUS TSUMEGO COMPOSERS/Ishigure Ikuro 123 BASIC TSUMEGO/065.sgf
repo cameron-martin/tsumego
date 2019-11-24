@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[ne][me][le][ld][lc][mc][jc][pb][ob][od][pd]AW[mb][nb][nc][nd][md]
+[oe][of][pf][qf][qe][qd][qb][rb]N[065]AP[MultiGo:4.4.4]SZ[19]AB[pe]MULTIGOGM[0]
+
+(;C[对杀问题。可以逐点计算，也可根据第一感开始计算。]N[审题])
+(;B[oa]C[黑1立，对杀的手筋]N[正解];W[pc];B[oc];W[qc];B[lb]C[对杀黑胜。])
+(;B[oc]LB[pc:A]C[黑1直接收内气，三气对三气，轮到白走，但是，由于A位白无法收气，因此并不是简单的比气]
+N[失败1];W[oa];B[pa];W[qa];B[na];W[ma]C[劫。])
+(;B[lb]N[失败2];W[oa];B[pa];W[pc]))

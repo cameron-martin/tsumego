@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[qd][qe][pf][of][nf][me][le][ke][kd][kc][kb][ka][la][qb][pb][oa]AW[lb]
+[lc][ld][md][ma][nb][ob][pc][pd][ne][oe]N[010]AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[0]
+
+(;AB[bq][cp][co][dn][en][fn][ep][dr][cr][es][go][ho][ip][iq][ir][is][hs]AW[fo][eo]
+[dp][dq][er][fr][gs][hr][hq][hp][gp]TR[ep]LB[cq:A]C[左下是009题（棋形旋转了180度），很相像吧？
+
+对比一下，白阵中少了黑一子，但A位不再松气。不能简单套用009题的方法，必须另觅它途。还是要抓住白气紧的毛病。]
+N[审题])
+(;B[nc]N[正解];W[nd];B[oc];W[mc];B[pa]C[白死。])
+(;B[nc]LB[na:A][mc:B]C[黑1点时，白不能在A、B位应，那样简单被杀。]N[变化];W[oc];B[nd]
+LB[mc:A]C[白不能在A位叫吃，这是痛苦的地方。
+
+白死。])
+(;B[nd]N[失败1];W[nc])
+(;B[pa]N[失败2];W[nc]))

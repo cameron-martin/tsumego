@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]PM[1]C[Problem 126. Black to play and live. (1 move)
+What move does Black make to give his stones life?]GN[ ]AW[gd][ff][fj][hd][ei][gj][eh][ie][if][df][eg][hj][hi][de][ed][ih][ig][fd]PW[ ]PB[ ]AB[fi][gg][hg][hf][hh][fe][fh][ef][gi][ee][fg]
+(
+;C[Correct Answer
+Black 1 is the correct answer. This move gives Black two eyes.]B[ge]
+)
+(
+;C[Wrong Answer
+If Black plays 1...]B[gf]
+;C[...White puts three black stones into atari and all the black stones die.]W[ge]
+)
+
+)

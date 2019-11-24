@@ -1,0 +1,25 @@
+(;
+GM[1]
+SZ[19]
+AW[jc][nd]
+AB[dd][fc][pe][qc][qj]
+C[Problem 11. Black to play.  
+
+Again White has a three-space high extension, but the neighbouring black stones are on different points. How should Black play ?  
+
+<See Reference Diagram 11 for 'White to move' in the upper right.> ]
+;B[lc]
+TE[2]
+C[Correct Answer.  
+
+Black should make a deep invasion with 1. ]
+;W[ld]
+C[This time, when White attaches with 2, ... ]
+;B[mc]
+C[... Black simply extends to 3, ... ]
+;W[md];B[ob]
+C[... then jumps lightly to 5. ]
+;W[kc]
+C[White must complete her shape with 6, so Black ends in sente. <= ]
+)
+)

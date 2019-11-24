@@ -1,0 +1,55 @@
+(;
+AB[dq][dk][ce][pd][jd][hd][hc][ge][fe]
+AW[dc][gc][gd][he][hf][di][fi][pp]
+TR[hc]
+C[White's response to Black's marked play?
+
+Source:
+    Go World #36, Summer 1984, pp. 52-53
+    Rin Kaiho vs. Cho Chikun
+    Commentary Ishida Yoshio]
+(;
+W[gb]
+C[Best.
+
+A slow looking, but important defensive move.];
+B[ed]
+C[And the game continued...];
+W[cc]
+LB[ec:a]
+C[The players agreed after the game that
+this move should have been at A.];
+B[eh];
+W[fg]
+C[A very sharp counter-thrust that led to
+wild complications.]
+)
+    (;
+    W[hb]
+    C[This natural looking move is inferior.];
+    B[dd];
+    W[ib];
+    B[jc]
+    (;
+    W[cc]
+    C[Now White would like to expand toward
+the corner here to maximize the effectiveness
+of each White stone, but ...];
+    B[ec];
+    W[eb];
+    B[fb]
+    C[After Black's double hane, the game would
+be over.]
+    )
+        (;
+        W[ec]
+        C[So White has to answer on this side.];
+        B[eh];
+        W[ei];
+        B[gg];
+        W[jf]
+        LB[cc:a]
+        C[Later Black A could be a big move.]
+        )
+    )
+)

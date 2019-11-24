@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[rd][re][rf][ob][nb][mb][lc][kc][qg][pg][og][pc]AW[ld][oc][nc][mc]
+[me][mf][ng][nh][oh][qh][rh][rg][qf][qe][pd]N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[qc]
+MULTIGOGM[0]
+
+(;C[审题：白棋棋形不整，黑棋如何搞事？]N[审题])
+(;B[pe]C[黑1是手筋，白棋已经无法抵抗]N[正解];W[of];B[pf];W[oe];B[qd];W[od]C[黑1之后，要定形的话，大致是白2至6的进行吧。])
+(;B[pe]LB[oe:A][qd:B]C[黑1之后，白A或B不是抵抗]N[变化];W[pf];B[of];W[oe];B[qd];W[pe]
+;B[ne]C[白棋无用的挣扎。])
+(;B[od]C[黑1断这里，想过了头]N[失败];W[oe];B[pe];W[pf];B[qd];W[pe];B[ne];W[nd]))

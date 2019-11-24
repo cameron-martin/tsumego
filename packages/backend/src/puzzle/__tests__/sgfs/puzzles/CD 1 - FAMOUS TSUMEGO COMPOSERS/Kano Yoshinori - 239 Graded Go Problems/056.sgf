@@ -1,0 +1,16 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 56. Dame points.
+The game is over, but there are still dame points left. Where are they?
+(dame - neutral points which profits neither Black nor White)]AW[cd][ia][bd][gg][hd][dg][gc][ce][df][dl][gk][ja][dh][hj][he][ba][dm][il][jc][fb][ih][ic][bc][hg][jm][im][gm][ik][dj][dd][hb][ii][di][gj][gl][if][dc][cj][ib][hi][hf][hh][bb][dk][el][fa][gf]PB[ ]PM[1]PW[ ]AB[ek][jk][jl][jj][ff][fc][jh][db][ei][kd][je][eb][eg][kl][fm][ed][ec][ji][ej][km][ee][gd][kb][ea][fl][ge][fj][fk][cb][ef][gh][fg][eh][cc][ie][ca][kc][jg][de][jd][jf][jb][ij][gi][ka][ig]
+(
+;B[id]C[Correct Answer 1
+There are two dame points\: Black 1...]
+;C[...and White 2.]W[em]
+)
+(
+;B[em]C[Correct Answer 2
+It would be the same if Black played 1 at the bottom...]
+;C[...and White played 2 at the top. This is because dame points have no effect on the score.]W[id]
+)
+
+)

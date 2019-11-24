@@ -1,0 +1,58 @@
+(;
+GM[1]
+SZ[19]
+AW[nq][cn][dm][co][fq][gp][fr][gn][ck]
+AB[dp][pd][pp][dd][pn][dn][en][cp][fp][eq][kq][fm]
+LB[pn:2][nq:1][kq:14][fp:10][eq:12][fr:13][fq:9][gp:11][gn:15][fm:16]
+LB[en:6][dn:4][cp:8][co:7][cn:3][dm:5][ck:17]
+C[Problem 114. Black to play.  
+
+White just extended to 17. How should  Black attack the white stones in the bottom left ? ]
+(;B[er]
+LB[gm:B][ci:A]
+
+TE[2]
+C[Correct Answer.  
+
+Black secures the corner with 1. He can now aim to attack the four white stones on the left with A. White will have to defend. Even so, Black B could become a good move which attacks both the white stones on the left and the ones at the bottom <= ]
+)
+(;B[hp]
+C[Variation.  
+
+Black 1 strikes at White's weak point. ]
+;W[fo]
+C[White ataries with 2 and ... ]
+;B[ep];W[hq]
+C[... tries to make shape with 4, but ... ]
+;B[ho]
+C[... Black forces with 5 ... ]
+;W[go];B[iq]
+C[... and 7. ]
+;W[hr];B[oq]
+C[He next exchanges 9 ... ]
+;W[np]
+C[... for 10, ... ]
+;B[jo]
+C[... then makes shape with 11. The white group on the left is still without eyes and the two stones on the right are heavy. Unfortunately, Black's stones in the bottom are left unsettled. <= ]
+)
+(;B[ko]
+C[How the game continued.  
+
+Black jumped to 1, strengthening his stones at the bottom and putting pressure on White's stones there. ]
+;W[er]
+C[But White counterattacked with 2 and ... ]
+;B[dr];W[cr]
+C[... took the corner with 4 ... ]
+;B[es];W[cq];B[dq];W[bp]
+C[... to 8. ]
+;B[gq]
+C[Black cut at 9, but ... ]
+;W[fo]
+C[... White forced with 10, ... ]
+;B[ep];W[hq];B[gr];W[hr]
+LB[hq:12]
+C[... sacrifices three stones with 12 and 14, ... ]
+;B[fs];W[in]
+C[... then made shape with 16. The game was proceeding in White's pace. <= ]
+)
+)

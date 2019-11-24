@@ -1,0 +1,17 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[SECTION 5. SNAPBACK AND RELATED MOVES
+
+Problem 89. Black to play.
+How should Black play as to capture two stones by threatening a snapback?
+(snapback - a tactic in which one stone is offered as a sacrifice and if it is taken, three or more stones can be recaptured)]AW[de][cf][ec][cg][dd][di][fd]PB[ ]PM[1]PW[ ]AB[df][dc][cd][fe][ef][ce]
+(
+;B[ed]C[Correct Answer
+After Black 1, there is no way that White can save his two stones.]
+)
+(
+;B[ee]C[Wrong Answer
+If Black plays 1...]
+;C[...White saves his two stones by connecting at 2.]W[ed]
+)
+
+)

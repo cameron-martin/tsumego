@@ -1,0 +1,17 @@
+
+(;SZ[13]FF[4]AP[GOWrite:2.0.07]GM[1]C[SECTION 8. KO
+
+Problem 113. Black to play.
+(Please move one step forward to see the problem diagram...)]PM[1]PB[ ]AB[bh][cd][be][eg][dh][bd][de][ag][ch][ef][ee]AW[df][bg][bf][bc][dd][cg][dg][ce][cc]GN[ ]FG[259:]PW[ ]
+;C[White has played at 1. How does Black answer?]W[ad]
+(
+;C[Correct Answer
+Black must start a ko fight with 2.]B[cf]
+)
+(
+;C[Wrong Answer
+If Black plays at 2...]B[ae]
+;C[...White will capture four black stones with 2.]W[af]
+)
+
+)

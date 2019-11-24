@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[cf][bf][df][ca][da][db][dc]AW[cc][cb][ba][ab]N[010]AP[MultiGo:4.4.4]
+SZ[19]AB[dd]MULTIGOGM[0]
+
+(;C[初级死活问题。
+
+难度：☆]N[审题])
+(;B[bc]N[正解];W[bd];B[cd];W[bb];B[ad]C[黑5反打后，白没有两眼，死了。])
+(;B[cd]N[失败];W[bc]C[白活，黑进攻失败。]))

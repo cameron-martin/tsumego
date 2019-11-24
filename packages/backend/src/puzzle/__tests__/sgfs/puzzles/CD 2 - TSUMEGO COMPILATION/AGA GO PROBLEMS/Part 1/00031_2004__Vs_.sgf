@@ -1,0 +1,39 @@
+(;
+AB[dp][je][jc][qd][od][qh][lc][oc][pe][rd]
+AW[dd][gc][qj][qp][oq][le][pc][pd][qc][qe]
+C[Black plays.
+
+Source:
+American Go Journal, June 1981, Vol. 16, No. 2, pp. 29-31
+Keshi and Uchikomi]
+(;
+B[rc]C[Makes the best of an already bad situation.];
+W[qg];
+B[ph];
+W[oe];
+B[pf];
+W[pg]
+TR[qh][ph]
+C[But White 6 forces Black to save the two stones
+above so that White can pressure the marked stones.]
+)
+    (;
+    B[qf]
+    C[Inferior];
+    W[rc];
+    B[re];
+    W[ob];
+    B[nb];
+    W[oa]
+    C[Black has a ko, but even if White loses the
+ko, White has the original marked forcing move,
+and will have the extra tempo from the ko.]
+    TR[le]
+    )
+    (;
+    B[re]C[Inferior];
+    W[qf]
+    C[White now has the option to play here, or follow the
+previous line that gave a ko.]
+    )
+)

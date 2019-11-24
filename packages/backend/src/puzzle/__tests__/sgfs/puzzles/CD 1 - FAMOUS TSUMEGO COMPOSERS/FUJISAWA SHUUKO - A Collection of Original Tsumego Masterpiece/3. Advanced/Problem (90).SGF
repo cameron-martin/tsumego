@@ -1,0 +1,5 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[rc][re][rf][pe][pf][mb][mc][nd][ra][sb][sc]AW[se][rd][qd][qc][pc][oc][qa][pa][nb]C[黑先 第一步决定命运。]
+
+(;B[pb];W[sd];B[qb];W[oa]C[正解 黑先白死])
+(;B[sd];W[rb];B[qb];W[pb];B[sf];W[rb]C[失败])
+(;B[qb];W[pb];B[sd];W[rb]C[失败]))

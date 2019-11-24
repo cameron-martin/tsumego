@@ -1,0 +1,38 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][df][qq][nr][nq][mp][no][nn][on][om][ol][ql][nk][ln][lo][kn][ko][jo][jp][kp][ip][ho][go][dp]
+AB[fc][kc][qd][qi][pp][ro][pn][oq][or][nm][mm][lm][km][jn][in][mn][mo][gq][hq][jq][kq][lq][lp]
+TR[go][ho][ip][jp][jo][ko][kp][lo][ln][kn]
+C[Problem 33. Black to play.  
+
+How should Black attack the marked white stones ? ]
+;B[gm]
+TE[2]
+C[Correct Answer.  
+
+Black attacks with 1, ... ]
+;W[eo]
+C[... and White must defend with 2. ]
+(;B[dr]
+C[Black 3 is now the key move. ]
+;W[dl]
+LB[el:A]
+C[White must defend by playing around 4. I f White neglects to play here, Black A will be severe. ]
+;B[lj]
+C[Black now switches his attack to the right with 5 ... ]
+;W[ni];B[lh]
+C[... and 7.  The white stones on the right are in danger and Black is building a moyo in the center. <= ]
+)
+(;B[el]
+LB[eo:2]
+C[Failure.  
+
+After White 2, Black 3 looks like a strong move, but ... ]
+;W[eq]
+C[... White will attack the black stones at the bottom with 4 ... ]
+;B[fr];W[er]
+LB[jl:B][ir:A]
+C[... and 6. White A now threatens to kill them, so Black must defend in gote. White's stones on the left are secure, so she can attack with a peep at B. <= ]
+)
+)

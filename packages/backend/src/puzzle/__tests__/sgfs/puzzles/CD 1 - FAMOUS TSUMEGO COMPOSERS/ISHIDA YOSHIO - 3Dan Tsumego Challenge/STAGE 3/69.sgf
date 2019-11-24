@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[op][np][mp][lp][kq][jq][jr][js][rr][rq][qq]AW[kr][ls][lq][mq][nq]
+[nr][pr][qr]C[69]N[69]AP[MultiGo:4.4.4]SZ[19]AB[pp]MULTIGOGM[0]
+
+(;C[第69题 有好次序
+
+成劫争的话，那就简单多了。
+
+这里有无条件杀白的好次序。第一手是缩小白的地域。]
+N[审题])
+(;B[qs]C[黑1扳是正解，先从外侧压缩白的眼位空间。]N[正解];W[ps];B[oq];W[or];B[ns]
+;W[ms];B[lr]C[白死。])
+(;B[qs]N[变化1];W[oq];B[os];W[ps];B[ns];W[lr];B[pq];W[rs];B[ms])
+(;B[qs]N[变化2];W[ms];B[os])
+(;B[lr]N[失败1];W[mr];B[ks];W[oq];B[os];W[ns])
+(;B[oq]N[失败2];W[or];B[qs];W[ms])
+(;B[oq]N[失败3];W[or];B[lr];W[mr];B[ks];W[qs]))

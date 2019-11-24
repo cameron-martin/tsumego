@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pe][oe][ne][md][ld][lc][kb][jc][rb][rc][pc]AW[lb][mb][nb][mc][od]
+[oc][pb][qb]N[023]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[本题展示的是破眼的基本手法。]N[审题])
+(;B[oa]N[正解];W[na];B[ob];W[pa];B[ob];W[la];B[nc]C[白死。])
+(;B[oa]N[变化];W[la];B[ob])
+(;B[nd]N[失败1];W[oa])
+(;B[qa]N[失败2];W[nd])
+(;B[la]N[失败3];W[oa];B[nd];W[ma]))

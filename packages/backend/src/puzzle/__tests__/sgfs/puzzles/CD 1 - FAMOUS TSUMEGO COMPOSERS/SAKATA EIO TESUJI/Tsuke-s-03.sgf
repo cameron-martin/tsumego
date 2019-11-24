@@ -1,0 +1,35 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[en][ep][fp][dq][eq][gq][br][cr][gr]AB[dm][dn][cp][dp][gp][cq][fq][dr][er][fr]C[Ex. 3 - Semeai
+
+The problem is how to save B's 4 stones.
+Obviously it is impossible without capturing the 2 W stones on the right or the 4 W stones in the centre.]PL[B]
+(;B[hp]LB[hp:1]C[Diag 1 - Failure
+
+If B plays nobi 1 ]
+;W[ds]LB[hp:1][ds:2]
+;B[fn]LB[fn:3][hp:1][ds:2]C[then 3 attempting to capture the 4 stones he is short of liberties himself. 
+Even after B 3 hane he is too late. ]
+;W[fs]LB[fn:3][hp:1][ds:2][fs:4]C[ He loses because W plays ate 4 first.
+])
+(;B[hr]LB[hr:1]C[Diag. 2 - Correct
+
+The belly attachment B1 is a splendid move.]
+;W[hq]LB[hq:2][hr:1]C[If W comes out at 2 ]
+;B[hp]LB[hp:3][hq:2][hr:1]C[B 3 ]
+;W[iq]LB[hp:3][hq:2][iq:4][hr:1]C[forces W 4, ]
+;B[fn]LB[fn:5][hp:3][hq:2][iq:4][hr:1]C[then comes the hasamitsuke B 5. This is the vital point of the 4 stones and W cannot move an inch. 
+]
+(;W[eo]LB[fn:5][eo:6][hp:3][hq:2][iq:4][hr:1]C[If W 6, ]
+;B[em]LB[em:7][fn:5][eo:6][hp:3][hq:2][iq:4][hr:1]C[B plays 7 and wins the semeai.
+B 1 and 5 are both tsuke suji and, being light moves, they work well to help him tide over this difficult situation.])
+(;W[em]LB[em:6][fn:5][hp:3][hq:2][iq:4][hr:1]C[Diag. 3 - Correct
+
+B 5 tsuke, not playing ate against the 4 W stones immediately, is worth noting.
+If W 6, 
+]
+;B[eo]LB[em:6][fn:5][eo:7][hp:3][hq:2][iq:4][hr:1][sr:1]C[B wins with 7.])
+(;W[go]LB[fn:5][go:6][hp:3][hq:2][iq:4][hr:1]C[Diag. 4 - Correct
+
+If W 6 after B 5, ]
+;B[fo]LB[fn:5][fo:7][go:6][hp:3][hq:2][iq:4][hr:1]C[ B cuts at 7.])))

@@ -1,0 +1,49 @@
+(;
+GM[1]
+SZ[19]
+AW[pg][nq][pn][om][pl]
+AB[pj][dj][dp][pd][pp][dd][jj][mc][jq][on][oo]
+LB[pg:1][mc:2][nq:3][jq:4][pn:5][on:6][om:7][oo:8][pl:9]
+C[Problem 74. Black to play.  
+
+How should Black respond when White makes the diagonal connection of 9 ? ]
+(;B[qq]
+TE[2]
+C[Correct Answer.  
+
+Black should anchor his three stones in the corner with 1. This move deprives White of a counterplay and leaves the three white stones on the right side and the one at the bottom weak. ]
+;W[kp]
+C[White might try to escape with 2 ... ]
+;B[jp];W[ko]
+C[... and 4, but ... ]
+;B[jo]
+LB[jp:3]
+C[... Black keeps White hemmed in with 3 and 5. ]
+;W[kn]
+C[When White extends to 6, ... ]
+;B[mr]
+C[... Black slides to 7, ... ]
+;W[mp]
+C[... forcing White to defend at 8. ]
+;B[nm]
+C[Next, Black leans on the white group on the right with 9 ... ]
+;W[nl];B[ml];W[mm];B[nn];W[nk];B[mk]
+C[... to 15. ]
+;W[nj]
+C[After White extends to 16, ... ]
+;B[im]
+C[... Black jumps to 17 and the white group at the bottom right is almost dead. <= ]
+)
+(;B[mp]
+C[How the game continued.  
+
+Black attacked the white stones at the bottom with 1, but ... ]
+;W[qq]
+C[... White invaded the corner with 2. ]
+;B[qp]
+C[After Black 3, ... ]
+;W[pq]
+LB[np:A]
+C[... White lived with 4. Next, White was threatening to attack with A. Since Black's stones to the right were not secure, Black had a hard time making territory. See Problem 78 for the continuation. <= ]
+)
+)

@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[nd][me][le][ke][lc][jd][jc][jb][ja][ka][qb][qc][qd][pd]AW[lb][kb]
+[kc][kd][ld][md][nc][oc][pc][pb]N[001]AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;LB[mb:A][mc:B]C[观察棋形：白气紧。再换位思考，如果白棋先走，会走哪里做活？
+
+好像到处都可以下手似的。但黑A肯定不行，白B提子就活了。]
+N[审题])
+(;B[la]N[正解];W[mb];B[na];W[oa];B[nb]C[白死。])
+(;B[la]N[变化];W[mb];B[na];W[ma];B[pa];W[oa];B[ob])
+(;B[oa]C[黑1点很凶]N[失败1];W[pa];B[nb];W[mc];B[la];W[ma];B[mb];W[ob])
+(;B[ma]N[失败2];W[la])
+(;B[na]N[失败3];W[oa];B[la];W[nb])
+(;B[pa]N[失败4];W[oa];B[na];W[qa])
+(;B[nb]N[失败5];W[la];B[oa];W[pa];B[mc];W[mb];B[mc];W[ma]C[双活。]))

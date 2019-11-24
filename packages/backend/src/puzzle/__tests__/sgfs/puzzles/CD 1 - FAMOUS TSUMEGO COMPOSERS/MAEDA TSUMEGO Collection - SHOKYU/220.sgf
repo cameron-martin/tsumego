@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[df][cf][bf][eb][ea][cc][dc][dd]AW[db][cb][bc][cd][ce][be][ae]N[220]
+AP[MultiGo:4.4.4]SZ[19]AB[de]MULTIGOGM[0]
+
+(;LB[bb:A]C[第一感是A位断。计算表明其他着手都不行。
+
+难度：☆☆☆]N[审题])
+(;B[bb]N[正解];W[ba];B[ab]LB[ac:A][ca:B]C[到此是必然的进行。
+
+接下来，白A则黑B，白没有两眼]
+;W[ca];B[af];W[ac];B[bd]C[白死。])
+(;B[bb]N[失败];W[ba];B[ab];W[ca];B[da];W[ac];B[aa];W[cb]))

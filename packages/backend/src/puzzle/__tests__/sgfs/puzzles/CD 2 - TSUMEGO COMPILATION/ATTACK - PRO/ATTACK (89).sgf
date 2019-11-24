@@ -1,0 +1,43 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cf][cj][cl][df][dh][ef][eg][ei][fi][gi]
+AW[cd][cg][dc][dg][eh][fc][fg][fh][gd][gf]PL[W]C[White to play.
+
+Attack - Aim at Both Sides]
+(
+;W[bf]
+(
+;B[bg]
+;W[ch]
+;B[bh]
+;W[di]
+;B[ci]
+;W[dh]
+;B[be]
+;W[dj]C[RIGHT
+])
+(
+;B[be]
+;W[bg]
+;B[ce]
+;W[di]C[White Ok]))
+(
+;W[ch]
+;B[di]
+;W[bf]
+;B[be]
+(
+;W[bg]
+;B[ce]
+;W[bi]
+;B[ah])
+(
+;W[ag]
+;B[ce]
+;W[ae]
+;B[bd]
+;W[bc]
+;B[ad]
+;W[de]))
+(
+;W[bg]
+;B[bf]))

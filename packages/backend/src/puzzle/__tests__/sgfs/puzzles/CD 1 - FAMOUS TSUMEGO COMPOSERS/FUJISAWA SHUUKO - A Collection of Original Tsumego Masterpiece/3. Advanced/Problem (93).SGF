@@ -1,0 +1,7 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0]SZ[19]CA[gb2312]HA[0]EV[围棋死活杰作集(藤泽秀行著)]AB[qb][pc][pd][pe][oe][nd][nb][nf][lf][mf][ke][kd][jc][jb][ka][rb][hb][hc]AW[ne][pb][ob][oc][od][mc][md][me][kb][ib]C[白先 最顽强的防守，外面一子发挥作用。]
+
+(;W[la];B[lb];W[ja]
+(;B[mb];W[lc];B[kc];W[nc]C[正解 白先劫])
+(;B[lc];W[mb];B[nc];W[pa]C[参考]))
+(;W[lb];B[pa];W[nc];B[oa]C[失败])
+(;W[ma];B[nc];W[na];B[pa];W[mb];B[nc]C[失败]))

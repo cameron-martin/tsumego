@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[oq][nq][nr][ns][so][ro][qo][qp]AW[sr][rq][rp][qq][pr]C[91]N[91]AP[MultiGo:4.4.4]
+SZ[19]AB[pq]MULTIGOGM[0]
+
+(;C[第91题 瞄着不入子
+
+如常识性地考虑，似乎并未发现有攻杀白棋的手段。
+
+而利用使白不入子的技巧，勉强可成劫争。]
+N[审题])
+(;B[rs]N[正解];W[qs];B[sp];W[rr]C[黑1至白4是必然的次序];B[ps]C[黑5扑是手筋];W[os]
+;B[or]C[劫。])
+(;B[ps]N[失败];W[rs];B[qr];W[sp]C[3位和4位见合，白活。]))

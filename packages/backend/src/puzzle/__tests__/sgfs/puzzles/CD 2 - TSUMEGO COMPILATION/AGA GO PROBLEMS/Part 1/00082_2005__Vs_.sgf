@@ -1,0 +1,71 @@
+(;
+AB[cd][pd][pl][ml][oo][no][mo][pq][oq][nq][hq][pf][cc][cf][mn][pc][ic][ie][lc][ld][id][ig][ii][nc]
+AW[dp][fq][kp][mp][on][nn][po][pp][qq][rp][ip][hp][di][eg][ee][dc][ob][jc][kc][je][ke][le][kh][kj]
+C[Black's response to White's marked move?
+
+Source:
+    American Go Journal, Sept. 1981, Vol. 16, No. 4
+    2nd Tengen Final, 1981, game 2
+    Kobayashi Koichi 7P   vs.  Sugiuchi Masao 9P
+    Kobayashi's commentary.]
+TR[kj]
+(;
+B[fi]
+C[Correct.
+Black should take this vital point.
+Black missed this line during the
+game.];
+W[ei];
+B[fh];
+W[dg];
+B[fk]
+C[Black has made a home in the
+center.];
+W[dl]
+C[If White follows up with this
+natural move...];
+B[cq]
+C[Now Black has a perfect excuse to
+invade the corner.
+
+But White's upper center group
+is still thin, which Black can use
+to advantage to make territory
+on the right side.
+
+See the inferior variation to see
+what Black played in the game.]
+)
+    (;
+    B[bo]
+    C[Wrong.
+Invading immediately throws the
+game into confusion.];
+    W[cp];
+    B[cl];
+    W[dk];
+    B[dl];
+    W[ek];
+    B[bj];
+    W[bi];
+    B[cj];
+    W[ci];
+    B[bp];
+    W[bq];
+    B[cn]
+    C[Black has to make life in gote.];
+    W[db]
+    C[White should have made this
+sente move against the Black
+corner.];
+    B[cb];
+    W[ik]
+    C[And then begin an attack on
+Black's center group.
+
+Black can survive, but
+White can build thickness,
+which White can use to
+invade Black's right side.]
+    )
+)

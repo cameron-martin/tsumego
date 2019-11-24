@@ -1,0 +1,28 @@
+(;GM[1]FF[3]AB[bd][ad][rc][nc][lc][gc][fc][bc][rb][pb][rr][ba][fa][ha][la][ra][bb]
+[db][fb][hb][jb][lb][qr][br][pl][rj][qj][pj][fj][qi][qh][oh][nd][id][fh][eh][qf]
+[mf][hf][df][cf][qe][oe][ne][rd]AW[qa][en][qo][qp][aq][dq][eq][ar][sr][bs][ps][qs]
+[rs][ie][ge][ce][be][pd][od][md][hd][ed][qc][mc][ic][hc][ec][sb][qb][mb][ib][eb]
+[cb][ab][oa][ma][ia][ea][da][pm][em][ql][sk][qk][pk][ok][fk][sj][ej][pi][gi][qd]
+[fi][ei][ke][le][re][se][gf][nf][gg][lg][mg][ng][pg][rg][ch][ph][ci]PL[W]C[White to play.
+Start at A.
+
+(安井与林元美创作）]
+LB[rf:A]AP[MultiGo:3.9.3]SZ[19]
+;B[rf];W[sf];B[sh];W[rh];B[sd];W[sg];B[qg];W[si];B[ri];W[sh];B[rk];W[sl];B[rl];W[sm]
+;B[rm];W[sn];B[rn];W[so];B[ro];W[sp];B[rp];W[sq];B[rq];W[ss];B[pr];W[os];B[or];W[ns]
+;B[nr];W[ms];B[mr];W[ls];B[lr];W[ks];B[kr];W[js];B[jr];W[is];B[ir];W[hs];B[hr];W[gs]
+;B[gr];W[fs];B[fr];W[es];B[er];W[ds];B[dr];W[cs];B[cr];W[as];B[bq];W[ap];B[bp];W[ao]
+;B[bo];W[an];B[bn];W[am];B[bm];W[al];B[bl];W[ak];B[bk];W[aj];B[bj];W[ai];B[bi];W[ah]
+;B[bh];W[ag];B[bg];W[af];B[bf];W[ae];B[de];W[cd];B[dd];W[cc];B[dc];W[ca];B[fd];W[ee]
+;B[fe];W[ef];B[ff];W[eg];B[fg];W[dg];B[dh];W[cg];B[di];W[cj];B[dj];W[ck];B[dk];W[cl]
+;B[dl];W[cm];B[dm];W[cn];B[dn];W[co];B[do];W[cp];B[dp];W[cq];B[ep];W[fq];B[fp];W[gq]
+;B[gp];W[hq];B[hp];W[iq];B[ip];W[jq];B[jp];W[kq];B[kp];W[lq];B[lp];W[mq];B[mp];W[nq]
+;B[np];W[oq];B[op];W[pq];B[pp];W[qq];B[qn];W[po];B[pn];W[oo];B[on];W[no];B[nn];W[mo]
+;B[mn];W[lo];B[ln];W[ko];B[kn];W[jo];B[jn];W[io];B[in];W[ho];B[hn];W[go];B[gn];W[fo]
+;B[fn];W[eo];B[el];W[fm];B[fl];W[gm];B[gl];W[hm];B[hl];W[im];B[il];W[jm];B[jl];W[km]
+;B[kl];W[lm];B[ll];W[mm];B[ml];W[nm];B[nl];W[om];B[ol];W[qm];B[oj];W[nk];B[nj];W[mk]
+;B[mj];W[lk];B[lj];W[kk];B[kj];W[jk];B[jj];W[ik];B[ij];W[hk];B[hj];W[gk];B[gj];W[ek]
+;B[gh];W[hi];B[hh];W[ii];B[ih];W[ji];B[jh];W[ki];B[kh];W[li];B[lh];W[mi];B[mh];W[ni]
+;B[nh];W[oi];B[og];W[pf];B[pe];W[of];B[lf];W[kg];B[kf];W[jg];B[jf];W[ig];B[if];W[hg]
+;B[he];W[gd];B[jc];W[jd];B[ja];W[id];B[kd];W[je];B[me];W[ld];B[nb];W[na];B[pa];W[kc]
+;B[ob])

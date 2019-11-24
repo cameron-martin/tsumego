@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[me][ld][kd][kc][kb][jb][qb][qc][qd][oc][pe][oe]AW[lb][lc][nd][md]
+[od][pc][pb][ob]N[007]AP[MultiGo:4.4.4]SZ[19]AB[ne]MULTIGOGM[0]
+
+(;C[瞄准白的断头和气紧的弱点，行动吧。]N[审题])
+(;B[la]N[正解];W[mb];B[nc];W[pa]LB[pd:A][mc:B][ma:C][nb:D][na:E]C[接下来，黑A打吃，白B，黑C打吃，白D提子，黑E爬入，白死。
+
+个人觉得这样更自然。]
+;B[na];W[ma];B[nb];W[ka];B[pd]C[白死。])
+(;B[la]N[变化1];W[nb];B[ma];W[nc];B[mb];W[mc];B[pa])
+(;B[la]N[变化2];W[mc];B[ma])
+(;B[la]N[变化3];W[mb];B[nc];W[ma];B[pa];W[oa]LB[nb:A][pd:B]C[接下来，黑A则白B，双活]
+;B[pd]C[黑先打一下是次序];W[mc];B[nb])
+(;B[mb]N[失败1];W[mc];B[la];W[nb];B[ma];W[na];B[ka];W[pa])
+(;B[nc]N[失败2];W[nb]))

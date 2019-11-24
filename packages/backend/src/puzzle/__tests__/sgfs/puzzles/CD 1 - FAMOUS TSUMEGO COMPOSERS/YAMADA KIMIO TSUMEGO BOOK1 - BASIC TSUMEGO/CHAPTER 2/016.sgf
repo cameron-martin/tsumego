@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pd][od][oc][pf][of][nf][me][md][mc][mb][rb][rc][rd][re]AW[nb][ob]
+[nc][nd][ne][oe][pe][qd][qc][qb]N[016]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;C[简单死活。]N[审题])
+(;B[pc]N[正解];W[qa];B[na];W[oa];B[pb]C[刀把五，死形。])
+(;B[pc]N[变化1];W[na];B[qa];W[pb];B[pa])
+(;B[pc]N[变化2];W[pb];B[na])
+(;B[qa]N[失败];W[pc];B[od];W[pa]))

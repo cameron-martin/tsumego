@@ -1,0 +1,51 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[cd][cg][cj][dh][di][ed]
+AW[ch][dg][eg]PL[W]C[White to play.
+
+Attack - Aim at Both Sides
+
+Source: YikiruGo Shinbyo.]
+(
+;W[ce]
+(
+;B[bh]
+;W[cc]C[RIGHT
+])
+(
+;B[bg]
+;W[cc]
+;B[dd]
+;W[bd]C[RIGHT
+])
+(
+;B[bd]
+;W[bg]C[RIGHT
+])
+(
+;B[cf]
+;W[de]
+;B[dd]
+;W[bf]
+;B[bg]
+;W[bd]C[White Ok]))
+(
+;W[cf]
+;B[bg]
+(
+;W[bf]
+;B[bh])
+(
+;W[ce]
+(
+;B[bh]
+;W[cc]
+(
+;B[dd]
+;W[bd]
+;B[be])
+(
+;B[bd]
+;W[dd]))
+(
+;B[bd]
+;W[bh]))))

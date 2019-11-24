@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[qf][rg][pf][nf][ne][nd][nc][nb][na][ob][ra][rb][sd][rd]AW[oa][pa]
+[qa][pb][oc][od][pe][qd][qc][rc][sc]N[118]AP[MultiGo:4.4.4]SZ[19]AB[re]MULTIGOGM[0]
+
+(;LB[oe:A]C[看上去很简单吧？黑走A位挤，白不就死了吗？等等，请计算确认之……
+
+——黑走其他地方，很容易计算出白不死的结果。]
+N[审题])
+(;B[oe]N[正解];W[pd];B[qb];W[sb];B[pc];W[pb];B[pa];W[sa];B[pc]C[劫杀正解。])
+(;B[oe]N[变化];W[qb];B[pd]C[白死。])
+(;B[oe]N[失败];W[qe];B[pc];W[pd];B[qb];W[sb];B[pc];W[pb];B[pa]C[白死。
+
+气紧的毛病显现了。没事不要搞紧自己的气。]))

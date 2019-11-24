@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[eg][eh][di][dj][dk][dl][bl][ag][bg][cg]AW[ah][bh][ch][dh][cj][bk]
+[bm][cm][dm][em][fm][fk][ei][fi]N[157]AP[MultiGo:4.4.4]SZ[19]AB[dg]MULTIGOGM[0]
+
+(;C[失败图反而比正解图更复杂。简单的进行更有力。
+
+难度：☆☆☆]N[审题])
+(;B[ci]N[正解];W[bi]C[黑1冲时，白2必挡];B[aj];W[bj];B[cl];W[al];B[ak]C[接不归。])
+(;B[ci]N[变化];W[bi];B[aj];W[ak];B[ck])
+(;B[cl]N[失败1];W[al]LB[ci:A][aj:B]C[现在，黑A冲则白B可接回家];B[aj];W[ak];B[ci]
+;W[bi]C[与变化图比较一下，相当于多进行了黑1白2的交换。])
+(;B[bj]N[失败2];W[aj];B[bi];W[ci];B[ck];W[ai];B[al];W[cl]))

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qd][pe][oe][nd][md][lc][kc][jb][ic][rb][rc]AW[kb][lb][mc][nc][nb]
+[od][qc][qb]N[015]AP[MultiGo:4.4.4]SZ[19]AB[rd]MULTIGOGM[0]
+
+(;LB[ma:A]C[A位的点引人注目。黑棋必须决策：从外侧压缩白的眼位还是直接点眼？直接点眼的话，急所在哪里？]
+N[审题])
+(;B[ma]C[黑1点要紧。白不能放黑1回家，右边眼位实在不够，无法成活]N[正解];W[na]C[白2立下最佳，吃住黑1，又多一硬腿，对防守更有帮助]
+;B[qa]C[黑3扳是杀着];W[pa];B[ob];W[oc];B[pc]C[白死。])
+(;B[ma]N[变化];W[na];B[qa];W[pb];B[oc];W[ob];B[pa])
+(;B[ma]N[失败1];W[na];B[qa];W[pa];B[pc];W[pb];B[ob];W[oa]C[接不归。])
+(;B[qa]N[失败2];W[ma];B[oa];W[ob]C[黑如果从外侧压缩白的眼位，或者从右侧开始动手，被白2做眼，就基本上杀不了了。]))

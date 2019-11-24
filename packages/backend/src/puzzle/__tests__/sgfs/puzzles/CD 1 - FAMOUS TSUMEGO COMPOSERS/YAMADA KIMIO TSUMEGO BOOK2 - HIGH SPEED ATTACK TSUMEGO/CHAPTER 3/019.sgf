@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[oc][od][ne][me][lf][ke][kd][jc][jb][ja][rb][rc][qc]AW[kb][kc][ld]
+[mb][nc][ob][pb]N[019]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[0]
+
+(;TR[ja]LB[na:A][md:B]C[类似棋形的死活题不少。如何发挥黑硬腿的作用呢？直接在A位点眼的话，白B可活。]
+N[审题])
+(;B[md]N[正解];W[mc];B[lc];W[na];B[la];W[ma];B[pa]C[白死。])
+(;B[md]N[变化];W[na];B[mc];W[pa];B[la])
+(;B[md]N[失败1];W[mc];B[na];W[lc];B[ka];W[la];B[ma]C[劫。])
+(;B[ka]N[失败2];W[la];B[lc];W[lb];B[na];W[md])
+(;B[lc]N[失败3];W[lb];B[md];W[na];B[mc];W[pa]))

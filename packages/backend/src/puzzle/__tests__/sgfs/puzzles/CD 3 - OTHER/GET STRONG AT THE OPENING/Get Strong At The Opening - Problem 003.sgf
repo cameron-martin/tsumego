@@ -1,0 +1,29 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][dp]
+AB[pd][pk][pq]
+LB[dd:2][dp:4][pd:1][pk:5][pq:3]
+C[Problem 3. White to play.  
+
+Black has played the high version of the Chinese opening with 5. How should White respond to this move ? ]
+(;W[jp]
+TE[2]
+C[Correct Answer.  
+
+White 1 and ... ]
+;B[jd];W[dj]
+LB[po:B][qf:A][jp:1]
+C[... 3 are the standard responses. It is not a good idea for White to play 1 at A or B without any preparatory moves. Whether Black has played the low ore high version of  the Chinese opening, White 1 is still the correct move. <= ]
+)
+(;W[nc]
+TE[2]
+C[Correct Answer.  
+
+White 1 is also possible. ]
+;B[pf]
+C[In response, Black will respond with 2. ]
+;W[jd]
+C[White will then play on the side star point with 3. <= ]
+)
+)

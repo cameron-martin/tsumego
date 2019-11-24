@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ck][el][fl][cm][dm][gm][dq][eq][gq][br][cr][gr][hr]AB[em][hm][cn][hn][co][eo][go][cp][hp][cq][hq][ir]C[Ex. 5 - Separation
+
+You are to capture the B group on the left.
+There is only one vital point and if you were to miss such a move in an actual game you would be laughed at!]PL[W]
+(;W[dn]LB[dn:1]C[Diag. 1 - Failure
+
+W cannot separate B with the de 1.]
+;B[ep]LB[dn:1][ep:2]C[After B plays 2, W has missed his chance.])
+(;W[fo]LB[fo:1]C[Diag. 2 - Correct
+
+W 1 warikomi is the suji. ]
+(;B[fn]LB[fn:2][fo:1]C[If B 2,]
+;W[fp]LB[fn:2][fo:1][fp:3]C[W's hiki at 3 is good ]
+(;B[gn]LB[fn:2][gn:4][fo:1][fp:3]C[and after B 4]
+;W[dn]LB[dn:5][fn:2][gn:4][fo:1][fp:3]C[W can cut at 5.
+If B plays 5 instead of 4, W cuts at 4, and the fact that these points are miai is due to the warikomi 1.])
+(;B[dn]LB[dn:4][fn:2][fo:1][fp:3]C[Diag. 4 - Variation
+
+I would like to point out here by way of precaution that even if B plays after 2, 4]
+;W[gn]LB[dn:4][fn:2][gn:5][fo:1][fp:3]
+;B[dp]LB[dn:4][fn:2][gn:5][fo:1][dp:6][fp:3]C[then B 6, he cannot live. ]
+;W[bm]LB[bm:7][dn:4][fn:2][gn:5][fo:1][dp:6][fp:3]C[He doesn't have two eyes after W 7 sagari.]))
+(;B[fp]LB[fo:1][fp:2]C[Diag. 3 - Correct
+
+If B answers W 1 with B 2 hane, ]
+;W[fn]LB[fn:3][fo:1][fp:2]C[W plays hiki 3 and again there are two cutting points. ]
+;B[gp]LB[fn:3][fo:1][fp:2][gp:4]C[After B 4]
+;W[ep]LB[fn:3][fo:1][ep:5][fp:2][gp:4]C[and W 5, B cannot save his left hand group.
+In all there are four miai cutting points in this diagram and the previous one, the result of W 1 warikomi.])))

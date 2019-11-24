@@ -1,0 +1,26 @@
+(;
+GM[1]
+SZ[19]
+AW[dd][cf][qc][qd][qf][rf][jq][jo][jm][jk][cn][dn][dp][eq]
+AB[gc][jd][pc][pd][pe][og][qh][pp][qp][mq][gk][gm][dk][fq][fp]
+LB[gk:A][dk:C][cn:D][jk:B][qp:E]
+C[Problem 132. White to play.  
+
+The game in Problem 128 continued with the sequence to Black E. What should White do now ? ]
+;W[fl]
+TE[2]
+C[Correct Answer.  
+
+White should peep with 1 ... ]
+;B[gl];W[fn]
+C[... and 3. ]
+;B[ip]
+C[After Black exchanges 4 ... ]
+;W[jp]
+C[... for 5, ... ]
+;B[gn]
+C[... Black has to defend with 6. ]
+;W[ej]
+C[White can now attack the black stone on the left with 7. Black's stones in the bottom left are in a pinch, while White is threatening to take all the territory on the left side. However, White's stones in the middle are not in any trouble because there is a lot of room in the center. <= ]
+)
+)

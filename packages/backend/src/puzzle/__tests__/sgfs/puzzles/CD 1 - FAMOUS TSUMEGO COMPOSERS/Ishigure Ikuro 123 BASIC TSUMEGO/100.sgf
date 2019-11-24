@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[od][nd][me][le][ke][kd][kc][kb][ka][pa][ra][rb][qc][qd]AW[lb][lc]
+[ld][nc][oc][pc][pb][qa][qb]N[100]AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[0]
+
+(;C[观察棋形，白气很紧。]N[审题])
+(;B[nb]N[正解];W[mb];B[mc]C[黑3扑是次序。
+
+计算时，想到了黑3扑，本题的正解就不难得到。]
+;W[md];B[ma]C[白死。])
+(;B[nb]N[变化];W[mb];B[mc];W[oa]C[白4提子没有意义];B[ma])
+(;B[nb]N[失败1];W[mb];B[ma];W[ob];B[na];W[la])
+(;B[la]N[失败2];W[mb];B[oa];W[na])
+(;B[mb]N[失败3];W[nb];B[oa];W[mc])
+(;B[na]N[失败4];W[mb];B[oa];W[md]))

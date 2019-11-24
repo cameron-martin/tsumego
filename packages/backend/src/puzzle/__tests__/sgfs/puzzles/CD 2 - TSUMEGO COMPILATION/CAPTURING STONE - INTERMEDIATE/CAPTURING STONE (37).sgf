@@ -1,0 +1,31 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ah][bb][bc][bd][bh][cc][cd][ce][cg][ch][da][dc][dh][eb][fb]
+AW[ab][ac][ad][af][ag][be][bg][cf][dd][de][dg][ec][eg][fa][fc][gb][gc]PL[W]C[White to play.
+
+Capturing stones - Destroy Opponent's Eye Shape]
+(
+;W[df]
+;B[ba]
+;W[cb]
+;B[aa]
+;W[db]
+;B[ca]
+;W[db]
+;B[cb]
+;W[ga]
+;B[ae]
+;W[ad]
+;B[ac]
+;W[ea]
+;B[ae]
+;W[bf]C[RIGHT
+])
+(
+;W[cb]
+;B[ca]
+(
+;W[df]
+;B[aa]C[Ko Fight])
+(
+;W[ga]
+;B[aa]C[Ko Fight])))

@@ -1,0 +1,31 @@
+(;
+GM[1]
+SZ[19]
+AW[cd][ed][hc][ch][qf][pf][qi][qc]
+AB[jc][cj][nd][pd][qd][qe]
+LB[qd:2][qc:1]
+C[Problem 138. White to play.  
+
+How does White respond to Black 2 ? ]
+(;W[pb]
+TE[2]
+C[Correct Answer.  
+
+The diagonal move of 1 gives White good shape. ]
+;B[pc]
+C[If Black 2, ... ]
+;W[rb]
+C[... White plays 3, easily making life in the corner. <= ]
+)
+(;W[pc]
+C[Failure.  
+
+White 1 is a bad move. ]
+;B[oc]
+C[Black plays 2 and gets a solid shape. ]
+;W[rd]
+C[After this, White must play 3, ... ]
+;B[re];W[rb];B[sd];W[sc]
+C[... and she can only live in the corner by winning a ko. <= ]
+)
+)

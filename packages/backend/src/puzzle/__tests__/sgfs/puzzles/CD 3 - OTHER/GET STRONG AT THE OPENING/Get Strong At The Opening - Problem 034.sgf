@@ -1,0 +1,39 @@
+(;
+GM[1]
+SZ[19]
+AW[nc][jd][dd][dj][dn][dp][cq][cr]
+AB[eq][dq][fp][jp][pp][pj][pd][pf]
+C[Problem 34. Black to play.  
+
+Both sides have occupied all the star points. Where should Black play next ? ]
+(;B[fn]
+LB[dl:B][hp:A]
+
+TE[2]
+C[Correct Answer.  
+
+White A is a good invasion point, so Black should defend by jumping to 1, expanding his moyo at the expense of White's, and aim to invade at B. ]
+;W[dl]
+C[White has many ways to respond, but if she defends with 2, ... ]
+;B[pn]
+LB[np:A]
+C[... Black will strengthen his moyo by 3 or A. <= ]
+)
+(;B[me]
+C[Failure.  
+
+If Black plays 1 in the upper right, ... ]
+;W[fn]
+C[... then White 2 ... ]
+;B[hp]
+C[... would force Black to defend at 3. <= ]
+)
+(;B[pn]
+C[Failure.  
+
+If Black 1 here, ... ]
+;W[fn]
+LB[gn:A]
+C[... White will jump to 2 or A. <= ]
+)
+)

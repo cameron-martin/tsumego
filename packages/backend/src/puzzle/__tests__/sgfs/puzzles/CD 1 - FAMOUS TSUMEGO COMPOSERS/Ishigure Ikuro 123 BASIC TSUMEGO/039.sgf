@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[qd][pd][qf][pg][og][ng][nf][nd][nc][la][lb][lc][ld][le][lf][rc]AW[ma]
+[mb][mc][md][me][ne][of][od][oc][qc][qb]N[039]AP[MultiGo:4.4.4]SZ[19]AB[rb]MULTIGOGM[0]
+
+(;LB[pc:A][pb:B][ob:C]C[黑走A、B、C都不行，这是容易看出来的。]N[审题])
+(;B[oa]N[正解];W[pb];B[qa];W[pa];B[ob]C[白死。])
+(;B[oa]LB[qa:A][pc:B]C[黑1是眼形的急所。对此，白A立则黑B位冲；白B位接则黑A渡过。只要黑1渡过，白就做不出两眼来。]
+N[变化];W[pa];B[pc]LB[pb:A]C[白2尖的抵抗是徒劳的。黑3也可走A位。])
+(;B[qa]N[失败1];W[oa]LB[pb:A][pc:B]C[白2时，黑不能在A位扳入，那样的话白B即可做活。]
+;B[nb];W[pb]C[双活。])
+(;B[pc]N[失败2];W[pb];B[qa];W[oa];B[nb]C[双活。而且是后手双活，比失败图1更糟糕。])
+(;B[pb]N[失败3];W[pc];B[qa];W[ob];B[pa];W[oa])
+(;B[pa]N[失败4];W[pb];B[qa];W[oa];B[nb]))

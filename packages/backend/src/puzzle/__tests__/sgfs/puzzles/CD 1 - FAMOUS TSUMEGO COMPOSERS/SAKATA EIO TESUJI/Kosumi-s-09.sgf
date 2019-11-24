@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cn][do][eo][cp][fp][gp][hp][ip][eq][hq][hr]AB[fn][fo][jo][dp][ep][jp][dq][fq][gq][iq][kq][gr][ir][hs]TR[aa]C[Ex. 9 - Semeai
+
+W's 6 stones are in the crane's nest shape and cannot escape to the centre.
+Therefore, there is no other way but to find B's weak point and to exploit it.]PL[W]
+;W[er]LB[er:1]C[Diag. 1 - Failure 
+
+W 1 is natural. 
+]
+(;B[dr]LB[dr:2][er:1]C[If B plays 2, 
+]
+(;W[cr]LB[cr:3][dr:2][er:1]TR[aa]C[ W 3 tsuke is too tempestuous. ]
+;B[es]LB[cr:3][dr:2][er:1][es:4]TR[aa]C[B 4 captures the 2 stones and there is no way to continue.
+It is necessary to think of some means of preventing the hane of B 4.])
+(;W[fs]LB[dr:2][er:1][fs:3]C[Diag. 2 - Correct
+
+After the exchange of W 1 and B 2, W's kosumi 3 here is a splendid suji. ]
+(;B[gs]LB[dr:2][er:1][fs:3][gs:4]C[If B 4 tsuji, ]
+;W[cr]LB[cr:5][dr:2][er:1][fs:3][gs:4]C[W plays 5 tsuke and he captures the 4 B stones, since now B cannot play ate on either side of the 2 W stones.
+It is in this that the effectiveness of the kosumi 3 lies.])
+(;B[ds]LB[dr:2][er:1][ds:4][fs:3]C[Diag. 3 - Correct
+
+If B 4 sagari here in reply to W's kosumi 3 ]
+;W[gs]LB[dr:2][er:1][ds:4][fs:3][gs:5]C[W's cut at 5 is good and B loses.])))
+(;B[cq]LB[cq:2][er:1]C[Diag. 4 - Variation
+
+The magari 2 for B in replying to W 1 sagari is no good. 
+]
+;W[bq]LB[bq:3][cq:2][er:1]C[after W 3 ]
+;B[bp]LB[bp:4][bq:3][cq:2][er:1]C[W 4 cuts ]
+;W[cr]LB[bp:4][bq:3][cq:2][cr:5][er:1]C[and W 5 shibori, while not connected with the theme of this question, still captures B.]))

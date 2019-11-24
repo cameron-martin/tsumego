@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pe][od][nd][md][lc][kb][jb][la][rb][rc][rd]AW[ka][lb][mb][nc][oc]
+[ob][qb][qc][pd]N[016]AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[0]
+
+(;LB[na:A][qa:B]C[进攻的话，似乎只有A、B两处好选择。]N[审题])
+(;B[qa]N[正解];W[pa];B[na];W[ma];B[pc]C[白死。])
+(;B[qa]N[变化];W[na];B[pa])
+(;B[na]N[失败1];W[oa];B[qa];W[qd]LB[pb:A][pc:B]C[以下黑A则白B，白活。])
+(;B[qd]N[失败2];W[pc];B[na];W[ma];B[pa];W[qa]))

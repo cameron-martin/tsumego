@@ -1,0 +1,37 @@
+(;
+GM[1]
+SZ[19]
+AW[nc][cf][bd][hc][ge][dg][ch][fh][cn][dn]
+AB[pj][dj][dp][pd][pp][dd][pf][fd][cc][kd][df][ef][bc][co][fp]
+TR[fh]
+C[Problem 69. Black to play.  
+
+Later in the game in Problem 65, White jumped out into the center with the marked stone. Where should Black play next ? ]
+(;B[fj]
+TE[2]
+C[Correct Answer.  
+
+Black jumps out into the center with 1 to relieve the pressure on his stone on the left while putting pressure on the white stones below. ]
+;W[fn]
+C[If White jumps to 2, ... ]
+;B[ci]
+C[... Black will attach with 3 to keep White restricted to the upper left and ensuing that  the three white stones below are isolated. ]
+;W[bi]
+C[Since White hasn't got eyes yet, ... ]
+;B[bj];W[di];B[cj];W[gg]
+C[... she links up with 8. ]
+;B[hj]
+C[Finally, Black jumps to 9 and dominates the center.  <= ]
+)
+(;B[dl]
+C[How the game continued.  
+
+Black directly attacked the two white stones with 1, denying them a base. ]
+;W[fn];B[gl];W[hn]
+C[But this move enabled White to get ahead Black in the race toward the center. ]
+;B[hp]
+C[After Black defended with 5, ... ]
+;W[il]
+C[... White turned the tables on Black by attacking his three stones on the left with the cap of 6.  <= ]
+)
+)

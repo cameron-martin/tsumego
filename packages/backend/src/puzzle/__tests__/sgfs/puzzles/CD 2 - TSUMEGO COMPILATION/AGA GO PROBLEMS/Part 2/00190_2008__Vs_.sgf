@@ -1,0 +1,95 @@
+(;
+AB[bb][bc][dc][cd][dd][de][cf][ef][bg][cg]
+AW[ba][cb][db][cc][ec][fc][bd][be][ce][bf]
+C[Black plays.
+
+Source:
+    Qi Jing Zhong Miao #331, an ancient collection of mostly kyu level life and death problems.
+
+Analysis:
+    Myron Souris
+
+None of the "official" solution sets in books and the Internet seem to give the optimal play!];
+B[ab]
+(;
+W[ae]
+C[So far so good.]
+(;
+B[ag]
+C[An inferior follow up, but at least 2 Internet problem sites give this line!];
+W[ac]
+C[Black takes first in this direct ko, which is worth about 23 points.  But Black can do better!]
+)
+    (;
+    B[ac]
+    C[I haven't been able to find any "solution" showing this optimal line for Black!]
+    (;
+    W[ag]
+    C[At first glance, White seems to have greatly increased the size of a direct ko by threatening to spill out down the left side.]
+    (;
+    B[bh]
+    (;
+    W[eb];B[ah];W[ca]
+    C[White only has a disadvantageous 2-step ko!];
+    B[jj]
+    C[For example, assume that Black takes the ko, then White re-takes the ko, and then Black makes this ko threat.];
+    W[aa]
+    C[White has to ignore Black's ko threat to make this approach move on the corner point.  But only now does the ko become direct!];
+    B[af]
+    C[For example, ...];
+    W[ad]
+    C[... if White tries to end the ko, ...];
+    B[bc]
+    C[Black captures the stones AND has already made an unanswered move elsewhere.
+
+But to win this ko, White would have had to have given Black THREE moves elsewhere!]
+    )
+        (;
+        W[ca]
+        C[No better than the optimal line.];
+        B[eb]
+        C[Black essentially transposes into the optimal line.]
+        )
+    )
+        (;
+        B[ah]
+        C[Black might even dream of entering the Twilight Zone of 3-step kos, by starting the ko immediately!];
+        W[bh]
+        C[White expands the size of the ko enormously, but Black has internal ko threats in crawling down the left side.
+
+However, even if White does not have enough ko threats, depending on what is in the lower left, White could build a 2nd line wall that could become worth a lot of points!
+
+Very interesting!]
+        )
+    )
+        (;
+        W[ca]
+        C[Slack];
+        B[ag]
+        C[Now Black has the option of simply capturing White's side stones instead of transposing into the advantageous 2-step ko. ];
+        W[aa];B[af];W[ad];B[bc]
+        C[Black has an outright gain without fighting any kind of ko.]
+        )
+    )
+)
+    (;
+    W[ca];B[eb]
+    (;
+    W[fb]
+    C[The book "Theory and Practice of Go" (and other solution sets) give this inferior line!];
+    B[af]
+    C[Black unconditionally captures the 4 White stones.]
+    )
+        (;
+        W[ae]
+        C[Even here, White still has a chance to transpose into the disadvantageous 2-step ko!]
+        )
+    )
+    (;
+    W[ad]
+    C[Worst.  Some Internet solutions only give this weak defense.];
+    B[af];W[ca];B[eb];W[fb];B[ag]
+    C[Black wins the semeai.]
+    )
+)
+

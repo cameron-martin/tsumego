@@ -1,0 +1,13 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 96. Black to play.
+How can Black separate White into two groups?]AW[ek][fl][ck][dm][ik][cl][gl][bk]PB[ ]PM[1]PW[ ]AB[cj][dl][bj][cf][ei][el][dk][di]
+(
+;B[em]C[Correct Answer
+Black 1 separates White into two groups\: a four-stone group on the left and a four-stone group on the right.]
+)
+(
+;C[If White Plays First
+If it is White's turn, he can link up all of his stones by playing at 1.]W[em]
+)
+
+)

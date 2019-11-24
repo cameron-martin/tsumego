@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[md][nd][oc][ob][pc][qb][pa][lb][lc]AW[qc][pd][od][ne][me][le][kd]
+[kc][kb][ka][mb][nc][rb][rc]N[027]AP[MultiGo:4.4.4]SZ[19]AB[ld]MULTIGOGM[0]
+
+(;MA[na][nb]C[黑五子已经被吃。黑要做活，必须走到两个X位。]N[审题])
+(;B[na]N[正解];W[la];B[nb]C[黑活。])
+(;B[nb]N[失败1];W[na];B[mc];W[ma]C[黑死。])
+(;B[ma]N[失败2];W[na];B[nb];W[la]))

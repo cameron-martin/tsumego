@@ -1,0 +1,43 @@
+(;
+GM[1]
+SZ[19]
+AW[cf][ch][ci][oi][pi][qi][rk][qg][jc][ld][md][nc][oc][pb][pe][qe][re][rd]
+AB[cd][dd][df][dh][dp][pp][pj][oj][nj][ni][pg][nf][me][hc][he][qb][rc][pc][qd][pd][od][nd]
+C[Problem 44. Black to play.  
+
+White's stones at the top right are struggling for life inside Black's sphere of influence. How should Black attack them ? ]
+(;B[lb]
+TE[2]
+C[Correct Answer.  
+
+This is the kind of position in which you want to gauge out the eyes of your opponent's stones. The placement of Black 1 robs the white stones of their base and threatens to cut. White's stones are trapped inside Black's sphere of influence. Next ... ]
+(;W[mb]
+C[If White defends against the cut with 2, ... ]
+;B[kc]
+C[... Black links up with 3 ... ]
+;W[kd];B[jb]
+C[... and 5. White is without eyes, so she must seek life in the center. <= ]
+)
+(;W[kb]
+C[Variation.  
+
+White 2 here is another possibility, but ... ]
+;B[nb]
+C[... Black takes profit with 3 ... ]
+;W[mb];B[ob]
+C[... and 5. ]
+;W[mc];B[ib]
+C[After Black 7, White's group still doesn't have two eyes. <= ]
+))
+(;B[ib]
+C[Failure.  
+
+Black 1 ... ]
+;W[jb];B[ob]
+C[... and 3 are certainly sente, but ... ]
+;W[nb]
+C[... so is White 4, ... ]
+;B[pa];W[lb]
+C[... so White can secure two eyes with 6. <= ]
+)
+)

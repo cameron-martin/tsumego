@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pd][oc][mc][nc][mb][rc][rd]AW[ob][pc][qc][rb][sb]N[024]AP[MultiGo:4.4.4]
+SZ[19]AB[qd]MULTIGOGM[0]
+
+(;LB[nb:A][pb:B]C[空间很小，变化有一些。首先可以排除黑A挡和B位打。计算吧。]N[审题])
+(;B[ra]N[正解];W[qa];B[pb];W[qb];B[oa]C[白死。])
+(;B[ra]N[变化];W[qb];B[pa];W[oa];B[qa]C[白死。])
+(;B[oa]N[失败1];W[pa]LB[na:A][pb:B][qa:C]C[接下来，黑A则白B，黑C则白A，白活。])
+(;B[qa]N[失败2];W[ra]))

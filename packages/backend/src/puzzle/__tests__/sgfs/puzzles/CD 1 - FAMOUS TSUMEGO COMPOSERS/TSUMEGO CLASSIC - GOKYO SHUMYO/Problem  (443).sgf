@@ -1,0 +1,26 @@
+(;GM[1]FF[3]AB[li][nc][sc][pc][ss][rs][os][ns][hs][fs][sr][qr][nr][mr][ir][hr][fr]
+[er][no][sq][pq][iq][aq][sp][lp][kp][gp][ap][ro][ao][rn][qm][bk][sj][bj][aj][si]
+[ca][ii][ai][sh][lh][ch][ah][ng][lg][ag][nf][mf][lf][if][pe][oe][ie][he][de][ar]
+[pd][ld][gd][cd][kc][gc][bc][ac][da][fa][ja][ra][ab][sb][qb][jb][pb][ob]AW[ms][ls]
+[js][is][es][ds][bs][or][jr][rq][nq][kq][jq][fq][bq][rp][qp][np][qo][lo][ho][bn]
+[an][sm][ql][al][sk][rk][ak][cj][ki][ji][bi][mh][kh][mg][kg][ig][qf][pf][of][kf]
+[jf][hf][df][bf][af][qe][ne][me][ke][ce][rd][od][nd][ad][oc][rc][lc][jc][ic][hc]
+[rb][nb][mb][lb][kb][hb][gb][qa][pa][oa][na][ma][la][ka][ga][dg]PL[W]C[White to play.
+Start at A.
+
+(林元美创作）]
+LB[mc:A]AP[MultiGo:3.9.3]SZ[19]
+;W[mc];B[md];W[le];B[nc];W[mc];B[nb];W[lc];B[kd];W[kb];B[jd];W[id];B[je];W[ge];B[hd]
+;W[fd];B[fc];W[ec];B[fb];W[ea];B[eb];W[db];B[ea];W[cb];B[ba];W[bb];B[aa];W[bd];B[cc]
+;W[dc];B[dd];W[ed];B[ee];W[fe];B[ef];W[eg];B[ff];W[gf];B[fg];W[fh];B[gg];W[hg];B[gh]
+;W[gi];B[hh];W[ih];B[hi];W[hj];B[ij];W[ik];B[jj];W[kj];B[jk];W[jl];B[kk];W[lk];B[kl]
+;W[km];B[ll];W[ml];B[lm];W[ln];B[mm];W[nm];B[mn];W[mo];B[nn];W[on];B[oo];W[po];B[op]
+;W[oq];B[pp];W[pr];B[qq];W[rr];B[qs];W[so];B[ps];W[lr];B[mq];W[mp];B[lq];W[jp];B[ko]
+;W[kn];B[jo];W[io];B[jn];W[jm];B[in];W[hn];B[im];W[il];B[hm];W[gm];B[hl];W[hk];B[gl]
+;W[fl];B[gk];W[gj];B[fk];W[ek];B[fj];W[fi];B[ej];W[dj];B[ei];W[eh];B[di];W[ci];B[dh]
+;W[bh];B[cg];W[cf];B[bg];W[bl];B[ck];W[dk];B[cl];W[cm];B[dl];W[el];B[dm];W[dn];B[em]
+;W[fm];B[en];W[eo];B[fn];W[gn];B[fo];W[fp];B[go];W[gq];B[hp];W[ip];B[hq];W[gr];B[gs]
+;W[dr];B[eq];W[ep];B[dq];W[cq];B[dp];W[do];B[cp];W[bp];B[co];W[cn];B[bo];W[br];B[sn]
+;W[as];B[so];W[rm];B[qn];W[pn];B[pm];W[om];B[pl];W[pk];B[ol];W[nl];B[ok];W[oj];B[nk]
+;W[mk];B[nj];W[ni];B[mj];W[lj];B[mi];W[nh];B[og];W[pg];B[oh];W[oi];B[ph];W[qh];B[pi]
+;W[pj];B[qi];W[ri];B[qj];W[qk];B[rj];W[rh];B[sg];W[rg];B[sf];W[rf];B[se];W[re])

@@ -1,0 +1,9 @@
+(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[qo][nq][kq][pp][qd][oc][ic][fc][db][rn][ql]
+[qh]AW[dp][cc][cm][cf][dd][qn][pn][rm][rl][pl][qj][qf]TR[qf]C[Black to play. White has just invaded with the marked stone, hoping to use his thickness below to attack the lone black stone. How should Black respond?]
+AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[of];W[pg];B[qe];W[rf];B[og];W[ph];B[fe]C[CORRECT Black should cap, then threaten to save the black stone. After White defends, Black makes a vast moyo at the top. The territory White has gained on the right is not so big. White was already thick in the lower right, so his stones in that area are overconcentrated.])
+(;B[oh];W[of]
+(;B[mh];W[mf];B[kh];W[md]C[If Black keeps jumping out, he is playing on points of no value because of White's thickness below. It may seem that White's moves also have little value, but Black's position at the top is relatively thin, so White can easily make sabaki, and Black will end up with little territory there.])
+(;B[rf];W[pd];B[qc];W[od];B[nc];W[rg];B[qg];W[re]C[Black can't link up. After White's forcing moves Black's stones are still isolated and White has made sabaki.]))
+(;B[pg];W[pe];B[of];W[pd];B[pc];W[qc];B[rc];W[qb];B[re];W[rf];B[rb];W[ne]C[The diagonal move also fails, because White has this useful tesuji. Black can't cut, and his own stones are still under attack.]))

@@ -1,0 +1,28 @@
+(;
+GM[1]
+SZ[19]
+AW[db][fc][ic][qj]
+AB[cc][dd][df][cj][mc][pd]
+C[Problem 68. White to play.  
+
+Black has stones on both the left and the right. Where should White invade ? ]
+;W[qc]
+TE[2]
+C[Correct Answer.  
+
+White 1 is good timing. ]
+(;B[qd]
+TR[qj]
+C[If Black 2, his thickness facing the bottom is negated by White's marked stone. ]
+;W[pc]
+LB[od:C][oc:B][rc:A]
+C[Next, Black can play A, B, or C. <= ]
+)
+(;B[pc]
+C[Variation.  
+
+There are times when Black might want to block with 2, but ... ]
+;W[qd]
+C[... the black stones are left with a heavy shape. <= ]
+)
+)

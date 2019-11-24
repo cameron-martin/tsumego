@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[op][nq][nr][lr][rq][rp][qp]AW[or][pq][qr][rr][sr]N[021]AP[MultiGo:4.4.4]
+SZ[19]AB[pp]MULTIGOGM[0]
+
+(;C[注意观察棋形，不要想当然，计算是需要的。
+
+难度：☆☆]N[审题])
+(;B[os]N[正解];W[ps];B[oq];W[ns];B[qq];W[rs];B[pr]C[劫杀正解])
+(;B[rs]N[失败1];W[ps])
+(;B[oq]N[失败2];W[os]))

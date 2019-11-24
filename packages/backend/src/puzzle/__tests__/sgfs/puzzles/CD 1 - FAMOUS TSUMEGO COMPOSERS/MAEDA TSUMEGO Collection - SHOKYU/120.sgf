@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[no][nq][oq][nr][ns][po][qo][ro]AW[or][pr][qq][qp][rr]N[120]AP[MultiGo:4.4.4]
+SZ[19]AB[so]MULTIGOGM[0]
+
+(;C[不着急，慢慢压缩白的眼位。
+
+难度：☆☆]N[审题])
+(;B[sq]N[正解];W[sr]C[黑1时，白2必挡];B[os]C[黑3又是先手];W[ps]C[白4挡之后，白是死形就很清楚了。]
+;B[pq]C[黑5继续从外侧压缩，白不活。];W[rs];B[qr])
+(;B[sq]N[变化];W[sr];B[os];W[ps];B[rs]C[黑5点也能杀死白，但不够规范。])
+(;B[os]C[黑1方向错误]N[失败];W[rp]C[白2挡下扩大眼位，活了。]))

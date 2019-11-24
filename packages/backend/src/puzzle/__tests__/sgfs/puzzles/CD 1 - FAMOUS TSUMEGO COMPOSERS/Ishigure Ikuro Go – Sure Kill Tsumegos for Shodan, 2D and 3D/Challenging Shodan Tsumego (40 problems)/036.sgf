@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[qq][qr][qs][ps][os][oq][or][ns][np][mo][on][pn][po][qo]AW[rs][rr]
+[qn][rp][qm][om][nm][mm][lo][ln][lp][ro][mq][nq][nr][ms][lr][op][rq][pm]N[036]AP[MultiGo:4.4.4]
+SZ[19]AB[mn]MULTIGOGM[0]
+
+(;C[黑必须防守棋形的缺陷，可入手的点不多，因此不难。]N[审题])
+(;B[no]LB[qp:A][pp:B]C[黑1接上冷静。对此，白A则黑B，黑活。]N[正解];W[pp];B[qp];W[pq]
+;B[nn]C[双活。])
+(;B[nn]C[黑1接上尽力扩大眼位]N[失败1];W[mp]C[但白2打吃时，黑不能粘上];B[oo]C[只能做成劫活。])
+(;B[oo]LB[pp:A]C[黑1从A位打也是不行的，变化有可自行演算]N[失败2];W[nn];B[no];W[pp]
+;B[qp];W[pq]C[黑死。])
+(;B[nn]N[变化];W[mp];B[no];W[qp];B[pp];W[pq]C[演示一下双倒扑而已。]))

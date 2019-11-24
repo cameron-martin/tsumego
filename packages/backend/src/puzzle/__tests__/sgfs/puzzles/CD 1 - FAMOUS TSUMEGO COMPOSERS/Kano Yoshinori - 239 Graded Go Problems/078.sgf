@@ -1,0 +1,14 @@
+
+(;AP[GOWrite:2.0.07]FF[4]SZ[13]GM[1]FG[259:]GN[ ]C[Problem 78. Black to play.
+How should Black give atari to the two white stones?]AW[ek][fj][hl][hi][ei][ik][el][ij][gj]PB[ ]PM[1]PW[ ]AB[gk][hk][hj][fk][dj][di][ej][eh]
+(
+;B[gi]C[Correct Answer
+Black 1 is the correct move. Black will be able to capture three white stones.]
+)
+(
+;B[fi]C[Wrong Answer
+Giving atari with Black 1...]
+;C[...allows White to save two of his stones by connecting at 2.]W[gi]
+)
+
+)

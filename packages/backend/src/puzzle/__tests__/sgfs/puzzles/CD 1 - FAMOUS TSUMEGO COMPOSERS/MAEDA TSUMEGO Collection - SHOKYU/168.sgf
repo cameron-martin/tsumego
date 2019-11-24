@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ro][qn][oo][no][mo][mp][mq][mr][nr][sr][rq]AW[rr][qq][qp][pp][op]
+[np][nq][or][rs]N[168]AP[MultiGo:4.4.4]SZ[19]AB[rp]MULTIGOGM[0]
+
+(;C[空间小，变化不多，很锻炼初级计算能力。
+
+难度：☆☆]N[审题])
+(;B[ps]LB[pr:A][os:B]C[黑1点入，白A则黑B，白死]N[正解];W[os];B[pr];W[pq];B[ns]C[白死。])
+(;B[pr]N[失败1];W[ps]LB[pq:A][qr:B]C[A、B见合，白活。])
+(;B[os]N[失败2];W[ps];B[pr];W[ns]C[与失败1没有本质区别]))

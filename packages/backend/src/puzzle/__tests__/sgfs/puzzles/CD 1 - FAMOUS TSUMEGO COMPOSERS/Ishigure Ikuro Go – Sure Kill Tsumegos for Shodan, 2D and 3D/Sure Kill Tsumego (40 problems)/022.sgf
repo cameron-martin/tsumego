@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[mo][no][op][pp][qp][rp][sq][sr][rr][qs][pq][ks][kr][kq][kp]AW[qq]
+[rq][qr][pr][oq][nr][np][mp][lq][lr][ls]N[022]AP[MultiGo:4.4.4]SZ[19]AB[lp]MULTIGOGM[0]
+
+(;LB[os:A]C[黑A是第一感吧，但不一定正确，要计算确认。观察棋形，黑可能存在接不归。]
+N[审题])
+(;B[mq]N[正解];W[nq];B[os];W[or];B[ns]C[由于气紧，白不能吃黑的接不归。白死。])
+(;B[mq]N[变化];W[nq];B[os];W[ns];B[mr];W[ms];B[ps])
+(;B[os]N[失败1];W[ns];B[mq];W[mr])
+(;B[os]N[失败2];W[or];B[mq];W[mr]))

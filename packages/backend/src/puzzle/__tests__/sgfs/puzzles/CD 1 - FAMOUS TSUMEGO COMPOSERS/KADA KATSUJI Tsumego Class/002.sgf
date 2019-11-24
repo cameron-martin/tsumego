@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[ep][fq][fr][fs][ap][bp][cp]AW[ar][cr][dq][er][es]C[B]N[002]AP[MultiGo:4.4.4]
+SZ[19]AB[dp]MULTIGOGM[0]
+
+(;C[白的眼位空间十分有限，而且气紧，因此逐点计算是能够找到正解的。要求计算全部变化和失败图。
+
+难度：B])
+(;B[bs]N[正解];W[cq];B[cs];W[eq];B[br];W[bq];B[aq]C[白死。])
+(;B[bs]N[变化1];W[cq];B[cs];W[br];B[eq])
+(;B[bs]N[变化2];W[br];B[cq];W[eq];B[ds]C[本变化还有一些衍生，可自行计算。])
+(;B[cq]N[失败1];W[bs])
+(;B[br]N[失败2];W[bq];B[bs];W[cq]))

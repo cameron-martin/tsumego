@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qe][qf][pf][of][nf][mf][me][md][mc][lb][la][oc][od][ra][rb][rc]AW[mb]
+[nb][nc][nd][ne][oe][pe][pd][pc][qb]N[113]AP[MultiGo:4.4.4]SZ[19]AB[qd]MULTIGOGM[0]
+
+(;C[得到正解不难，但本题的失败图更有意思。另外，黑棋只能从外侧开始压缩白眼位，从内部动手不行，验证的计算是很简单的。]
+N[审题])
+(;B[qa]N[正解];W[pa];B[ma]C[黑1、3从两侧冲是次序];W[na];B[qc];W[ob];B[pb]C[劫杀正解。])
+(;B[qa]N[变化];W[pa];B[ma];W[na];B[ob];W[qc]C[双活。])
+(;B[qa]N[失败1];W[pa];B[qc];W[ma];B[pb];W[oa])
+(;B[ma]N[失败2];W[qa])
+(;B[pb]N[失败3];W[pa]))

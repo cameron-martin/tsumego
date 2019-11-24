@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qp][pp][op][nr][no][mo][lo][kp][jp][jq][jr][sr][qr][rq]AW[kr][kq]
+[lp][np][mp][mq][mr][oq][pq][qq][rr]N[069]AP[MultiGo:4.4.4]SZ[19]AB[rp]MULTIGOGM[0]
+
+(;C[黑棋显然只能从右侧开始动手。失败图的计算比较容易。
+
+难度：☆☆]N[审题])
+(;B[os]N[正解];W[pr];B[rs];W[ps];B[nq])
+(;B[pr]N[失败1];W[or])
+(;B[ps]N[失败2];W[pr];B[rs];W[os]))

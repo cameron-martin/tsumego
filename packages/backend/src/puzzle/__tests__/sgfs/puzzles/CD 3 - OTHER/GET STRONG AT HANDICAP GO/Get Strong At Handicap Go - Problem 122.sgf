@@ -1,0 +1,49 @@
+(;
+GM[1]
+SZ[19]
+AW[gd][nc][qc][qd][pf][cn]
+AB[dp][pd][pp][dd][df][kd][pc][oe][fp]
+LB[qd:11][pc:10][qc:9][oe:8][pf:7][kd:6][nc:5][fp:4][cn:3][df:2]
+LB[gd:1]
+C[Problem 122. Black to play.  
+
+What should Black do after White plays 11 ? ]
+(;B[qb]
+TE[2]
+C[Correct Answer.  
+
+Black 1 forces White ... ]
+;W[rb];B[pb];W[pe]
+LB[rb:2]
+C[... to secure the corner with 2 and 4. ]
+;B[nd]
+TR[nc]
+C[Next, Black subdues the marked white stone with 5. It will now be almost impossible for White to escape with this stone. Even if it could escape, it would only make Black thick in the center. <= ]
+)
+(;B[pe]
+C[How the game continued.  
+
+Black forced with 1 ... ]
+;W[qe];B[of]
+C[... and 3, ... ]
+;W[pg]
+(;B[qm]
+C[... then strengthened his stone in the lower right with 5. ]
+;W[ld]
+C[But Black's moyo at the top was still thin and ... ]
+;B[le];W[kc];B[jc];W[jd];B[ke];W[ic];B[jb];W[ib];B[je];W[id];B[cj];W[lc]
+C[... White managed to live at the top with the sequence to 18. ]
+;B[me]
+C[This was a big loss for Black.  <= ]
+)
+(;B[og]
+LB[qm:@]
+C[Variation.  
+
+Instead of @ in the game, Black should have exchanged 5 ... ]
+;W[ph]
+C[... for White 6, ... ]
+;B[jc]
+C[... then played the diagonal move of 7. This last move would have secured the top right and restricted the white stone in the top left. <= ]
+))
+)

@@ -1,0 +1,6 @@
+(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[qf][ql]AW[nc][qd][qh][qj]TR[qh]C[Black to play. After White pincers with the marked stone, how can Black make sabaki?]
+AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
+
+(;B[od];W[oc];B[rd];W[qc];B[of]LB[qe:A]C[CORRECT Black should play two forcing moves. If White draws back, Black jumps. If Black can later play at A, he will make excellent shape.])
+(;B[qc];W[pd];B[rd];W[re];B[rc];W[qe];B[ob];W[nb];B[oc];W[od];B[pc];W[me]C[CORRECT If it's more advantageous for Black to take the corner, he would attach from the inside. Black lives in the corner, and White makes shape on the outside.])
+(;B[of];W[pe];B[pf];W[ni]C[Black should not omit the two forcing moves in the correct answer. If Black simply jumps, White will peep forcing Black to connect, then jump. White's corner is secure and Black's three stones are under attack.]))

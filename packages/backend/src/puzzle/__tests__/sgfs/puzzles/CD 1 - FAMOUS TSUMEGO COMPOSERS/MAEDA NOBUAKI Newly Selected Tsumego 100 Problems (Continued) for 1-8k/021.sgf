@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[nd][nc][lc][mb][re][qf][qb][pc][pd]AW[nb][ob][pb][oc][qc][rc]N[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[od]MULTIGOGM[0]
+
+(;C[审题：死活与对杀有区别。考虑聚眼杀。]N[审题])
+(;B[rb]N[正解];W[sb]C[黑二子已经被吃。但白棋吃掉之后仍然没有两眼。];B[ra];W[oa]
+;B[qa]C[白死。])
+(;B[pa]N[变化];W[rb];B[ra]C[打劫，黑进攻失败。]))

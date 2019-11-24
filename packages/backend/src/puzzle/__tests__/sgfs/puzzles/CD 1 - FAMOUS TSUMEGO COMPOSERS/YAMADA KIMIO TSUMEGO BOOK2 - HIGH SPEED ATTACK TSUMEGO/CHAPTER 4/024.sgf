@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[kc][jb][ic][hb][ra][rb][qc][qd][pd][od][nd][mc]AW[ib][kb][lb][mb]
+[nc][oc][pb][pa][qa][qb]N[024]AP[MultiGo:4.4.4]SZ[19]AB[lc]MULTIGOGM[0]
+
+(;LB[ja:A][ia:B]C[本题在计算时需要考虑：白A位打与黑B提子交换后，白在A位多了一子，这对死活的影响如何？]
+N[审题])
+(;B[pc]N[正解];W[na];B[ob];W[nb];B[oa];W[pb];B[ka]C[白死。])
+(;B[pc]N[变化];W[ja];B[ia];W[na];B[ob];W[nb];B[oa];W[pb];B[ka])
+(;B[ka]N[失败1];W[na];B[ob];W[la];B[pc];W[nb];B[oa];W[ja];B[ia];W[pb])
+(;B[na]LB[ja:A][ia:B]C[黑1点时，白不可交换白A黑B]N[失败2];W[nb];B[oa];W[ka];B[pc]
+;W[ma];B[ob];W[pb])
+(;B[na]N[失败3];W[nb];B[pc];W[ma];B[oa];W[ka];B[ob];W[pb]C[与失败2没有什么本质的区别。])
+(;B[na]N[失败3变化];W[ja];B[ia];W[nb];B[pc];W[ma];B[oa];W[ka];B[ob]))

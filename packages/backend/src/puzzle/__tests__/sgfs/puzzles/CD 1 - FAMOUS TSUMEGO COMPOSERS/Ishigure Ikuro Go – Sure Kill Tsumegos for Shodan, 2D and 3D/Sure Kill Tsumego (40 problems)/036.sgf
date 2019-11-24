@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[mp][np][nq][or][pp][qp][rq][rr][lr][jr][kq][kp]AW[qr][qs][pq][oq]
+[nr][mr][mq][lq][kr]N[036]AP[MultiGo:4.4.4]SZ[19]AB[lp]MULTIGOGM[0]
+
+(;C[空间小选择少，计算吧。]N[审题])
+(;B[ls]N[正解];W[os];B[pr];W[ps];B[ms]LB[or:A]C[黑5也可走A位。白死。])
+(;B[os]N[失败1];W[ls]LB[js:A][ks:B]C[白2提子后，黑走A位已经没有用了，白B即可];B[ns]
+;W[pr];B[js];W[ks])
+(;B[ks]N[失败2];W[os]))

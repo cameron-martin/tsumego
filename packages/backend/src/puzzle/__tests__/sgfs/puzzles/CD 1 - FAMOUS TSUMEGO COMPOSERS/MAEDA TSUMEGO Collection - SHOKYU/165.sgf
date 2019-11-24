@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[no][mn][on][pn][qn][qo][rp][rq][rr][or][lr][mq]AW[pq][oq][op][oo]
+[po][qp][nr][os][lp][qq]N[165]AP[MultiGo:4.4.4]SZ[19]AB[nq]MULTIGOGM[0]
+
+(;TR[lp]C[白棋中间的一子，摆在那里并不是装饰。
+
+难度：☆☆]N[审题])
+(;B[ms]N[正解];W[ns];B[ps];W[pr];B[qs]C[白死。])
+(;B[ms]N[变化];W[qr];B[qs])
+(;B[ps]N[失败];W[pr];B[qs];W[mr];B[lq];W[ms]))

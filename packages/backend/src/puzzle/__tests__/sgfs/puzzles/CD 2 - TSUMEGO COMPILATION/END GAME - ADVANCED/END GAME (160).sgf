@@ -1,0 +1,25 @@
+﻿(;GM[1]FF[4]CA[UTF-8]AP[Converter:3]ST[2]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]
+AB[ag][bb][be][bg][cc][cd][ce][cf]
+AW[ah][bh][cb][cg][ch][db][dc][dd][de][df]PL[W]C[White to play.
+
+Endgame moves - Settle Shape with Sente
+
+Source: Gokyo Seimyo.]
+(
+;W[ad]
+(
+;B[ac]
+;W[ba]
+;B[ab]C[RIGHT
+])
+(
+;B[bd]
+;W[ab]
+;B[ae]
+;W[ba]
+;B[bc]C[Black Disadvantage]))
+(
+;W[ba]
+;B[ab]
+;W[ad]
+;B[bd]))

@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[qb][qc][qd][qe][rd][oa]AW[pc][ob][nb][od][pe][pf][qf][rf][re][rb]
+N[黑先]AP[MultiGo:4.4.4]SZ[19]AB[pb]MULTIGOGM[0]
+
+(;C[审题：从基本死活形衍生而来。变化有趣。]N[审题])
+(;B[sb]C[黑1夹是防守的急所]N[正解1];W[ra];B[sd];W[rc];B[pa]C[黑活。])
+(;B[sb]N[正解2];W[sc];B[ra];W[sa];B[rc];W[qa];B[sd];W[na];B[pa]C[黑活。])
+(;B[ra]N[失败];W[sb]LB[sd:A][pa:B]C[A、B两点见合，黑死。]))
