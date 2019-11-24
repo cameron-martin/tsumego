@@ -21,7 +21,7 @@ const lineBreak = Parsimmon.alt(
   Parsimmon.seq(Parsimmon.lf, Parsimmon.cr).tie(),
 );
 
-const none = Parsimmon.string('');
+const none = Parsimmon.string('').result(null);
 const number = Parsimmon.regex(/[+-]?\d+/).map(Number.parseInt);
 const real = Parsimmon.regex(/[+-]?\d+(\.\d+)?/).map(Number.parseFloat);
 const double = Parsimmon.alt(
@@ -35,9 +35,7 @@ const color = Parsimmon.alt(
 const text = (isComposed: boolean) =>
   Parsimmon.alt(
     Parsimmon.noneOf(isComposed ? ']\\:' : ']\\'),
-    Parsimmon.string('\\').then(
-      Parsimmon.alt(lineBreak.then(Parsimmon.string('')), Parsimmon.any),
-    ),
+    Parsimmon.string('\\').then(lineBreak.result('').or(Parsimmon.any)),
   )
     .many()
     .tie();
@@ -47,7 +45,7 @@ const point = Parsimmon.range('a', 'z')
   .times(2)
   .map(([x, y]) => [letterToNumber(x), letterToNumber(y)] as const);
 const stone = point;
-const move = Parsimmon.alt(point, Parsimmon.string(''));
+const move = point.or(none);
 
 const single = <T>(parser: Parser<T>) =>
   Parsimmon.string('[')
@@ -57,7 +55,9 @@ const single = <T>(parser: Parser<T>) =>
 const listOf = <T>(parser: Parser<T>) =>
   single(parser).sepBy1(Parsimmon.optWhitespace);
 const eListOf = <T>(parser: Parser<T>) =>
-  Parsimmon.alt(single(none).map(() => []), listOf(parser));
+  single(none)
+    .result([])
+    .or(listOf(parser));
 const composed = <A, B>(
   parser1: Parser<A>,
   parser2: Parser<B>,
@@ -70,7 +70,7 @@ const maybeComposed = <T>(parser: Parser<T>) =>
 const listOfPoint = listOf(maybeComposed(point));
 const eListOfPoint = eListOf(maybeComposed(point));
 const listOfStone = listOf(maybeComposed(stone));
-const eListOfStone = eListOf(maybeComposed(stone));
+// const eListOfStone = eListOf(maybeComposed(stone));
 
 const propertyParsers = {
   B: single(move),
@@ -80,7 +80,7 @@ const propertyParsers = {
   FF: single(number),
   AP: single(composed(simpleText(true), simpleText(true))),
   GM: single(number),
-  SZ: single(Parsimmon.alt(composed(number, number), number)),
+  SZ: single(composed(number, number).or(number)),
   GN: single(simpleText(false)),
   US: single(simpleText(false)),
   N: single(simpleText(false)),
@@ -138,7 +138,7 @@ type Property = PropertyAux<PropertyType>;
 
 const propIdent = ucLetter.atLeast(1).tie();
 const property = propIdent.chain(ident => {
-  const parser = propertyParsers.hasOwnProperty(ident)
+  const parser = Object.prototype.hasOwnProperty.call(propertyParsers, ident)
     ? propertyParsers[ident as PropertyType]
     : undefined;
 
@@ -177,4 +177,8 @@ const gameTree: Parser<GameTree> = Parsimmon.lazy(() =>
 
 const collection = gameTree.sepBy1(Parsimmon.optWhitespace);
 
-export const parseSgf = (sgf: string) => collection.parse(sgf);
+export const parseSgf = (sgf: string) =>
+  collection
+    .skip(Parsimmon.optWhitespace)
+    .skip(Parsimmon.eof)
+    .parse(sgf);

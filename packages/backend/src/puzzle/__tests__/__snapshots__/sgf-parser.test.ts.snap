@@ -155,7 +155,7 @@ Object {
               },
               Object {
                 "ident": "DO",
-                "value": "",
+                "value": null,
               },
               Object {
                 "ident": "C",
@@ -172,7 +172,7 @@ Object {
               },
               Object {
                 "ident": "IT",
-                "value": "",
+                "value": null,
               },
               Object {
                 "ident": "C",
@@ -195,7 +195,7 @@ Object {
               },
               Object {
                 "ident": "W",
-                "value": "",
+                "value": null,
               },
             ],
             Array [
