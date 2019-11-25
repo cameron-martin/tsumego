@@ -140,13 +140,19 @@ const property = propIdent.chain(ident => {
   return (parser as Parser<any>).map(value => ({ ident, value } as Property));
 });
 
-const node = P.string(';')
+const node: Parser<Node> = P.string(';')
   .then(P.optWhitespace)
-  .then(property.sepBy(P.optWhitespace));
+  .then(property.sepBy(P.optWhitespace))
+  .map(properties => ({ properties }));
+
 const sequence = node.sepBy1(P.optWhitespace);
 
+interface Node {
+  properties: Property[];
+}
+
 interface GameTree {
-  sequence: Property[][];
+  nodes: Node[];
   gameTrees: GameTree[];
 }
 
@@ -159,9 +165,9 @@ const gameTree: Parser<GameTree> = P.lazy(() =>
       .sepBy(P.optWhitespace)
       .skip(P.string(')'))
       .skip(P.optWhitespace),
-    (sequence, gameTrees) => {
+    (nodes, gameTrees) => {
       return {
-        sequence,
+        nodes,
         gameTrees,
       };
     },
