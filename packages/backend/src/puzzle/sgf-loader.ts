@@ -65,7 +65,7 @@ function loadGameTree(tree: GameTree): PuzzleTree[] {
       initialTree.response = lastChunk[1].position;
     }
   } else {
-    if (chunk.length !== 2) {
+    if (lastChunk.length !== 2) {
       throw new Error('No response found for non-leaf move');
     }
 
