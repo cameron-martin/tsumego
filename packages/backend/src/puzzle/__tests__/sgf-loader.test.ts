@@ -29,7 +29,7 @@ test('Cho Chiken #1', async () => {
       { position: [1, 0], outcome: 'correct' },
       { position: [2, 0], response: [1, 0], outcome: 'wrong' },
       { position: [0, 0], response: [1, 0], outcome: 'wrong' },
-      { position: [0, 1], response: [1, 0], outcome: 'wrong' },
+      { position: [0, 2], response: [1, 0], outcome: 'wrong' },
       { position: [4, 0], response: [1, 0], outcome: 'wrong' },
     ],
   };

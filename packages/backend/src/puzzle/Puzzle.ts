@@ -39,5 +39,7 @@ export interface PuzzleBranch {
 export interface PuzzleLeaf {
   position: BoardPosition;
   response?: BoardPosition;
-  outcome: 'correct' | 'wrong';
+  outcome: Outcome;
 }
+
+export type Outcome = 'correct' | 'wrong';

@@ -4,6 +4,7 @@ import {
   Player,
   BoardPosition,
   PuzzleTree,
+  Outcome,
 } from './Puzzle';
 import {
   GameTree,
@@ -19,6 +20,7 @@ import { chunk } from 'lodash';
 interface Move {
   color: Color;
   position: BoardPosition;
+  comment?: string;
 }
 
 export function loadSgf(sgf: string): PuzzleSpec {
@@ -56,7 +58,7 @@ function loadGameTree(tree: GameTree): PuzzleTree[] {
   if (tree.gameTrees.length === 0) {
     initialTree = {
       position: lastChunk[0].position,
-      outcome: 'correct', // TODO: Work out if a branch is correct
+      outcome: findOutcome(lastChunk[0], lastChunk[1]),
     };
 
     if (lastChunk[1]) {
@@ -86,9 +88,16 @@ function loadGameTree(tree: GameTree): PuzzleTree[] {
 }
 
 function findKnownProperty<K extends PropertyType>(node: Node, type: K) {
-  return node.properties.find(
+  const property = node.properties.find(
     prop => prop.type === 'known' && prop.ident === type,
-  ) as (Extract<Property, { type: 'known'; ident: K }> | undefined);
+  );
+
+  if (property) {
+    return property.value as Extract<
+      Property,
+      { type: 'known'; ident: K }
+    >['value'];
+  }
 }
 
 function expandPointComposition([upperLeft, lowerRight]: [Point, Point]) {
@@ -119,8 +128,8 @@ function getInitialStones(tree: GameTree): InitialStones {
   const ab = findKnownProperty(firstNode, 'AB');
   const aw = findKnownProperty(firstNode, 'AW');
 
-  const whitePoints = aw ? expandCompressedPointList(aw.value) : [];
-  const blackPoints = ab ? expandCompressedPointList(ab.value) : [];
+  const whitePoints = aw ? expandCompressedPointList(aw) : [];
+  const blackPoints = ab ? expandCompressedPointList(ab) : [];
 
   // TODO: Work out which way round the players are
 
@@ -136,19 +145,34 @@ function getMoves(nodes: Node[]): Move[] {
   nodes.forEach(node => {
     const blackMove = findKnownProperty(node, 'B');
     const whiteMove = findKnownProperty(node, 'W');
+    const comment = findKnownProperty(node, 'C');
 
     if (blackMove && whiteMove) {
       throw new Error('Black and white cannot both move in a single node');
     }
 
-    if (blackMove && blackMove.value != null) {
-      moves.push({ color: Color.Black, position: blackMove.value });
+    if (blackMove) {
+      moves.push({ color: Color.Black, position: blackMove, comment });
     }
 
-    if (whiteMove && whiteMove.value != null) {
-      moves.push({ color: Color.White, position: whiteMove.value });
+    if (whiteMove) {
+      moves.push({ color: Color.White, position: whiteMove, comment });
     }
   });
 
   return moves;
+}
+
+function findOutcome(position: Move, response?: Move): Outcome {
+  for (const move of [response, position]) {
+    if (move && move.comment) {
+      if (move.comment.toLowerCase().includes('wrong')) {
+        return 'wrong';
+      } else if (move.comment.toLowerCase().includes('correct')) {
+        return 'correct';
+      }
+    }
+  }
+
+  throw new Error('Cannot determine outcome of branch');
 }
