@@ -26,11 +26,11 @@ test('Cho Chikun #1', async () => {
       [Player.You]: [[4, 1], [5, 1], [1, 2], [2, 2], [3, 2], [1, 4]],
     },
     sequences: [
-      { position: [1, 0], outcome: 'correct' },
-      { position: [2, 0], response: [1, 0], outcome: 'wrong' },
-      { position: [0, 0], response: [1, 0], outcome: 'wrong' },
-      { position: [0, 2], response: [1, 0], outcome: 'wrong' },
-      { position: [4, 0], response: [1, 0], outcome: 'wrong' },
+      { type: 'leaf', position: [1, 0], outcome: 'correct' },
+      { type: 'leaf', position: [2, 0], response: [1, 0], outcome: 'wrong' },
+      { type: 'leaf', position: [0, 0], response: [1, 0], outcome: 'wrong' },
+      { type: 'leaf', position: [0, 2], response: [1, 0], outcome: 'wrong' },
+      { type: 'leaf', position: [4, 0], response: [1, 0], outcome: 'wrong' },
     ],
   };
 
@@ -85,95 +85,151 @@ test('Cho Chikun #2', async () => {
     },
     sequences: [
       {
+        type: 'branch',
         position: [3, 0],
         response: [9, 2],
         children: [
           {
+            type: 'branch',
             position: [0, 2],
             response: [9, 0],
             children: [
-              { position: [2, 0], response: [5, 0], outcome: 'wrong' },
-              { position: [0, 0], response: [8, 2], outcome: 'wrong' },
+              {
+                type: 'leaf',
+                position: [2, 0],
+                response: [5, 0],
+                outcome: 'wrong',
+              },
+              {
+                type: 'leaf',
+                position: [0, 0],
+                response: [8, 2],
+                outcome: 'wrong',
+              },
             ],
           },
           {
+            type: 'branch',
             position: [2, 0],
             response: [5, 0],
             children: [
               {
+                type: 'branch',
                 position: [2, 0],
                 response: [3, 0],
                 children: [
                   {
+                    type: 'branch',
                     position: [0, 2],
                     response: [9, 0],
                     children: [
-                      { position: [0, 0], response: [8, 2], outcome: 'wrong' },
+                      {
+                        type: 'leaf',
+                        position: [0, 0],
+                        response: [8, 2],
+                        outcome: 'wrong',
+                      },
                     ],
                   },
                 ],
               },
               {
+                type: 'branch',
                 position: [3, 0],
                 response: [2, 0],
-                children: [{ position: [0, 2], outcome: 'correct' }],
+                children: [
+                  { type: 'leaf', position: [0, 2], outcome: 'correct' },
+                ],
               },
             ],
           },
         ],
       },
       {
+        type: 'branch',
         position: [2, 0],
         response: [3, 0],
         children: [
           {
+            type: 'branch',
             position: [0, 2],
             response: [9, 2],
             children: [
               {
+                type: 'branch',
                 position: [0, 0],
                 response: [9, 0],
-                children: [{ position: [2, 0], outcome: 'wrong' }],
+                children: [
+                  { type: 'leaf', position: [2, 0], outcome: 'wrong' },
+                ],
               },
             ],
           },
         ],
       },
       {
+        type: 'branch',
         position: [0, 2],
         response: [9, 2],
         children: [
           {
+            type: 'branch',
             position: [0, 0],
             response: [8, 2],
             children: [
-              { position: [2, 0], response: [9, 0], outcome: 'wrong' },
+              {
+                type: 'leaf',
+                position: [2, 0],
+                response: [9, 0],
+                outcome: 'wrong',
+              },
             ],
           },
           {
+            type: 'branch',
             position: [2, 0],
             response: [3, 0],
             children: [
               {
+                type: 'branch',
                 position: [0, 0],
                 response: [9, 0],
-                children: [{ position: [2, 0], outcome: 'wrong' }],
+                children: [
+                  { type: 'leaf', position: [2, 0], outcome: 'wrong' },
+                ],
               },
             ],
           },
           {
+            type: 'branch',
             position: [3, 0],
             response: [8, 2],
             children: [
               {
+                type: 'branch',
                 position: [2, 0],
                 response: [5, 0],
                 children: [
-                  { position: [3, 0], response: [9, 0], outcome: 'wrong' },
-                  { position: [2, 0], response: [9, 0], outcome: 'wrong' },
+                  {
+                    type: 'leaf',
+                    position: [3, 0],
+                    response: [9, 0],
+                    outcome: 'wrong',
+                  },
+                  {
+                    type: 'leaf',
+                    position: [2, 0],
+                    response: [9, 0],
+                    outcome: 'wrong',
+                  },
                 ],
               },
-              { position: [0, 0], response: [9, 0], outcome: 'wrong' },
+              {
+                type: 'leaf',
+                position: [0, 0],
+                response: [9, 0],
+                outcome: 'wrong',
+              },
             ],
           },
         ],

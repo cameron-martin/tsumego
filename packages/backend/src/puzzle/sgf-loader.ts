@@ -57,6 +57,7 @@ function loadGameTree(tree: GameTree): PuzzleTree[] {
 
   if (tree.gameTrees.length === 0) {
     initialTree = {
+      type: 'leaf',
       position: lastChunk[0].position,
       outcome: findOutcome(lastChunk[0], lastChunk[1]),
     };
@@ -70,6 +71,7 @@ function loadGameTree(tree: GameTree): PuzzleTree[] {
     }
 
     initialTree = {
+      type: 'branch',
       position: lastChunk[0].position,
       response: lastChunk[1].position,
       children: tree.gameTrees.flatMap(loadGameTree),
@@ -79,6 +81,7 @@ function loadGameTree(tree: GameTree): PuzzleTree[] {
   return [
     chunks.reduceRight<PuzzleTree>((puzzleTree, chunk) => {
       return {
+        type: 'branch',
         position: chunk[0].position,
         response: chunk[1].position,
         children: [puzzleTree],
