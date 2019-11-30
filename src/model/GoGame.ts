@@ -27,20 +27,39 @@ export interface GoMove {
 
 const otherPlayer = { white: 'black', black: 'white' } as const;
 
+const getIndex = (boardSize: number, position: BoardPosition) =>
+  boardSize * position[0] + position[1];
+
 export class GoGame {
-  static create(boardSize: number) {
-    return new GoGame(boardSize);
+  static create(
+    boardSize: number,
+    initialStones?: { readonly [K in GoPlayer]: BoardPosition[] },
+  ) {
+    let groupCollection = GroupCollection.create(boardSize);
+
+    if (initialStones) {
+      for (const player of ['white', 'black'] as const) {
+        for (const position of initialStones[player]) {
+          groupCollection = groupCollection.addStone(
+            player,
+            getIndex(boardSize, position),
+          );
+        }
+      }
+    }
+
+    return new GoGame(boardSize, false, null, groupCollection, {
+      white: 0,
+      black: 0,
+    });
   }
 
   private constructor(
     public readonly boardSize: number,
-    public readonly ended = false,
-    private readonly lastMove: GoMove | null = null,
-    private readonly groupCollection = GroupCollection.create(boardSize),
-    public readonly capturedStones: { readonly [K in GoPlayer]: number } = {
-      white: 0,
-      black: 0,
-    },
+    public readonly ended: boolean,
+    private readonly lastMove: GoMove | null,
+    private readonly groupCollection: GroupCollection,
+    public readonly capturedStones: { readonly [K in GoPlayer]: number },
   ) {}
 
   playValidMoves(moves: GoMove[]) {
@@ -132,15 +151,15 @@ export class GoGame {
     return otherPlayer[this.lastMove ? this.lastMove.player : 'white'];
   }
 
-  getCell(position: readonly [number, number]): CellState {
+  getCell(position: BoardPosition): CellState {
     const group = this.groupCollection.get(this.getIndex(position));
     if (!group) return 'empty';
 
     return group.player;
   }
 
-  private getIndex(position: readonly [number, number]) {
-    return this.boardSize * position[0] + position[1];
+  private getIndex(position: BoardPosition) {
+    return getIndex(this.boardSize, position);
   }
 }
 

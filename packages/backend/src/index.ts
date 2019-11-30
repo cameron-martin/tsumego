@@ -4,6 +4,8 @@ import path from 'path';
 import { Puzzle } from './puzzle/Puzzle';
 import { loadSgf } from './puzzle/sgf-loader';
 import { random } from 'lodash';
+import bodyParser from 'body-parser';
+import cors from 'cors';
 
 process.on('unhandledRejection', err => {
   throw err;
@@ -25,6 +27,15 @@ const puzzleDir = path.join(
   const puzzleIds = Array.from(puzzles.keys());
   const app = express();
 
+  app.use(bodyParser.json());
+  app.use(
+    cors({
+      origin: true,
+      methods: ['POST', 'GET'],
+      allowedHeaders: ['Content-Type'],
+    }),
+  );
+
   app.get('/puzzle/random', (req, res) => {
     const randomId = puzzleIds[random(0, puzzleIds.length - 1)];
 
@@ -41,7 +52,20 @@ const puzzleDir = path.join(
       return;
     }
 
-    res.json({ initialStones: puzzle.initialStones });
+    res.json({ id: req.params.puzzleId, initialStones: puzzle.initialStones });
+  });
+
+  app.post('/puzzle/:puzzleId/solution', (req, res) => {
+    const puzzle = puzzles.get(req.params.puzzleId);
+
+    if (!puzzle) {
+      res.status(404).end();
+      return;
+    }
+
+    const response = puzzle.playSequence(req.body);
+
+    res.json(response);
   });
 
   app.listen(8080);

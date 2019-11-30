@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react';
-import { GoGame, GoMove } from '../model/GoGame';
+import { GoGame, GoMove, BoardPosition } from '../model/GoGame';
 import { style, classes } from './Board.st.css';
 import BoardCell from './BoardCell';
 import FixedAspectRatio from './FixedAspectRatio';
@@ -7,7 +7,7 @@ import FixedAspectRatio from './FixedAspectRatio';
 interface Props {
   className?: string;
   game: GoGame;
-  playMove(move: (game: GoGame) => GoMove): void;
+  playMove(position: BoardPosition): void;
 }
 
 export default function Board({ className, game, playMove }: Props) {
@@ -15,10 +15,7 @@ export default function Board({ className, game, playMove }: Props) {
 
   const onCellClick = useCallback(
     (row: number, column: number) => {
-      playMove(game => ({
-        position: [row, column],
-        player: game.currentPlayer,
-      }));
+      playMove([row, column]);
     },
     [playMove],
   );

@@ -7,9 +7,13 @@
     "start": "node ./dist/index.js"
   },
   "dependencies": {
+    "@types/body-parser": "^1.17.1",
+    "@types/cors": "^2.8.6",
     "@types/express": "^4.17.2",
     "@types/lodash": "^4.14.149",
     "@types/parsimmon": "^1.10.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
     "parsimmon": "^1.13.0"

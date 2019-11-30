@@ -175,3 +175,5 @@ test('it advances current player', () => {
   game = game.playValidMove({ player: 'white', position: [1, 2] });
   expect(game.currentPlayer).toBe('black');
 });
+
+test.todo('constructing with initial stones');
