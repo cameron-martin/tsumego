@@ -100,7 +100,7 @@ export default function App() {
           gameState.moveState === 'WRONG') &&
           gameState.moveState}
       </p>
-      <Board game={gameState.game} playMove={playMove} />;
+      <Board game={gameState.game} playMove={playMove} />
     </div>
   );
 }
