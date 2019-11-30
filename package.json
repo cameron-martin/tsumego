@@ -4,14 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {
-    "@types/react": "^16.9.11",
-    "@types/react-dom": "^16.9.3",
-    "fp-ts": "^2.1.2",
-    "immutable": "^4.0.0-rc.12",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/plugin-proposal-class-properties": "^7.7.4",
@@ -41,7 +34,6 @@
     "webpack-dev-server": "^3.9.0"
   },
   "scripts": {
-    "test": "jest",
-    "start": "webpack-dev-server --config webpack.config.dev.ts"
+    "test": "jest"
   }
 }

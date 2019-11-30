@@ -8,7 +8,18 @@ const config: webpack.Configuration = {
     extensions: ['.ts', '.tsx', '.js', '.jsx'],
   },
   module: {
-    rules: [{ test: /.tsx?/, use: 'babel-loader', exclude: /node_modules/ }],
+    rules: [
+      {
+        test: /.tsx?/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            rootMode: 'upward',
+          },
+        },
+        exclude: /node_modules/,
+      },
+    ],
   },
   plugins: [
     new HtmlWebpackPlugin({
