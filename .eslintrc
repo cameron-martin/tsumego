@@ -10,10 +10,12 @@
     "browser": true,
     "node": true
   },
-  "plugins": [
-    "@typescript-eslint",
-    "react-hooks"
-  ],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "plugins": ["@typescript-eslint", "react-hooks"],
   "extends": [
     "eslint:recommended",
     "plugin:@typescript-eslint/eslint-recommended",
