@@ -150,9 +150,7 @@ module.exports = {
       // ],
 
       // An array of regexp pattern strings that are matched against all test paths, matched tests are skipped
-      // testPathIgnorePatterns: [
-      //   "/node_modules/"
-      // ],
+      testPathIgnorePatterns: ['/node_modules/', '/dist/'],
 
       // The regexp pattern or array of patterns that Jest uses to detect test files
       // testRegex: [],
@@ -192,7 +190,8 @@ module.exports = {
     {
       runner: 'jest-runner-eslint',
       displayName: 'lint',
-      testMatch: ['<rootDir>/src/**/*.[jt]s?(x)'],
+      testMatch: ['<rootDir>/**/*.[jt]s?(x)'],
+      testPathIgnorePatterns: ['/node_modules/', '/dist/'],
     },
   ],
 };

@@ -11,6 +11,7 @@ test('Cho Chikun #1', async () => {
   const file = await fs.readFile(
     path.join(
       __dirname,
+      '..',
       'sgfs',
       'puzzles',
       'CD 1 - FAMOUS TSUMEGO COMPOSERS',
@@ -41,6 +42,7 @@ test('Cho Chikun #2', async () => {
   const file = await fs.readFile(
     path.join(
       __dirname,
+      '..',
       'sgfs',
       'puzzles',
       'CD 1 - FAMOUS TSUMEGO COMPOSERS',
