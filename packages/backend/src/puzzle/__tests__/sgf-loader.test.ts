@@ -5,7 +5,7 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import { loadSgf } from '../sgf-loader';
-import { PuzzleSpec, Player } from '../Puzzle';
+import { PuzzleSpec } from '../Puzzle';
 
 test('Cho Chikun #1', async () => {
   const file = await fs.readFile(
@@ -23,8 +23,8 @@ test('Cho Chikun #1', async () => {
 
   const expected: PuzzleSpec = {
     initialStones: {
-      [Player.Computer]: [[3, 0], [0, 1], [1, 1], [2, 1], [3, 1]],
-      [Player.You]: [[4, 1], [5, 1], [1, 2], [2, 2], [3, 2], [1, 4]],
+      computer: [[3, 0], [0, 1], [1, 1], [2, 1], [3, 1]],
+      you: [[4, 1], [5, 1], [1, 2], [2, 2], [3, 2], [1, 4]],
     },
     sequences: [
       { type: 'leaf', position: [1, 0], outcome: 'correct' },
@@ -54,7 +54,7 @@ test('Cho Chikun #2', async () => {
 
   const expected: PuzzleSpec = {
     initialStones: {
-      [Player.Computer]: [
+      computer: [
         [1, 0],
         [6, 0],
         [2, 1],
@@ -69,7 +69,7 @@ test('Cho Chikun #2', async () => {
         [7, 3],
         [9, 3],
       ],
-      [Player.You]: [
+      you: [
         [4, 0],
         [7, 0],
         [0, 1],

@@ -1,7 +1,6 @@
 import {
   PuzzleSpec,
   InitialStones,
-  Player,
   BoardPosition,
   PuzzleTree,
   Outcome,
@@ -137,8 +136,8 @@ function getInitialStones(tree: GameTree): InitialStones {
   // TODO: Work out which way round the players are
 
   return {
-    [Player.You]: blackPoints,
-    [Player.Computer]: whitePoints,
+    you: blackPoints,
+    computer: whitePoints,
   };
 }
 

@@ -1,8 +1,3 @@
-export enum Player {
-  You,
-  Computer,
-}
-
 export type BoardPosition = readonly [number, number];
 
 export type PlayResult =
@@ -62,8 +57,8 @@ export class Puzzle {
 }
 
 export interface InitialStones {
-  [Player.You]: BoardPosition[];
-  [Player.Computer]: BoardPosition[];
+  you: BoardPosition[];
+  computer: BoardPosition[];
 }
 
 export interface PuzzleSpec {
