@@ -30,6 +30,8 @@ const otherPlayer = { white: 'black', black: 'white' } as const;
 const getIndex = (boardSize: number, position: BoardPosition) =>
   boardSize * position[0] + position[1];
 
+const inNonNullable = <T>(value: T): value is NonNullable<T> => value != null;
+
 export class GoGame {
   static create(
     boardSize: number,
@@ -202,17 +204,14 @@ class GroupCollection {
       this.left(index),
       this.right(index),
       this.down(index),
-    ].filter(
-      (adjacentIndex): adjacentIndex is NonNullable<typeof adjacentIndex> =>
-        adjacentIndex != null,
-    );
+    ].filter(inNonNullable);
   }
 
   getAdjacentGroups(index: number) {
     return uniq(
       this.getAdjacentIndexes(index)
         .map(position => this.groupsByIndex.get(position))
-        .filter((group): group is NonNullable<typeof group> => group != null),
+        .filter(inNonNullable),
     );
   }
 
