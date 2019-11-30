@@ -129,7 +129,7 @@ type ExtractParserType<T extends Parser<any>> = T extends Parser<infer U>
   ? U
   : never;
 
-type PropertyAux<U extends PropertyType> = U extends any
+type PropertyAux<U extends PropertyType> = U extends unknown
   ? {
       type: 'known';
       ident: U;
@@ -148,7 +148,7 @@ export type Property =
 const propIdent = ucLetter.atLeast(1).tie();
 const property: Parser<Property> = propIdent.chain(ident => {
   if (Object.prototype.hasOwnProperty.call(propertyParsers, ident)) {
-    return (propertyParsers[ident as PropertyType] as Parser<any>).map(
+    return (propertyParsers[ident as PropertyType] as Parser<unknown>).map(
       value => ({ type: 'known', ident, value } as Property),
     );
   } else {

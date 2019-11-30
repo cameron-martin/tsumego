@@ -16,7 +16,7 @@ type SolvePuzzleResponse =
 class Requester {
   constructor(private readonly host: string) {}
 
-  async request(method: 'POST' | 'GET', path: string, body?: any) {
+  async request(method: 'POST' | 'GET', path: string, body?: unknown) {
     const response = await fetch(this.host + path, {
       method,
       body: body && JSON.stringify(body),
