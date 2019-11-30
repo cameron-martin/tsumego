@@ -28,8 +28,7 @@ const puzzleDir = path.join(
   app.get('/puzzle/random', (req, res) => {
     const randomId = puzzleIds[random(0, puzzleIds.length - 1)];
 
-    // TODO: Check this is the correct status code once I have internet.
-    res.status(301);
+    res.status(307);
     res.set('Location', `/puzzle/${randomId}`);
     res.end();
   });
