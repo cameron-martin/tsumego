@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react';
-import { GoGame, GoMove, BoardPosition } from '../model/GoGame';
+import { GoGame, BoardPosition } from '../model/GoGame';
 import { style, classes } from './Board.st.css';
 import BoardCell from './BoardCell';
 import FixedAspectRatio from './FixedAspectRatio';

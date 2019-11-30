@@ -1,8 +1,7 @@
 import Board from './Board';
 import React, { useState, useCallback, useEffect } from 'react';
-import { GoGame, GoMove, BoardPosition } from '../model/GoGame';
+import { GoGame, BoardPosition } from '../model/GoGame';
 import { either } from 'fp-ts';
-import { pipe } from 'fp-ts/lib/pipeable';
 import { ApiClient } from '../api-client';
 
 type GameState =
