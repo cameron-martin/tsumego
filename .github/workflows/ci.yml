@@ -1,0 +1,22 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+
+    steps:
+      - uses: actions/checkout@v1
+      - run: nvmrc=$(cat .nvmrc)
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: $nvmrc
+      - name: npm install, build, and test
+        run: |
+          yarn
+          yarn workspaces run build
+          yarn test
+        env:
+          CI: true
