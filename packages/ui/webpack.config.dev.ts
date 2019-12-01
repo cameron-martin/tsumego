@@ -28,6 +28,9 @@ const config: webpack.Configuration = {
     }),
     new StylableWebpackPlugin(),
   ],
+  devServer: {
+    port: 8081
+  }
 };
 
 module.exports = config;
