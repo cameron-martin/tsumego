@@ -6,11 +6,11 @@ import { ApiClient } from '../api-client';
 
 type GameState =
   | Readonly<{
-      loadState: 'LOADING';
+      loadState: 'loading';
     }>
   | Readonly<{
-      loadState: 'LOADED';
-      moveState: 'RESPONDING' | 'WAITING' | 'CORRECT' | 'WRONG';
+      loadState: 'loaded';
+      moveState: 'computers-turn' | 'humans-turn' | 'correct' | 'wrong';
       sequence: readonly BoardPosition[];
       id: string;
       game: GoGame;
@@ -20,14 +20,14 @@ const apiClient = new ApiClient('http://localhost:8080');
 
 export default function App() {
   const [gameState, setGameState] = useState<GameState>({
-    loadState: 'LOADING',
+    loadState: 'loading',
   });
 
   useEffect(() => {
     apiClient.puzzle.getRandom().then(({ id, initialStones }) => {
       setGameState({
-        loadState: 'LOADED',
-        moveState: 'WAITING',
+        loadState: 'loaded',
+        moveState: 'humans-turn',
         id,
         sequence: [],
         game: GoGame.create(19, {
@@ -40,8 +40,8 @@ export default function App() {
 
   useEffect(() => {
     if (
-      gameState.loadState === 'LOADED' &&
-      gameState.moveState === 'RESPONDING'
+      gameState.loadState === 'loaded' &&
+      gameState.moveState === 'computers-turn'
     ) {
       apiClient.puzzle
         .solve(gameState.id, gameState.sequence)
@@ -49,16 +49,14 @@ export default function App() {
           if (response.type === 'continue') {
             setGameState({
               ...gameState,
-              moveState: 'WAITING',
+              moveState: 'humans-turn',
               game: gameState.game.playValidMove({
                 player: 'white',
                 position: response.response,
               }),
             });
-          } else if (response.type === 'correct') {
-            setGameState({ ...gameState, moveState: 'CORRECT' });
-          } else if (response.type === 'wrong') {
-            setGameState({ ...gameState, moveState: 'WRONG' });
+          } else if (response.type === 'correct' || response.type === 'wrong') {
+            setGameState({ ...gameState, moveState: response.type });
           }
         });
     }
@@ -67,8 +65,8 @@ export default function App() {
   const playMove = useCallback((position: BoardPosition) => {
     setGameState(gameState => {
       if (
-        gameState.loadState === 'LOADED' &&
-        gameState.moveState === 'WAITING'
+        gameState.loadState === 'loaded' &&
+        gameState.moveState === 'humans-turn'
       ) {
         const newGame = gameState.game.playMove({ player: 'black', position });
 
@@ -80,7 +78,7 @@ export default function App() {
           ...gameState,
           sequence: gameState.sequence.concat([position]),
           game: newGame.right,
-          moveState: 'RESPONDING',
+          moveState: 'computers-turn',
         };
       } else {
         return gameState;
@@ -88,15 +86,15 @@ export default function App() {
     });
   }, []);
 
-  if (gameState.loadState === 'LOADING') {
+  if (gameState.loadState === 'loading') {
     return <div>Loading...</div>;
   }
 
   return (
     <div>
       <p>
-        {(gameState.moveState === 'CORRECT' ||
-          gameState.moveState === 'WRONG') &&
+        {(gameState.moveState === 'correct' ||
+          gameState.moveState === 'wrong') &&
           gameState.moveState}
       </p>
       <Board game={gameState.game} playMove={playMove} />
