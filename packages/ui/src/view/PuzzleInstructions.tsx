@@ -6,11 +6,8 @@ interface Props {
   className?: string;
   humanPlayer: GoPlayer;
   state: 'in-progress' | 'correct' | 'wrong';
+  onNextPuzzle(): void;
 }
-
-const handleNextClick = () => {
-  window.location.reload();
-};
 
 export default function PuzzleInstructions(props: Props) {
   if (props.state === 'in-progress') {
@@ -24,7 +21,7 @@ export default function PuzzleInstructions(props: Props) {
   return (
     <div className={style(classes.root, props.className)}>
       {props.state === 'correct' ? 'Correct!' : 'Wrong!'}{' '}
-      <button onClick={handleNextClick}>Next</button>
+      <button onClick={props.onNextPuzzle}>Next</button>
     </div>
   );
 }

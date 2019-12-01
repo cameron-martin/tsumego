@@ -28,19 +28,23 @@ export default function App() {
     loadState: 'loading',
   });
 
-  useEffect(() => {
-    apiClient.puzzle.getRandom().then(({ id, initialStones }) => {
-      setGameState({
-        loadState: 'loaded',
-        moveState: 'humans-turn',
-        id,
-        sequence: [],
-        game: GoGame.create(19, {
-          [computerPlayer]: initialStones.computer,
-          [humanPlayer]: initialStones.you,
-        }),
-      });
+  const loadPuzzle = async () => {
+    const { id, initialStones } = await apiClient.puzzle.getRandom();
+
+    setGameState({
+      loadState: 'loaded',
+      moveState: 'humans-turn',
+      id,
+      sequence: [],
+      game: GoGame.create(19, {
+        [computerPlayer]: initialStones.computer,
+        [humanPlayer]: initialStones.you,
+      }),
     });
+  };
+
+  useEffect(() => {
+    loadPuzzle();
   }, []);
 
   useEffect(() => {
@@ -94,6 +98,12 @@ export default function App() {
     });
   }, []);
 
+  const handleNextPuzzle = useCallback(() => {
+    setGameState({ loadState: 'loading' });
+
+    loadPuzzle();
+  }, []);
+
   if (gameState.loadState === 'loading') {
     return <div>Loading...</div>;
   }
@@ -108,6 +118,7 @@ export default function App() {
             ? gameState.moveState
             : 'in-progress'
         }
+        onNextPuzzle={handleNextPuzzle}
       />
       <Board game={gameState.game} playMove={playMove} />
     </div>
