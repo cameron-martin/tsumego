@@ -1,0 +1,8 @@
+:vars {
+    height: 2rem;
+}
+
+.root {
+    text-align: center;
+    height: value(height);
+}

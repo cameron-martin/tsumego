@@ -3,6 +3,8 @@ import React, { useState, useCallback, useEffect } from 'react';
 import { GoGame, BoardPosition } from '../model/GoGame';
 import { either } from 'fp-ts';
 import { ApiClient } from '../api-client';
+import PuzzleInstructions from './PuzzleInstructions';
+import { classes, style } from './App.st.css';
 
 type GameState =
   | Readonly<{
@@ -18,8 +20,8 @@ type GameState =
 
 const apiClient = new ApiClient('http://localhost:8080');
 
-const computerColour = 'white';
-const humanColour = 'black';
+const computerPlayer = 'white';
+const humanPlayer = 'black';
 
 export default function App() {
   const [gameState, setGameState] = useState<GameState>({
@@ -34,8 +36,8 @@ export default function App() {
         id,
         sequence: [],
         game: GoGame.create(19, {
-          [computerColour]: initialStones.computer,
-          [humanColour]: initialStones.you,
+          [computerPlayer]: initialStones.computer,
+          [humanPlayer]: initialStones.you,
         }),
       });
     });
@@ -54,7 +56,7 @@ export default function App() {
               ...gameState,
               moveState: 'humans-turn',
               game: gameState.game.playValidMove({
-                player: computerColour,
+                player: computerPlayer,
                 position: response.response,
               }),
             });
@@ -72,7 +74,7 @@ export default function App() {
         gameState.moveState === 'humans-turn'
       ) {
         const newGame = gameState.game.playMove({
-          player: humanColour,
+          player: humanPlayer,
           position,
         });
 
@@ -97,12 +99,16 @@ export default function App() {
   }
 
   return (
-    <div>
-      <p>
-        {(gameState.moveState === 'correct' ||
-          gameState.moveState === 'wrong') &&
-          gameState.moveState}
-      </p>
+    <div className={style(classes.puzzle)}>
+      <PuzzleInstructions
+        className={style(classes.instructions)}
+        humanPlayer={humanPlayer}
+        state={
+          gameState.moveState === 'correct' || gameState.moveState === 'wrong'
+            ? gameState.moveState
+            : 'in-progress'
+        }
+      />
       <Board game={gameState.game} playMove={playMove} />
     </div>
   );

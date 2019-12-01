@@ -1,0 +1,8 @@
+:import {
+    -st-from: "./PuzzleInstructions.st.css";
+    -st-named: height as instructionsHeight;
+}
+
+.puzzle {
+    max-width: calc(100vmin - value(instructionsHeight));
+}
