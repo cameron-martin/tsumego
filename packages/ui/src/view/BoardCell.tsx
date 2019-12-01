@@ -18,6 +18,23 @@ interface Props {
   right: boolean;
 }
 
+const getStone = (props: Props) => {
+  if (props.state !== 'empty') {
+    return <div className={style(classes.stone, { colour: props.state })} />;
+  }
+
+  if (props.currentPlayer != null) {
+    return (
+      <div
+        className={style(classes.stone, {
+          colour: props.currentPlayer,
+          isShadow: true,
+        })}
+      />
+    );
+  }
+};
+
 export default React.memo(function BoardCell(props: Props) {
   const { top, bottom, left, right } = props;
 
@@ -30,16 +47,7 @@ export default React.memo(function BoardCell(props: Props) {
       )}
       onClick={() => props.onClick(props.row, props.column)}
     >
-      {props.state !== 'empty' ? (
-        <div className={style(classes.stone, { colour: props.state })} />
-      ) : (
-        <div
-          className={style(classes.stone, {
-            colour: props.currentPlayer,
-            isShadow: true,
-          })}
-        />
-      )}
+      {getStone(props)}
     </div>
   );
 });
