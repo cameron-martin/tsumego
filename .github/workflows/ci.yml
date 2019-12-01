@@ -8,11 +8,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
-      - run: nvmrc=$(cat .nvmrc)
+      - name: Read .nvmrc
+        run: echo "##[set-output name=NVMRC;]$(cat .nvmrc)"
+        id: nvm
       - name: Setup node
         uses: actions/setup-node@v1
         with:
-          node-version: $nvmrc
+          node-version: '${{ steps.nvm.outputs.NVMRC }}'
       - name: npm install, build, and test
         run: |
           yarn
