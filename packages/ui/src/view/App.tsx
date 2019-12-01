@@ -18,6 +18,9 @@ type GameState =
 
 const apiClient = new ApiClient('http://localhost:8080');
 
+const computerColour = 'white';
+const humanColour = 'black';
+
 export default function App() {
   const [gameState, setGameState] = useState<GameState>({
     loadState: 'loading',
@@ -31,8 +34,8 @@ export default function App() {
         id,
         sequence: [],
         game: GoGame.create(19, {
-          white: initialStones.computer,
-          black: initialStones.you,
+          [computerColour]: initialStones.computer,
+          [humanColour]: initialStones.you,
         }),
       });
     });
@@ -51,7 +54,7 @@ export default function App() {
               ...gameState,
               moveState: 'humans-turn',
               game: gameState.game.playValidMove({
-                player: 'white',
+                player: computerColour,
                 position: response.response,
               }),
             });
@@ -68,7 +71,10 @@ export default function App() {
         gameState.loadState === 'loaded' &&
         gameState.moveState === 'humans-turn'
       ) {
-        const newGame = gameState.game.playMove({ player: 'black', position });
+        const newGame = gameState.game.playMove({
+          player: humanColour,
+          position,
+        });
 
         if (either.isLeft(newGame)) {
           return gameState;
