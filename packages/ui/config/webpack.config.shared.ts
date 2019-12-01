@@ -1,9 +1,13 @@
 import webpack from 'webpack';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 import { StylableWebpackPlugin } from '@stylable/webpack-plugin';
+import ForkTsCheckerWebpackPlugin from 'fork-ts-checker-webpack-plugin';
 
-const config: webpack.Configuration = {
-  mode: 'development',
+interface Settings {
+  cssFilename?: string;
+}
+
+const sharedConfig = (settings?: Settings): webpack.Configuration => ({
   resolve: {
     extensions: ['.ts', '.tsx', '.js', '.jsx'],
   },
@@ -26,11 +30,11 @@ const config: webpack.Configuration = {
       template: './src/view/index.ejs',
       title: 'Play Go',
     }),
-    new StylableWebpackPlugin(),
+    new StylableWebpackPlugin({
+      filename: settings && settings.cssFilename,
+    }),
+    new ForkTsCheckerWebpackPlugin(),
   ],
-  devServer: {
-    port: 8081
-  }
-};
+});
 
-module.exports = config;
+export default sharedConfig;
