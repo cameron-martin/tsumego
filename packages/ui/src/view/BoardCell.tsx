@@ -1,9 +1,13 @@
-import { CellState } from '../model/GoGame';
+import { CellState, GoPlayer } from '../model/GoGame';
 import React from 'react';
 import { classes, style } from './BoardCell.st.css';
 
 interface Props {
   state: CellState;
+  /**
+   * null represents that no player can play
+   */
+  currentPlayer: GoPlayer | null;
   row: number;
   column: number;
   onClick(row: number, column: number): void;
@@ -26,8 +30,15 @@ export default React.memo(function BoardCell(props: Props) {
       )}
       onClick={() => props.onClick(props.row, props.column)}
     >
-      {props.state !== 'empty' && (
+      {props.state !== 'empty' ? (
         <div className={style(classes.stone, { colour: props.state })} />
+      ) : (
+        <div
+          className={style(classes.stone, {
+            colour: props.currentPlayer,
+            isShadow: true,
+          })}
+        />
       )}
     </div>
   );

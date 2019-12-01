@@ -28,6 +28,7 @@ export default function Board({ className, game, playMove }: Props) {
             <div className={classes.column} key={i}>
               {rowsAndCols.map(j => (
                 <BoardCell
+                  currentPlayer={game.currentPlayer}
                   className={classes.cell}
                   key={j}
                   row={i}
