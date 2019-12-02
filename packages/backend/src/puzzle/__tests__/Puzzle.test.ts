@@ -228,12 +228,6 @@ test('long correct sequences are correct', () => {
 });
 
 test('long known wrong sequences are wrong', () => {
-  const result = complexPuzzle.playSequence([[3, 0], [2, 0], [3, 0], [0, 2]]);
-
-  expect(result).toEqual({ type: 'correct' });
-});
-
-test('long known wrong sequences are wrong', () => {
   const result = complexPuzzle.playSequence([[3, 0], [0, 2], [2, 0]]);
 
   expect(result).toEqual({ type: 'wrong', response: [5, 0] });
