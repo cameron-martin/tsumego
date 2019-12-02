@@ -6,7 +6,9 @@
   ],
   "scripts": {
     "test": "jest",
-    "dev": "yarn workspace @tsumego/backend run build && wsrun -c dev"
+    "dev": "yarn workspace @tsumego/backend run build && wsrun -c dev",
+    "db:dev": "yarn workspace @tsumego/db run db:dev",
+    "db:migrate": "yarn workspace @tsumego/db run db:migrate"
   },
   "dependencies": {},
   "devDependencies": {
