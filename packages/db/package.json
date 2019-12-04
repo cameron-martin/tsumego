@@ -1,9 +1,5 @@
 {
   "private": true,
   "version": "0.0.1",
-  "name": "@tsumego/db",
-  "scripts": {
-    "db:migrate": "sudo docker run --network host --rm -v $PWD/migrations:/flyway/sql flyway/flyway:6.1.0 -url=jdbc:postgresql://localhost:5432/postgres -user=postgres migrate",
-    "db:dev": "sudo docker run -p 5432:5432 postgres:12.1"
-  }
+  "name": "@tsumego/db"
 }

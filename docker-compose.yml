@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  db:
+    image: postgres:12.1
+    ports:
+      - '5432:5432'
+  db-migrate:
+    image: flyway/flyway:6.1.0
+    depends_on:
+      - db
+    volumes:
+      - type: bind
+        source: ./packages/db/migrations
+        target: /flyway/sql
+    command: -url=jdbc:postgresql://db:5432/postgres -user=postgres -connectRetries=60 migrate
