@@ -32,7 +32,7 @@ const puzzleDir = path.join(
     cors({
       origin: true,
       methods: ['POST', 'GET'],
-      allowedHeaders: ['Content-Type'],
+      allowedHeaders: ['Content-Type', 'Authorization'],
     }),
   );
 

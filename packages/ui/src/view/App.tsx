@@ -6,6 +6,10 @@ import { ApiClient } from '../api-client';
 import PuzzleInstructions from './PuzzleInstructions';
 import { classes, style } from './App.st.css';
 
+interface Props {
+  apiClient: ApiClient;
+}
+
 type GameState =
   | Readonly<{
       loadState: 'loading';
@@ -18,12 +22,10 @@ type GameState =
       game: GoGame;
     }>;
 
-const apiClient = new ApiClient('http://localhost:8080');
-
 const computerPlayer = 'white';
 const humanPlayer = 'black';
 
-export default function App() {
+export default function App({ apiClient }: Props) {
   const [gameState, setGameState] = useState<GameState>({
     loadState: 'loading',
   });
