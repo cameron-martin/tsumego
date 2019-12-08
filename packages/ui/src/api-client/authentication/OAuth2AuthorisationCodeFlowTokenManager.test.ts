@@ -1,26 +1,46 @@
 import 'whatwg-fetch';
 import { OAuth2AuthorisationCodeFlowTokenManager } from './OAuth2AuthorisationCodeFlowTokenManager';
 import { MemoryStorage } from './storage/MemoryStorage';
+import { AuthStorage } from './storage';
 import { Handler } from '../requester';
 
-const createMockHandler = (handler: Handler) => jest.fn(handler);
+const createMockHandler = () => {
+  let tokenIndex = 1;
+  return jest.fn<Promise<Response>, [Request]>(async () => {
+    const currentIndex = tokenIndex++;
+
+    return new Response(
+      JSON.stringify({
+        /* eslint-disable @typescript-eslint/camelcase */
+        access_token: `accessToken${currentIndex}`,
+        refresh_token: `refreshToken${currentIndex}`,
+        id_token: `idToken${currentIndex}`,
+        token_type: 'Bearer',
+        expires_in: 3600,
+        /* eslint-enable @typescript-eslint/camelcase */
+      }),
+    );
+  });
+};
+
+const createTokenManager = ({
+  storage,
+  handler,
+}: {
+  storage: AuthStorage;
+  handler: Handler;
+}) =>
+  new OAuth2AuthorisationCodeFlowTokenManager({
+    storage,
+    handler,
+    tokenEndpoint: 'http://example.com/token',
+    clientId: 'my-client-id',
+    redirectUri: 'http://example.com/redirect',
+  });
 
 const getBody = async (request: Request): Promise<URLSearchParams> => {
   return new URLSearchParams(await request.text());
 };
-
-const createExampleResponse = (accessToken = 'eyJz9sdfsdfsdfsd') =>
-  new Response(
-    JSON.stringify({
-      /* eslint-disable @typescript-eslint/camelcase */
-      access_token: accessToken,
-      refresh_token: 'dn43ud8uj32nk2je',
-      id_token: 'dmcxd329ujdmkemkd349r',
-      token_type: 'Bearer',
-      expires_in: 3600,
-      /* eslint-enable @typescript-eslint/camelcase */
-    }),
-  );
 
 test(`returns null if no authorization code is given`, async () => {
   const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
@@ -37,14 +57,11 @@ test(`returns null if no authorization code is given`, async () => {
 });
 
 test(`useAuthorizationCode returns token obtained via authorisation code`, async () => {
-  const handler = createMockHandler(async () => createExampleResponse());
+  const handler = createMockHandler();
 
-  const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
+  const tokenManager = createTokenManager({
     storage: new MemoryStorage(),
     handler,
-    tokenEndpoint: 'http://example.com/token',
-    clientId: 'my-client-id',
-    redirectUri: 'http://example.com/redirect',
   });
 
   tokenManager.useAuthorizationCode(
@@ -70,41 +87,26 @@ test(`useAuthorizationCode returns token obtained via authorisation code`, async
 });
 
 test('getToken immediately waits and returns access token', async () => {
-  const handler = createMockHandler(async () => createExampleResponse());
+  const handler = createMockHandler();
 
-  const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
+  const tokenManager = createTokenManager({
     storage: new MemoryStorage(),
     handler,
-    tokenEndpoint: 'http://example.com/token',
-    clientId: 'my-client-id',
-    redirectUri: 'http://example.com/redirect',
   });
 
   tokenManager.useAuthorizationCode(
     'http://example.com/redirect?code=b9f3a3f4-bd1b-486b-b556-205863e7ee35',
   );
 
-  expect(await tokenManager.getToken()).toBe('eyJz9sdfsdfsdfsd');
+  expect(await tokenManager.getToken()).toBe('accessToken1');
 });
 
 test('refreshes access token using refresh token', async () => {
-  const handler = createMockHandler(async request => {
-    switch ((await getBody(request.clone())).get('grant_type')) {
-      case 'authorization_code':
-        return createExampleResponse('eyJz9sdfsdfsdfsd');
-      case 'refresh_token':
-        return createExampleResponse('M3NPzUX0ym8Fgxt');
-      default:
-        throw new Error();
-    }
-  });
+  const handler = createMockHandler();
 
-  const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
+  const tokenManager = createTokenManager({
     storage: new MemoryStorage(),
     handler,
-    tokenEndpoint: 'http://example.com/token',
-    clientId: 'my-client-id',
-    redirectUri: 'http://example.com/redirect',
   });
 
   tokenManager.useAuthorizationCode(
@@ -115,7 +117,7 @@ test('refreshes access token using refresh token', async () => {
 
   tokenManager.refreshToken();
 
-  expect(await tokenManager.getToken()).toBe('M3NPzUX0ym8Fgxt');
+  expect(await tokenManager.getToken()).toBe('accessToken2');
 
   expect(handler).toHaveBeenCalledTimes(2);
 
@@ -129,27 +131,15 @@ test('refreshes access token using refresh token', async () => {
   expect(request.url).toBe('http://example.com/token');
   expect(body.get('grant_type')).toBe('refresh_token');
   expect(body.get('client_id')).toBe('my-client-id');
-  expect(body.get('refresh_token')).toBe('dn43ud8uj32nk2je');
+  expect(body.get('refresh_token')).toBe('refreshToken1');
 });
 
 test('ignores refreshes while the initial token is being fetched', async () => {
-  const handler = createMockHandler(async request => {
-    switch ((await getBody(request.clone())).get('grant_type')) {
-      case 'authorization_code':
-        return createExampleResponse('eyJz9sdfsdfsdfsd');
-      case 'refresh_token':
-        return createExampleResponse('M3NPzUX0ym8Fgxt');
-      default:
-        throw new Error();
-    }
-  });
+  const handler = createMockHandler();
 
-  const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
+  const tokenManager = createTokenManager({
     storage: new MemoryStorage(),
     handler,
-    tokenEndpoint: 'http://example.com/token',
-    clientId: 'my-client-id',
-    redirectUri: 'http://example.com/redirect',
   });
 
   tokenManager.useAuthorizationCode(
@@ -163,23 +153,11 @@ test('ignores refreshes while the initial token is being fetched', async () => {
 });
 
 test('only refreshes once if multiple refreshes are done before refresh finishes', async () => {
-  const handler = createMockHandler(async request => {
-    switch ((await getBody(request.clone())).get('grant_type')) {
-      case 'authorization_code':
-        return createExampleResponse('eyJz9sdfsdfsdfsd');
-      case 'refresh_token':
-        return createExampleResponse('M3NPzUX0ym8Fgxt');
-      default:
-        throw new Error();
-    }
-  });
+  const handler = createMockHandler();
 
-  const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
+  const tokenManager = createTokenManager({
     storage: new MemoryStorage(),
     handler,
-    tokenEndpoint: 'http://example.com/token',
-    clientId: 'my-client-id',
-    redirectUri: 'http://example.com/redirect',
   });
 
   tokenManager.useAuthorizationCode(
@@ -197,25 +175,13 @@ test('only refreshes once if multiple refreshes are done before refresh finishes
 });
 
 test('it reuses access token from storage', async () => {
-  const handler = createMockHandler(async request => {
-    switch ((await getBody(request.clone())).get('grant_type')) {
-      case 'authorization_code':
-        return createExampleResponse('eyJz9sdfsdfsdfsd');
-      case 'refresh_token':
-        return createExampleResponse('M3NPzUX0ym8Fgxt');
-      default:
-        throw new Error();
-    }
-  });
+  const handler = createMockHandler();
 
   const storage = new MemoryStorage();
 
-  const tokenManager1 = new OAuth2AuthorisationCodeFlowTokenManager({
+  const tokenManager1 = createTokenManager({
     storage,
     handler,
-    tokenEndpoint: 'http://example.com/token',
-    clientId: 'my-client-id',
-    redirectUri: 'http://example.com/redirect',
   });
 
   tokenManager1.useAuthorizationCode(
@@ -224,37 +190,22 @@ test('it reuses access token from storage', async () => {
 
   const originalToken = await tokenManager1.getToken();
 
-  const tokenManager2 = new OAuth2AuthorisationCodeFlowTokenManager({
+  const tokenManager2 = createTokenManager({
     storage,
     handler,
-    tokenEndpoint: 'http://example.com/token',
-    clientId: 'my-client-id',
-    redirectUri: 'http://example.com/redirect',
   });
 
   expect(await tokenManager2.getToken()).toBe(originalToken);
 });
 
 test('it reuses refresh token from storage', async () => {
-  const handler = createMockHandler(async request => {
-    switch ((await getBody(request.clone())).get('grant_type')) {
-      case 'authorization_code':
-        return createExampleResponse('eyJz9sdfsdfsdfsd');
-      case 'refresh_token':
-        return createExampleResponse('M3NPzUX0ym8Fgxt');
-      default:
-        throw new Error();
-    }
-  });
+  const handler = createMockHandler();
 
   const storage = new MemoryStorage();
 
-  const tokenManager1 = new OAuth2AuthorisationCodeFlowTokenManager({
+  const tokenManager1 = createTokenManager({
     storage,
     handler,
-    tokenEndpoint: 'http://example.com/token',
-    clientId: 'my-client-id',
-    redirectUri: 'http://example.com/redirect',
   });
 
   tokenManager1.useAuthorizationCode(
@@ -263,17 +214,14 @@ test('it reuses refresh token from storage', async () => {
 
   await tokenManager1.getToken();
 
-  const tokenManager2 = new OAuth2AuthorisationCodeFlowTokenManager({
+  const tokenManager2 = createTokenManager({
     storage,
     handler,
-    tokenEndpoint: 'http://example.com/token',
-    clientId: 'my-client-id',
-    redirectUri: 'http://example.com/redirect',
   });
 
   tokenManager2.refreshToken();
 
-  expect(await tokenManager2.getToken()).toBe('M3NPzUX0ym8Fgxt');
+  expect(await tokenManager2.getToken()).toBe('accessToken2');
   const body = await getBody(handler.mock.calls[1][0]);
-  expect(body.get('refresh_token')).toBe('dn43ud8uj32nk2je');
+  expect(body.get('refresh_token')).toBe('refreshToken1');
 });
