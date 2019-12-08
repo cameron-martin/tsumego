@@ -20,8 +20,8 @@ interface Config {
 }
 
 export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
-  private accessToken: Promise<string | null> = Promise.resolve(null);
-  private _refreshToken: string | null = null;
+  private accessToken = this.config.storage.get('accessToken');
+  private _refreshToken = this.config.storage.get('refreshToken');
   private isFetching = false;
   constructor(private readonly config: Config) {}
 
@@ -78,14 +78,16 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
   }
 
   private async getTokenUsingRefreshToken() {
-    if (!this._refreshToken) {
+    const refreshToken = await this._refreshToken;
+
+    if (!refreshToken) {
       throw new Error('Cannot refresh without refresh token');
     }
 
     const requestBody = new URLSearchParams();
     requestBody.set('grant_type', 'refresh_token');
     requestBody.set('client_id', this.config.clientId);
-    requestBody.set('refresh_token', this._refreshToken);
+    requestBody.set('refresh_token', refreshToken);
 
     return this.requestToken(requestBody);
   }
@@ -103,8 +105,13 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
 
     const responseBody = await response.json();
 
-    this._refreshToken = responseBody.refresh_token;
+    const refreshToken = responseBody.refresh_token;
+    await this.config.storage.set('refreshToken', refreshToken);
+    this._refreshToken = Promise.resolve(refreshToken);
 
-    return responseBody.access_token;
+    const token = responseBody.access_token;
+    await this.config.storage.set('accessToken', token);
+
+    return token;
   }
 }

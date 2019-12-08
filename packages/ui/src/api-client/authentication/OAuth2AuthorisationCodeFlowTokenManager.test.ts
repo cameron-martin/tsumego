@@ -195,3 +195,85 @@ test('only refreshes once if multiple refreshes are done before refresh finishes
 
   expect(handler).toHaveBeenCalledTimes(2);
 });
+
+test('it reuses access token from storage', async () => {
+  const handler = createMockHandler(async request => {
+    switch ((await getBody(request.clone())).get('grant_type')) {
+      case 'authorization_code':
+        return createExampleResponse('eyJz9sdfsdfsdfsd');
+      case 'refresh_token':
+        return createExampleResponse('M3NPzUX0ym8Fgxt');
+      default:
+        throw new Error();
+    }
+  });
+
+  const storage = new MemoryStorage();
+
+  const tokenManager1 = new OAuth2AuthorisationCodeFlowTokenManager({
+    storage,
+    handler,
+    tokenEndpoint: 'http://example.com/token',
+    clientId: 'my-client-id',
+    redirectUri: 'http://example.com/redirect',
+  });
+
+  tokenManager1.useAuthorizationCode(
+    'http://example.com/redirect?code=b9f3a3f4-bd1b-486b-b556-205863e7ee35',
+  );
+
+  const originalToken = await tokenManager1.getToken();
+
+  const tokenManager2 = new OAuth2AuthorisationCodeFlowTokenManager({
+    storage,
+    handler,
+    tokenEndpoint: 'http://example.com/token',
+    clientId: 'my-client-id',
+    redirectUri: 'http://example.com/redirect',
+  });
+
+  expect(await tokenManager2.getToken()).toBe(originalToken);
+});
+
+test('it reuses refresh token from storage', async () => {
+  const handler = createMockHandler(async request => {
+    switch ((await getBody(request.clone())).get('grant_type')) {
+      case 'authorization_code':
+        return createExampleResponse('eyJz9sdfsdfsdfsd');
+      case 'refresh_token':
+        return createExampleResponse('M3NPzUX0ym8Fgxt');
+      default:
+        throw new Error();
+    }
+  });
+
+  const storage = new MemoryStorage();
+
+  const tokenManager1 = new OAuth2AuthorisationCodeFlowTokenManager({
+    storage,
+    handler,
+    tokenEndpoint: 'http://example.com/token',
+    clientId: 'my-client-id',
+    redirectUri: 'http://example.com/redirect',
+  });
+
+  tokenManager1.useAuthorizationCode(
+    'http://example.com/redirect?code=b9f3a3f4-bd1b-486b-b556-205863e7ee35',
+  );
+
+  await tokenManager1.getToken();
+
+  const tokenManager2 = new OAuth2AuthorisationCodeFlowTokenManager({
+    storage,
+    handler,
+    tokenEndpoint: 'http://example.com/token',
+    clientId: 'my-client-id',
+    redirectUri: 'http://example.com/redirect',
+  });
+
+  tokenManager2.refreshToken();
+
+  expect(await tokenManager2.getToken()).toBe('M3NPzUX0ym8Fgxt');
+  const body = await getBody(handler.mock.calls[1][0]);
+  expect(body.get('refresh_token')).toBe('dn43ud8uj32nk2je');
+});
