@@ -13,7 +13,7 @@ test('if endpoint requires authentication and no credentials are available, NotA
 
   const tokenManager: TokenManager = {
     getToken: () => Promise.resolve(null),
-    refreshToken() {},
+    refreshToken: () => undefined,
   };
 
   const request = new Request('http://example.com');
@@ -34,7 +34,7 @@ test('if endpoint does not require authentication and no credentials are availab
 
   const tokenManager: TokenManager = {
     getToken: () => Promise.resolve(null),
-    refreshToken() {},
+    refreshToken: () => undefined,
   };
 
   const request = new Request('http://example.com');
@@ -53,7 +53,7 @@ test('if credentials are available then it adds them to the request', async () =
 
   const tokenManager: TokenManager = {
     getToken: () => Promise.resolve('myToken'),
-    refreshToken() {},
+    refreshToken: () => undefined,
   };
 
   const request = new Request('http://example.com');

@@ -30,7 +30,7 @@ export default function Puzzle({ apiClient }: Props) {
     loadState: 'loading',
   });
 
-  const loadPuzzle = async () => {
+  const loadPuzzle = useCallback(async () => {
     const { id, initialStones } = await apiClient.puzzle.getRandom();
 
     setGameState({
@@ -43,11 +43,11 @@ export default function Puzzle({ apiClient }: Props) {
         [humanPlayer]: initialStones.you,
       }),
     });
-  };
+  }, [apiClient.puzzle]);
 
   useEffect(() => {
     loadPuzzle();
-  }, []);
+  }, [loadPuzzle]);
 
   useEffect(() => {
     if (
@@ -71,7 +71,7 @@ export default function Puzzle({ apiClient }: Props) {
           }
         });
     }
-  }, [gameState]);
+  }, [gameState, apiClient.puzzle]);
 
   const playMove = useCallback((position: BoardPosition) => {
     setGameState(gameState => {
@@ -104,7 +104,7 @@ export default function Puzzle({ apiClient }: Props) {
     setGameState({ loadState: 'loading' });
 
     loadPuzzle();
-  }, []);
+  }, [loadPuzzle]);
 
   if (gameState.loadState === 'loading') {
     return <div>Loading...</div>;
