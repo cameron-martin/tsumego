@@ -28,7 +28,7 @@ const sharedConfig = (settings?: Settings): webpack.Configuration => ({
   plugins: [
     new HtmlWebpackPlugin({
       template: './src/view/index.ejs',
-      title: 'Play Go',
+      title: 'Tsumego.app',
     }),
     new StylableWebpackPlugin({
       filename: settings && settings.cssFilename,
