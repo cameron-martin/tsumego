@@ -8,7 +8,8 @@
     "test": "jest",
     "dev": "yarn workspace @tsumego/backend run build && wsrun -c dev",
     "db:dev": "yarn workspace @tsumego/db run db:dev",
-    "db:migrate": "yarn workspace @tsumego/db run db:migrate"
+    "db:migrate": "yarn workspace @tsumego/db run db:migrate",
+    "build": "wsrun --stages --exclude-missing build"
   },
   "dependencies": {},
   "devDependencies": {
