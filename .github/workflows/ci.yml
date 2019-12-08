@@ -17,7 +17,7 @@ jobs:
           node-version: '${{ steps.nvm.outputs.NVMRC }}'
       - name: npm install, build, and test
         run: |
-          yarn
+          yarn install --frozen-lockfile
           yarn build
           yarn test
         env:
