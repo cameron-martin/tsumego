@@ -16,4 +16,10 @@ export class WebStorage implements AuthStorage {
   get(key: string): Promise<string | null> {
     return Promise.resolve(this.storage.getItem(key));
   }
+
+  delete(key: string): Promise<void> {
+    this.storage.removeItem(key);
+
+    return Promise.resolve();
+  }
 }

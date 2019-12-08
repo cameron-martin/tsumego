@@ -13,12 +13,10 @@ const config = getConfigFromEnv();
 const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
   clientId: config.cognitoClientId,
   handler: request => fetch(request),
-  redirectUri: config.homepageUri,
+  redirectUri: `${config.uiHost}/auth/callback/login`,
   storage: new WebStorage(localStorage),
   tokenEndpoint: `${config.cognitoApiUri}/oauth2/token`,
 });
-
-tokenManager.useAuthorizationCode(window.location.href);
 
 const apiClient = new ApiClient({
   host: config.apiHost,
@@ -27,7 +25,7 @@ const apiClient = new ApiClient({
 
 document.addEventListener('DOMContentLoaded', () => {
   ReactDOM.render(
-    <App apiClient={apiClient} config={config} />,
+    <App apiClient={apiClient} config={config} tokenManager={tokenManager} />,
     document.getElementById('app'),
   );
 });

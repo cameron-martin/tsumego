@@ -14,4 +14,10 @@ export class MemoryStorage implements AuthStorage {
 
     return Promise.resolve(value === undefined ? null : value);
   }
+
+  delete(key: string): Promise<void> {
+    this.storage.delete(key);
+
+    return Promise.resolve();
+  }
 }

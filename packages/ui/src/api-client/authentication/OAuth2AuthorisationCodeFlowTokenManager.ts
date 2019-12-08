@@ -114,4 +114,11 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
 
     return token;
   }
+
+  async removeTokens(): Promise<void> {
+    await Promise.all([
+      this.config.storage.delete('refreshToken'),
+      this.config.storage.delete('accessToken'),
+    ]);
+  }
 }

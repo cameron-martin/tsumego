@@ -8,4 +8,6 @@ export interface TokenManager {
    * Refreshses the access token. Calls to getToken will immediately return this new token.
    */
   refreshToken(): void;
+
+  removeTokens(): Promise<void>;
 }

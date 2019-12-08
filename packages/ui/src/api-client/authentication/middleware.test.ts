@@ -12,6 +12,7 @@ test('if endpoint requires authentication and no credentials are available, NotA
     });
 
   const tokenManager: TokenManager = {
+    removeTokens: () => Promise.resolve(),
     getToken: () => Promise.resolve(null),
     refreshToken: () => undefined,
   };
@@ -33,6 +34,7 @@ test('if endpoint does not require authentication and no credentials are availab
   const handler: Handler = async () => response;
 
   const tokenManager: TokenManager = {
+    removeTokens: () => Promise.resolve(),
     getToken: () => Promise.resolve(null),
     refreshToken: () => undefined,
   };
@@ -52,6 +54,7 @@ test('if credentials are available then it adds them to the request', async () =
   const handler = createMockHandler(async () => response);
 
   const tokenManager: TokenManager = {
+    removeTokens: () => Promise.resolve(),
     getToken: () => Promise.resolve('myToken'),
     refreshToken: () => undefined,
   };
@@ -85,6 +88,7 @@ test('if credentials are provided but still returns unauthenticated then it uses
   let token = 'myToken';
 
   const tokenManager: TokenManager = {
+    removeTokens: () => Promise.resolve(),
     getToken: () => Promise.resolve(token),
     refreshToken() {
       token = 'refreshedToken';
@@ -112,6 +116,7 @@ test('if credentials and refreshed token are provided and it still returns unaut
   let token = 'myToken';
 
   const tokenManager: TokenManager = {
+    removeTokens: () => Promise.resolve(),
     getToken: () => Promise.resolve(token),
     refreshToken() {
       token = 'refreshedToken';
@@ -137,6 +142,7 @@ test('if incorrect access token is given but token cannot refresh then it throws
   let token: string | null = 'myToken';
 
   const tokenManager: TokenManager = {
+    removeTokens: () => Promise.resolve(),
     getToken: () => Promise.resolve(token),
     refreshToken() {
       token = null;
