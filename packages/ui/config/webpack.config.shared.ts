@@ -14,7 +14,7 @@ const sharedConfig = (settings?: Settings): webpack.Configuration => ({
   module: {
     rules: [
       {
-        test: /.tsx?/,
+        test: /\.tsx?$/,
         use: {
           loader: 'babel-loader',
           options: {
