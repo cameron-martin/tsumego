@@ -45,8 +45,8 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
   /**
    * Fetches an auth & refresh token using the authorisation code in the URL.
    *
-   * You do not have to wait for the returned promise to resolve before you boot your app;
-   * calls to getToken will wait for this process to finish automatically if it's currently in progress.
+   * You can call getToken immediately after calling this and the returned
+   * promise will not resolve until the auth token is fetched.
    */
   useAuthorizationCode(url: string): void {
     if (this.isFetching) {
