@@ -6,6 +6,15 @@ A web app for solving tsumego puzzles. Automatically gives you puzzles of the op
 
 ## Development
 
+Create a file called `.env` in the root directory, filling in the missing values appropriately:
+
+```
+UI_HOST=http://localhost:8081
+API_HOST=http://localhost:8080
+COGNITO_CLIENT_ID=
+COGNITO_API_URI=
+```
+
 Run & migrate the database using:
 
 ```sh
