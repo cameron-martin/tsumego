@@ -20,8 +20,8 @@ interface Config {
 }
 
 export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
-  private accessToken = this.config.storage.get('accessToken');
-  private _refreshToken = this.config.storage.get('refreshToken');
+  private accessToken = this.config.storage.getAccessToken();
+  private _refreshToken = this.config.storage.getRefreshToken();
   private isFetching = false;
   constructor(private readonly config: Config) {}
 
@@ -106,19 +106,19 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
     const responseBody = await response.json();
 
     const refreshToken = responseBody.refresh_token;
-    await this.config.storage.set('refreshToken', refreshToken);
+    await this.config.storage.setRefreshToken(refreshToken);
     this._refreshToken = Promise.resolve(refreshToken);
 
     const token = responseBody.access_token;
-    await this.config.storage.set('accessToken', token);
+    await this.config.storage.setAccessToken(token);
 
     return token;
   }
 
   async removeTokens(): Promise<void> {
     await Promise.all([
-      this.config.storage.delete('refreshToken'),
-      this.config.storage.delete('accessToken'),
+      this.config.storage.deleteRefreshToken(),
+      this.config.storage.deleteAccessToken(),
     ]);
   }
 }

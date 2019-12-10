@@ -1,6 +1,6 @@
 import 'whatwg-fetch';
 import { OAuth2AuthorisationCodeFlowTokenManager } from './OAuth2AuthorisationCodeFlowTokenManager';
-import { MemoryStorage } from './storage/MemoryStorage';
+import { MemoryAuthStorage } from './storage/MemoryAuthStorage';
 import { AuthStorage } from './storage';
 import { Handler } from '../requester';
 
@@ -44,7 +44,7 @@ const getBody = async (request: Request): Promise<URLSearchParams> => {
 
 test(`returns null if no authorization code is given`, async () => {
   const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
-    storage: new MemoryStorage(),
+    storage: new MemoryAuthStorage(),
     handler: () => {
       throw new Error();
     },
@@ -60,7 +60,7 @@ test(`useAuthorizationCode returns token obtained via authorisation code`, async
   const handler = createMockHandler();
 
   const tokenManager = createTokenManager({
-    storage: new MemoryStorage(),
+    storage: new MemoryAuthStorage(),
     handler,
   });
 
@@ -90,7 +90,7 @@ test('getToken immediately waits and returns access token', async () => {
   const handler = createMockHandler();
 
   const tokenManager = createTokenManager({
-    storage: new MemoryStorage(),
+    storage: new MemoryAuthStorage(),
     handler,
   });
 
@@ -105,7 +105,7 @@ test('refreshes access token using refresh token', async () => {
   const handler = createMockHandler();
 
   const tokenManager = createTokenManager({
-    storage: new MemoryStorage(),
+    storage: new MemoryAuthStorage(),
     handler,
   });
 
@@ -138,7 +138,7 @@ test('ignores refreshes while the initial token is being fetched', async () => {
   const handler = createMockHandler();
 
   const tokenManager = createTokenManager({
-    storage: new MemoryStorage(),
+    storage: new MemoryAuthStorage(),
     handler,
   });
 
@@ -156,7 +156,7 @@ test('only refreshes once if multiple refreshes are done before refresh finishes
   const handler = createMockHandler();
 
   const tokenManager = createTokenManager({
-    storage: new MemoryStorage(),
+    storage: new MemoryAuthStorage(),
     handler,
   });
 
@@ -177,7 +177,7 @@ test('only refreshes once if multiple refreshes are done before refresh finishes
 test('it reuses access token from storage', async () => {
   const handler = createMockHandler();
 
-  const storage = new MemoryStorage();
+  const storage = new MemoryAuthStorage();
 
   const tokenManager1 = createTokenManager({
     storage,
@@ -201,7 +201,7 @@ test('it reuses access token from storage', async () => {
 test('it reuses refresh token from storage', async () => {
   const handler = createMockHandler();
 
-  const storage = new MemoryStorage();
+  const storage = new MemoryAuthStorage();
 
   const tokenManager1 = createTokenManager({
     storage,

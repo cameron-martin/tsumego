@@ -1,5 +1,9 @@
 export interface AuthStorage {
-  set(key: string, value: string): Promise<void>;
-  get(key: string): Promise<string | null>;
-  delete(key: string): Promise<void>;
+  setAccessToken(value: string): Promise<void>;
+  getAccessToken(): Promise<string | null>;
+  deleteAccessToken(): Promise<void>;
+
+  setRefreshToken(value: string): Promise<void>;
+  getRefreshToken(): Promise<string | null>;
+  deleteRefreshToken(): Promise<void>;
 }

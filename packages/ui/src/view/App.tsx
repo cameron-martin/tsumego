@@ -8,17 +8,24 @@ import RouterPage from './RouterPage';
 import LoginCallback from './auth/LoginCallback';
 import LogoutCallback from './auth/LogoutCallback';
 import Puzzle from './Puzzle';
+import { AuthState } from '../api-client/authentication/AuthState';
 
 interface Props {
   apiClient: ApiClient;
+  authState: AuthState;
   config: AppConfig;
   tokenManager: OAuth2AuthorisationCodeFlowTokenManager;
 }
 
-export default function App({ apiClient, config, tokenManager }: Props) {
+export default function App({
+  apiClient,
+  config,
+  tokenManager,
+  authState,
+}: Props) {
   return (
     <div>
-      <Header config={config} />
+      <Header config={config} authState={authState} />
       <Router>
         <RouterPage
           path="auth/callback/login"
