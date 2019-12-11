@@ -47,13 +47,6 @@ const cognitoIdpUri = `https://cognito-idp.${process.env.COGNITO_REGION}.amazona
     }),
   );
 
-  app.use(function(req, res, next) {
-    console.log(req.headers);
-    next();
-  });
-
-  console.log(`${cognitoIdpUri}/.well-known/jwks.json`);
-
   app.use(
     jwt({
       secret: jwksRsa.expressJwtSecret({
