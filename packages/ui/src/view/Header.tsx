@@ -11,8 +11,8 @@ interface Props {
 export default function Header({ config, authState }: Props) {
   const isLoggedIn = useAuthState(authState);
 
-  const loginUrl = `${config.cognitoApiUri}/login?response_type=code&client_id=${config.cognitoClientId}&redirect_uri=${config.uiHost}/auth/callback/login`;
-  const logoutUrl = `${config.cognitoApiUri}/logout?client_id=${config.cognitoClientId}&logout_uri=${config.uiHost}/auth/callback/logout`;
+  const loginUrl = `${config.cognitoWebUri}/login?response_type=code&client_id=${config.cognitoClientId}&redirect_uri=${config.uiHost}/auth/callback/login`;
+  const logoutUrl = `${config.cognitoWebUri}/logout?client_id=${config.cognitoClientId}&logout_uri=${config.uiHost}/auth/callback/logout`;
 
   return (
     <div>

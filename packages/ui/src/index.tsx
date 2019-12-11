@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     handler: request => fetch(request),
     redirectUri: `${config.uiHost}/auth/callback/login`,
     storage,
-    tokenEndpoint: `${config.cognitoApiUri}/oauth2/token`,
+    tokenEndpoint: `${config.cognitoWebUri}/oauth2/token`,
   });
 
   const apiClient = new ApiClient({

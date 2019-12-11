@@ -92,7 +92,9 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
     return this.requestToken(requestBody);
   }
 
-  private async requestToken(requestBody: URLSearchParams): Promise<string> {
+  private async requestToken(
+    requestBody: URLSearchParams,
+  ): Promise<string | null> {
     const response = await this.config.handler(
       new Request(this.config.tokenEndpoint, {
         method: 'POST',
@@ -103,13 +105,20 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
       }),
     );
 
+    if (!response.ok) {
+      this._refreshToken = Promise.resolve(null);
+      await this.removeTokens();
+
+      return null;
+    }
+
     const responseBody = await response.json();
 
     const refreshToken = responseBody.refresh_token;
     await this.config.storage.setRefreshToken(refreshToken);
     this._refreshToken = Promise.resolve(refreshToken);
 
-    const token = responseBody.access_token;
+    const token = responseBody.id_token;
     await this.config.storage.setAccessToken(token);
 
     return token;

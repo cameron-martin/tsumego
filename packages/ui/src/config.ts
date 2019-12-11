@@ -4,7 +4,7 @@ export const AppConfig = Record({
   uiHost: String,
   apiHost: String,
   cognitoClientId: String,
-  cognitoApiUri: String,
+  cognitoWebUri: String,
 });
 
 export type AppConfig = Static<typeof AppConfig>;
@@ -14,5 +14,5 @@ export const getConfigFromEnv = (): AppConfig =>
     uiHost: process.env.UI_HOST,
     apiHost: process.env.API_HOST,
     cognitoClientId: process.env.COGNITO_CLIENT_ID,
-    cognitoApiUri: process.env.COGNITO_API_URI,
+    cognitoWebUri: process.env.COGNITO_WEB_URI,
   });

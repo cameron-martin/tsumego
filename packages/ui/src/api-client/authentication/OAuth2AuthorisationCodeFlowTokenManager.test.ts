@@ -98,7 +98,7 @@ test('getToken immediately waits and returns access token', async () => {
     'http://example.com/redirect?code=b9f3a3f4-bd1b-486b-b556-205863e7ee35',
   );
 
-  expect(await tokenManager.getToken()).toBe('accessToken1');
+  expect(await tokenManager.getToken()).toBe('idToken1');
 });
 
 test('refreshes access token using refresh token', async () => {
@@ -117,7 +117,7 @@ test('refreshes access token using refresh token', async () => {
 
   tokenManager.refreshToken();
 
-  expect(await tokenManager.getToken()).toBe('accessToken2');
+  expect(await tokenManager.getToken()).toBe('idToken2');
 
   expect(handler).toHaveBeenCalledTimes(2);
 
@@ -221,7 +221,38 @@ test('it reuses refresh token from storage', async () => {
 
   tokenManager2.refreshToken();
 
-  expect(await tokenManager2.getToken()).toBe('accessToken2');
+  expect(await tokenManager2.getToken()).toBe('idToken2');
   const body = await getBody(handler.mock.calls[1][0]);
   expect(body.get('refresh_token')).toBe('refreshToken1');
+});
+
+test('if refreshing token fails, it removes access token', async () => {
+  const handler = createMockHandler();
+
+  const storage = new MemoryAuthStorage();
+
+  const tokenManager = createTokenManager({
+    storage,
+    handler,
+  });
+
+  tokenManager.useAuthorizationCode(
+    'http://example.com/redirect?code=b9f3a3f4-bd1b-486b-b556-205863e7ee35',
+  );
+
+  await tokenManager.getToken();
+
+  handler.mockReturnValueOnce(
+    Promise.resolve(
+      new Response('{}', {
+        status: 400,
+      }),
+    ),
+  );
+
+  tokenManager.refreshToken();
+
+  expect(await tokenManager.getToken()).toBe(null);
+  expect(await storage.getAccessToken()).toBe(null);
+  expect(await storage.getRefreshToken()).toBe(null);
 });

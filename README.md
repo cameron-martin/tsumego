@@ -12,7 +12,9 @@ Create a file called `.env` in the root directory, filling in the missing values
 UI_HOST=http://localhost:8081
 API_HOST=http://localhost:8080
 COGNITO_CLIENT_ID=
-COGNITO_API_URI=
+COGNITO_WEB_URI=
+COGNITO_REGION=
+COGNITO_USER_POOL_ID=
 ```
 
 Run & migrate the database using:
