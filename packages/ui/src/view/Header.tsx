@@ -1,15 +1,13 @@
 import React from 'react';
 import { AppConfig } from '../config';
-import { useAuthState } from './auth/useAuthState';
-import { AuthState } from '../api-client/authentication/AuthState';
+import { useAuth } from './auth/AuthProvider';
 
 interface Props {
   config: AppConfig;
-  authState: AuthState;
 }
 
-export default function Header({ config, authState }: Props) {
-  const isLoggedIn = useAuthState(authState);
+export default function Header({ config }: Props) {
+  const isLoggedIn = useAuth();
 
   const loginUrl = `${config.cognitoWebUri}/login?response_type=code&client_id=${config.cognitoClientId}&redirect_uri=${config.uiHost}/auth/callback/login`;
   const logoutUrl = `${config.cognitoWebUri}/logout?client_id=${config.cognitoClientId}&logout_uri=${config.uiHost}/auth/callback/logout`;

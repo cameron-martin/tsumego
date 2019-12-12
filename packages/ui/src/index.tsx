@@ -8,6 +8,7 @@ import { OAuth2AuthorisationCodeFlowTokenManager } from './api-client/authentica
 import { getConfigFromEnv } from './config';
 import { WebAuthStorage } from './api-client/authentication/storage/WebAuthStorage';
 import { AuthStorageProxy } from './api-client/authentication/storage/AuthStorageProxy';
+import { AuthProvider } from './view/auth/AuthProvider';
 
 const config = getConfigFromEnv();
 
@@ -30,12 +31,9 @@ document.addEventListener('DOMContentLoaded', async () => {
   });
 
   ReactDOM.render(
-    <App
-      apiClient={apiClient}
-      config={config}
-      tokenManager={tokenManager}
-      authState={storage}
-    />,
+    <AuthProvider authState={storage}>
+      <App apiClient={apiClient} config={config} tokenManager={tokenManager} />
+    </AuthProvider>,
     document.getElementById('app'),
   );
 });
