@@ -8,6 +8,7 @@ import RouterPage from './RouterPage';
 import LoginCallback from './auth/LoginCallback';
 import LogoutCallback from './auth/LogoutCallback';
 import Puzzle from './Puzzle';
+import Homepage from './Homepage';
 
 interface Props {
   apiClient: ApiClient;
@@ -28,7 +29,7 @@ export default function App({ apiClient, config, tokenManager }: Props) {
           path="auth/callback/logout"
           element={<LogoutCallback tokenManager={tokenManager} />}
         />
-        <RouterPage path="/" element={<Puzzle apiClient={apiClient} />} />
+        <RouterPage path="/" element={<Homepage apiClient={apiClient} />} />
       </Router>
     </div>
   );
