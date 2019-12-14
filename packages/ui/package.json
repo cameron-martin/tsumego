@@ -7,7 +7,11 @@
     "build": "webpack --config config/webpack.config.prod.ts"
   },
   "dependencies": {
+    "@material-ui/core": "^4.7.2",
+    "@material-ui/icons": "^4.5.1",
     "@reach/router": "^1.2.1",
+    "@tsumego/api-client": "*",
+    "@tsumego/api-client-authentication": "*",
     "@types/reach__router": "^1.2.6",
     "@types/react": "^16.9.13",
     "@types/react-dom": "^16.9.4",
@@ -15,8 +19,6 @@
     "immutable": "^4.0.0-rc.12",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "runtypes": "^4.0.3",
-    "@tsumego/api-client": "*",
-    "@tsumego/api-client-authentication": "*"
+    "runtypes": "^4.0.3"
   }
 }

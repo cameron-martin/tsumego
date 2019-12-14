@@ -1,5 +1,6 @@
 import React, { Suspense } from 'react';
 import { Router } from '@reach/router';
+import { CssBaseline } from '@material-ui/core';
 import { ApiClient } from '@tsumego/api-client';
 import { OAuth2AuthorisationCodeFlowTokenManager } from '@tsumego/api-client-authentication';
 import { AppConfig } from '../config';
@@ -16,6 +17,7 @@ interface Props {
 export default function App({ apiClient, config, tokenManager }: Props) {
   return (
     <div>
+      <CssBaseline />
       <Header config={config} />
       <Suspense fallback={<Loading />}>
         <Router>
