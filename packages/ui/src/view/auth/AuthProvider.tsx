@@ -2,7 +2,7 @@ import React, { useState, useEffect, useContext } from 'react';
 import {
   AuthState,
   AuthStateChangeListener,
-} from '../../api-client/authentication/AuthState';
+} from '@tsumego/api-client-authentication';
 
 interface Props {
   children: React.ReactNode;

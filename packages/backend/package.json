@@ -3,11 +3,8 @@
   "name": "@tsumego/backend",
   "version": "0.0.1",
   "scripts": {
-    "build": "tsc --build tsconfig.json",
-    "dev:build": "tsc --build tsconfig.json --watch",
     "start": "node ./dist/index.js",
-    "dev:start": "cross-env NODE_ENV=development nodemon ./dist/index.js",
-    "dev": "npm-run-all -p dev:*"
+    "dev": "cross-env NODE_ENV=development nodemon ./dist/index.js"
   },
   "dependencies": {
     "@types/body-parser": "^1.17.1",

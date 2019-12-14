@@ -1,13 +1,15 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
 
+import { ApiClient } from '@tsumego/api-client';
+import {
+  createBearerTokenMiddleware,
+  WebAuthStorage,
+  AuthStorageProxy,
+  OAuth2AuthorisationCodeFlowTokenManager,
+} from '@tsumego/api-client-authentication';
 import App from './view/App';
-import { ApiClient } from './api-client';
-import { createBearerTokenMiddleware } from './api-client/authentication/middleware';
-import { OAuth2AuthorisationCodeFlowTokenManager } from './api-client/authentication/OAuth2AuthorisationCodeFlowTokenManager';
 import { getConfigFromEnv } from './config';
-import { WebAuthStorage } from './api-client/authentication/storage/WebAuthStorage';
-import { AuthStorageProxy } from './api-client/authentication/storage/AuthStorageProxy';
 import { AuthProvider } from './view/auth/AuthProvider';
 
 const config = getConfigFromEnv();

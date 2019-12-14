@@ -1,5 +1,11 @@
 {
-  "extends": "../../tsconfig.json",
-  "compilerOptions": {},
-  "include": ["."]
+  "extends": "../../tsconfig_base.json",
+  "compilerOptions": {
+    "target": "ESNext"
+  },
+  "include": ["."],
+  "references": [
+    { "path": "../api-client" },
+    { "path": "../api-client-authentication" }
+  ]
 }

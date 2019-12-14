@@ -1,6 +1,6 @@
 import 'whatwg-fetch';
 import { createBearerTokenMiddleware, NotAuthenticated } from './middleware';
-import { Handler } from '../requester';
+import { Handler } from '@tsumego/api-client';
 import { TokenManager } from './TokenManger';
 
 const createMockHandler = (handler: Handler) => jest.fn(handler);

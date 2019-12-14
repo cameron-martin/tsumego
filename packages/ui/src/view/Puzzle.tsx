@@ -2,7 +2,7 @@ import Board from './Board';
 import React, { useState, useCallback, useEffect } from 'react';
 import { GoGame, BoardPosition } from '../model/GoGame';
 import { either } from 'fp-ts';
-import { ApiClient } from '../api-client';
+import { ApiClient } from '@tsumego/api-client';
 import PuzzleInstructions from './PuzzleInstructions';
 import { classes, style } from './Puzzle.st.css';
 

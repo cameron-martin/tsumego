@@ -1,4 +1,4 @@
-import { OAuth2AuthorisationCodeFlowTokenManager } from '../../api-client/authentication/OAuth2AuthorisationCodeFlowTokenManager';
+import { OAuth2AuthorisationCodeFlowTokenManager } from '@tsumego/api-client-authentication';
 import { useEffect } from 'react';
 import { navigate } from '@reach/router';
 

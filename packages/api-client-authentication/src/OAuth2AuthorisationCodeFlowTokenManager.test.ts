@@ -2,7 +2,7 @@ import 'whatwg-fetch';
 import { OAuth2AuthorisationCodeFlowTokenManager } from './OAuth2AuthorisationCodeFlowTokenManager';
 import { MemoryAuthStorage } from './storage/MemoryAuthStorage';
 import { AuthStorage } from './storage';
-import { Handler } from '../requester';
+import { Handler } from '@tsumego/api-client';
 
 const createMockHandler = () => {
   let tokenIndex = 1;

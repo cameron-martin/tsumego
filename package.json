@@ -6,10 +6,12 @@
   ],
   "scripts": {
     "test": "jest",
-    "dev": "yarn workspace @tsumego/backend run build && wsrun -c dev",
-    "db:dev": "yarn workspace @tsumego/db run db:dev",
-    "db:migrate": "yarn workspace @tsumego/db run db:migrate",
-    "build": "wsrun --stages --exclude-missing build"
+    "dev": "yarn run build && npm-run-all -p build:tsc:watch dev:start",
+    "dev:start": "wsrun --exclude-missing --stages dev",
+    "build": "npm-run-all build:tsc build:other",
+    "build:tsc": "tsc --build tsconfig.json",
+    "build:other": "wsrun --exclude-missing --stages build",
+    "build:tsc:watch": "tsc --build tsconfig.json --watch"
   },
   "dependencies": {},
   "devDependencies": {

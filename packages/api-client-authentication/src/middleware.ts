@@ -1,4 +1,4 @@
-import { Middleware } from '../requester';
+import { Middleware } from '@tsumego/api-client';
 import { TokenManager } from './TokenManger';
 
 export class NotAuthenticated extends Error {}

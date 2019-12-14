@@ -1,5 +1,5 @@
 import { PuzzleApiClient } from './endpoints/puzzle';
-import { Requester, Middleware } from './requester';
+import { Requester, Middleware, Handler } from './requester';
 
 export interface Config {
   host: string;
@@ -14,3 +14,5 @@ export class ApiClient {
   readonly puzzle = new PuzzleApiClient(this.requester);
   constructor(private readonly config: Config) {}
 }
+
+export { Middleware, Handler };

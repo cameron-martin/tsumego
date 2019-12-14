@@ -1,13 +1,12 @@
 import React from 'react';
 import { Router } from '@reach/router';
-import { ApiClient } from '../api-client';
+import { ApiClient } from '@tsumego/api-client';
+import { OAuth2AuthorisationCodeFlowTokenManager } from '@tsumego/api-client-authentication';
 import { AppConfig } from '../config';
-import { OAuth2AuthorisationCodeFlowTokenManager } from '../api-client/authentication/OAuth2AuthorisationCodeFlowTokenManager';
 import Header from './Header';
 import RouterPage from './RouterPage';
 import LoginCallback from './auth/LoginCallback';
 import LogoutCallback from './auth/LogoutCallback';
-import Puzzle from './Puzzle';
 import Homepage from './Homepage';
 
 interface Props {

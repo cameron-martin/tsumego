@@ -1,6 +1,6 @@
 import { AuthStorage } from './storage';
 import { TokenManager } from './TokenManger';
-import { Handler } from '../requester';
+import { Handler } from '@tsumego/api-client';
 
 interface Config {
   storage: AuthStorage;

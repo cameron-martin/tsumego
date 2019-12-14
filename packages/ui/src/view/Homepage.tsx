@@ -1,6 +1,6 @@
 import { useAuth } from './auth/AuthProvider';
 import React from 'react';
-import { ApiClient } from '../api-client';
+import { ApiClient } from '@tsumego/api-client';
 import Puzzle from './Puzzle';
 
 interface Props {

@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig_base.json",
+  "compilerOptions": {
+    "module": "ES2015",
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+  "include": ["src"],
+  "references": [{ "path": "../api-client" }]
+}
