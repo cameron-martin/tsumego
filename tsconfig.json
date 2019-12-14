@@ -1,7 +1,8 @@
 {
   "compilerOptions": {},
   "files": [],
-  "include": [],
+  "include": ["."],
+  "exclude": ["packages"],
   "references": [
     { "path": "packages/api-client" },
     { "path": "packages/api-client-authentication" },
