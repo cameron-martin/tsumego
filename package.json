@@ -6,7 +6,7 @@
   ],
   "scripts": {
     "test": "jest",
-    "dev": "yarn run build && npm-run-all -p build:tsc:watch dev:start",
+    "dev": "yarn run build:tsc && npm-run-all -p build:tsc:watch dev:start",
     "dev:start": "wsrun --exclude-missing --stages dev",
     "build": "npm-run-all build:tsc build:other",
     "build:tsc": "tsc --build tsconfig.json",
