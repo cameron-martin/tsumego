@@ -6,6 +6,6 @@
   "references": [
     { "path": "packages/api-client" },
     { "path": "packages/api-client-authentication" },
-    { "path": "packages/backend" }
+    { "path": "packages/api" }
   ]
 }
