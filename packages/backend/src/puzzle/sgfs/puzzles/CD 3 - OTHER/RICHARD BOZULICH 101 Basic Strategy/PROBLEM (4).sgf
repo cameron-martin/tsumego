@@ -1,9 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[qp][pe][pd][qe][md][pc][kc][jc][jd][nf][of]
-[rf][pg][rg][mh][ph][pi][nq][pq]AW[ri][po][kd][iq][lq][qo][qc][rc][qd][sd][je][re]
-[kf][pf][qg][qf][qh][ki]TR[po][qo]C[Black to play. How should Black attack the marked stones?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[qk]
-(;W[rh];B[mo]TR[rf][rg]C[CORRECT Black should play the knight's move. This move attacks the white stones below and threatens to bring the aji of the two black stones on the second line to life. If White erases this aji, Black will move out into the center with the knight's move and the two white stones on the right are in trouble.])
-(;W[mo];B[rh];W[qi];B[qj]C[CORRECT White's answer is a good way to save the two white stones, since it isolates the three black ones in the corner. However, these stones are not in danger of dying, so Black brings the aji to life by giving atari, ending up capturing the 6 White stones.]))
-(;B[mo];W[qj];B[pj];W[qk]TR[rf][rg]C[The order of moves is imporant. If Black first plays the knight's move, White will support his stones below erasing the aji of the marked stones.]))

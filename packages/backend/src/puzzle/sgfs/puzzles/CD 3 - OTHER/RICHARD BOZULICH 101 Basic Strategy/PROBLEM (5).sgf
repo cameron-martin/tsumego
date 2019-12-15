@@ -1,8 +1,0 @@
-(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[mk][rq][ok][oj][qk][pj][ri][qi][pd][nl][qo]
-[ro][jp][qp][sp][pq][or][pr]AW[dp][lp][qj][oq][qq][pp][nc][dd][rj][nk][pk][rk][ol]
-[qn][pl][rn][po]LB[nc:2][mk:1]C[Black to play. Black 1 can capture the white stone in a ladder. How should Black answer to White 2?]
-AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[pc];W[jd];B[nj];W[dj];B[fc]C[CORRECT Black should close off the corner territory with 1. White will extend breaking the ladder, so Black must capture. White next makes a san-ren-sei and Black invades the top with the approach move.])
-(;B[jd];W[ke];B[nj];W[kd]C[If Black pincers, White will play a shoulder-hit breaking the ladder forcing Black to capture. White can now seize the initiative at the top rendering Black's pincer stone useless.])
-(;B[nj];W[qc];B[qd];W[pc];B[od];W[oc];B[me];W[ld]C[If Black first removes the aji of the ladder by capturing, White will invade the corner. Black's stones end up overconcentrated while White has secured the territory at the top right corner.]))

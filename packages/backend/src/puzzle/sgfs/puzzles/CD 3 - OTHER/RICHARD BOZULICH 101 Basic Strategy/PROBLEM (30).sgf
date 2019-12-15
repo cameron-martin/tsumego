@@ -1,8 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[mc][qf][qi]AW[oc][qd]C[Black to play. How should Black invade White's corner enclosure?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-;B[pc];W[pd];B[qc]
-(;W[nc];B[rd];W[md]LB[re:A]C[CORRECT Black takes the corner in sente and White quells the Black stone at the top. If White blocks at A Black can still live in the corner.])
-(;W[od];B[rd];W[re];B[rc];W[qe];B[rf];W[sf];B[ob];W[nb];B[pa];W[nc]
-(;B[md];W[pf];B[pg];W[og]C[CORRECT Black lives in the corner, this result depends on the overall board position.])
-(;B[pf];W[md]C[CORRECT Black lives in the corner, this result depends on the overall board position.]))
-(;W[rc];B[rb];W[rd];B[ob];W[pb];B[qb];W[nb];B[pa];W[nc];B[od]C[CORRECT White gets punished for his overplay and his position totally collapses.]))

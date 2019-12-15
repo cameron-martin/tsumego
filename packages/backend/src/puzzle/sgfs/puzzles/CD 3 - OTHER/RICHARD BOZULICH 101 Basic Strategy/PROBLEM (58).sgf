@@ -1,6 +1,0 @@
-(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[jd][pp][ne][pf][pe][re][qe][pc][pd][np][jp]
-[pj][nj][nd]AW[rf][qn][md][nc][oc][lc][pg][of][oh][qf]C[Black to play. White is trying to make sabaki with his stones on the upper right. How should Black attack them?]
-AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[qh];W[qg];B[rh];W[mg];B[ql]C[CORRECT Black should peep then descend. White has no eyes so he must escape into the center. Black can now switch to the lower right and attack the lone white stone.])
-(;B[qg];W[qh];B[rg];W[rh];B[sf];W[qk]C[Black must not capture two stones. White can now extend establishing a base on the right side.]))

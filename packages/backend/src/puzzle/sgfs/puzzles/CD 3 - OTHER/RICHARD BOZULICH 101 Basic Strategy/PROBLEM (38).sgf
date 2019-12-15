@@ -1,6 +1,0 @@
-(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[dd][dp][cn][lp][qp][qm]AW[qd][od][dr][fq][oq]
-[on]TR[dr]C[Black to play. White has just slid into the corner with the marked stone. How should black respond?]
-AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[hq];W[cq];B[eq];W[er];B[fp];W[gp];B[gq];W[fr];B[go]TR[lp]C[CORRECT Black should pincer attacking White while defending the marked stone. Taking territory in the corner is natural for White, this sequence is one possible joseki. The reason why White might choose this joseki is because he has the advantage of a ladder block move.])
-(;B[cq];W[ip]LB[hq:A]C[Taking the corner is way too submissive. After White extends defending while attacking, he has taken the initiative. White's shape is bad because of the defect at A, but White will most likely be able to defend against this weakness. ]))

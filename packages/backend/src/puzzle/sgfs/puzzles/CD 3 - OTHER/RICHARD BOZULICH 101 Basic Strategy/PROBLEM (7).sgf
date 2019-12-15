@@ -1,8 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[pp][dk][pd][dp][fb][ec][jc][de][je][df][dg]
-[dh][ei][dd][dj][fj]AW[gb][cc][fc][hc][cd][ce][fe][cg][ch][fh][ci][di][he][cj]TR[fh]
-LB[eh:A]C[Black to play. White peeps with the marked stone, threatening to cut at A. Is this a forcing move? What is Black's correct response?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[fg];W[jf];B[ke];W[eh];B[gh];W[fi];B[gi];W[ej];B[eg];W[ei];B[if];W[eb];B[fk]
-C[CORRECT Attaching is the correct response. White makes a forcing move and then cuts. Black squeezes. After White connects, Black confines the white stones at the top, so White must make life. Black ends up with thickness in the center and a superior position.])
-(;B[eh];W[lc]TR[fh]C[If Black answers by connecting, then the marked stone becomes a forcing move. White will switch to the top and start a fight.]))

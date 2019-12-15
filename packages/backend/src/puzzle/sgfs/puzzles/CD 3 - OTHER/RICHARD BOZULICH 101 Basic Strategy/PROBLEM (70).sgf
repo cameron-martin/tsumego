@@ -1,7 +1,0 @@
-(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[bq][lq][pq][nq][ld][qd][cj][oj][qj][dn][co]
-[cp][hp][pf][qp]AW[qb][dc][oc][jd][nd][ce][ql][po][qo][dp][fp][cq][eq][no][cr]TR[ld]
-LB[jd:1]C[Black to play. The pincer of White 1 is a good move\: it attacks the marked stone and maps out territory at the top left. How can black cope with this situation?]
-AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[nf];W[me];B[ec];W[db];B[hc];W[jb];B[ee]C[CORRECT Black should first threaten to save his stone at the top right. At the same time this reinforces Black's territory on the right side and forces White to capture the black stone. Black can now make sabaki on the left by attaching, and making a light group. White's potential territory at the top left has been erased while his territory at the top right is not yet secured because the black stone there can still escape.])
-(;B[lf];W[nf]LB[pg:A]C[Jumping provokes White to jump. Black can still make sabaki as in the correct answer, but now White threatens the attachment of A.]))

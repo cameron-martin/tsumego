@@ -1,6 +1,0 @@
-(;CA[utf-8]GM[1]FF[4]ST[2]AB[di][dp][do][dn][dm][dl][dk][dj][eg][cc][dd][ce][pp]
-[pd]AW[ch][cj][cl][cm][cn][co][dc][cb][ec][fd][jq][ci]TR[jq]C[Black to play. White has played the marked stone, splitting Black's position at the bottom. What is black's correct response?]
-AP[CGoban:3]SZ[19]RU[Japanese]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[lq];W[qn];B[ko];W[hp]LB[qj:A][hn:B][fq:C][hr:D]C[CORRECT Black should make a checking extension from the right, driving the white stones in the direction of Black's thickness. White approaches, since he must stop Black from getting an extension to A. Black next attacks the lone white stone, again using his thickness on the left to attack. If Black B, White can live with C. If Black gouges out White's base at the bottom with a move around D, White can jump to B.])
-(;B[ip];W[jp];B[jo];W[ko];B[jn];W[iq];B[hp];W[np]C[Using thickness to make territory is most of the time wrong. White has secured a position at the bottom, while Black's stones are overconcentrated and his territory is not much larger than White's.]))

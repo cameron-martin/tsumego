@@ -1,8 +1,0 @@
-(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[qp][op][ql]AW[qd][od][qj]C[Black to play. How should Black play?]
-AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-;B[qe];W[pe];B[qf]
-(;W[rd];B[pf]
-(;W[of];B[og];W[nf];B[ng];W[mf];B[ok]C[CORRECT White takes territory on the upper side, while Black encloses the territory on the upper right side. White has made a thick position at the top.])
-(;W[oj];B[ne];W[mc]C[CORRECT White might not like losing the stone on the right, in that case he will jump out. Black forces White to submissively protect the corner. However, White's territory in the corner is secure.]))
-(;W[pg];B[rd];W[qc];B[rc];W[rb];B[sb];W[qb];B[rh];W[qi];B[pf];W[of];B[qg];W[ph]
-C[CORRECT If White thinks it's profitable to get a thick position facing the center, he will close Black in. Black lives on the side, but White gets his thickness.]))

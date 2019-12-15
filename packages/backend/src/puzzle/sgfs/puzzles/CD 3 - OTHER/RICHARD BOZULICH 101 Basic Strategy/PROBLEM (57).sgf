@@ -1,6 +1,0 @@
-(;CA[utf-8]GM[1]FF[4]ST[2]AB[pp][pj][pd][oc][nd][qc]AW[qd][qf][pc][pb]C[Black to play. How can Black prevent White from making sabaki?]
-AP[CGoban:3]SZ[19]RU[Japanese]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[rd];W[qe];B[qb]C[CORRECT The atari is a forcing move that robs the white stones of a base. Black can then capture the two white stones at the top by blocking.])
-(;B[qb];W[pe];B[od];W[rd]LB[rb:A]C[If Black simply blocks, White can make eye shape. White A next is a forcing move that guarantees two eyes for white.])
-(;B[qe];W[rd];B[pe];W[re];B[qb];W[pf]LB[rb:A][oe:B]C[This is bad for black. White can make eyes in the corner by attaching at A. White also has no problem moving out into the center because he can atari at B.]))

@@ -1,5 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[oe][pe][qf]AW[pc][pd][rd][qe]TR[rd]C[Black to play. White has just played the marked stone. How should Black continue?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[re];W[qd];B[pg]C[CORRECT Black should make a forcing move. After White connects, Black makes shape.])
-(;B[pg];W[rf];B[rg]LB[sg:A]C[If Black neglects to play the forcing move in the correct answer, White can play A in sente.]))

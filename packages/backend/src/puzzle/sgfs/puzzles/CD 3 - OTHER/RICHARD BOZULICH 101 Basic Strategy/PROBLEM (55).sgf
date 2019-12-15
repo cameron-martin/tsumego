@@ -1,6 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[qf][pr][nq][kq]AW[pd][nd][jc][qi][qq][pp][pn]
-TR[qi]C[Black to play. White has just pincered with the marked stone. How should Black continue?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-;B[qd];W[qc];B[rc]
-(;W[qe];B[rd];W[pe];B[re];W[qb]LB[pf:A][rg:B][pc:C]C[CORRECT Black can make sabaki by attaching first. This is a joseki. Black can now move out in the center by A or making eye shape with B. The aji of the cut at C remains.])
-(;W[rb];B[pc];W[qb];B[pi];W[ph];B[qh];W[qj];B[od];W[pe];B[oh];W[pg];B[pf]C[CORRECT Black punishes White for his doublehane. White will lose two stones.]))

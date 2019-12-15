@@ -1,9 +1,0 @@
-(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[hd][dp][ec][bf][dj][dd][de][ef][df][ab][cf]
-[nq][fc][fd][ic][kc]AW[ad][bb][ba][ca][db][ee][dc][cd][ce][be][eb][ed][fe][ge][pd]
-[ac][pj][pp][md][gg][eh]TR[eh]C[Black to play. White plays the marked stone, threatening to capture the six black stones above. How should Black respond?]
-AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[fg]
-(;W[fh];B[ci];W[gj];B[qn]LB[gh:A][hh:B]C[CORRECT 'Make forcing moves before living.' Following this principle, Black should force White to block, and leaving him with the bad aji of the cutting point at A. Now Black links up, and because the cut would be too severe, White repairs his shape by jumping lightly. If Black now cuts at A, White makes atari with B and sacrifices the two stones on the left, building a wall facing the right. Black has sente, so he can make another approach in the lower right.])
-(;W[gh];B[fh];W[gi];B[qn]C[CORRECT If White answers by extending, Black pushes in. Black's stones are no longer in danger, so he can take sente and make another approach in the lower right corner as in the correct answer.]))
-(;B[ci];W[pn];B[jp];W[jg]LB[fg:A][fh:B]C[If Black simply links up, White will exchange moves on the bottom, then jump in the center. Now if Black plays A, White won't answer at B; instead he will build a moyo in the upper right quadrant of the board.]))

@@ -1,8 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[jp][ge][fe][ce][df][bd][ad][ac][ee][bf][cf]
-[gf][cg][fg][bh][fh][bi][fj][qp][pq]AW[ci][gi][bj][ck][gc][dp][np][dn][ab][cb][bc]
-[dc][cd][dd][pd][de][ef][ff][dg][eg][dh]LB[gg:B][fi:A][gi:1]C[Black to play. White has just peeped with 1, threatening to push in at A. Is this a forcing move? White 1 also threatens to cut at B. How should Black respond?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[hh];W[fi];B[ei];W[ej];B[di];W[ch];B[dj];W[cj];B[ek]LB[eh:A][dk:B][cl:C][hj:D]
-C[CORRECT Black should answer the marked stone by jumping. This move defends against the threats of both A and B in the problem. If White cuts at A, followed by Black B, White C, Black D captures the two white cutting stones and connects his stones.])
-(;B[fi];W[gg];B[hg];W[gh];B[hj];W[hh];B[ih];W[ig];B[hf];W[ii];B[jh]C[If Black connects, then White splits Black into two groups.]))

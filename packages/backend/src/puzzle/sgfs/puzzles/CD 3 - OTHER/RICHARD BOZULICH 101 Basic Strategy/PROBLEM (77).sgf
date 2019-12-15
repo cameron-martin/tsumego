@@ -1,9 +1,0 @@
-(;CA[utf-8]GM[1]FF[4]ST[2]AB[pd][qj][rc][oc][qd][qe][oe][ne][ob]AW[pf][nd][md][qc]
-[pc][pe][qf][od][me]TR[ne][oe]C[Black to play. The two marked stones are key stones, so Black can not give them up. How should he save them?]
-AP[CGoban:3]SZ[19]RU[Japanese]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[nf];W[pi];B[pj];W[oj];B[mf];W[lf];B[lg];W[kf];B[nh];W[oh];B[ni];W[oi];B[pl]
-;W[qi]C[CORRECT Although it's bad shape, the empty triangle is the only move for saving the two black stones. White must save his three stones by making a shoulder hit on the right. Black then makes two forcing moves at the top, and switch to the right to peep. White defends, and Black takes up a position on the right side.])
-(;B[og];W[rf]
-(;B[re];W[ng];B[of];W[oh];B[pg];W[sf];B[qb];W[ph];B[qg];W[rh]C[Jumping may look like good shape, but after White descends, Black ends up losing the key stones.])
-(;B[qb];W[ng];B[of];W[oh];B[pg];W[ph];B[qg];W[rg];B[qh];W[qi];B[rh];W[ri]C[Jumping may look like good shape, but after White answers by descending, the Black key stones are doomed.])))

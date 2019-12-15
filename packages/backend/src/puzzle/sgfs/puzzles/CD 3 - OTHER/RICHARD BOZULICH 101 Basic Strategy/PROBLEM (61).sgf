@@ -1,8 +1,0 @@
-(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[qc][dd][nd][dn][do][fp]AW[qd][cm][co][po][cp]
-[ip][pq]LB[cm:4][dn:3][co:2][do:1][dp:A][ep:B]C[Black to play. After Black 1, White has neglected to play the White A, Black B exchange. If White jumps to 4 after 3, how can Black make good shape?]
-AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[cn];W[bn];B[bo]
-(;W[bm];B[cq];W[bp];B[dp];W[bq];B[el]C[CORRECT Black should push and cut. After White prevents Black from making a base, Black jumps lightly in to the center with the knight's move.])
-(;W[bp];B[bm];W[ao];B[cl]C[CORRECT If White captures one stone on the side, Black settles his group at once by capturing the stone in a ladder.]))
-(;B[dp];W[cq];B[el];W[cl]C[Black does get an ideal shape, but White's territory on the left is bigger than in the correct answer's.]))

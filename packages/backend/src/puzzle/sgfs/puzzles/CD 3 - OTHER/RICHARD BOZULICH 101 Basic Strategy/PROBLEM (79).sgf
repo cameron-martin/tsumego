@@ -1,8 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[qq][po][mr][pl][pq][oq][nr][io][pd][nc][eq]
-[iq][kp][pn][qm]AW[gq][go][dn][lp][lq][lo][np][nq][op][dd][cp][qo][qj][ph][qf]TR[go]
-C[Black to play. White has jumped out with the marked stone. How should Black respond?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[km];W[mm];B[ml];W[nl];B[ll];W[nj];B[nm];W[om];B[nn];W[on];B[oo];W[no];B[mn]
-C[CORRECT The black stones on the right are thick, so Black should use them to attack the six heavy white stones. If White tries to escape, Black attaches. The white stones are trapped.])
-(;B[cq];W[dp];B[dq];W[bq];B[br];W[bp];B[ar];W[gr];B[er];W[kq];B[jq];W[jn]C[If Black rushes to make a living group in the corner, it is now the black stones that are under attack. Living in the corner should be left for later as aji.]))

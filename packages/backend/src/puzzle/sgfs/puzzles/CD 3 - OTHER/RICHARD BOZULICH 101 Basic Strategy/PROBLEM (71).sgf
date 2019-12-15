@@ -1,9 +1,0 @@
-(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[mb][lc][ld][qf]AW[kb][lb][kc][mc][pd]TR[mc]
-LB[nc:A]C[Black to play. Black A can't capture the marked stone in a ladder because of the white stone on the 4-4 point. How can Black make sabaki?]
-AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[pc]
-(;W[md];B[qd]C[CORRECT Black should attach, and if White extends, Black will hane.])
-(;W[qc];B[nc];W[md];B[me];W[nd];B[od];W[ne];B[pe]LB[nf:A][qd:B]C[CORRECT Black should attach. If White makes a hane, Black keeps the white stones in atari until he threatens to capture with both A and B.])
-(;W[qd];B[nc];W[md];B[me];W[nd];B[od];W[ne];B[oe];W[nf]C[CORRECT Black should attach first. If White extends, in this case Black will take the territory in the corner.]))
-(;B[nc];W[md];B[me];W[nd];B[od];W[ne]C[The ladder favors white.]))

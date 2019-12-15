@@ -1,7 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[pp][oc][ob][pd][pc][pe][og][pf][qg][jj][no]
-[qn][fj][eh][eg][ig][kg][ed][fd][fc][lc]AW[ii][ki][pr][nq][lp][jp][dp][di][dh][cf]
-[cd][dc][ec][pb][qb][qc][qd][rf][qf][nc][ji]TR[ii][ji][ki]C[Black to play. How should Black attack the marked stones?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[jl];W[mi];B[oj];W[ll];B[nl]LB[lk:A]C[CORRECT The one point jump is the vital point. Black can attack white while making another moyo on the right side. Note that White's stones are not yet safe because Black can still attach at A.])
-(;B[mi];W[jl]C[Immediately attacking from the right lets White take the vital point and make shape. White's stones have escaped with just one move.]))

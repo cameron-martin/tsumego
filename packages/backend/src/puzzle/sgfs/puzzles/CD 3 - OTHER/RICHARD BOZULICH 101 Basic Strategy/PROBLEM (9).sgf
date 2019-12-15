@@ -1,9 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[qc][ce][df][dg][cj][pq]AW[dc][cd][de][cf][co]
-[dq]C[Black to play. What is the urgent point for Black?]AP[CGoban:3]SZ[19]FF[4]
-PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[be]
-(;W[bf];B[ee];W[dd];B[bg];W[bd];B[cg];W[ae];B[qo]C[CORRECT It is urgent for Black to secure his stones in the upper left by descending. White will block, Black then plays forcing moves and secures his in sente. Now Black can take a big point in the bottom right.])
-(;W[ee];B[bf]C[CORRECT White might extedn. In this case, Black is happy to take territory on the upper left.])
-(;W[bg];B[ee];W[dd];B[bf];W[cg];B[ch];W[bh];B[bi]TR[cj]C[CORRECT Sometimes White's diagonal move is a tesuji to create bad aji for Black, but, with the marked stone in place, this move doesn't work. After Black forces White to connect, Black captures four white stones.]))
-(;B[qo];W[be]C[Making a corner enclosure is not a good move. White will capture, leaving the three black stones on the upper left without a base and vulnerable.]))

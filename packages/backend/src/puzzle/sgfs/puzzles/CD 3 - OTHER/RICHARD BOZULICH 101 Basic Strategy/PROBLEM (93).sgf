@@ -1,7 +1,0 @@
-(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[od][re][qe][ph][qg][pf][oc]AW[rg][qi][qh][pc]
-[qf][rf][og][pg]TR[dd]LB[oc:10][pc:1][od:8][qe:2][re:12][pf:14][qf:11][og:9][pg:3]
-[qg:4][rg:15][rf:13][qh:5][qi:7][ph:6]C[Black to play. The sequence to Black 15 is a joseki. If Black plays elsewhere, he is left with bad aji in the corner. What is the aji and how can Black eliminate it? Please play at the marked top left spot if you can't find the correct move.]
-AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[mc]C[CORRECT Without this move, White is able to live in the corner.])
-(;B[dd];W[pd];B[pe];W[ob];B[nb];W[pb];B[mc];W[rc]LB[oe:A][mc:B]C[The cut at A would be severe, so Black must protect with B. White lives in the corner.]))

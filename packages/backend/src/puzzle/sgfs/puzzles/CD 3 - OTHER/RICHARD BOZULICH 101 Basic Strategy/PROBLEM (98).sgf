@@ -1,7 +1,0 @@
-(;CA[utf-8]RU[Japanese]GM[1]FF[4]AB[rn][qm][pn][qo][qp][dc][cf][eq][hq][pc][oc]
-[nc]AW[qq][cm][pr][cp][pp][oq][pd][qc][rd][qe][od][lc][po]TR[nc][pc][oc]C[Black to play. What should Black do about his marked stones?]
-AP[CGoban:3]SZ[19]ST[2]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[jc];W[le];B[je]LB[lb:A]C[CORRECT The three marked stones in the problem diagram are heavy and not worth saving. Instead, Black should use them to pincer the lone white stone at the top with 1. If  White jumps, Black will follow, mapping out a moyo at the top left. Black still has some aji at A.])
-(;B[nd];W[ic];B[ld];W[kd];B[ke];W[jd];B[nf];W[fc]C[Trying to escape is a bad move. Black can make sabaki, but White takes more profit while aiming at Black's corner. Although Black has made sabaki, in contrast to White, his moves made no profit.])
-(;B[kq];W[ic]LB[cr:A]C[Extending or sliding at A is a good move, but White will reinforce the top by extending. After this it will be difficult for Black to make sabaki with his three stones at the top right.]))

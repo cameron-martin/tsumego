@@ -1,6 +1,0 @@
-(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[od][qd][pe][qj]AW[lc][qe][qf][ql][op][qp]TR[lc]
-LB[qf:1]C[Black to play. In this position, Black must consider the marked white stone. How should he answer White 1?]
-AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[pc];W[qh];B[oj];W[oh]C[CORRECT Black should make a ponnuki. His position in the corner is now ironclad. Rest is natural continuation.])
-(;B[rd];W[pf];B[of];W[og];B[nf];W[ng];B[mf];W[pc];B[pd];W[oc]C[Black can't play the usual descending move, because White can now establish a position and deny Black the corner territory.]))

@@ -1,9 +1,0 @@
-(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[fc][cc][ob][mb][kb][eb][cn][nc][kc][qc][cd]
-[gd][ld][qd][be][fe][qe][cf][if][jf][kf][mf][pf][pg][rg][ih][jh][rh][gi][hj][mj]
-AW[qh][hi][ii][ji][li][jj][gk][cl][jb][fp][pp][pb][dp][jc][pc][dd][ed][fd][pd][ce]
-[de][ge][he][ie][je][ne][pe][bf][df][of][gg][og][hh][kh][ph][mh]LB[mb:7][ob:5][pb:6]
-[hh:4][gi:3][ii:2][hj:1][gk:8]C[Black to play. After Black makes forcing moves with 1 and 3, he has to live with 5 and 7. White next peeps with 8. Is this a forcing move? How should Black answer?]
-AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[gl];W[hl];B[fk];W[hk];B[el];W[dm];B[gn]TR[gi][hj]C[CORRECT Black should sacrifice the two marked stones. Black makes sabaki while reducing White's moyo on the upper left side.])
-(;B[gj];W[il]C[Black must not connect. This violates the principle of treating forcing moves lightly and sacrificing for the greater good. White can easily attack keeping the three Black stones heavy. A huge White moyo is taking shape throughout the board.]))

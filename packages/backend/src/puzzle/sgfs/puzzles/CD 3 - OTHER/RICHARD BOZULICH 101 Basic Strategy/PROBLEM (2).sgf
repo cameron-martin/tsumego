@@ -1,8 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[ip][fd][dd][mc][ec][ni][cc][eb][oc][gd][de]
-[mh][mi][ck][ok][pk][qk][ll][ml][cn][qo][jp][kp][lp][mp][pp][nq]AW[cp][dp][qd][jq]
-[kq][lq][hq][cb][db][dc][fc][cd][nd][ce][pe][cf][nh][oi][qi][jk][jm][pl][mm][kn]
-[mn][pn][qn]C[Black to play. How can Black exploit the bad aji in White's position?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-;B[kl]
-(;W[jl];B[ln];W[lm];B[km];W[lo];B[jn]C[CORRECT Black should peep. If White connects, Black will wedge in. The white stones on the right are trapped.])
-(;W[in];B[jl];W[il];B[ik];W[hl];B[ij]C[CORRECT White has to defend with the diagonal connection. Black pushes in and cuts. Black is taking territory in the center while White's stones are still not secure.]))

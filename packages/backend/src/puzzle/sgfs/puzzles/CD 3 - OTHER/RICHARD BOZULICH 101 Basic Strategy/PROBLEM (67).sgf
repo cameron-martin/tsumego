@@ -1,6 +1,0 @@
-(;CA[utf-8]FF[4]ST[2]RU[Japanese]AB[nc][dd][jd][rj][pn][qn][dp]AW[pd][pf][ri][pj]
-[qo][jp][np][pp]LB[ri:2][rj:1]C[Black to play. After the exchange of Black 1 for White 2, how can Black make sabaki?]
-AP[CGoban:3]SZ[19]GM[1]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[qi];W[qj];B[rh];W[rk];B[si];W[ql];B[oi]C[CORRECT Black should play the hane. After black captures a stone, he can jump lightly to the center. White's stones at the bottom are overconcentrated and his two stones in the upper left have become thin.])
-(;B[qj];W[qi];B[pk];W[ok];B[pl];W[oj]C[Black can make a living group by bumping against the white stone but this makes him heavy while helping White become thick on the outside.]))

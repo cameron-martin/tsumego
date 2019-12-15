@@ -1,6 +1,0 @@
-(;CA[utf-8]ST[2]RU[Japanese]GM[1]AB[je][pd][fd][dd][pc][jc][ne][pe][of][jj][dp]
-[fp][pp]AW[pg][cn][nc][qc][qd][qe][cf][mf][pf]TR[mf]C[Black to play. White makes an erasing move with the marked stone, threatening to invade the top right. Is this a forcing move? What is Black's correct response?]
-AP[CGoban:3]SZ[19]FF[4]PB[Musta]PW[Valkea]KM[0]MULTIGOGM[1]
-
-(;B[og];W[ld];B[ph];W[rh];B[mh];W[kf];B[kh]TR[mf]C[CORRECT Black should push down, keeping the marked white stone separated from his stones on the right. If White invades, Black forces, then attacks the thin white stones at the top. White's stones are now too big to sacrifice, but, if he runs away, he is playing on points of no value, while Black will make territory and influence by attacking them.])
-(;B[me];W[og]TR[mf]LB[pb:A][le:B]C[Now the marked stone has become a forcing move. White will turn, and Black's territory at the top is not so big because the point A is White's privilege. White B is also a threat.]))
