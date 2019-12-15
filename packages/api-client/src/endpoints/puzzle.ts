@@ -37,8 +37,6 @@ export class PuzzleApiClient {
    * Creates a puzzle from an sgf file.
    */
   async create(puzzle: File): Promise<void> {
-    const reader = new FileReader();
-
     return this.requester.request('POST', `/puzzle`, {
       type: 'sgf',
       file: await readFile(puzzle),

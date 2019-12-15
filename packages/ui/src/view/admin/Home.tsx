@@ -25,11 +25,14 @@ const useStyles = makeStyles(theme =>
 export default function Home({ apiClient }: Props) {
   const classes = useStyles();
 
-  const onDrop = useCallback((acceptedFiles: File[]) => {
-    acceptedFiles.forEach(file => {
-      apiClient.puzzle.create(file);
-    });
-  }, []);
+  const onDrop = useCallback(
+    (acceptedFiles: File[]) => {
+      acceptedFiles.forEach(file => {
+        apiClient.puzzle.create(file);
+      });
+    },
+    [apiClient.puzzle],
+  );
 
   const { getRootProps, getInputProps } = useDropzone({ onDrop });
 
