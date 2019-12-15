@@ -14,13 +14,11 @@ interface Props {
   config: AppConfig;
 }
 
-const useStyles = makeStyles(
-  createStyles({
-    title: {
-      flexGrow: 1,
-    },
-  }),
-);
+const useStyles = makeStyles({
+  title: {
+    flexGrow: 1,
+  },
+});
 
 export default function Header({ config }: Props) {
   const isLoggedIn = useAuth();

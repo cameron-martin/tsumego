@@ -14,13 +14,11 @@ interface Props {
   apiClient: ApiClient;
 }
 
-const useStyles = makeStyles(theme =>
-  createStyles({
-    root: {
-      padding: theme.spacing(3, 2),
-    },
-  }),
-);
+const useStyles = makeStyles(theme => ({
+  root: {
+    padding: theme.spacing(3, 2),
+  },
+}));
 
 export default function Home({ apiClient }: Props) {
   const classes = useStyles();
