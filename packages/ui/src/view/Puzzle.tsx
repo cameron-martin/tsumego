@@ -1,4 +1,4 @@
-import Board from './Board';
+import Board, { BoardCrop } from './Board';
 import React, { useState, useCallback, useEffect } from 'react';
 import { GoGame, BoardPosition } from '../model/GoGame';
 import { either } from 'fp-ts';
@@ -17,6 +17,7 @@ type GameState =
       loadState: 'loaded';
       moveState: 'computers-turn' | 'humans-turn' | 'correct' | 'wrong';
       sequence: readonly BoardPosition[];
+      area: BoardCrop;
       id: string;
       game: GoGame;
     }>;
@@ -30,7 +31,7 @@ export default function Puzzle({ apiClient }: Props) {
   });
 
   const loadPuzzle = useCallback(async () => {
-    const { id, initialStones } = await apiClient.puzzle.getRandom();
+    const { id, initialStones, area } = await apiClient.puzzle.getRandom();
 
     setGameState({
       loadState: 'loaded',
@@ -41,6 +42,10 @@ export default function Puzzle({ apiClient }: Props) {
         [computerPlayer]: initialStones.computer,
         [humanPlayer]: initialStones.you,
       }),
+      area: {
+        min: [area.min[0] - 2, area.min[1] - 2],
+        max: [area.max[0] + 2, area.max[1] + 2],
+      },
     });
   }, [apiClient.puzzle]);
 
@@ -120,7 +125,7 @@ export default function Puzzle({ apiClient }: Props) {
         }
         onNextPuzzle={handleNextPuzzle}
       />
-      <Board game={gameState.game} playMove={playMove} />
+      <Board game={gameState.game} playMove={playMove} crop={gameState.area} />
     </div>
   );
 }

@@ -8,6 +8,10 @@ interface GetPuzzleResponse {
     you: BoardPosition[];
     computer: BoardPosition[];
   };
+  area: {
+    min: BoardPosition;
+    max: BoardPosition;
+  };
 }
 
 type SolvePuzzleResponse =

@@ -241,3 +241,24 @@ test('empty sequence throws error', () => {
     'Sequence cannot be empty',
   );
 });
+
+describe('area', () => {
+  test('calculates area correctly', () => {
+    const puzzle = Puzzle.create({
+      initialStones: {
+        you: [[3, 5], [5, 3], [10, 10]],
+        computer: [[2, 5], [6, 7]],
+      },
+      sequences: [
+        {
+          type: 'branch',
+          position: [11, 10],
+          response: [12, 10],
+          children: [{ type: 'leaf', position: [13, 10], outcome: 'correct' }],
+        },
+      ],
+    });
+
+    expect(puzzle.area).toStrictEqual({ min: [2, 3], max: [13, 10] });
+  });
+});

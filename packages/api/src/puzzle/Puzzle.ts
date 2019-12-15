@@ -58,6 +58,32 @@ export class Puzzle {
 
     throw new Error('Sequence cannot be empty');
   }
+
+  get area(): { min: BoardPosition; max: BoardPosition } {
+    const min: [number, number] = [Infinity, Infinity];
+    const max: [number, number] = [-Infinity, -Infinity];
+
+    const processPosition = (stone: BoardPosition) => {
+      min[0] = Math.min(min[0], stone[0]);
+      min[1] = Math.min(min[1], stone[1]);
+      max[0] = Math.max(max[0], stone[0]);
+      max[1] = Math.max(max[1], stone[1]);
+    };
+    this.initialStones.you.forEach(processPosition);
+    this.initialStones.computer.forEach(processPosition);
+    this.sequences.forEach(function processNode(node) {
+      processPosition(node.position);
+      if (node.response) {
+        processPosition(node.response);
+      }
+
+      if (node.type === 'branch') {
+        node.children.forEach(processNode);
+      }
+    });
+
+    return { min, max };
+  }
 }
 
 export interface InitialStones {

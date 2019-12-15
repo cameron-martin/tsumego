@@ -64,7 +64,11 @@ router.get('/puzzle/random', async (req, res) => {
     return;
   }
 
-  res.json({ id: puzzle.id, initialStones: puzzle.entity.initialStones });
+  res.json({
+    id: puzzle.id,
+    initialStones: puzzle.entity.initialStones,
+    area: puzzle.entity.area,
+  });
 });
 
 router.post('/puzzle/:puzzleId/solution', async (req, res) => {

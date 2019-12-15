@@ -12,7 +12,7 @@ export default function Homepage({ apiClient }: Props) {
   const isLoggedIn = useAuth();
 
   return (
-    <Container maxWidth="md">
+    <Container maxWidth="sm">
       {isLoggedIn ? (
         <Puzzle apiClient={apiClient} />
       ) : (
