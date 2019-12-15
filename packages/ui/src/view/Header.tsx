@@ -5,7 +5,6 @@ import {
   Toolbar,
   AppBar,
   Button,
-  createStyles,
   makeStyles,
   Typography,
 } from '@material-ui/core';

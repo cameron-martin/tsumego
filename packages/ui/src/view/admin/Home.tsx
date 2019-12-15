@@ -1,11 +1,5 @@
 import { useCallback } from 'react';
-import {
-  Paper,
-  RootRef,
-  makeStyles,
-  createStyles,
-  Container,
-} from '@material-ui/core';
+import { Paper, RootRef, makeStyles, Container } from '@material-ui/core';
 import { useDropzone } from 'react-dropzone';
 import React from 'react';
 import { ApiClient } from '@tsumego/api-client';
