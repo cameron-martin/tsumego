@@ -21,6 +21,10 @@ export class Puzzle {
     this.sequences = spec.sequences;
   }
 
+  get spec(): PuzzleSpec {
+    return { initialStones: this.initialStones, sequences: this.sequences };
+  }
+
   playSequence(positions: BoardPosition[]): PlayResult {
     let sequences = this.sequences;
 

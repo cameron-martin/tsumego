@@ -32,4 +32,32 @@ export class PuzzleApiClient {
   ): Promise<SolvePuzzleResponse> {
     return this.requester.request('POST', `/puzzle/${id}/solution`, solution);
   }
+
+  /**
+   * Creates a puzzle from an sgf file.
+   */
+  async create(puzzle: File): Promise<void> {
+    const reader = new FileReader();
+
+    return this.requester.request('POST', `/puzzle`, {
+      type: 'sgf',
+      file: await readFile(puzzle),
+    });
+  }
+}
+
+function readFile(file: File) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+
+    reader.onload = event => {
+      resolve(event.target!.result);
+    };
+
+    reader.onerror = event => {
+      reject(event.target!.error);
+    };
+
+    reader.readAsText(file);
+  });
 }

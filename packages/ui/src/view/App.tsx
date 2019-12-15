@@ -32,6 +32,11 @@ export default function App({ apiClient, config, tokenManager }: Props) {
             props={{ tokenManager }}
           />
           <RouterPage
+            path="admin"
+            page={() => import('./admin/Home')}
+            props={{ apiClient }}
+          />
+          <RouterPage
             path="/"
             page={() => import('./Homepage')}
             props={{ apiClient }}
