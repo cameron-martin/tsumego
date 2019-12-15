@@ -4,7 +4,6 @@ import { GoGame, BoardPosition } from '../model/GoGame';
 import { either } from 'fp-ts';
 import { ApiClient } from '@tsumego/api-client';
 import PuzzleInstructions from './PuzzleInstructions';
-import { classes, style } from './Puzzle.st.css';
 
 interface Props {
   apiClient: ApiClient;
@@ -111,7 +110,7 @@ export default function Puzzle({ apiClient }: Props) {
   }
 
   return (
-    <div className={style(classes.root)}>
+    <div>
       <PuzzleInstructions
         humanPlayer={humanPlayer}
         state={

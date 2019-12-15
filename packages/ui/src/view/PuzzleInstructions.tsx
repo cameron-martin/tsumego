@@ -1,6 +1,7 @@
 import React from 'react';
 import { GoPlayer } from '../model/GoGame';
 import { classes, style } from './PuzzleInstructions.st.css';
+import { Button } from '@material-ui/core';
 
 interface Props {
   className?: string;
@@ -12,16 +13,18 @@ interface Props {
 export default function PuzzleInstructions(props: Props) {
   if (props.state === 'in-progress') {
     return (
-      <div className={style(classes.root, props.className)}>
+      <p className={style(classes.root, props.className)}>
         {props.humanPlayer === 'black' ? 'Black' : 'White'} to play
-      </div>
+      </p>
     );
   }
 
   return (
-    <div className={style(classes.root, props.className)}>
+    <p className={style(classes.root, props.className)}>
       {props.state === 'correct' ? 'Correct!' : 'Wrong!'}{' '}
-      <button onClick={props.onNextPuzzle}>Next</button>
-    </div>
+      <Button variant="contained" color="primary" onClick={props.onNextPuzzle}>
+        Next
+      </Button>
+    </p>
   );
 }
