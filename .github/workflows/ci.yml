@@ -24,6 +24,7 @@ jobs:
           CI: true
   deploy-images:
     runs-on: ubuntu-18.04
+    - needs: build
     steps:
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
