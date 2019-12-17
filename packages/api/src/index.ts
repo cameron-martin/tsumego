@@ -55,7 +55,7 @@ app.use(
     audience: process.env.COGNITO_CLIENT_ID,
     issuer: cognitoIdpUri,
     algorithms: ['RS256'],
-  }),
+  }).unless({ path: '/status' }),
 );
 
 app.use(bodyParser.json());
@@ -98,6 +98,10 @@ router.post('/puzzle', async (req, res) => {
   await puzzleRepository.create(Puzzle.create(loadSgf(req.body.file)));
 
   res.status(201).end();
+});
+
+router.get('/status', async (req, res) => {
+  res.status(200).send('OK');
 });
 
 app.use(router);
