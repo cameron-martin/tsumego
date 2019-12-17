@@ -1,0 +1,33 @@
+{
+    "executionRoleArn": "arn:aws:iam::594736423871:role/ecsTaskExecutionRole",
+    "containerDefinitions": [
+        {
+            "portMappings": [
+                {
+                    "hostPort": 80,
+                    "protocol": "tcp",
+                    "containerPort": 8080
+                }
+            ],
+            "memory": 128,
+            "image": "",
+            "name": "api"
+        }
+    ],
+    "compatibilities": [
+        "EC2"
+    ],
+    "family": "tsumego-api",
+    "requiresAttributes": [
+        {
+            "name": "com.amazonaws.ecs.capability.ecr-auth"
+        },
+        {
+            "name": "ecs.capability.execution-role-ecr-pull"
+        }
+    ],
+    "requiresCompatibilities": [
+        "EC2"
+    ],
+    "status": "ACTIVE"
+}

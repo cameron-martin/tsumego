@@ -2,6 +2,9 @@ name: CI
 
 on: [push]
 
+env:
+  ECR_REPOSITORY: tsumego/api
+
 jobs:
   build-and-publish:
     runs-on: ubuntu-18.04
@@ -36,7 +39,6 @@ jobs:
       - name: Build, tag, and push image to Amazon ECR
         env:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-          ECR_REPOSITORY: tsumego/api
           IMAGE_TAG: ${{ github.sha }}
         run: |
           docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG -f packages/api/Dockerfile .
@@ -45,3 +47,22 @@ jobs:
       - name: Logout of Amazon ECR
         if: always()
         run: docker logout ${{ steps.login-ecr.outputs.registry }}
+  deploy:
+    if: github.ref == 'refs/heads/master'
+    needs: build-and-publish
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Render Amazon ECS task definition
+        id: render-task-definition
+        uses: aws-actions/amazon-ecs-render-task-definition@v1
+        with:
+          task-definition: packages/api/task-definition.json
+          container-name: web
+          image: 594736423871.dkr.ecr.eu-west-2.amazonaws.com/$ECR_REPOSITORY:${{ github.sha }}
+
+      - name: Deploy to Amazon ECS service
+        uses: aws-actions/amazon-ecs-deploy-task-definition@v1
+        with:
+          task-definition: ${{ steps.render-web-container.outputs.task-definition }}
+          service: tsumego-api
+          cluster: default
