@@ -14,20 +14,8 @@
             "name": "api"
         }
     ],
-    "compatibilities": [
-        "EC2"
-    ],
     "family": "tsumego-api",
-    "requiresAttributes": [
-        {
-            "name": "com.amazonaws.ecs.capability.ecr-auth"
-        },
-        {
-            "name": "ecs.capability.execution-role-ecr-pull"
-        }
-    ],
     "requiresCompatibilities": [
         "EC2"
-    ],
-    "status": "ACTIVE"
+    ]
 }
