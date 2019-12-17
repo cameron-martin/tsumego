@@ -52,6 +52,7 @@ jobs:
     needs: build-and-publish
     runs-on: ubuntu-18.04
     steps:
+      - uses: actions/checkout@v1
       - name: Render Amazon ECS task definition
         id: render-task-definition
         uses: aws-actions/amazon-ecs-render-task-definition@v1
