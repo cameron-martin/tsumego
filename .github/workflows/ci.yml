@@ -45,7 +45,7 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: ui-artifacts
-          path: path/to/artifact
+          path: packages/ui/dist
   deploy:
     if: github.ref == 'refs/heads/master'
     needs: build-and-publish
