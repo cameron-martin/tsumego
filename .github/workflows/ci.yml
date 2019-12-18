@@ -5,6 +5,7 @@ on: [push]
 env:
   GCR_DOMAIN: eu.gcr.io
   GCR_IMAGE_API: tsumego-1575212161857/api
+  GCLOUD_PROJECT_ID: tsumego-1575212161857
 
 jobs:
   build-and-publish:
@@ -58,4 +59,4 @@ jobs:
       - name: Deploy image to Cloud Run
         env:
           IMAGE_TAG: ${{ github.sha }}
-        run: gcloud run deploy tsumego-api --image $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG --platform managed --region europe-west1
+        run: gcloud run deploy tsumego-api --image $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG --platform managed --region europe-west1 --project $GCLOUD_PROJECT_ID
