@@ -27,12 +27,11 @@ jobs:
           API_HOST: https://api.tsumego.app
           COGNITO_CLIENT_ID: 2e414rlf9sabi7u06cb3lhl3ec
           COGNITO_WEB_URI: https://tsumego.auth.eu-west-2.amazoncognito.com
+          CI: true
         run: |
           yarn install --frozen-lockfile
           yarn build
           yarn test
-        env:
-          CI: true
       - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
         with:
           version: '270.0.0'
