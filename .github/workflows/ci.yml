@@ -69,4 +69,4 @@ jobs:
           name: ui-artifacts
           path: ui-artifacts
       - name: Deploy UI
-        run: gsutil rsync -d ui-artifacts gs://tsumego-ui
+        run: gsutil rsync -d -a public-read -r ui-artifacts gs://tsumego-ui
