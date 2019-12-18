@@ -75,6 +75,11 @@ jobs:
           container-name: api
           image: $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
 
+      - uses: actions/upload-artifact@v1
+        with:
+          name: task-definition
+          path: ${{ steps.render-task-definition.outputs.task-definition }}
+
       - name: Deploy to Amazon ECS service
         uses: aws-actions/amazon-ecs-deploy-task-definition@v1
         with:
