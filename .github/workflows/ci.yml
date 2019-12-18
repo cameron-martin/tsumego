@@ -66,11 +66,14 @@ jobs:
 
       - name: Render Amazon ECS task definition
         id: render-task-definition
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          IMAGE_TAG: ${{ github.sha }}
         uses: aws-actions/amazon-ecs-render-task-definition@v1
         with:
           task-definition: packages/api/task-definition.json
           container-name: api
-          image: ${{ steps.login-ecr.outputs.registry }}/$ECR_REPOSITORY:${{ github.sha }}
+          image: $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
 
       - name: Deploy to Amazon ECS service
         uses: aws-actions/amazon-ecs-deploy-task-definition@v1
