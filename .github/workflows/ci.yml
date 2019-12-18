@@ -58,4 +58,4 @@ jobs:
       - name: Deploy image to Cloud Run
         env:
           IMAGE_TAG: ${{ github.sha }}
-        run: gcloud run deploy tsumego-api --image $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG --platform managed
+        run: gcloud run deploy tsumego-api --image $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG --platform managed --region europe-west1
