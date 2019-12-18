@@ -21,6 +21,12 @@ jobs:
         with:
           node-version: '${{ steps.nvm.outputs.nvmrc }}'
       - name: npm install, build, and test
+        env:
+          NODE_ENV: production
+          UI_HOST: https://tsumego.app
+          API_HOST: https://api.tsumego.app
+          COGNITO_CLIENT_ID: 2e414rlf9sabi7u06cb3lhl3ec
+          COGNITO_WEB_URI: https://tsumego.auth.eu-west-2.amazoncognito.com
         run: |
           yarn install --frozen-lockfile
           yarn build
@@ -69,4 +75,4 @@ jobs:
           name: ui-artifacts
           path: ui-artifacts
       - name: Deploy UI
-        run: gsutil rsync -d -a public-read -r ui-artifacts gs://tsumego-ui
+        run: gsutil rsync -d -r ui-artifacts gs://tsumego-ui
