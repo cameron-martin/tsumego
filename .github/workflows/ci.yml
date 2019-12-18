@@ -41,6 +41,11 @@ jobs:
         run: |
           docker build -t $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG -f packages/api/Dockerfile .
           docker push $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG
+      - name: Upload UI artifacts
+        uses: actions/upload-artifact@v1
+        with:
+          name: ui-artifacts
+          path: path/to/artifact
   deploy:
     if: github.ref == 'refs/heads/master'
     needs: build-and-publish
@@ -54,9 +59,14 @@ jobs:
       - name: Update gcloud
         run: gcloud components update
       - run: gcloud info
-      - name: Login to GCR
-        run: gcloud auth configure-docker
       - name: Deploy image to Cloud Run
         env:
           IMAGE_TAG: ${{ github.sha }}
         run: gcloud run deploy tsumego-api --image $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG --platform managed --region europe-west1 --project $GCLOUD_PROJECT_ID
+      - name: Download UI artifacts
+        uses: actions/download-artifact@v1
+        with:
+          name: ui-artifacts
+          path: ui-artifacts
+      - name: Deploy UI
+        run: gsutil rsync -d ui-artifacts gs://tsumego-ui
