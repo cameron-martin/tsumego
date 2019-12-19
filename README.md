@@ -15,7 +15,9 @@ COGNITO_CLIENT_ID=
 COGNITO_WEB_URI=
 COGNITO_REGION=
 COGNITO_USER_POOL_ID=
-DB_CONNECTION_STRING=postgresql://postgres@localhost:5432/postgres
+DB_HOST=localhost
+DB_USER=postgres
+DB_NAME=postgres
 ```
 
 Run & migrate the database using:

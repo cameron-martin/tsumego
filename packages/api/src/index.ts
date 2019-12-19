@@ -8,6 +8,7 @@ import Router from 'express-promise-router';
 import PuzzleRepository from './puzzle/PuzzleRepository';
 import { loadSgf } from './puzzle/sgf-loader';
 import { Puzzle } from './puzzle/Puzzle';
+import { Pool } from 'pg';
 
 class NotAuthorized extends Error {}
 
@@ -27,8 +28,15 @@ const errorHandler: ErrorRequestHandler = function(err, req, res, next) {
   }
 };
 
-const puzzleRepository = PuzzleRepository.fromConnectionString(
-  process.env.DB_CONNECTION_STRING!,
+const pool = new Pool({
+  host: process.env.DB_HOST,
+  password: process.env.DB_PASSWORD,
+  user: process.env.DB_USER,
+  database: process.env.DB_NAME
+});
+
+const puzzleRepository = new PuzzleRepository(
+  pool
 );
 
 const cognitoIdpUri = `https://cognito-idp.${process.env.COGNITO_REGION}.amazonaws.com/${process.env.COGNITO_USER_POOL_ID}`;

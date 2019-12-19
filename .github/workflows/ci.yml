@@ -28,7 +28,7 @@ jobs:
           UI_HOST: https://tsumego.app
           API_HOST: https://api.tsumego.app
           COGNITO_CLIENT_ID: 2e414rlf9sabi7u06cb3lhl3ec
-          COGNITO_WEB_URI: https://tsumego.auth.eu-west-2.amazoncognito.com
+          COGNITO_WEB_URI: https://auth.tsumego.app
           CI: true
         run: yarn build
       - name: Test

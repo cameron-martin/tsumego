@@ -3,14 +3,6 @@ import { Puzzle } from './Puzzle';
 import { WithId, withId } from '../WithId';
 
 export default class PuzzleRepository {
-  static fromConnectionString(connectionString: string) {
-    return new PuzzleRepository(
-      new Pool({
-        connectionString,
-      }),
-    );
-  }
-
   constructor(private readonly pool: Pool) {}
 
   async create(puzzle: Puzzle): Promise<number> {
