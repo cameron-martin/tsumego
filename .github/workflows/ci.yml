@@ -82,7 +82,7 @@ jobs:
       - name: Run cloud SQL proxy
         run: ./cloud_sql_proxy -instances=tsumego-1575212161857:europe-west1:tsumego-db=tcp:5432 &
       - name: Run migrations
-        run: docker run --rm -v $PWD/db-migrations:/flyway/sql flyway/flyway:6.1.0 -url=jdbc:postgresql://localhost:5432/tsumego -user=${{ secrets.DB_USER }} -password=${{ secrets.DB_PASSWORD }} -connectRetries=60 migrate
+        run: docker run --rm -v $PWD/db-migrations:/flyway/sql flyway/flyway:6.1.0 -url=jdbc:postgresql://127.0.0.1:5432/tsumego -user=${{ secrets.DB_USER }} -password=${{ secrets.DB_PASSWORD }} -connectRetries=60 migrate
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
