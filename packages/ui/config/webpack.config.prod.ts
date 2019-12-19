@@ -9,6 +9,7 @@ module.exports = merge(
     output: {
       chunkFilename: '[name].[chunkhash].js',
       filename: '[name].[chunkhash].js',
+      publicPath: '/',
     },
     plugins: [
       new webpack.EnvironmentPlugin([
