@@ -32,12 +32,10 @@ const pool = new Pool({
   host: process.env.DB_HOST,
   password: process.env.DB_PASSWORD,
   user: process.env.DB_USER,
-  database: process.env.DB_NAME
+  database: process.env.DB_NAME,
 });
 
-const puzzleRepository = new PuzzleRepository(
-  pool
-);
+const puzzleRepository = new PuzzleRepository(pool);
 
 const cognitoIdpUri = `https://cognito-idp.${process.env.COGNITO_REGION}.amazonaws.com/${process.env.COGNITO_USER_POOL_ID}`;
 
