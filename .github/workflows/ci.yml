@@ -55,7 +55,7 @@ jobs:
       - name: Upload migrations
         uses: actions/upload-artifact@v1
         with:
-          name: db-mmigrations
+          name: db-migrations
           path: packages/db/migrations
   deploy:
     if: github.ref == 'refs/heads/master'
@@ -74,7 +74,7 @@ jobs:
         run: |
           wget https://dl.google.com/cloudsql/cloud_sql_proxy.linux.amd64 -O cloud_sql_proxy
           chmod +x cloud_sql_proxy
-      - name: Download UI artifacts
+      - name: Downloads DB Migrations
         uses: actions/download-artifact@v1
         with:
           name: db-migrations
