@@ -52,6 +52,11 @@ jobs:
         with:
           name: ui-artifacts
           path: packages/ui/dist
+      - name: Upload migrations
+        uses: actions/upload-artifact@v1
+        with:
+          name: db-mmigrations
+          path: packages/db/migrations
   deploy:
     if: github.ref == 'refs/heads/master'
     needs: build-and-publish
@@ -65,6 +70,19 @@ jobs:
       - name: Update gcloud
         run: gcloud components update
       - run: gcloud info
+      - name: Install cloud sql proxy
+        run: |
+          wget https://dl.google.com/cloudsql/cloud_sql_proxy.linux.amd64 -O cloud_sql_proxy
+          chmod +x cloud_sql_proxy
+      - name: Download UI artifacts
+        uses: actions/download-artifact@v1
+        with:
+          name: db-migrations
+          path: db-migrations
+      - name: Run cloud SQL proxy
+        run: ./cloud_sql_proxy -instances=tsumego-1575212161857:europe-west1:tsumego-db=tcp:5432 &
+      - name: Run migrations
+        run: docker run --rm -v $PWD/db-migrations:/flyway/sql flyway/flyway:6.1.0 -url=jdbc:postgresql://localhost:5432/tsumego -user=${{ secrets.DB_USER }} -password=${{ secrets.DB_PASSWORD }} -connectRetries=60 migrate
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
