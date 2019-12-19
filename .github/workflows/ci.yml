@@ -65,6 +65,12 @@ jobs:
       - name: Update gcloud
         run: gcloud components update
       - run: gcloud info
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: eu-west-2
       - name: Deploy image to Cloud Run
         env:
           IMAGE_TAG: ${{ github.sha }}
@@ -75,4 +81,4 @@ jobs:
           name: ui-artifacts
           path: ui-artifacts
       - name: Deploy UI
-        run: gsutil rsync -d -r ui-artifacts gs://tsumego-ui
+        run: aws s3 sync ui-artifacts s3://tsumego-app
