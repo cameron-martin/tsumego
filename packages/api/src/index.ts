@@ -9,6 +9,8 @@ import PuzzleRepository from './puzzle/PuzzleRepository';
 import { loadSgf } from './puzzle/sgf-loader';
 import { Puzzle } from './puzzle/Puzzle';
 import { Pool } from 'pg';
+import { GameResultRepository } from './game-results/GameResultRepository';
+import { getToken } from './Token';
 
 class NotAuthorized extends Error {}
 
@@ -36,6 +38,7 @@ const pool = new Pool({
 });
 
 const puzzleRepository = new PuzzleRepository(pool);
+const gameResultRespository = new GameResultRepository(pool);
 
 const cognitoIdpUri = `https://cognito-idp.${process.env.COGNITO_REGION}.amazonaws.com/${process.env.COGNITO_USER_POOL_ID}`;
 
@@ -82,6 +85,8 @@ router.get('/puzzle/random', async (req, res) => {
 });
 
 router.post('/puzzle/:puzzleId/solution', async (req, res) => {
+  const token = getToken(req);
+
   const puzzle = await puzzleRepository.get(
     Number.parseInt(req.params.puzzleId),
   );
@@ -93,11 +98,22 @@ router.post('/puzzle/:puzzleId/solution', async (req, res) => {
 
   const response = puzzle.entity.playSequence(req.body);
 
+  if (response.type !== 'continue') {
+    await gameResultRespository.create({
+      result: response.type,
+      puzzleId: puzzle.id,
+      userId: token.sub,
+      playedAt: new Date(),
+    });
+  }
+
   res.json(response);
 });
 
 router.post('/puzzle', async (req, res) => {
-  if (!req.user?.['cognito:groups']?.includes('admin')) {
+  const token = getToken(req);
+
+  if (!token['cognito:groups']?.includes('admin')) {
     throw new NotAuthorized();
   }
 

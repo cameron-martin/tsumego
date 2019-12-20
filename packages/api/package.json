@@ -22,7 +22,8 @@
     "jwks-rsa": "^1.6.0",
     "lodash": "^4.17.15",
     "parsimmon": "^1.13.0",
-    "pg": "^7.14.0"
+    "pg": "^7.14.0",
+    "runtypes": "^4.0.3"
   },
   "devDependencies": {
     "cross-env": "^6.0.3",
