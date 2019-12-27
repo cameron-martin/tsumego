@@ -10,6 +10,7 @@ import {
 } from '@material-ui/core';
 
 interface Props {
+  className?: string;
   config: AppConfig;
 }
 
@@ -19,7 +20,7 @@ const useStyles = makeStyles({
   },
 });
 
-export default function Header({ config }: Props) {
+export default function Header({ config, className }: Props) {
   const isLoggedIn = useAuth();
   const classes = useStyles();
 
@@ -27,7 +28,7 @@ export default function Header({ config }: Props) {
   const logoutUrl = `${config.cognitoWebUri}/logout?client_id=${config.cognitoClientId}&logout_uri=${config.uiHost}/auth/callback/logout`;
 
   return (
-    <AppBar position="static">
+    <AppBar position="static" className={className}>
       <Toolbar>
         <Typography variant="h6" className={classes.title}>
           Tsumego.app

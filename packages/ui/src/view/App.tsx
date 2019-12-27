@@ -1,6 +1,6 @@
 import React, { Suspense } from 'react';
 import { Router } from '@reach/router';
-import { CssBaseline } from '@material-ui/core';
+import { CssBaseline, makeStyles } from '@material-ui/core';
 import { ApiClient } from '@tsumego/api-client';
 import { OAuth2AuthorisationCodeFlowTokenManager } from '@tsumego/api-client-authentication';
 import { AppConfig } from '../config';
@@ -14,13 +14,31 @@ interface Props {
   tokenManager: OAuth2AuthorisationCodeFlowTokenManager;
 }
 
+const useStyles = makeStyles({
+  root: {
+    minHeight: '100vh',
+    display: 'flex',
+    flexDirection: 'column',
+  },
+  header: {
+    flex: '0 0 auto',
+  },
+  body: {
+    flex: '1 0 auto',
+    display: 'flex',
+    flexDirection: 'column',
+  },
+});
+
 export default function App({ apiClient, config, tokenManager }: Props) {
+  const classes = useStyles();
+
   return (
-    <div>
+    <div className={classes.root}>
       <CssBaseline />
-      <Header config={config} />
+      <Header config={config} className={classes.header} />
       <Suspense fallback={<Loading />}>
-        <Router>
+        <Router className={classes.body}>
           <RouterPage
             path="auth/callback/login"
             page={() => import('./auth/LoginCallback')}
@@ -41,6 +59,7 @@ export default function App({ apiClient, config, tokenManager }: Props) {
             page={() => import('./Homepage')}
             props={{ apiClient }}
           />
+          <RouterPage default page={() => import('./NotFound')} />
         </Router>
       </Suspense>
     </div>
