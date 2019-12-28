@@ -1,13 +1,8 @@
 import React from 'react';
+import { Toolbar, AppBar, Button, makeStyles, Link } from '@material-ui/core';
+import { Link as RouterLink } from '@reach/router';
 import { AppConfig } from '../config';
 import { useAuth } from './auth/AuthProvider';
-import {
-  Toolbar,
-  AppBar,
-  Button,
-  makeStyles,
-  Typography,
-} from '@material-ui/core';
 
 interface Props {
   className?: string;
@@ -30,9 +25,11 @@ export default function Header({ config, className }: Props) {
   return (
     <AppBar position="static" className={className}>
       <Toolbar>
-        <Typography variant="h6" className={classes.title}>
-          Tsumego.app
-        </Typography>
+        <div className={classes.title}>
+          <Link component={RouterLink} color="inherit" variant="h6" to="/">
+            Tsumego.app
+          </Link>
+        </div>
         {isLoggedIn ? (
           <Button href={logoutUrl} color="inherit">
             Logout
