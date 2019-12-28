@@ -49,6 +49,6 @@
     "webpack-dev-server": "^3.9.0",
     "webpack-merge": "^4.2.2",
     "whatwg-fetch": "^3.0.0",
-    "wsrun": "^5.1.0"
+    "wsrun": "^5.2.0"
   }
 }
