@@ -177,3 +177,20 @@ test('it advances current player', () => {
 });
 
 test.todo('constructing with initial stones');
+
+describe('last placed stone', () => {
+  test('is initially null', () => {
+    const game = GoGame.create(9);
+
+    expect(game.lastPlacedStone).toBe(null);
+  });
+
+  test('is updated when a move is played', () => {
+    const game = GoGame.create(9).playValidMove({
+      player: 'black',
+      position: [1, 1],
+    });
+
+    expect(game.lastPlacedStone).toEqual([1, 1]);
+  });
+});

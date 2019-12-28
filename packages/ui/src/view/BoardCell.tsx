@@ -16,11 +16,19 @@ interface Props {
   bottom: boolean;
   left: boolean;
   right: boolean;
+  lastPlaced: boolean;
 }
 
 const getStone = (props: Props) => {
   if (props.state !== 'empty') {
-    return <div className={style(classes.stone, { colour: props.state })} />;
+    return (
+      <div
+        className={style(classes.stone, {
+          colour: props.state,
+          lastPlaced: props.lastPlaced,
+        })}
+      />
+    );
   }
 
   if (props.currentPlayer != null) {

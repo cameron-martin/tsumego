@@ -54,6 +54,12 @@ export default function Board({ className, game, playMove, crop }: Props) {
                   bottom={j === game.boardSize - 1}
                   left={i === 0}
                   right={i === game.boardSize - 1}
+                  lastPlaced={
+                    game.lastPlacedStone
+                      ? game.lastPlacedStone[0] === i &&
+                        game.lastPlacedStone[1] === j
+                      : false
+                  }
                 />
               ))}
             </div>

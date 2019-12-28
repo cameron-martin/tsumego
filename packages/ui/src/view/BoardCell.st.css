@@ -43,7 +43,7 @@
 }
 
 .stone {
-  -st-states: colour(enum(black, white)), isShadow;
+  -st-states: colour(enum(black, white)), isShadow, lastPlaced;
 
   border-radius: 100%;
   position: absolute;
@@ -52,6 +52,31 @@
   bottom: 5%;
   left: 5%;
   z-index: 1;
+}
+
+.stone:lastPlaced::before, .stone:lastPlaced::after {
+  content: " ";
+  position: absolute;
+  background-color: white;
+  border-radius: 100%;
+}
+
+.stone:lastPlaced::before {
+  top: 30%;
+  left: 30%;
+  bottom: 30%;
+  right: 30%;
+}
+
+.stone:lastPlaced::after {
+  top: 35%;
+  left: 35%;
+  bottom: 35%;
+  right: 35%;
+}
+
+.stone:lastPlaced:colour(white)::before, .stone:lastPlaced:colour(black)::after {
+  background-color: black;
 }
 
 .root:not(:hover) > .stone:isShadow {

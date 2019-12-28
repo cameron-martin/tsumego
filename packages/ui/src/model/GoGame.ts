@@ -50,10 +50,17 @@ export class GoGame {
       }
     }
 
-    return new GoGame(boardSize, false, null, groupCollection, {
-      white: 0,
-      black: 0,
-    });
+    return new GoGame(
+      boardSize,
+      false,
+      null,
+      groupCollection,
+      {
+        white: 0,
+        black: 0,
+      },
+      null,
+    );
   }
 
   private constructor(
@@ -62,6 +69,7 @@ export class GoGame {
     private readonly lastMove: GoMove | null,
     private readonly groupCollection: GroupCollection,
     public readonly capturedStones: { readonly [K in GoPlayer]: number },
+    public readonly lastPlacedStone: BoardPosition | null,
   ) {}
 
   playValidMoves(moves: GoMove[]) {
@@ -108,7 +116,14 @@ export class GoGame {
     }
 
     return either.right(
-      new GoGame(this.boardSize, ended, move, groupCollection, capturedStones),
+      new GoGame(
+        this.boardSize,
+        ended,
+        move,
+        groupCollection,
+        capturedStones,
+        move.position != 'pass' ? move.position : this.lastPlacedStone,
+      ),
     );
   }
 
