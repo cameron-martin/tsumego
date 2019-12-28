@@ -13,7 +13,7 @@
     "@tsumego/api-client": "*",
     "@tsumego/api-client-authentication": "*",
     "@types/reach__router": "^1.2.6",
-    "@types/react": "^16.9.13",
+    "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
     "fp-ts": "^2.2.0",
     "immutable": "^4.0.0-rc.12",
