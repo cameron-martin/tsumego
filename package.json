@@ -18,7 +18,7 @@
     "@babel/core": "^7.6.4",
     "@babel/plugin-proposal-class-properties": "^7.7.4",
     "@babel/preset-env": "^7.7.7",
-    "@babel/preset-react": "^7.6.3",
+    "@babel/preset-react": "^7.7.4",
     "@babel/preset-typescript": "^7.7.7",
     "@stylable/core": "^2.5.3",
     "@stylable/webpack-plugin": "^2.3.1",
