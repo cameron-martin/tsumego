@@ -1,22 +1,20 @@
 import { Pool, QueryConfig } from 'pg';
 import { Puzzle } from './Puzzle';
 import { WithId, withId } from '../WithId';
+import { withClient } from '../common/data-access';
 
 export default class PuzzleRepository {
   constructor(private readonly pool: Pool) {}
 
-  async create(puzzle: Puzzle): Promise<number> {
-    const client = await this.pool.connect();
-    try {
+  create(puzzle: Puzzle): Promise<number> {
+    return withClient(this.pool, async client => {
       const res = await client.query(
         'INSERT INTO puzzles(puzzle) VALUES ($1) RETURNING id',
         [JSON.stringify(puzzle.spec)],
       );
 
       return res.rows[0].id;
-    } finally {
-      client.release();
-    }
+    });
   }
 
   get(id: number): Promise<WithId<Puzzle> | null> {
@@ -32,10 +30,8 @@ export default class PuzzleRepository {
     });
   }
 
-  private async queryOne(config: QueryConfig): Promise<WithId<Puzzle> | null> {
-    const client = await this.pool.connect();
-
-    try {
+  private queryOne(config: QueryConfig): Promise<WithId<Puzzle> | null> {
+    return withClient(this.pool, async client => {
       const res = await client.query(config);
 
       if (res.rows.length === 0) {
@@ -45,8 +41,6 @@ export default class PuzzleRepository {
       const row = res.rows[0];
 
       return withId(row.id, Puzzle.create(row.puzzle));
-    } finally {
-      client.release();
-    }
+    });
   }
 }

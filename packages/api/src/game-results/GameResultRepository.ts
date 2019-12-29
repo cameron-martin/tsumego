@@ -1,16 +1,15 @@
 import { GameResult } from './GameResult';
 import { Pool } from 'pg';
+import { withClient } from '../common/data-access';
 
 export class GameResultRepository {
   constructor(private readonly pool: Pool) {}
 
   async create(gameResult: GameResult): Promise<void> {
-    const client = await this.pool.connect();
+    const userWon = gameResult.result === 'correct';
 
-    try {
-      const userWon = gameResult.result === 'correct';
-
-      await client.query({
+    await withClient(this.pool, client =>
+      client.query({
         text: `INSERT INTO game_results (puzzle_id, user_id, user_won, played_at) VALUES ($1, $2, $3, $4)`,
         values: [
           gameResult.puzzleId,
@@ -18,9 +17,7 @@ export class GameResultRepository {
           userWon,
           gameResult.playedAt,
         ],
-      });
-    } finally {
-      client.release();
-    }
+      }),
+    );
   }
 }
