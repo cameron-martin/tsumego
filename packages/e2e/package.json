@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "name": "@tsumego/e2e",
+  "devDependencies": {
+    "cypress": "^3.8.1"
+  }
+}

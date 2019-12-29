@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig_base.json",
+  "compilerOptions": {
+    "module": "ES2015",
+    "types": ["cypress"]
+  },
+  "include": ["**/*.ts"]
+}
