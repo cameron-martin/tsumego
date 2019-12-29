@@ -18,6 +18,7 @@ module.exports = merge(
         'API_HOST',
         'COGNITO_CLIENT_ID',
         'COGNITO_WEB_URI',
+        'SENTRY_ENVIRONMENT',
       ]),
     ],
   },

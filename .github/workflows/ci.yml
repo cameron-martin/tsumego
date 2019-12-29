@@ -29,6 +29,7 @@ jobs:
           API_HOST: https://api.tsumego.app
           COGNITO_CLIENT_ID: 2e414rlf9sabi7u06cb3lhl3ec
           COGNITO_WEB_URI: https://auth.tsumego.app
+          SENTRY_ENVIRONMENT: production
           CI: true
         run: yarn build
       - name: Test
