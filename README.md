@@ -4,6 +4,8 @@
 
 A web app for solving tsumego puzzles. Automatically gives you puzzles of the optimal difficulty.
 
+[Open app](https://tsumego.app)
+
 ## Development
 
 Create a file called `.env` in the root directory, filling in the missing values appropriately:
