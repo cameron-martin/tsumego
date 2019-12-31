@@ -11,7 +11,8 @@
     "build": "npm-run-all build:tsc build:other",
     "build:tsc": "tsc --build tsconfig.json",
     "build:other": "wsrun --exclude-missing --stages build",
-    "build:tsc:watch": "tsc --build tsconfig.json --watch"
+    "build:tsc:watch": "tsc --build tsconfig.json --watch",
+    "task:rate": "yarn workspace @tsumego/api run task:rate"
   },
   "dependencies": {},
   "devDependencies": {

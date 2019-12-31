@@ -24,6 +24,14 @@ export class Rating {
   public readonly mean: number;
   public readonly deviation: number;
 
+  static default(ratedAt: Date) {
+    return new Rating({
+      deviation: MAX_DEVIATION,
+      mean: 1500,
+      ratedAt,
+    });
+  }
+
   constructor(spec: RatingSpec) {
     this.ratedAt = spec.ratedAt;
     this.mean = spec.mean;
@@ -43,6 +51,10 @@ export class Rating {
       mean: this.mean,
       ratedAt: to,
     });
+  }
+
+  get currentRating() {
+    return this.decay(new Date());
   }
 
   applyGames(games: { won: boolean; opponentRating: Rating }[]): Rating {

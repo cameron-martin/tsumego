@@ -82,7 +82,7 @@ jobs:
           path: db-migrations
       - name: Run migrations
         run: |
-          ./cloud_sql_proxy -instances=tsumego-1575212161857:europe-west1:tsumego-db=tcp:5432 &
+          ./cloud_sql_proxy -instances=$GCLOUD_PROJECT_ID:europe-west1:tsumego-db=tcp:5432 &
           docker run --rm --network host -v $PWD/db-migrations:/flyway/sql flyway/flyway:6.1.0 -url=jdbc:postgresql://127.0.0.1:5432/tsumego -user=${{ secrets.DB_USER }} -password=${{ secrets.DB_PASSWORD }} -connectRetries=60 migrate
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
@@ -94,6 +94,8 @@ jobs:
         env:
           IMAGE_TAG: ${{ github.sha }}
         run: gcloud run deploy tsumego-api --image $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG --platform managed --region europe-west1 --project $GCLOUD_PROJECT_ID
+      - name: Tag deployed image
+        run: gcloud container images add-tag $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG $GCR_DOMAIN/$GCR_IMAGE_API:deployed
       - name: Download UI artifacts
         uses: actions/download-artifact@v1
         with:

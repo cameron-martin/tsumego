@@ -1,5 +1,6 @@
 import { Pool } from 'pg';
 import { GameResult } from './GameResult';
+import { WithId } from '../WithId';
 
 export class GameResultRepository {
   constructor(private readonly pool: Pool) {}
@@ -16,5 +17,28 @@ export class GameResultRepository {
         gameResult.playedAt,
       ],
     });
+  }
+
+  /**
+   * Gets game results that were played after a certain date, in date ascending order.
+   *
+   * TODO: Make this stream results
+   */
+  async getPlayedAfter(date: Date): Promise<Array<WithId<GameResult>>> {
+    const result = await this.pool.query({
+      text:
+        'SELECT id, puzzle_id, user_id, user_won, played_at FROM game_results WHERE played_at > $1 ORDER BY played_at ASC',
+      values: [date],
+    });
+
+    return result.rows.map(row => ({
+      id: row.id,
+      entity: {
+        puzzleId: row.puzzle_id,
+        userId: row.user_id,
+        result: row.user_won ? 'correct' : 'wrong',
+        playedAt: row.played_at,
+      },
+    }));
   }
 }
