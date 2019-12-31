@@ -22,7 +22,7 @@ export default function Ratings({ apiClient }: Props) {
     apiClient.userRatings.getAll().then(ratings => {
       setRatings(ratings);
     });
-  }, []);
+  }, [apiClient.userRatings]);
 
   return (
     <Container>
