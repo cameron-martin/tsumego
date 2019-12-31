@@ -15,7 +15,7 @@ process.on('unhandledRejection', err => {
     password: process.env.DB_PASSWORD,
     user: process.env.DB_USER,
     database: process.env.DB_NAME,
-    idleTimeoutMillis: 300,
+    idleTimeoutMillis: 2000,
   });
 
   const ratingRepository = new RatingRepository(pool);
