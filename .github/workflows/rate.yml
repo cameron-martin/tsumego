@@ -2,11 +2,12 @@ name: Rate
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/15 * * * *'
 
 env:
   GCR_DOMAIN: eu.gcr.io
   GCR_IMAGE_API: tsumego-1575212161857/api
+  GCLOUD_PROJECT_ID: tsumego-1575212161857
 
 jobs:
   rate:
