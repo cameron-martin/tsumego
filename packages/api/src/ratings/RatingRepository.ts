@@ -1,6 +1,7 @@
 import { Rating } from './Rating';
 import { Pool, QueryConfig } from 'pg';
 import { WithId } from '../WithId';
+import { UserRating } from './UserRating';
 
 export class RatingRepository {
   constructor(private readonly pool: Pool) {}
@@ -17,6 +18,26 @@ export class RatingRepository {
         'SELECT id, mean, deviation, rated_at FROM user_ratings WHERE user_id = $1 ORDER BY rated_at DESC LIMIT 1',
       values: [userId],
     });
+  }
+
+  async getLatestForAllUsers(): Promise<Array<WithId<UserRating>>> {
+    const result = await this.pool.query({
+      text:
+        'SELECT DISTINCT ON (user_id) id, mean, deviation, rated_at, user_id FROM user_ratings ORDER BY user_id, rated_at DESC',
+      values: [],
+    });
+
+    return result.rows.map(row => ({
+      id: row.id,
+      entity: {
+        userId: row.user_id,
+        rating: new Rating({
+          deviation: row.deviation,
+          mean: row.mean,
+          ratedAt: row.rated_at,
+        }),
+      },
+    }));
   }
 
   getLatestForPuzzle(puzzleId: number): Promise<WithId<Rating> | null> {

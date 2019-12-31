@@ -11,6 +11,7 @@ import { Puzzle } from './puzzle/Puzzle';
 import { Pool } from 'pg';
 import { GameResultRepository } from './game-results/GameResultRepository';
 import { getToken } from './Token';
+import { RatingRepository } from './ratings/RatingRepository';
 
 class NotAuthorized extends Error {}
 
@@ -20,7 +21,7 @@ process.on('unhandledRejection', err => {
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const errorHandler: ErrorRequestHandler = function(err, req, res, next) {
-  // TODO: Hide stack in development
+  // TODO: Hide stack in production
   if (err instanceof jwt.UnauthorizedError) {
     res.status(401).json({ message: err.message, stack: err.stack });
   } else if (err instanceof NotAuthorized) {
@@ -39,6 +40,7 @@ const pool = new Pool({
 
 const puzzleRepository = new PuzzleRepository(pool);
 const gameResultRespository = new GameResultRepository(pool);
+const ratingRepository = new RatingRepository(pool);
 
 const cognitoIdpUri = `https://cognito-idp.${process.env.COGNITO_REGION}.amazonaws.com/${process.env.COGNITO_USER_POOL_ID}`;
 
@@ -120,6 +122,29 @@ router.post('/puzzle', async (req, res) => {
   await puzzleRepository.create(Puzzle.create(loadSgf(req.body.file)));
 
   res.status(201).end();
+});
+
+router.get('/user-ratings', async (req, res) => {
+  const token = getToken(req);
+
+  if (!token['cognito:groups']?.includes('admin')) {
+    throw new NotAuthorized();
+  }
+
+  const ratings = await ratingRepository.getLatestForAllUsers();
+
+  res.json(
+    ratings.map(rating => {
+      const currentRating = rating.entity.rating.currentRating;
+
+      return {
+        id: rating.id,
+        userId: rating.entity.userId,
+        mean: currentRating.mean,
+        deviation: currentRating.deviation,
+      };
+    }),
+  );
 });
 
 router.get('/status', async (req, res) => {

@@ -49,9 +49,15 @@ export default function App({ apiClient, config, tokenManager }: Props) {
             page={() => import('./auth/LogoutCallback')}
             props={{ tokenManager }}
           />
+          <RouterPage path="admin" page={() => import('./admin/Home')} />
           <RouterPage
-            path="admin"
-            page={() => import('./admin/Home')}
+            path="admin/upload"
+            page={() => import('./admin/Upload')}
+            props={{ apiClient }}
+          />
+          <RouterPage
+            path="admin/ratings"
+            page={() => import('./admin/Ratings')}
             props={{ apiClient }}
           />
           <RouterPage
