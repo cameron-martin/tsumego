@@ -12,7 +12,7 @@ export const MAX_DEVIATION = 350;
 /**
  * The number of seconds to decay from min to max deviation
  */
-export const FULL_DECAY_SECONDS = 6.307e7; // 2 years
+export const FULL_DECAY_SECONDS = 3.154e8; // 10 years
 
 const DECAY_FACTOR =
   (MAX_DEVIATION ** 2 - MIN_DEVIATION ** 2) / FULL_DECAY_SECONDS;
