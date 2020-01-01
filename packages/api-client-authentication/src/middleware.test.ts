@@ -159,3 +159,38 @@ test('if incorrect access token is given but token cannot refresh then it throws
 
   expect(handler).toHaveBeenCalledTimes(1);
 });
+
+test('retrying request with body succeeds', async () => {
+  const okResponse = new Response('', {
+    status: 200,
+  });
+
+  const unauthorisedResponse = new Response('', {
+    status: 401,
+  });
+
+  const tokenManager: TokenManager = {
+    removeTokens: () => Promise.resolve(),
+    getToken: () => Promise.resolve('foo'),
+    refreshToken: () => undefined,
+  };
+
+  const handler = createMockHandler(async request => {
+    await request.blob();
+    return okResponse;
+  });
+
+  handler.mockImplementationOnce(async request => {
+    await request.blob();
+    return unauthorisedResponse;
+  });
+
+  const request = new Request('http://example.com', {
+    method: 'POST',
+    body: 'someBody',
+  });
+
+  const middleware = createBearerTokenMiddleware(tokenManager);
+
+  expect(await middleware(handler)(request)).toEqual(expect.anything());
+});

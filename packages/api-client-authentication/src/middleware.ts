@@ -12,7 +12,7 @@ export const createBearerTokenMiddleware = (
     request.headers.set('Authorization', `Bearer ${accessToken}`);
   }
 
-  const response = await next(request);
+  const response = await next(request.clone());
 
   if (response.status !== 401) {
     return response;
