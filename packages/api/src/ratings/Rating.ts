@@ -89,6 +89,20 @@ export class Rating {
       ratedAt: this.ratedAt,
     });
   }
+
+  sample() {
+    const iterations = 12;
+    let sample = 0;
+
+    for (let i = 0; i < iterations; i++) {
+      sample += Math.random();
+    }
+
+    sample -= iterations / 2;
+    sample = sample * this.deviation + this.mean;
+
+    return sample;
+  }
 }
 
 function g(deviation: number) {

@@ -12,6 +12,7 @@ import { Pool } from 'pg';
 import { GameResultRepository } from './game-results/GameResultRepository';
 import { getToken } from './Token';
 import { RatingRepository } from './ratings/RatingRepository';
+import { Rating } from './ratings/Rating';
 
 class NotAuthorized extends Error {}
 
@@ -72,7 +73,13 @@ app.use(
 app.use(bodyParser.json());
 
 router.get('/puzzle/random', async (req, res) => {
-  const puzzle = await puzzleRepository.getRandom();
+  const token = getToken(req);
+
+  const usersRating =
+    (await ratingRepository.getLatestForUser(token.sub))?.entity
+      .currentRating ?? Rating.default(new Date());
+
+  const puzzle = await puzzleRepository.getRandom(usersRating);
 
   if (!puzzle) {
     res.status(404).end();
