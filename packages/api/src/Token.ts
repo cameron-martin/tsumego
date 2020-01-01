@@ -2,7 +2,7 @@ import { Record, String, Array, Static, Undefined, Union } from 'runtypes';
 
 export const Token = Record({
   sub: String,
-  'cognito:groups': Array(String),
+  'cognito:groups': Union(Array(String), Undefined),
 });
 
 export type Token = Static<typeof Token>;
