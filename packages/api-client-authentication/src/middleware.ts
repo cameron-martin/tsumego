@@ -1,7 +1,11 @@
 import { Middleware } from '@tsumego/api-client';
 import { TokenManager } from './TokenManger';
 
-export class NotAuthenticated extends Error {}
+export class NotAuthenticated extends Error {
+  constructor() {
+    super('User not authenticated');
+  }
+}
 
 export const createBearerTokenMiddleware = (
   tokenManager: TokenManager,
