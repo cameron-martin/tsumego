@@ -2,7 +2,7 @@ name: Rate
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/30 * * * *'
 
 env:
   GCR_DOMAIN: eu.gcr.io
