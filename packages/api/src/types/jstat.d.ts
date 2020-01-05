@@ -1,17 +1,17 @@
 declare module 'jstat' {
-  interface jStat {
-    beta: jStatBeta;
+  interface JStat {
+    beta: JStatBeta;
   }
 
-  interface jStatBeta {
+  interface JStatBeta {
     sample(alpha: number, beta: number): number;
   }
 
-  interface jStatExport {
-    jStat: jStat;
+  interface JStatExport {
+    jStat: JStat;
   }
 
-  const jStatExport: jStatExport;
+  const JStatExport: JStatExport;
 
-  export = jStatExport;
+  export = JStatExport;
 }
