@@ -13,6 +13,7 @@ import { GameResultRepository } from './game-results/GameResultRepository';
 import { getToken } from './Token';
 import { RatingRepository } from './ratings/RatingRepository';
 import { Rating } from './ratings/Rating';
+import { sampleWinProbability } from './ratings/win-probability';
 
 class NotAuthorized extends Error {}
 
@@ -79,7 +80,11 @@ router.get('/puzzle/random', async (req, res) => {
     (await ratingRepository.getLatestForUser(token.sub))?.entity
       .currentRating ?? Rating.default(new Date());
 
-  const puzzle = await puzzleRepository.getRandom(usersRating);
+  const puzzle = await puzzleRepository.getRandom(
+    token.sub,
+    usersRating,
+    sampleWinProbability(),
+  );
 
   if (!puzzle) {
     res.status(404).end();
