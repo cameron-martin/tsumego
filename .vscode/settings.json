@@ -9,5 +9,11 @@
   "typescript.tsdk": "node_modules/typescript/lib",
   "files.associations": {
     "tsconfig_base.json": "jsonc"
-  }
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
 }
