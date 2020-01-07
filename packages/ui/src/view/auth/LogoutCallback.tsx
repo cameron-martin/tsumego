@@ -1,6 +1,7 @@
 import { OAuth2AuthorisationCodeFlowTokenManager } from '@tsumego/api-client-authentication';
-import { useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { navigate } from '@reach/router';
+import Loading from '../Loading';
 
 interface Props {
   tokenManager: OAuth2AuthorisationCodeFlowTokenManager;
@@ -13,5 +14,5 @@ export default function LogoutCallback({ tokenManager }: Props) {
     });
   });
 
-  return null;
+  return <Loading />;
 }
