@@ -12,7 +12,7 @@ export default function LogoutCallback({ tokenManager }: Props) {
     tokenManager.removeTokens().then(() => {
       navigate('/', { replace: true });
     });
-  });
+  }, [tokenManager]);
 
   return <Loading />;
 }

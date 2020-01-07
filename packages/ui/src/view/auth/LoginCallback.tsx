@@ -14,7 +14,7 @@ export default function LoginCallback({ tokenManager }: Props) {
     tokenManager.getToken().then(() => {
       navigate('/', { replace: true });
     });
-  }, []);
+  }, [tokenManager]);
 
   return <Loading />;
 }
