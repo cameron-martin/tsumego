@@ -32,14 +32,6 @@ export default class PuzzleRepository {
   ): Promise<WithId<Puzzle> | null> {
     const defaultRating = Rating.default(new Date(0));
 
-    console.log([
-      defaultRating.mean,
-      defaultRating.deviation,
-      rating.mean,
-      rating.deviation,
-      winProbability,
-    ]);
-
     return this.queryOne({
       text: `
         SELECT
