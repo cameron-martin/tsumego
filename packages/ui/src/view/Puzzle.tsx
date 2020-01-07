@@ -5,18 +5,17 @@ import { either } from 'fp-ts';
 import { ApiClient } from '@tsumego/api-client';
 import PuzzleInstructions from './PuzzleInstructions';
 import Loading from './Loading';
-import { Container } from '@material-ui/core';
+import { Button, makeStyles, Typography, Container } from '@material-ui/core';
 
 interface Props {
   apiClient: ApiClient;
 }
 
-type GameState =
+type Game =
+  | Readonly<{ loadState: 'pending' }>
+  | Readonly<{ loadState: 'rejected' }>
   | Readonly<{
-      loadState: 'loading';
-    }>
-  | Readonly<{
-      loadState: 'loaded';
+      loadState: 'fulfilled';
       moveState: 'computers-turn' | 'humans-turn' | 'correct' | 'wrong';
       sequence: readonly BoardPosition[];
       area: BoardCrop;
@@ -27,28 +26,52 @@ type GameState =
 const computerPlayer = 'white';
 const humanPlayer = 'black';
 
+const useStyles = makeStyles({
+  root: {
+    flex: '1 0 auto',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    flexDirection: 'column',
+  },
+});
+
 export default function Puzzle({ apiClient }: Props) {
-  const [gameState, setGameState] = useState<GameState>({
-    loadState: 'loading',
+  const classes = useStyles();
+
+  const [gameState, setGameState] = useState<Game>({
+    loadState: 'pending',
   });
 
   const loadPuzzle = useCallback(async () => {
-    const { id, initialStones, area } = await apiClient.puzzle.getRandom();
-
     setGameState({
-      loadState: 'loaded',
-      moveState: 'humans-turn',
-      id,
-      sequence: [],
-      game: GoGame.create(19, {
-        [computerPlayer]: initialStones.computer,
-        [humanPlayer]: initialStones.you,
-      }),
-      area: {
-        min: [area.min[0] - 2, area.min[1] - 2],
-        max: [area.max[0] + 2, area.max[1] + 2],
-      },
+      loadState: 'pending',
     });
+
+    try {
+      const { id, initialStones, area } = await apiClient.puzzle.getRandom();
+
+      setGameState({
+        loadState: 'fulfilled',
+        moveState: 'humans-turn',
+        id,
+        sequence: [],
+        game: GoGame.create(19, {
+          [computerPlayer]: initialStones.computer,
+          [humanPlayer]: initialStones.you,
+        }),
+        area: {
+          min: [area.min[0] - 2, area.min[1] - 2],
+          max: [area.max[0] + 2, area.max[1] + 2],
+        },
+      });
+    } catch (err) {
+      setGameState({
+        loadState: 'rejected',
+      });
+
+      throw err;
+    }
   }, [apiClient.puzzle]);
 
   useEffect(() => {
@@ -57,7 +80,7 @@ export default function Puzzle({ apiClient }: Props) {
 
   useEffect(() => {
     if (
-      gameState.loadState === 'loaded' &&
+      gameState.loadState === 'fulfilled' &&
       gameState.moveState === 'computers-turn'
     ) {
       apiClient.puzzle
@@ -82,7 +105,7 @@ export default function Puzzle({ apiClient }: Props) {
   const playMove = useCallback((position: BoardPosition) => {
     setGameState(gameState => {
       if (
-        gameState.loadState === 'loaded' &&
+        gameState.loadState === 'fulfilled' &&
         gameState.moveState === 'humans-turn'
       ) {
         const newGame = gameState.game.playMove({
@@ -107,13 +130,26 @@ export default function Puzzle({ apiClient }: Props) {
   }, []);
 
   const handleNextPuzzle = useCallback(() => {
-    setGameState({ loadState: 'loading' });
+    setGameState({ loadState: 'pending' });
 
     loadPuzzle();
   }, [loadPuzzle]);
 
-  if (gameState.loadState === 'loading') {
+  if (gameState.loadState === 'pending') {
     return <Loading />;
+  }
+
+  if (gameState.loadState === 'rejected') {
+    return (
+      <div className={classes.root}>
+        <Typography variant="body1" gutterBottom>
+          Failed to load puzzle
+        </Typography>
+        <Button variant="contained" color="primary" onClick={loadPuzzle}>
+          Retry
+        </Button>
+      </div>
+    );
   }
 
   return (
