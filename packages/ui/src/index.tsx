@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom';
-import React from 'react';
+import React, { StrictMode } from 'react';
 import * as Sentry from '@sentry/browser';
 
 import { ApiClient } from '@tsumego/api-client';
@@ -39,9 +39,15 @@ document.addEventListener('DOMContentLoaded', async () => {
   });
 
   ReactDOM.render(
-    <AuthProvider authState={storage}>
-      <App apiClient={apiClient} config={config} tokenManager={tokenManager} />
-    </AuthProvider>,
+    <StrictMode>
+      <AuthProvider authState={storage}>
+        <App
+          apiClient={apiClient}
+          config={config}
+          tokenManager={tokenManager}
+        />
+      </AuthProvider>
+    </StrictMode>,
     document.getElementById('app'),
   );
 });

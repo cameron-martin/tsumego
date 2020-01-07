@@ -11,13 +11,13 @@ interface Props {
 export default function Homepage({ apiClient }: Props) {
   const isLoggedIn = useAuth();
 
-  return (
-    <Container maxWidth="sm">
-      {isLoggedIn ? (
-        <Puzzle apiClient={apiClient} />
-      ) : (
+  if (isLoggedIn) {
+    return <Puzzle apiClient={apiClient} />;
+  } else {
+    return (
+      <Container maxWidth="sm">
         <div>You must be logged in to use the app</div>
-      )}
-    </Container>
-  );
+      </Container>
+    );
+  }
 }

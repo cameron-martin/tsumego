@@ -4,6 +4,8 @@ import { GoGame, BoardPosition } from '../model/GoGame';
 import { either } from 'fp-ts';
 import { ApiClient } from '@tsumego/api-client';
 import PuzzleInstructions from './PuzzleInstructions';
+import Loading from './Loading';
+import { Container } from '@material-ui/core';
 
 interface Props {
   apiClient: ApiClient;
@@ -111,11 +113,11 @@ export default function Puzzle({ apiClient }: Props) {
   }, [loadPuzzle]);
 
   if (gameState.loadState === 'loading') {
-    return <div>Loading...</div>;
+    return <Loading />;
   }
 
   return (
-    <div>
+    <Container maxWidth="sm">
       <PuzzleInstructions
         humanPlayer={humanPlayer}
         state={
@@ -126,6 +128,6 @@ export default function Puzzle({ apiClient }: Props) {
         onNextPuzzle={handleNextPuzzle}
       />
       <Board game={gameState.game} playMove={playMove} crop={gameState.area} />
-    </div>
+    </Container>
   );
 }

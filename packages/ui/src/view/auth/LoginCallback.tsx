@@ -1,6 +1,7 @@
-import { OAuth2AuthorisationCodeFlowTokenManager } from '@tsumego/api-client-authentication';
-import { useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { navigate } from '@reach/router';
+import { OAuth2AuthorisationCodeFlowTokenManager } from '@tsumego/api-client-authentication';
+import Loading from '../Loading';
 
 interface Props {
   tokenManager: OAuth2AuthorisationCodeFlowTokenManager;
@@ -9,8 +10,11 @@ interface Props {
 export default function LoginCallback({ tokenManager }: Props) {
   useEffect(() => {
     tokenManager.useAuthorizationCode(window.location.href);
-    navigate('/', { replace: true });
-  });
 
-  return null;
+    tokenManager.getToken().then(() => {
+      navigate('/', { replace: true });
+    });
+  }, []);
+
+  return <Loading />;
 }
