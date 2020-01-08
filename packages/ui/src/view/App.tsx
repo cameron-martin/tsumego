@@ -63,7 +63,7 @@ export default function App({ apiClient, config, tokenManager }: Props) {
           <RouterPage
             path="/"
             page={() => import('./Homepage')}
-            props={{ apiClient }}
+            props={{ apiClient, config }}
           />
           <RouterPage default page={() => import('./NotFound')} />
         </Router>

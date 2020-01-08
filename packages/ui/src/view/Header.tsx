@@ -3,6 +3,7 @@ import { Toolbar, AppBar, Button, makeStyles, Link } from '@material-ui/core';
 import { Link as RouterLink } from '@reach/router';
 import { AppConfig } from '../config';
 import { useAuth } from './auth/AuthProvider';
+import { getLogoutUrl, getLoginUrl } from './auth/urls';
 
 interface Props {
   className?: string;
@@ -19,9 +20,6 @@ export default function Header({ config, className }: Props) {
   const isLoggedIn = useAuth();
   const classes = useStyles();
 
-  const loginUrl = `${config.cognitoWebUri}/login?response_type=code&client_id=${config.cognitoClientId}&redirect_uri=${config.uiHost}/auth/callback/login`;
-  const logoutUrl = `${config.cognitoWebUri}/logout?client_id=${config.cognitoClientId}&logout_uri=${config.uiHost}/auth/callback/logout`;
-
   return (
     <AppBar position="static" className={className}>
       <Toolbar>
@@ -31,11 +29,11 @@ export default function Header({ config, className }: Props) {
           </Link>
         </div>
         {isLoggedIn ? (
-          <Button href={logoutUrl} color="inherit">
+          <Button href={getLogoutUrl(config)} color="inherit">
             Logout
           </Button>
         ) : (
-          <Button href={loginUrl} color="inherit">
+          <Button href={getLoginUrl(config)} color="inherit">
             Login
           </Button>
         )}
