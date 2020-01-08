@@ -1,3 +1,4 @@
+import 'regenerator-runtime/runtime';
 import ReactDOM from 'react-dom';
 import React, { StrictMode } from 'react';
 import * as Sentry from '@sentry/browser';
