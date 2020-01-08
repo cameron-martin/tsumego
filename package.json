@@ -1,6 +1,6 @@
 {
   "private": true,
-  "browserslist": "> 5%",
+  "browserslist": "defaults",
   "workspaces": [
     "packages/*"
   ],
