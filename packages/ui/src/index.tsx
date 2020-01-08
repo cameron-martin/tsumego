@@ -1,7 +1,6 @@
 import 'regenerator-runtime/runtime';
 import ReactDOM from 'react-dom';
 import React, { StrictMode } from 'react';
-import * as Sentry from '@sentry/browser';
 
 import { ApiClient } from '@tsumego/api-client';
 import {
@@ -13,11 +12,6 @@ import {
 import App from './view/App';
 import { getConfigFromEnv } from './config';
 import { AuthProvider } from './view/auth/AuthProvider';
-
-Sentry.init({
-  dsn: 'https://311e03485e4d4bcbb99a97fba3516d2c@sentry.io/1868285',
-  environment: process.env.SENTRY_ENVIRONMENT || 'development',
-});
 
 const config = getConfigFromEnv();
 

@@ -8,6 +8,10 @@ interface Settings {
 }
 
 const sharedConfig = (settings?: Settings): webpack.Configuration => ({
+  entry: {
+    sentry: './src/sentry.ts',
+    main: './src/index.tsx',
+  },
   resolve: {
     extensions: ['.ts', '.tsx', '.js', '.jsx'],
   },
