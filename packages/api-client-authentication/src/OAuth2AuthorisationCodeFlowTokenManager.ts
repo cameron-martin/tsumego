@@ -25,7 +25,7 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
   private isFetching = false;
   constructor(private readonly config: Config) {}
 
-  async getToken(): Promise<string | null> {
+  getToken(): Promise<string | null> {
     return this.accessToken;
   }
 
@@ -53,21 +53,19 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
       return;
     }
 
+    const parsedUrl = new URL(url);
+    const code = parsedUrl.searchParams.get('code');
+    if (!code) throw new Error('No authorization code found!');
+
     this.isFetching = true;
-    this.accessToken = this.getInitialToken(url);
+    this.accessToken = this.getInitialToken(code);
 
     this.accessToken.finally(() => {
       this.isFetching = false;
     });
   }
 
-  private async getInitialToken(url: string) {
-    const parsedUrl = new URL(url);
-
-    const code = parsedUrl.searchParams.get('code');
-
-    if (!code) return null;
-
+  private async getInitialToken(code: string) {
     const requestBody = new URLSearchParams();
     requestBody.set('grant_type', 'authorization_code');
     requestBody.set('client_id', this.config.clientId);

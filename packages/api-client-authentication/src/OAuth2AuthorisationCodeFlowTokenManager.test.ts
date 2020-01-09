@@ -228,7 +228,6 @@ test('it reuses refresh token from storage', async () => {
 
 test('if refreshing token fails, it removes access token', async () => {
   const handler = createMockHandler();
-
   const storage = new MemoryAuthStorage();
 
   const tokenManager = createTokenManager({
@@ -255,4 +254,26 @@ test('if refreshing token fails, it removes access token', async () => {
   expect(await tokenManager.getToken()).toBe(null);
   expect(await storage.getAccessToken()).toBe(null);
   expect(await storage.getRefreshToken()).toBe(null);
+});
+
+test('calling useAuthorizationCode with no authorization code throws an error and does not change the access token', async () => {
+  const handler = createMockHandler();
+  const storage = new MemoryAuthStorage();
+
+  const tokenManager = createTokenManager({
+    storage,
+    handler,
+  });
+
+  tokenManager.useAuthorizationCode(
+    'http://example.com/redirect?code=b9f3a3f4-bd1b-486b-b556-205863e7ee35',
+  );
+
+  await tokenManager.getToken();
+
+  expect(() => {
+    tokenManager.useAuthorizationCode('http://example.com/');
+  }).toThrowError('No authorization code found!');
+
+  expect(await tokenManager.getToken()).toBe('idToken1');
 });
