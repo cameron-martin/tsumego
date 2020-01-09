@@ -9,32 +9,31 @@ interface Props {
   authState: AuthState;
 }
 
-export const AuthContext = React.createContext<boolean | null>(null);
+// false means uninitialised
+export const AuthContext = React.createContext<string | null | false>(false);
 
 export function AuthProvider({ authState, children }: Props) {
-  const [isLoggedIn, setIsLoggedIn] = useState(authState.isLoggedIn);
+  const [userId, setUserId] = useState(authState.userId);
 
   useEffect(() => {
-    const listener: AuthStateChangeListener = x => setIsLoggedIn(x);
+    const listener: AuthStateChangeListener = x => setUserId(x);
 
     authState.addChangeListener(listener);
 
     return () => {
       authState.removeChangeListener(listener);
     };
-  });
+  }, [authState]);
 
-  return (
-    <AuthContext.Provider value={isLoggedIn}>{children}</AuthContext.Provider>
-  );
+  return <AuthContext.Provider value={userId}>{children}</AuthContext.Provider>;
 }
 
 export function useAuth() {
-  const isLoggedIn = useContext(AuthContext);
+  const userId = useContext(AuthContext);
 
-  if (isLoggedIn === null) {
+  if (userId === false) {
     throw new Error('You must wrap your app in an AuthProvider');
   }
 
-  return isLoggedIn;
+  return userId;
 }

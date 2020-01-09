@@ -1,6 +1,6 @@
 import React from 'react';
 import { Toolbar, AppBar, Button, makeStyles, Link } from '@material-ui/core';
-import { Link as RouterLink } from '@reach/router';
+import { Link as RouterLink } from 'react-router-dom';
 import { AppConfig } from '../config';
 import { useAuth } from './auth/AuthProvider';
 import { getLogoutUrl, getLoginUrl } from './auth/urls';
@@ -17,7 +17,7 @@ const useStyles = makeStyles({
 });
 
 export default function Header({ config, className }: Props) {
-  const isLoggedIn = useAuth();
+  const userId = useAuth();
   const classes = useStyles();
 
   return (
@@ -28,7 +28,7 @@ export default function Header({ config, className }: Props) {
             Tsumego.app
           </Link>
         </div>
-        {isLoggedIn ? (
+        {userId ? (
           <Button href={getLogoutUrl(config)} color="inherit">
             Logout
           </Button>

@@ -4,6 +4,8 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "dependencies": {
-    "@tsumego/api-client": "*"
+    "@tsumego/api-client": "*",
+    "@types/jwt-decode": "^2.2.1",
+    "jwt-decode": "^2.2.0"
   }
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container } from '@material-ui/core';
-import { Link } from '@reach/router';
+import { Link } from 'react-router-dom';
 
 export default function Home() {
   return (

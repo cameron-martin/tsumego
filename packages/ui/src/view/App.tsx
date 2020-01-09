@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react';
-import { Router } from '@reach/router';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { CssBaseline, makeStyles } from '@material-ui/core';
 import { ApiClient } from '@tsumego/api-client';
 import { OAuth2AuthorisationCodeFlowTokenManager } from '@tsumego/api-client-authentication';
@@ -7,6 +7,7 @@ import { AppConfig } from '../config';
 import Header from './Header';
 import RouterPage from './RouterPage';
 import Loading from './Loading';
+import Tracking from './Tracking';
 
 interface Props {
   apiClient: ApiClient;
@@ -23,51 +24,58 @@ const useStyles = makeStyles({
   header: {
     flex: '0 0 auto',
   },
-  body: {
-    flex: '1 0 auto',
-    display: 'flex',
-    flexDirection: 'column',
-  },
 });
 
 export default function App({ apiClient, config, tokenManager }: Props) {
   const classes = useStyles();
 
   return (
-    <div className={classes.root}>
-      <CssBaseline />
-      <Header config={config} className={classes.header} />
-      <Suspense fallback={<Loading />}>
-        <Router className={classes.body}>
-          <RouterPage
-            path="auth/callback/login"
-            page={() => import('./auth/LoginCallback')}
-            props={{ tokenManager }}
-          />
-          <RouterPage
-            path="auth/callback/logout"
-            page={() => import('./auth/LogoutCallback')}
-            props={{ tokenManager }}
-          />
-          <RouterPage path="admin" page={() => import('./admin/Home')} />
-          <RouterPage
-            path="admin/upload"
-            page={() => import('./admin/Upload')}
-            props={{ apiClient }}
-          />
-          <RouterPage
-            path="admin/ratings"
-            page={() => import('./admin/Ratings')}
-            props={{ apiClient }}
-          />
-          <RouterPage
-            path="/"
-            page={() => import('./Homepage')}
-            props={{ apiClient, config }}
-          />
-          <RouterPage default page={() => import('./NotFound')} />
-        </Router>
-      </Suspense>
-    </div>
+    <Router>
+      <div className={classes.root}>
+        <CssBaseline />
+        <Tracking />
+        <Header config={config} className={classes.header} />
+        <Suspense fallback={<Loading />}>
+          <Switch>
+            <Route path="/auth/callback/login">
+              <RouterPage
+                page={() => import('./auth/LoginCallback')}
+                props={{ tokenManager }}
+              />
+            </Route>
+            <Route path="/auth/callback/logout">
+              <RouterPage
+                page={() => import('./auth/LogoutCallback')}
+                props={{ tokenManager }}
+              />
+            </Route>
+            <Route path="/admin" exact>
+              <RouterPage page={() => import('./admin/Home')} />
+            </Route>
+            <Route path="/admin/upload">
+              <RouterPage
+                page={() => import('./admin/Upload')}
+                props={{ apiClient }}
+              />
+            </Route>
+            <Route path="/admin/ratings">
+              <RouterPage
+                page={() => import('./admin/Ratings')}
+                props={{ apiClient }}
+              />
+            </Route>
+            <Route path="/" exact>
+              <RouterPage
+                page={() => import('./Homepage')}
+                props={{ apiClient, config }}
+              />
+            </Route>
+            <Route path="*">
+              <RouterPage page={() => import('./NotFound')} />
+            </Route>
+          </Switch>
+        </Suspense>
+      </div>
+    </Router>
   );
 }

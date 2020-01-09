@@ -1,26 +1,30 @@
 import { AuthStorage } from '.';
 import { AuthState, AuthStateChangeListener } from '../AuthState';
+import jwtDecode from 'jwt-decode';
+
+interface Token {
+  sub: string;
+}
 
 export class AuthStorageProxy implements AuthStorage, AuthState {
-  public isLoggedIn: boolean;
+  public userId: string | null = null;
   private listeners: Set<AuthStateChangeListener> = new Set();
 
   static async create(storage: AuthStorage) {
+    const token = await storage.getAccessToken();
+
     return new AuthStorageProxy(
       storage,
-      (await storage.getAccessToken()) != null,
+      token ? jwtDecode<Token>(token).sub : null,
     );
   }
 
-  constructor(
-    private readonly storage: AuthStorage,
-    initiallyLoggedIn: boolean,
-  ) {
-    this.isLoggedIn = initiallyLoggedIn;
+  constructor(private readonly storage: AuthStorage, userId: string | null) {
+    this.userId = userId;
   }
 
   setAccessToken(value: string): Promise<void> {
-    this.setLoggedIn(true);
+    this.setUser(jwtDecode<Token>(value).sub);
     return this.storage.setAccessToken(value);
   }
 
@@ -29,7 +33,7 @@ export class AuthStorageProxy implements AuthStorage, AuthState {
   }
 
   deleteAccessToken(): Promise<void> {
-    this.setLoggedIn(false);
+    this.setUser(null);
     return this.storage.deleteAccessToken();
   }
 
@@ -53,11 +57,11 @@ export class AuthStorageProxy implements AuthStorage, AuthState {
     this.listeners.delete(listener);
   }
 
-  private setLoggedIn(isLoggedIn: boolean) {
-    this.isLoggedIn = isLoggedIn;
+  private setUser(userId: string | null) {
+    this.userId = userId;
 
     this.listeners.forEach(handler => {
-      handler(isLoggedIn);
+      handler(userId);
     });
   }
 }

@@ -26,10 +26,10 @@ const useStyles = makeStyles(theme => ({
 }));
 
 export default function Homepage({ apiClient, config }: Props) {
-  const isLoggedIn = useAuth();
+  const userId = useAuth();
   const classes = useStyles();
 
-  if (isLoggedIn) {
+  if (userId) {
     return <Puzzle apiClient={apiClient} />;
   } else {
     return (

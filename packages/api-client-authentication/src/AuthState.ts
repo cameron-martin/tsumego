@@ -1,7 +1,7 @@
 export interface AuthState {
-  isLoggedIn: boolean;
+  userId: string | null;
   addChangeListener(handler: AuthStateChangeListener): void;
   removeChangeListener(handler: AuthStateChangeListener): void;
 }
 
-export type AuthStateChangeListener = (isLoggedIn: boolean) => void;
+export type AuthStateChangeListener = (userId: string | null) => void;

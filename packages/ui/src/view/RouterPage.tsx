@@ -1,7 +1,6 @@
 import React from 'react';
-import { RouteComponentProps } from '@reach/router';
 
-type Props<T> = RouteComponentProps & {
+type Props<T> = {
   page(): Promise<{ default: React.ComponentType<T> }>;
 } & ({} extends T ? { props?: {} } : { props: T });
 

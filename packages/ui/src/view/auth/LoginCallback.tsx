@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { navigate } from '@reach/router';
+import { useHistory } from 'react-router-dom';
 import { OAuth2AuthorisationCodeFlowTokenManager } from '@tsumego/api-client-authentication';
 import Loading from '../Loading';
 
@@ -8,13 +8,15 @@ interface Props {
 }
 
 export default function LoginCallback({ tokenManager }: Props) {
+  const history = useHistory();
+
   useEffect(() => {
     tokenManager.useAuthorizationCode(window.location.href);
 
     tokenManager.getToken().then(() => {
-      navigate('/', { replace: true });
+      history.replace('/');
     });
-  }, [tokenManager]);
+  }, [tokenManager, history]);
 
   return <Loading />;
 }
