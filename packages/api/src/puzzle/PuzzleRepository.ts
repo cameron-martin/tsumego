@@ -52,7 +52,7 @@ export default class PuzzleRepository {
           ORDER BY game_results.played_at DESC
           LIMIT 1
         ) gr ON true
-        WHERE last_played_at IS NULL OR current_timestamp - last_played_at > interval '4 days'
+        WHERE last_played_at IS NULL OR current_timestamp - last_played_at > interval '20 days'
         ORDER BY diff, RANDOM() LIMIT 1;
       `,
       values: [
