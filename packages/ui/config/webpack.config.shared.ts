@@ -27,6 +27,14 @@ const sharedConfig = (settings?: Settings): webpack.Configuration => ({
         },
         exclude: /node_modules/,
       },
+      {
+        test: /\.(jpe?g|png)$/i,
+        loader: 'responsive-loader',
+        options: {
+          adapter: require('responsive-loader/sharp'),
+          sizes: [500, 1000, 2000, 4000],
+        },
+      },
     ],
   },
   plugins: [

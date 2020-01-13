@@ -3,4 +3,18 @@ declare module '*.st.css' {
   export = stylesheet;
 }
 
+declare module '*.jpg' {
+  interface ResponsiveImage {
+    height: number;
+    width: number;
+    placeholder: string;
+    src: string;
+    srcSet: string;
+  }
+
+  const image: ResponsiveImage;
+
+  export = image;
+}
+
 declare function gtag(...args: unknown[]): void;
