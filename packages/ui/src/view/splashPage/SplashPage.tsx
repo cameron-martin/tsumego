@@ -91,7 +91,7 @@ export default function SplashPage({ config }: Props) {
           />
           <FeatureCard
             title="Endless Puzzles"
-            description="Thousands of puzzles of all difficulties, with more added regularly"
+            description="Thousands of puzzles, with more added regularly"
             icon={Loop}
             className={classes.feature}
             ctaText="Start playing"
