@@ -2,7 +2,6 @@
   "name": "@tsumego/api-client-authentication",
   "version": "0.0.1",
   "main": "dist/index.js",
-  "module": "dist/index.js",
   "dependencies": {
     "@tsumego/api-client": "*",
     "@types/jwt-decode": "^2.2.1",

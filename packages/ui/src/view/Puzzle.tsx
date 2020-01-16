@@ -1,11 +1,11 @@
-import Board, { BoardCrop } from './Board';
 import React, { useState, useCallback, useEffect } from 'react';
-import { GoGame, BoardPosition } from '../model/GoGame';
+import { Button, makeStyles, Typography, Container } from '@material-ui/core';
 import { either } from 'fp-ts';
 import { ApiClient } from '@tsumego/api-client';
+import Board, { BoardCrop } from './board/Board';
+import { GoGame, BoardPosition } from '../model/GoGame';
 import PuzzleInstructions from './PuzzleInstructions';
 import Loading from './Loading';
-import { Button, makeStyles, Typography, Container } from '@material-ui/core';
 
 interface Props {
   apiClient: ApiClient;

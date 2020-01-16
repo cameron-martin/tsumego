@@ -6,6 +6,11 @@ env:
   GCR_DOMAIN: eu.gcr.io
   GCR_IMAGE_API: tsumego-1575212161857/api
   GCLOUD_PROJECT_ID: tsumego-1575212161857
+  UI_HOST: https://tsumego.app
+  API_HOST: https://api.tsumego.app
+  COGNITO_CLIENT_ID: 2e414rlf9sabi7u06cb3lhl3ec
+  COGNITO_WEB_URI: https://auth.tsumego.app
+  SENTRY_ENVIRONMENT: production
 
 jobs:
   build-and-publish:
@@ -25,12 +30,6 @@ jobs:
       - name: Build
         env:
           NODE_ENV: production
-          UI_HOST: https://tsumego.app
-          API_HOST: https://api.tsumego.app
-          COGNITO_CLIENT_ID: 2e414rlf9sabi7u06cb3lhl3ec
-          COGNITO_WEB_URI: https://auth.tsumego.app
-          SENTRY_ENVIRONMENT: production
-          CI: true
         run: yarn build
       - name: Test
         run: yarn test
@@ -48,21 +47,21 @@ jobs:
         run: |
           docker build -t $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG -f packages/api/Dockerfile .
           docker push $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG
-      - name: Upload UI artifacts
-        uses: actions/upload-artifact@v1
-        with:
-          name: ui-artifacts
-          path: packages/ui/dist
-      - name: Upload migrations
-        uses: actions/upload-artifact@v1
-        with:
-          name: db-migrations
-          path: packages/db/migrations
   deploy:
     if: github.ref == 'refs/heads/master'
     needs: build-and-publish
     runs-on: ubuntu-18.04
     steps:
+      - uses: actions/checkout@v1
+      - name: Read .nvmrc
+        run: echo "::set-output name=nvmrc::$(cat .nvmrc)"
+        id: nvm
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '${{ steps.nvm.outputs.nvmrc }}'
+      - name: yarn install
+        run: yarn install --frozen-lockfile
       - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
         with:
           version: '274.0.1'
@@ -73,21 +72,10 @@ jobs:
         run: |
           wget https://dl.google.com/cloudsql/cloud_sql_proxy.linux.amd64 -O cloud_sql_proxy
           chmod +x cloud_sql_proxy
-      - name: Downloads DB Migrations
-        uses: actions/download-artifact@v1
-        with:
-          name: db-migrations
-          path: db-migrations
       - name: Run migrations
         run: |
           ./cloud_sql_proxy -instances=$GCLOUD_PROJECT_ID:europe-west1:tsumego-db=tcp:5432 &
-          docker run --rm --network host -v $PWD/db-migrations:/flyway/sql flyway/flyway:6.1.0 -url=jdbc:postgresql://127.0.0.1:5432/tsumego -user=${{ secrets.DB_USER }} -password=${{ secrets.DB_PASSWORD }} -connectRetries=60 migrate
-      - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: eu-west-2
+          docker run --rm --network host -v $PWD/packages/db/migrations:/flyway/sql flyway/flyway:6.1.0 -url=jdbc:postgresql://127.0.0.1:5432/tsumego -user=${{ secrets.DB_USER }} -password=${{ secrets.DB_PASSWORD }} -connectRetries=60 migrate
       - name: Deploy image to Cloud Run
         env:
           IMAGE_TAG: ${{ github.sha }}
@@ -96,10 +84,7 @@ jobs:
         env:
           IMAGE_TAG: ${{ github.sha }}
         run: gcloud container images add-tag $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG $GCR_DOMAIN/$GCR_IMAGE_API:deployed
-      - name: Download UI artifacts
-        uses: actions/download-artifact@v1
-        with:
-          name: ui-artifacts
-          path: ui-artifacts
       - name: Deploy UI
-        run: aws s3 sync ui-artifacts s3://tsumego-app
+        env:
+          NODE_ENV: production
+        run: yarn workspace @tsumego/ui run serverless

@@ -2,3 +2,7 @@ node_modules
 dist
 .env
 *.tsbuildinfo
+.next
+yarn-error.log
+.serverless
+.serverless_nextjs

@@ -1,11 +1,27 @@
 {
   "extends": "../../tsconfig_base.json",
   "compilerOptions": {
-    "target": "ESNext"
+    "target": "ESNext",
+    "skipLibCheck": true,
+    "noEmit": true,
+    "module": "esnext",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "allowJs": true
   },
-  "include": ["."],
+  "include": [
+    "."
+  ],
   "references": [
-    { "path": "../api-client" },
-    { "path": "../api-client-authentication" }
+    {
+      "path": "../api-client"
+    },
+    {
+      "path": "../api-client-authentication"
+    }
+  ],
+  "exclude": [
+    "node_modules"
   ]
 }

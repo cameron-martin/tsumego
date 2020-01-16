@@ -1,9 +1,10 @@
 import React, { useCallback } from 'react';
 import { range } from 'lodash';
-import { GoGame, BoardPosition } from '../model/GoGame';
-import { style, classes } from './Board.st.css';
+import clsx from 'clsx';
+import { makeStyles } from '@material-ui/core';
+import { GoGame, BoardPosition } from '../../model/GoGame';
 import BoardCell from './BoardCell';
-import FixedAspectRatio from './FixedAspectRatio';
+import FixedAspectRatio from '../FixedAspectRatio';
 
 export interface BoardCrop {
   min: BoardPosition;
@@ -17,6 +18,24 @@ interface Props {
   crop?: BoardCrop;
 }
 
+const useStyles = makeStyles({
+  root: {
+    backgroundColor: '#deb887',
+  },
+  columns: {
+    display: 'flex',
+    height: '100%',
+  },
+  column: {
+    flex: '1 1 0',
+    display: 'flex',
+    flexDirection: 'column',
+  },
+  cell: {
+    flex: '1 1 0',
+  },
+});
+
 const getRange = (crop: BoardCrop | undefined, game: GoGame, index: 0 | 1) => {
   return range(
     Math.max(0, crop ? crop.min[index] : -Infinity),
@@ -25,6 +44,8 @@ const getRange = (crop: BoardCrop | undefined, game: GoGame, index: 0 | 1) => {
 };
 
 export default function Board({ className, game, playMove, crop }: Props) {
+  const classes = useStyles();
+
   const columns = getRange(crop, game, 0);
   const rows = getRange(crop, game, 1);
 
@@ -36,7 +57,7 @@ export default function Board({ className, game, playMove, crop }: Props) {
   );
 
   return (
-    <div className={style(classes.root, className)}>
+    <div className={clsx(classes.root, className)}>
       <FixedAspectRatio aspectRatio={rows.length / columns.length}>
         <div className={classes.columns}>
           {columns.map(i => (

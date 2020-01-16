@@ -1,39 +1,36 @@
 import React, { useState, useEffect, useContext } from 'react';
 import {
+  AuthContainer,
   AuthState,
-  AuthStateChangeListener,
+  AuthContainerChangeListener,
 } from '@tsumego/api-client-authentication';
 
 interface Props {
   children: React.ReactNode;
-  authState: AuthState;
+  authContainer: AuthContainer;
 }
 
-// false means uninitialised
-export const AuthContext = React.createContext<string | null | false>(false);
+export const AuthContext = React.createContext<AuthState | null>(null);
 
-export function AuthProvider({ authState, children }: Props) {
-  const [userId, setUserId] = useState(authState.userId);
+export function AuthProvider({ authContainer, children }: Props) {
+  const [authState, setAuthState] = useState(authContainer.state);
 
   useEffect(() => {
-    const listener: AuthStateChangeListener = x => setUserId(x);
+    setAuthState(authContainer.state);
 
-    authState.addChangeListener(listener);
+    const listener: AuthContainerChangeListener = x => setAuthState(x);
+    authContainer.addChangeListener(listener);
 
     return () => {
-      authState.removeChangeListener(listener);
+      authContainer.removeChangeListener(listener);
     };
-  }, [authState]);
+  }, [authContainer]);
 
-  return <AuthContext.Provider value={userId}>{children}</AuthContext.Provider>;
+  return (
+    <AuthContext.Provider value={authState}>{children}</AuthContext.Provider>
+  );
 }
 
 export function useAuth() {
-  const userId = useContext(AuthContext);
-
-  if (userId === false) {
-    throw new Error('You must wrap your app in an AuthProvider');
-  }
-
-  return userId;
+  return useContext(AuthContext);
 }

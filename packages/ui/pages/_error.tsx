@@ -1,5 +1,6 @@
 import React from 'react';
 import { Typography, makeStyles } from '@material-ui/core';
+import StandardTemplate from '../src/view/StandardTemplate';
 
 const useStyles = makeStyles({
   root: {
@@ -15,11 +16,13 @@ export default function NotFound() {
   const classes = useStyles();
 
   return (
-    <div className={classes.root}>
-      <Typography variant="h1" gutterBottom>
-        404
-      </Typography>
-      <Typography variant="body1">This page does not exist</Typography>
-    </div>
+    <StandardTemplate>
+      <div className={classes.root}>
+        <Typography variant="h1" gutterBottom>
+          404
+        </Typography>
+        <Typography variant="body1">This page does not exist</Typography>
+      </div>
+    </StandardTemplate>
   );
 }

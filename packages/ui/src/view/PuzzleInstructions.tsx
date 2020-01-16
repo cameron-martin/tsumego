@@ -1,7 +1,7 @@
 import React from 'react';
 import { GoPlayer } from '../model/GoGame';
-import { classes, style } from './PuzzleInstructions.st.css';
-import { Button } from '@material-ui/core';
+import { Button, makeStyles } from '@material-ui/core';
+import clsx from 'clsx';
 
 interface Props {
   className?: string;
@@ -10,17 +10,27 @@ interface Props {
   onNextPuzzle(): void;
 }
 
+const useStyles = makeStyles({
+  root: {
+    textAlign: 'center',
+    // TODO: Convert to use spacing
+    height: '2rem',
+  },
+});
+
 export default function PuzzleInstructions(props: Props) {
+  const classes = useStyles();
+
   if (props.state === 'in-progress') {
     return (
-      <p className={style(classes.root, props.className)}>
+      <p className={clsx(classes.root, props.className)}>
         {props.humanPlayer === 'black' ? 'Black' : 'White'} to play
       </p>
     );
   }
 
   return (
-    <p className={style(classes.root, props.className)}>
+    <p className={clsx(classes.root, props.className)}>
       {props.state === 'correct' ? 'Correct!' : 'Wrong!'}{' '}
       <Button variant="contained" color="primary" onClick={props.onNextPuzzle}>
         Next

@@ -1,6 +1,5 @@
 {
   "name": "@tsumego/api-client",
   "version": "0.0.1",
-  "main": "dist/index.js",
-  "module": "dist/index.js"
+  "main": "dist/index.js"
 }
