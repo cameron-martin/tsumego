@@ -1,2 +1,4 @@
 tsumegoUi:
   component: serverless-next.js
+  inputs:
+    build: false

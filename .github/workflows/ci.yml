@@ -33,6 +33,21 @@ jobs:
         run: yarn build
       - name: Test
         run: yarn test
+      - name: Upload UI artifacts (next)
+        uses: actions/upload-artifact@v1
+        with:
+          name: ui-artifacts-next
+          path: packages/ui/.next
+      - name: Upload UI artifacts	(serverless_nextjs)
+        uses: actions/upload-artifact@v1
+        with:
+          name: ui-artifacts-serverless-nextjs
+          path: packages/ui/.serverless_nextjs
+      - name: Upload UI artifacts	(serverless)
+        uses: actions/upload-artifact@v1
+        with:
+          name: ui-artifacts-serverless
+          path: packages/ui/.serverless
       - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
         with:
           version: '274.0.1'
@@ -84,7 +99,24 @@ jobs:
         env:
           IMAGE_TAG: ${{ github.sha }}
         run: gcloud container images add-tag $GCR_DOMAIN/$GCR_IMAGE_API:$IMAGE_TAG $GCR_DOMAIN/$GCR_IMAGE_API:deployed
+      - name: Download UI artifacts (next)
+        uses: actions/download-artifact@v1
+        with:
+          name: ui-artifacts-next
+          path: packages/ui/.next
+      - name: Download UI artifacts	(serverless_nextjs)
+        uses: actions/download-artifact@v1
+        with:
+          name: ui-artifacts-serverless-nextjs
+          path: packages/ui/.serverless_nextjs
+      - name: Download UI artifacts	(serverless)
+        uses: actions/download-artifact@v1
+        with:
+          name: ui-artifacts-serverless
+          path: packages/ui/.serverless
       - name: Deploy UI
         env:
           NODE_ENV: production
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: yarn workspace @tsumego/ui run serverless
