@@ -1,0 +1,6 @@
+{
+  "name": "tsumego-next",
+  "region": "us-east-1",
+  "accelerated": true,
+  "url": "https://tsumego-next.s3.amazonaws.com"
+}

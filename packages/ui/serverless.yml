@@ -2,3 +2,4 @@ tsumegoUi:
   component: serverless-next.js
   inputs:
     build: false
+    bucketName: tsumego-next
