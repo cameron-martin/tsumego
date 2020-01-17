@@ -3,3 +3,4 @@ tsumegoUi:
   inputs:
     build: false
     bucketName: tsumego-next
+    domain: tsumego.app
