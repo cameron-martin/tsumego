@@ -21,13 +21,13 @@ interface Props {
   lastPlaced: boolean;
 }
 
-const useStyles = makeStyles<Theme, Props>({
+const useStyles = makeStyles<Theme, Props>(theme => ({
   root: props => ({
     position: 'relative',
     '&::before, &::after': {
       content: '" "',
       position: 'absolute',
-      backgroundColor: 'black',
+      backgroundColor: theme.palette.grey[900],
     },
     '&::after': {
       width: 1,
@@ -45,7 +45,7 @@ const useStyles = makeStyles<Theme, Props>({
       display: 'none',
     },
   }),
-});
+}));
 
 export default React.memo(function BoardCell(props: Props) {
   const classes = useStyles(props);
@@ -56,9 +56,9 @@ export default React.memo(function BoardCell(props: Props) {
       onClick={() => props.onClick(props.row, props.column)}
     >
       {props.state !== 'empty' ? (
-        <Stone colour={props.state} lastPlaced={props.lastPlaced} />
+        <Stone player={props.state} lastPlaced={props.lastPlaced} />
       ) : props.currentPlayer != null ? (
-        <Stone colour={props.currentPlayer} isShadow />
+        <Stone player={props.currentPlayer} isShadow />
       ) : null}
     </div>
   );

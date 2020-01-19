@@ -5,15 +5,21 @@ import clsx from 'clsx';
 interface Props {
   lastPlaced?: boolean;
   isShadow?: boolean;
-  colour: 'black' | 'white';
+  player: 'black' | 'white';
 }
 
-const flipColour = {
+const flipPlayer = {
   black: 'white',
   white: 'black',
 } as const;
 
-const useStyles = makeStyles<Theme, Props>({
+const colours = (theme: Theme) =>
+  ({
+    black: theme.palette.grey[900],
+    white: theme.palette.common.white,
+  } as const);
+
+const useStyles = makeStyles<Theme, Props>(theme => ({
   root: props => ({
     borderRadius: '100%',
     position: 'absolute',
@@ -23,7 +29,7 @@ const useStyles = makeStyles<Theme, Props>({
     left: '5%',
     zIndex: 1,
     opacity: props.isShadow ? 0.5 : 1,
-    backgroundColor: props.colour,
+    backgroundColor: colours(theme)[props.player],
   }),
   lastPlaced: props => ({
     '&::before, &::after': {
@@ -37,7 +43,7 @@ const useStyles = makeStyles<Theme, Props>({
       left: '30%',
       bottom: '30%',
       right: '30%',
-      backgroundColor: flipColour[props.colour],
+      backgroundColor: colours(theme)[flipPlayer[props.player]],
     },
     // Inner ring
     '&::after': {
@@ -45,10 +51,10 @@ const useStyles = makeStyles<Theme, Props>({
       left: '35%',
       bottom: '35%',
       right: '35%',
-      backgroundColor: props.colour,
+      backgroundColor: colours(theme)[props.player],
     },
   }),
-});
+}));
 
 export default function Stone(props: Props) {
   const classes = useStyles(props);
