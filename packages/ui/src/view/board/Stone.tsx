@@ -16,7 +16,7 @@ const flipPlayer = {
 const colours = (theme: Theme) =>
   ({
     black: theme.palette.grey[900],
-    white: theme.palette.common.white,
+    white: theme.palette.grey[50],
   } as const);
 
 const useStyles = makeStyles<Theme, Props>(theme => ({
