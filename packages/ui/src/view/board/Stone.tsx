@@ -32,26 +32,15 @@ const useStyles = makeStyles<Theme, Props>(theme => ({
     backgroundColor: colours(theme)[props.player],
   }),
   lastPlaced: props => ({
-    '&::before, &::after': {
+    '&::before': {
       content: '" "',
       position: 'absolute',
       borderRadius: '100%',
-    },
-    // Outer ring
-    '&::before': {
-      top: '30%',
-      left: '30%',
-      bottom: '30%',
-      right: '30%',
-      backgroundColor: colours(theme)[flipPlayer[props.player]],
-    },
-    // Inner ring
-    '&::after': {
-      top: '35%',
-      left: '35%',
-      bottom: '35%',
-      right: '35%',
-      backgroundColor: colours(theme)[props.player],
+      top: '32%',
+      left: '32%',
+      bottom: '32%',
+      right: '32%',
+      border: `2px solid ${colours(theme)[flipPlayer[props.player]]}`,
     },
   }),
 }));
