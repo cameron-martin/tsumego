@@ -9,14 +9,7 @@ interface Token {
 
 export class AuthStorageProxy implements AuthStorage, AuthContainer {
   private listeners: Set<AuthContainerChangeListener> = new Set();
-
-  static async create(storage: AuthStorage) {
-    const token = await storage.getAccessToken();
-
-    return new AuthStorageProxy(storage, {
-      userId: token ? jwtDecode<Token>(token).sub : null,
-    });
-  }
+  private hasLoaded = false;
 
   constructor(
     private readonly storage: AuthStorage,
@@ -25,10 +18,13 @@ export class AuthStorageProxy implements AuthStorage, AuthContainer {
 
   public async load() {
     const token = await this.getAccessToken();
+
+    if (this.hasLoaded) return;
+
     if (token) {
-      this.setAccessToken(token);
+      this.setState({ userId: jwtDecode<Token>(token).sub });
     } else {
-      this.deleteAccessToken();
+      this.setState({ userId: null });
     }
   }
 
@@ -67,6 +63,7 @@ export class AuthStorageProxy implements AuthStorage, AuthContainer {
   }
 
   private setState(state: AuthState) {
+    this.hasLoaded = true;
     this.state = state;
 
     this.listeners.forEach(handler => {
