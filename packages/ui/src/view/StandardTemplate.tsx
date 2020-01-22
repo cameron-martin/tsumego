@@ -5,6 +5,7 @@ import Header from './Header';
 
 interface Props {
   children: React.ReactNode;
+  noMenu?: boolean;
 }
 
 const useStyles = makeStyles({
@@ -18,13 +19,13 @@ const useStyles = makeStyles({
   },
 });
 
-export default function StandardTemplate({ children }: Props) {
+export default function StandardTemplate({ children, noMenu }: Props) {
   const classes = useStyles();
   const config = useConfig();
 
   return (
     <div className={classes.root}>
-      <Header config={config} className={classes.header} />
+      <Header config={config} className={classes.header} noMenu={noMenu} />
       {children}
     </div>
   );

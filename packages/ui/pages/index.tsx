@@ -16,7 +16,7 @@ export default function Index() {
   }, [authState]);
 
   return (
-    <StandardTemplate>
+    <StandardTemplate noMenu>
       <SplashPage config={config} />
     </StandardTemplate>
   );
