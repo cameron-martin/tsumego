@@ -17,7 +17,7 @@ import RouterLink from 'next/link';
 
 interface Props {
   open: boolean;
-  onClose: DrawerProps['onClose'];
+  onClose(): void;
 }
 
 const useStyles = makeStyles({
@@ -33,7 +33,7 @@ export default function SideMenu({ open, onClose }: Props) {
     <Drawer anchor="left" open={open} onClose={onClose}>
       <List className={classes.list}>
         <RouterLink href="/play" passHref>
-          <ListItem button component="a">
+          <ListItem button component="a" onClick={onClose}>
             <ListItemIcon>
               <SportsEsportsIcon />
             </ListItemIcon>
