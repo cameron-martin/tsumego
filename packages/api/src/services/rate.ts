@@ -1,28 +1,22 @@
-import '../env';
-import { Pool } from 'pg';
 import { GameResultRepository } from '../game-results/GameResultRepository';
 import { RatingRepository } from '../ratings/RatingRepository';
 import { Rating } from '../ratings/Rating';
 
-process.on('unhandledRejection', err => {
-  console.error(err);
-  process.exit(1);
-});
+interface RateResult {
+  userId: string;
+  puzzleId: number;
+  ratedAt: Date;
+}
 
-(async () => {
-  const pool = new Pool({
-    host: process.env.DB_HOST,
-    password: process.env.DB_PASSWORD,
-    user: process.env.DB_USER,
-    database: process.env.DB_NAME,
-    idleTimeoutMillis: 2000,
-  });
-
-  const ratingRepository = new RatingRepository(pool);
+export async function rate(
+  ratingRepository: RatingRepository,
+  gameResultRepository: GameResultRepository,
+): Promise<RateResult[]> {
+  const rateResults: RateResult[] = [];
 
   const latestRating = await ratingRepository.getLatest();
 
-  const results = await new GameResultRepository(pool).getPlayedAfter(
+  const results = await gameResultRepository.getPlayedAfter(
     latestRating?.entity.ratedAt ?? new Date(0),
   );
 
@@ -58,8 +52,12 @@ process.on('unhandledRejection', err => {
       ),
     ]);
 
-    console.log(
-      `Rated user ${result.entity.userId} for puzzle ${result.entity.puzzleId} at ${result.entity.playedAt}`,
-    );
+    rateResults.push({
+      userId: result.entity.userId,
+      puzzleId: result.entity.puzzleId,
+      ratedAt: result.entity.playedAt,
+    });
   }
-})();
+
+  return rateResults;
+}

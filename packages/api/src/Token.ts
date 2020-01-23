@@ -2,6 +2,8 @@ import { Record, String, Array, Static, Undefined, Union } from 'runtypes';
 
 export const Token = Record({
   sub: String,
+  aud: String,
+  iss: String,
   'cognito:groups': Union(Array(String), Undefined),
 });
 

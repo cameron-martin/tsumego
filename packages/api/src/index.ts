@@ -3,17 +3,18 @@ import express, { ErrorRequestHandler } from 'express';
 import cors from 'cors';
 import jwt from 'express-jwt';
 import bodyParser from 'body-parser';
-import jwksRsa from 'jwks-rsa';
 import Router from 'express-promise-router';
+import { Pool } from 'pg';
 import PuzzleRepository from './puzzle/PuzzleRepository';
 import { loadSgf } from './puzzle/sgf-loader';
 import { Puzzle } from './puzzle/Puzzle';
-import { Pool } from 'pg';
 import { GameResultRepository } from './game-results/GameResultRepository';
+import { createAuthMiddleware, GOOGLE_ISSUER } from './authentication';
 import { getToken } from './Token';
 import { RatingRepository } from './ratings/RatingRepository';
 import { Rating } from './ratings/Rating';
 import { sampleWinProbability } from './ratings/win-probability';
+import { rate } from './services/rate';
 
 class NotAuthorized extends Error {}
 
@@ -58,17 +59,13 @@ app.use(
 );
 
 app.use(
-  jwt({
-    secret: jwksRsa.expressJwtSecret({
-      cache: true,
-      rateLimit: true,
-      jwksRequestsPerMinute: 5,
-      jwksUri: `${cognitoIdpUri}/.well-known/jwks.json`,
-    }),
-    audience: process.env.COGNITO_CLIENT_ID,
-    issuer: cognitoIdpUri,
-    algorithms: ['RS256'],
-  }).unless({ path: '/status' }),
+  createAuthMiddleware({
+    cognitoIdpUri,
+    cognitoClientId: process.env.COGNITO_CLIENT_ID,
+    gcpAudience: process.env.GCP_AUDIENCE,
+  }).unless({
+    path: '/status',
+  }),
 );
 
 app.use(bodyParser.json());
@@ -157,6 +154,19 @@ router.get('/user-ratings', async (req, res) => {
       };
     }),
   );
+});
+
+router.post('/rate', async (req, res) => {
+  const token = getToken(req);
+
+  if (
+    !token['cognito:groups']?.includes('admin') &&
+    token.iss !== GOOGLE_ISSUER
+  ) {
+    throw new NotAuthorized();
+  }
+
+  res.json(await rate(ratingRepository, gameResultRespository));
 });
 
 router.get('/status', async (req, res) => {

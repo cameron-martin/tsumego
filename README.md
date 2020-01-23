@@ -19,9 +19,3 @@ Run the other things using:
 ```sh
 yarn dev
 ```
-
-Process games and produce ratings:
-
-```sh
-yarn task:rate
-```
