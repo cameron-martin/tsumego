@@ -69,7 +69,12 @@ export default function SplashPage({ config }: Props) {
   return (
     <>
       <Box position="relative" className={classes.hero}>
-        <ResponsiveImage image={heroImage} className={classes.heroImage} />
+        <ResponsiveImage
+          image={heroImage}
+          className={classes.heroImage}
+          alt=""
+          role="presentation"
+        />
         <div className={classes.heroOverlay}>
           <Typography variant="h2" gutterBottom className={classes.tagLine}>
             Dead simple tsumego
