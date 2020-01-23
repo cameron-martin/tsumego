@@ -35,7 +35,11 @@ export const createAuthMiddleware = ({
       switch (iss) {
         case GOOGLE_ISSUER:
           if (aud !== gcpAudience) {
-            done(new Error('Invalid audience'));
+            done(
+              new jwt.UnauthorizedError('invalid_token', {
+                message: `Invalid audience: ${aud}`,
+              }),
+            );
           } else {
             googleSecret(req, jwtHeaders, jwtPayload, done);
           }
@@ -43,14 +47,22 @@ export const createAuthMiddleware = ({
 
         case cognitoIdpUri:
           if (aud !== cognitoClientId) {
-            done(new Error('Invalid audience'));
+            done(
+              new jwt.UnauthorizedError('invalid_token', {
+                message: `Invalid audience: ${aud}`,
+              }),
+            );
           } else {
             cognitoSecret(req, jwtHeaders, jwtPayload, done);
           }
           break;
 
         default:
-          done(new Error(`Invalid issuer ${iss}`));
+          done(
+            new jwt.UnauthorizedError('invalid_token', {
+              message: `Invalid issuer: ${iss}`,
+            }),
+          );
       }
     },
     algorithms: ['RS256'],
