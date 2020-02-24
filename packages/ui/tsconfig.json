@@ -3,7 +3,7 @@
   "compilerOptions": {
     "target": "ESNext",
     "skipLibCheck": true,
-    "noEmit": true,
+    "emitDeclarationOnly": true,
     "module": "esnext",
     "resolveJsonModule": true,
     "isolatedModules": true,
