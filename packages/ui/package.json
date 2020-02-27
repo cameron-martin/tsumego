@@ -14,7 +14,7 @@
     "@types/react": "^16.9.23",
     "@types/react-dom": "^16.9.5",
     "clsx": "^1.1.0",
-    "fp-ts": "^2.5.1",
+    "fp-ts": "^2.5.2",
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.15",
     "next": "^9.2.2",
