@@ -6,6 +6,8 @@
   ],
   "scripts": {
     "test": "jest",
+    "prettier:check": "prettier --check --ignore-path .gitignore .",
+    "prettier:write": "prettier --write --ignore-path .gitignore .",
     "dev": "yarn run build:tsc && npm-run-all -p build:tsc:watch dev:start",
     "dev:start": "wsrun --exclude-missing --stages dev",
     "build": "npm-run-all build:tsc build:other",

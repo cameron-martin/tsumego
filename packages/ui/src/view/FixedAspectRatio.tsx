@@ -7,7 +7,7 @@ interface Props {
 }
 
 const useStyles = makeStyles<Theme, Props>({
-  root: props => ({
+  root: (props) => ({
     paddingBottom: `${props.aspectRatio * 100}%`,
     height: 0,
     width: '100%',

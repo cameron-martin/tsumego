@@ -45,7 +45,7 @@ export default class MyApp extends App<{}, {}, State> {
 
     const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
       clientId: config.cognitoClientId,
-      handler: request => fetch(request),
+      handler: (request) => fetch(request),
       redirectUri: `${config.uiHost}/auth/callback/login`,
       storage,
       tokenEndpoint: `${config.cognitoWebUri}/oauth2/token`,

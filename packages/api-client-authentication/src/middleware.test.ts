@@ -79,7 +79,7 @@ test('if credentials are provided but still returns unauthenticated then it uses
     status: 401,
   });
 
-  const handler = createMockHandler(async request =>
+  const handler = createMockHandler(async (request) =>
     request.headers.get('Authorization') === 'Bearer refreshedToken'
       ? okResponse
       : unauthorisedResponse,
@@ -175,12 +175,12 @@ test('retrying request with body succeeds', async () => {
     refreshToken: () => undefined,
   };
 
-  const handler = createMockHandler(async request => {
+  const handler = createMockHandler(async (request) => {
     await request.blob();
     return okResponse;
   });
 
-  handler.mockImplementationOnce(async request => {
+  handler.mockImplementationOnce(async (request) => {
     await request.blob();
     return unauthorisedResponse;
   });

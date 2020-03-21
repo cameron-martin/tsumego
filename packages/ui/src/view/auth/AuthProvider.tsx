@@ -18,7 +18,7 @@ export function AuthProvider({ authContainer, children }: Props) {
   useEffect(() => {
     setAuthState(authContainer.state);
 
-    const listener: AuthContainerChangeListener = x => setAuthState(x);
+    const listener: AuthContainerChangeListener = (x) => setAuthState(x);
     authContainer.addChangeListener(listener);
 
     return () => {

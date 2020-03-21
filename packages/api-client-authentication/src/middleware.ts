@@ -9,7 +9,7 @@ export class NotAuthenticated extends Error {
 
 export const createBearerTokenMiddleware = (
   tokenManager: TokenManager,
-): Middleware => next => async request => {
+): Middleware => (next) => async (request) => {
   const accessToken = await tokenManager.getToken();
 
   if (accessToken != null) {

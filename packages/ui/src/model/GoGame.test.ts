@@ -136,16 +136,17 @@ describe('move validation', () => {
 
   test.todo('previous board states are forbidden (ko rule)');
 
-  test.each([[-1, 0], [-1, -1], [10, 7]])(
-    'cannot play off the board',
-    (x, y) => {
-      const game = GoGame.create(9);
+  test.each([
+    [-1, 0],
+    [-1, -1],
+    [10, 7],
+  ])('cannot play off the board', (x, y) => {
+    const game = GoGame.create(9);
 
-      const move = { player: 'black', position: [x, y] } as const;
+    const move = { player: 'black', position: [x, y] } as const;
 
-      expectMoveInvalid(game, move, MoveValidationReason.OffBoard);
-    },
-  );
+    expectMoveInvalid(game, move, MoveValidationReason.OffBoard);
+  });
 });
 
 test('the board starts out empty', () => {

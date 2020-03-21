@@ -19,7 +19,7 @@ export default function Ratings() {
 
   useEffect(() => {
     if (apiClient) {
-      apiClient.userRatings.getAll().then(ratings => {
+      apiClient.userRatings.getAll().then((ratings) => {
         setRatings(ratings);
       });
     }
@@ -38,7 +38,7 @@ export default function Ratings() {
               </TableRow>
             </TableHead>
             <TableBody>
-              {ratings.map(rating => (
+              {ratings.map((rating) => (
                 <TableRow key={rating.id}>
                   <TableCell>{rating.userId}</TableCell>
                   <TableCell>{rating.mean}</TableCell>

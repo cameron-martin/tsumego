@@ -97,9 +97,9 @@ export class GoGame {
       const myGroup = groupCollection.getGroupAtIndex(moveIndex)!;
       const otherAdjacentGroups = groupCollection
         .getAdjacentGroups(moveIndex)
-        .filter(group => group !== myGroup);
+        .filter((group) => group !== myGroup);
 
-      otherAdjacentGroups.forEach(group => {
+      otherAdjacentGroups.forEach((group) => {
         if (groupCollection.getLibertiesOfGroup(group) === 0) {
           groupCollection = groupCollection.removeGroup(group);
           const capturingPlayer = otherPlayer[group.player];
@@ -225,20 +225,20 @@ class GroupCollection {
   getAdjacentGroups(index: number) {
     return uniq(
       this.getAdjacentIndexes(index)
-        .map(position => this.groupsByIndex.get(position))
+        .map((position) => this.groupsByIndex.get(position))
         .filter(inNonNullable),
     );
   }
 
   addStone(player: GoPlayer, index: number): GroupCollection {
     const theirAdjacentGroups = this.getAdjacentGroups(index).filter(
-      group => group.player === player,
+      (group) => group.player === player,
     );
 
     const newGroup: Group = {
       player,
       indicies: [index].concat(
-        ...theirAdjacentGroups.map(group => group.indicies),
+        ...theirAdjacentGroups.map((group) => group.indicies),
       ),
     };
 
@@ -268,7 +268,7 @@ class GroupCollection {
   private getLibertiesOfStone(index: number) {
     return countWhere(
       this.getAdjacentIndexes(index),
-      adjacentIndex => !this.groupsByIndex.has(adjacentIndex),
+      (adjacentIndex) => !this.groupsByIndex.has(adjacentIndex),
     );
   }
 

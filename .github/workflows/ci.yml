@@ -32,7 +32,9 @@ jobs:
           NODE_ENV: production
         run: yarn build
       - name: Test
-        run: yarn test
+        run: |
+          yarn test
+          yarn prettier:check
       - name: Upload UI artifacts (next)
         uses: actions/upload-artifact@v1
         with:

@@ -61,7 +61,7 @@ export class Rating {
     const dSquared =
       1 /
       (q ** 2 *
-        sumBy(games, game => {
+        sumBy(games, (game) => {
           const grdj = g(game.opponentRating.deviation);
           const ev = getEv(grdj, this.mean, game.opponentRating.mean);
 
@@ -71,7 +71,7 @@ export class Rating {
     const newMean =
       this.mean +
       (q / (1 / this.deviation ** 2 + 1 / dSquared)) *
-        sumBy(games, game => {
+        sumBy(games, (game) => {
           const grdj = g(game.opponentRating.deviation);
           const ev = getEv(grdj, this.mean, game.opponentRating.mean);
 

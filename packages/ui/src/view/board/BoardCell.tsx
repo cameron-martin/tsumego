@@ -21,8 +21,8 @@ interface Props {
   lastPlaced: boolean;
 }
 
-const useStyles = makeStyles<Theme, Props>(theme => ({
-  root: props => ({
+const useStyles = makeStyles<Theme, Props>((theme) => ({
+  root: (props) => ({
     position: 'relative',
     '&::before, &::after': {
       content: '" "',

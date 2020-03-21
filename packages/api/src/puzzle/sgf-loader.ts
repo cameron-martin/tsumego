@@ -91,7 +91,7 @@ function loadGameTree(tree: GameTree): PuzzleTree[] {
 
 function findKnownProperty<K extends PropertyType>(node: Node, type: K) {
   const property = node.properties.find(
-    prop => prop.type === 'known' && prop.ident === type,
+    (prop) => prop.type === 'known' && prop.ident === type,
   );
 
   if (property) {
@@ -115,7 +115,7 @@ function expandPointComposition([upperLeft, lowerRight]: [Point, Point]) {
 }
 
 function expandCompressedPointList(list: Array<[Point, Point] | Point>) {
-  return list.flatMap(point => {
+  return list.flatMap((point) => {
     if (typeof point[0] === 'number') {
       return [point as Point];
     }
@@ -144,7 +144,7 @@ function getInitialStones(tree: GameTree): InitialStones {
 function getMoves(nodes: Node[]): Move[] {
   const moves: Move[] = [];
 
-  nodes.forEach(node => {
+  nodes.forEach((node) => {
     const blackMove = findKnownProperty(node, 'B');
     const whiteMove = findKnownProperty(node, 'W');
     const comment = findKnownProperty(node, 'C');

@@ -2,7 +2,7 @@ export type Middleware = (next: Handler) => Handler;
 
 export type Handler = (request: Request) => Promise<Response>;
 
-const initialHandler: Handler = request => fetch(request);
+const initialHandler: Handler = (request) => fetch(request);
 
 export class Requester {
   private readonly handler = this.middleware.reduce(

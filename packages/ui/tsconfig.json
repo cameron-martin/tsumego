@@ -10,9 +10,7 @@
     "jsx": "preserve",
     "allowJs": true
   },
-  "include": [
-    "."
-  ],
+  "include": ["."],
   "references": [
     {
       "path": "../api-client"
@@ -21,7 +19,5 @@
       "path": "../api-client-authentication"
     }
   ],
-  "exclude": [
-    "node_modules"
-  ]
+  "exclude": ["node_modules"]
 }

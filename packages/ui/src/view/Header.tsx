@@ -20,7 +20,7 @@ interface Props {
   noMenu?: boolean;
 }
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   title: {
     flexGrow: 1,
   },
