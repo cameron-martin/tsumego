@@ -31,7 +31,7 @@ export class Puzzle {
     for (let i = 0; i < positions.length; i++) {
       const position = positions[i];
 
-      const sequence = sequences.find(sequence =>
+      const sequence = sequences.find((sequence) =>
         positionEquals(sequence.position, position),
       );
 

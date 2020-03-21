@@ -85,7 +85,7 @@ export default function Puzzle({ apiClient }: Props) {
     ) {
       apiClient.puzzle
         .solve(gameState.id, gameState.sequence)
-        .then(response => {
+        .then((response) => {
           if (response.type === 'continue') {
             setGameState({
               ...gameState,
@@ -103,7 +103,7 @@ export default function Puzzle({ apiClient }: Props) {
   }, [gameState, apiClient.puzzle]);
 
   const playMove = useCallback((position: BoardPosition) => {
-    setGameState(gameState => {
+    setGameState((gameState) => {
       if (
         gameState.loadState === 'fulfilled' &&
         gameState.moveState === 'humans-turn'

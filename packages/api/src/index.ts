@@ -18,12 +18,12 @@ import { rate } from './services/rate';
 
 class NotAuthorized extends Error {}
 
-process.on('unhandledRejection', err => {
+process.on('unhandledRejection', (err) => {
   throw err;
 });
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-const errorHandler: ErrorRequestHandler = function(err, req, res, next) {
+const errorHandler: ErrorRequestHandler = function (err, req, res, next) {
   // TODO: Hide stack in production
   if (err instanceof jwt.UnauthorizedError) {
     res.status(401).json({ message: err.message, stack: err.stack });
@@ -143,7 +143,7 @@ router.get('/user-ratings', async (req, res) => {
   const ratings = await ratingRepository.getLatestForAllUsers();
 
   res.json(
-    ratings.map(rating => {
+    ratings.map((rating) => {
       const currentRating = rating.entity.rating.currentRating;
 
       return {

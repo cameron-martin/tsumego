@@ -13,7 +13,7 @@ import ResponsiveImage from '../ResponsiveImage';
 import FeatureCard from './FeatureCard';
 import heroImage from './hero.jpg';
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   hero: {
     height: '70vh',
   },

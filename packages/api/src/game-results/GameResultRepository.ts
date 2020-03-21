@@ -31,7 +31,7 @@ export class GameResultRepository {
       values: [date],
     });
 
-    return result.rows.map(row => ({
+    return result.rows.map((row) => ({
       id: row.id,
       entity: {
         puzzleId: row.puzzle_id,

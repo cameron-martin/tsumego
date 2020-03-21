@@ -12,7 +12,7 @@ interface Props {
   className?: string;
 }
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   root: {
     padding: theme.spacing(4),
     display: 'flex',

@@ -22,8 +22,21 @@ test('Cho Chikun #1', async () => {
 
   const expected: PuzzleSpec = {
     initialStones: {
-      computer: [[3, 0], [0, 1], [1, 1], [2, 1], [3, 1]],
-      you: [[4, 1], [5, 1], [1, 2], [2, 2], [3, 2], [1, 4]],
+      computer: [
+        [3, 0],
+        [0, 1],
+        [1, 1],
+        [2, 1],
+        [3, 1],
+      ],
+      you: [
+        [4, 1],
+        [5, 1],
+        [1, 2],
+        [2, 2],
+        [3, 2],
+        [1, 4],
+      ],
     },
     sequences: [
       { type: 'leaf', position: [1, 0], outcome: 'correct' },

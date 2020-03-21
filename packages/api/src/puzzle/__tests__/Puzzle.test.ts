@@ -2,8 +2,21 @@ import { Puzzle } from '../Puzzle';
 
 const simplePuzzle = Puzzle.create({
   initialStones: {
-    computer: [[3, 0], [0, 1], [1, 1], [2, 1], [3, 1]],
-    you: [[4, 1], [5, 1], [1, 2], [2, 2], [3, 2], [1, 4]],
+    computer: [
+      [3, 0],
+      [0, 1],
+      [1, 1],
+      [2, 1],
+      [3, 1],
+    ],
+    you: [
+      [4, 1],
+      [5, 1],
+      [1, 2],
+      [2, 2],
+      [3, 2],
+      [1, 4],
+    ],
   },
   sequences: [
     { type: 'leaf', position: [1, 0], outcome: 'correct' },
@@ -216,19 +229,31 @@ test('immediately wrong known moves are wrong', () => {
 });
 
 test('incomplete sequences respond with continue', () => {
-  const result = complexPuzzle.playSequence([[3, 0], [0, 2]]);
+  const result = complexPuzzle.playSequence([
+    [3, 0],
+    [0, 2],
+  ]);
 
   expect(result).toEqual({ type: 'continue', response: [9, 0] });
 });
 
 test('long correct sequences are correct', () => {
-  const result = complexPuzzle.playSequence([[3, 0], [2, 0], [3, 0], [0, 2]]);
+  const result = complexPuzzle.playSequence([
+    [3, 0],
+    [2, 0],
+    [3, 0],
+    [0, 2],
+  ]);
 
   expect(result).toEqual({ type: 'correct' });
 });
 
 test('long known wrong sequences are wrong', () => {
-  const result = complexPuzzle.playSequence([[3, 0], [0, 2], [2, 0]]);
+  const result = complexPuzzle.playSequence([
+    [3, 0],
+    [0, 2],
+    [2, 0],
+  ]);
 
   expect(result).toEqual({ type: 'wrong', response: [5, 0] });
 });
@@ -246,8 +271,15 @@ describe('area', () => {
   test('calculates area correctly', () => {
     const puzzle = Puzzle.create({
       initialStones: {
-        you: [[3, 5], [5, 3], [10, 10]],
-        computer: [[2, 5], [6, 7]],
+        you: [
+          [3, 5],
+          [5, 3],
+          [10, 10],
+        ],
+        computer: [
+          [2, 5],
+          [6, 7],
+        ],
       },
       sequences: [
         {

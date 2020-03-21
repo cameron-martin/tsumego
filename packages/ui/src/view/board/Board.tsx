@@ -60,9 +60,9 @@ export default function Board({ className, game, playMove, crop }: Props) {
     <div className={clsx(classes.root, className)}>
       <FixedAspectRatio aspectRatio={rows.length / columns.length}>
         <div className={classes.columns}>
-          {columns.map(i => (
+          {columns.map((i) => (
             <div className={classes.column} key={i}>
-              {rows.map(j => (
+              {rows.map((j) => (
                 <BoardCell
                   currentPlayer={game.currentPlayer}
                   className={classes.cell}

@@ -19,8 +19,8 @@ const colours = (theme: Theme) =>
     white: theme.palette.grey[50],
   } as const);
 
-const useStyles = makeStyles<Theme, Props>(theme => ({
-  root: props => ({
+const useStyles = makeStyles<Theme, Props>((theme) => ({
+  root: (props) => ({
     borderRadius: '100%',
     position: 'absolute',
     top: '3%',
@@ -31,7 +31,7 @@ const useStyles = makeStyles<Theme, Props>(theme => ({
     opacity: props.isShadow ? 0.5 : 1,
     backgroundColor: colours(theme)[props.player],
   }),
-  lastPlaced: props => ({
+  lastPlaced: (props) => ({
     '&::before': {
       content: '" "',
       position: 'absolute',

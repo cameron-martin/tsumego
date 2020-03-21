@@ -45,15 +45,11 @@ const stone = point;
 const move = point.or(none);
 
 const single = <T>(parser: Parser<T>) =>
-  P.string('[')
-    .then(parser)
-    .skip(P.string(']'));
+  P.string('[').then(parser).skip(P.string(']'));
 
 const listOf = <T>(parser: Parser<T>) => single(parser).sepBy1(P.optWhitespace);
 const eListOf = <T>(parser: Parser<T>) =>
-  single(none)
-    .result([])
-    .or(listOf(parser));
+  single(none).result([]).or(listOf(parser));
 const composed = <A, B>(
   parser1: Parser<A>,
   parser2: Parser<B>,
@@ -146,13 +142,13 @@ export type Property =
     };
 
 const propIdent = ucLetter.atLeast(1).tie();
-const property: Parser<Property> = propIdent.chain(ident => {
+const property: Parser<Property> = propIdent.chain((ident) => {
   if (Object.prototype.hasOwnProperty.call(propertyParsers, ident)) {
     return (propertyParsers[ident as PropertyType] as Parser<unknown>).map(
-      value => ({ type: 'known', ident, value } as Property),
+      (value) => ({ type: 'known', ident, value } as Property),
     );
   } else {
-    return unknownPropertyParser.map(value => ({
+    return unknownPropertyParser.map((value) => ({
       type: 'unknown',
       unknownIdent: ident,
       value,
@@ -163,7 +159,7 @@ const property: Parser<Property> = propIdent.chain(ident => {
 const node: Parser<Node> = P.string(';')
   .then(P.optWhitespace)
   .then(property.sepBy(P.optWhitespace))
-  .map(properties => ({ properties }));
+  .map((properties) => ({ properties }));
 
 const sequence = node.sepBy1(P.optWhitespace);
 
@@ -178,13 +174,8 @@ export interface GameTree {
 
 const gameTree: Parser<GameTree> = P.lazy(() =>
   P.seqMap(
-    P.string('(')
-      .then(sequence)
-      .skip(P.optWhitespace),
-    gameTree
-      .sepBy(P.optWhitespace)
-      .skip(P.string(')'))
-      .skip(P.optWhitespace),
+    P.string('(').then(sequence).skip(P.optWhitespace),
+    gameTree.sepBy(P.optWhitespace).skip(P.string(')')).skip(P.optWhitespace),
     (nodes, gameTrees) => {
       return {
         nodes,

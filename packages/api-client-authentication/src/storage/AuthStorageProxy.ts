@@ -66,7 +66,7 @@ export class AuthStorageProxy implements AuthStorage, AuthContainer {
     this.hasLoaded = true;
     this.state = state;
 
-    this.listeners.forEach(handler => {
+    this.listeners.forEach((handler) => {
       handler(state);
     });
   }

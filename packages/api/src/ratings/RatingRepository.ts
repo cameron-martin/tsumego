@@ -27,7 +27,7 @@ export class RatingRepository {
       values: [],
     });
 
-    return result.rows.map(row => ({
+    return result.rows.map((row) => ({
       id: row.id,
       entity: {
         userId: row.user_id,
