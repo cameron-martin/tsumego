@@ -8336,10 +8336,10 @@ neo-async@^2.5.0, neo-async@^2.6.0, neo-async@^2.6.1:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
 
-next-aws-lambda@^2.3.6:
-  version "2.3.6"
-  resolved "https://registry.yarnpkg.com/next-aws-lambda/-/next-aws-lambda-2.3.6.tgz#68d9f4d1476b95cce924fac0dc4b0b5c6c9566eb"
-  integrity sha512-HZsKU4L/4szH3X6jeBQWpf1NEfMK5tkZny10oboGN6Hw2wjJkqLoAA09/i3GWp0zusXy2j0Ydt7QrNbshotNJA==
+next-aws-lambda@^2.3.8:
+  version "2.3.8"
+  resolved "https://registry.yarnpkg.com/next-aws-lambda/-/next-aws-lambda-2.3.8.tgz#4bff2772c0548c9c0846be6cbd60bf31d26a2404"
+  integrity sha512-ABa3JEPZPxFU/NQKmUuOhAByih8XBNtss0DgBa/1wGXt0OhdCZaTfbY1Un3xm8PGkU7nfpI4/QLZysUfbieA5g==
 
 next-tick@1, next-tick@^1.0.0, next-tick@~1.0.0:
   version "1.0.0"
@@ -10822,10 +10822,10 @@ serve-static@1.14.1:
     parseurl "~1.3.3"
     send "0.17.1"
 
-serverless-next.js@^1.9.5:
-  version "1.9.5"
-  resolved "https://registry.yarnpkg.com/serverless-next.js/-/serverless-next.js-1.9.5.tgz#ebfba20304d4c11cbce2622d249ab01f6702a093"
-  integrity sha512-pWjHOcMuLLM0KJDarf3a37P8e1e0J3kSXpzKrryRNfOX4QGLy11VjzbnjXtA5kJSnq2+McQ49sU6pHQ9llyyWg==
+serverless-next.js@^1.9.7:
+  version "1.9.7"
+  resolved "https://registry.yarnpkg.com/serverless-next.js/-/serverless-next.js-1.9.7.tgz#dbee98351bff7c5d484e96e85c164a40521dfedf"
+  integrity sha512-qda6ZBQHC6qzPZEU6HmW0ftPTRXgc6qZtNgsBNF+Ey6z0yr2P7RYxpf2XYq1Y/0Q3BO675sdWQ521HinEz40TQ==
   dependencies:
     "@serverless/aws-cloudfront" "^5.0.0"
     "@serverless/aws-lambda" "^3.0.0"
@@ -10834,7 +10834,7 @@ serverless-next.js@^1.9.5:
     "@serverless/domain" "^6.1.0"
     execa "^2.0.4"
     fs-extra "^8.1.0"
-    next-aws-lambda "^2.3.6"
+    next-aws-lambda "^2.3.8"
     path-to-regexp "^3.0.0"
 
 serverless@^1.67.0:
