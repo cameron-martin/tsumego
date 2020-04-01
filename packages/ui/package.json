@@ -12,7 +12,7 @@
     "@tsumego/api-client": "*",
     "@tsumego/api-client-authentication": "*",
     "@types/react": "^16.9.31",
-    "@types/react-dom": "^16.9.5",
+    "@types/react-dom": "^16.9.6",
     "clsx": "^1.1.0",
     "fp-ts": "^2.5.3",
     "immutable": "^4.0.0-rc.12",
