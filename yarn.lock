@@ -1796,19 +1796,19 @@
   dependencies:
     type-detect "4.0.8"
 
-"@sls-next/lambda-at-edge@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@sls-next/lambda-at-edge/-/lambda-at-edge-1.1.1.tgz#bf41194d5933d573986ea9d527c39d81306f8b20"
-  integrity sha512-pbvodeJdPpLP0Il7uSODWsHn6oXq3nU7RMlvkvZLtSHJoOUd7b76aAlvYkZZZ6hYlfDgfjqoSfjwptQnrWeXmA==
+"@sls-next/lambda-at-edge@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@sls-next/lambda-at-edge/-/lambda-at-edge-1.1.2.tgz#c3e58d0cdd9ba5447923543708ae481c9cf6c467"
+  integrity sha512-BTlrznGgV57uqQv9On3D4SJ1ickBQsAwAeF9h2WMLGyimLphKs7C2IyYZmrl06k3HOtFryBbpVOOnpWgKlSUmQ==
   dependencies:
     execa "^4.0.0"
     fs-extra "^9.0.0"
     path-to-regexp "^6.1.0"
 
-"@sls-next/s3-static-assets@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@sls-next/s3-static-assets/-/s3-static-assets-1.0.1.tgz#9f99f48204785a10650b755d2f0b2272a0472616"
-  integrity sha512-LjGb/p9ZhWeUdv7V3nzlxgcErE5lpajjw/l9R90hr7SJgLdUF9OZyiNs6TlxQQ2tJwGMclf0YoXTRHE0l1MyNg==
+"@sls-next/s3-static-assets@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@sls-next/s3-static-assets/-/s3-static-assets-1.0.2.tgz#760bff9141a93048b13020bae551e2f953464a1c"
+  integrity sha512-+tIR2jZL/4AizXKJmjz/cDddsJ15aSK3ZUKLntRQVJMXJgV5M/kBG79VG1+zd5qaO2DLjIkGCjjqFrcaQ33b+Q==
   dependencies:
     aws-sdk "^2.664.0"
     fs-extra "^9.0.0"
@@ -11481,18 +11481,18 @@ serve-static@1.14.1:
     parseurl "~1.3.3"
     send "0.17.1"
 
-serverless-next.js@^1.11.1:
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/serverless-next.js/-/serverless-next.js-1.11.1.tgz#138c40f58c99cd0700bac2f4989b3926e5f01675"
-  integrity sha512-Lv/vA6lfXxBlurxV0LE0s36Bv402fpXn6zN+23qvhjLWE/u2zXSDyWNzPlcMUJRDd62V+jJxBidMTGQGLKyxnw==
+serverless-next.js@^1.11.2:
+  version "1.11.2"
+  resolved "https://registry.yarnpkg.com/serverless-next.js/-/serverless-next.js-1.11.2.tgz#3bac51b1b548f41a2102ec5b0abb27b0fdfdd340"
+  integrity sha512-bHs0FM0zX2j6gCI5KnYZZVqyd0vWXX9x+UISXPAIyR6FgocwO8xP++lb/ljbtt/Dv+3sPLo0XmBKlEAkQ+yapQ==
   dependencies:
     "@serverless/aws-cloudfront" "^5.0.0"
     "@serverless/aws-lambda" "^3.0.3"
     "@serverless/aws-s3" "^4.2.0"
     "@serverless/core" "^1.0.0"
     "@serverless/domain" "^6.1.0"
-    "@sls-next/lambda-at-edge" "^1.1.1"
-    "@sls-next/s3-static-assets" "^1.0.1"
+    "@sls-next/lambda-at-edge" "^1.1.2"
+    "@sls-next/s3-static-assets" "^1.0.2"
     fs-extra "^8.1.0"
     next-aws-cloudfront "^1.1.0"
 
