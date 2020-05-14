@@ -4,6 +4,7 @@
     "target": "ESNext",
     "skipLibCheck": true,
     "noEmit": true,
+    "composite": false,
     "module": "esnext",
     "resolveJsonModule": true,
     "isolatedModules": true,
@@ -11,13 +12,5 @@
     "allowJs": true
   },
   "include": ["."],
-  "references": [
-    {
-      "path": "../api-client"
-    },
-    {
-      "path": "../api-client-authentication"
-    }
-  ],
   "exclude": ["node_modules"]
 }
