@@ -23,7 +23,7 @@
     "jwks-rsa": "^1.8.0",
     "lodash": "^4.17.15",
     "parsimmon": "^1.13.0",
-    "pg": "^8.2.0",
+    "pg": "^8.2.1",
     "runtypes": "^4.2.0"
   },
   "devDependencies": {
