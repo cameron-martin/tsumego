@@ -11,13 +11,11 @@ const createMockHandler = () => {
 
     return new Response(
       JSON.stringify({
-        /* eslint-disable @typescript-eslint/camelcase */
         access_token: `accessToken${currentIndex}`,
         refresh_token: `refreshToken${currentIndex}`,
         id_token: `idToken${currentIndex}`,
         token_type: 'Bearer',
         expires_in: 3600,
-        /* eslint-enable @typescript-eslint/camelcase */
       }),
     );
   });

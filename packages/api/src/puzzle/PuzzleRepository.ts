@@ -12,6 +12,7 @@ export default class PuzzleRepository {
       [JSON.stringify(puzzle.spec)],
     );
 
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-return
     return res.rows[0].id;
   }
 
@@ -73,8 +74,10 @@ export default class PuzzleRepository {
       return null;
     }
 
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
     const row = res.rows[0];
 
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
     return withId(row.id, Puzzle.create(row.puzzle));
   }
 }

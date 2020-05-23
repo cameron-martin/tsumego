@@ -30,13 +30,14 @@ export const createAuthMiddleware = ({
 
   return jwt({
     secret: (req, jwtHeaders, jwtPayload, done) => {
-      const { iss, aud } = jwtPayload;
+      const { iss, aud } = jwtPayload as { iss: unknown; aud: unknown };
 
       switch (iss) {
         case GOOGLE_ISSUER:
           if (aud !== gcpAudience) {
             done(
               new jwt.UnauthorizedError('invalid_token', {
+                // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
                 message: `Invalid audience: ${aud}`,
               }),
             );
@@ -49,6 +50,7 @@ export const createAuthMiddleware = ({
           if (aud !== cognitoClientId) {
             done(
               new jwt.UnauthorizedError('invalid_token', {
+                // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
                 message: `Invalid audience: ${aud}`,
               }),
             );
@@ -60,6 +62,7 @@ export const createAuthMiddleware = ({
         default:
           done(
             new jwt.UnauthorizedError('invalid_token', {
+              // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
               message: `Invalid issuer: ${iss}`,
             }),
           );

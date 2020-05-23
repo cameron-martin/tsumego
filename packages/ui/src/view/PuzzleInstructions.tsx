@@ -18,21 +18,26 @@ const useStyles = makeStyles({
   },
 });
 
-export default function PuzzleInstructions(props: Props) {
+export default function PuzzleInstructions({
+  className,
+  onNextPuzzle,
+  state,
+  humanPlayer,
+}: Props) {
   const classes = useStyles();
 
-  if (props.state === 'in-progress') {
+  if (state === 'in-progress') {
     return (
-      <p className={clsx(classes.root, props.className)}>
-        {props.humanPlayer === 'black' ? 'Black' : 'White'} to play
+      <p className={clsx(classes.root, className)}>
+        {humanPlayer === 'black' ? 'Black' : 'White'} to play
       </p>
     );
   }
 
   return (
-    <p className={clsx(classes.root, props.className)}>
-      {props.state === 'correct' ? 'Correct!' : 'Wrong!'}{' '}
-      <Button variant="contained" color="primary" onClick={props.onNextPuzzle}>
+    <p className={clsx(classes.root, className)}>
+      {state === 'correct' ? 'Correct!' : 'Wrong!'}{' '}
+      <Button variant="contained" color="primary" onClick={onNextPuzzle}>
         Next
       </Button>
     </p>

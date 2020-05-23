@@ -1,3 +1,6 @@
+/**
+ * @type {import('@babel/core').ConfigFunction}
+ */
 module.exports = (api) => {
   const targets = api.env('test') ? { node: 'current' } : undefined;
 

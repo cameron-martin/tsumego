@@ -13,9 +13,7 @@ export default function LoginCallback({ tokenManager }: Props) {
     if (tokenManager != null) {
       tokenManager.useAuthorizationCode(window.location.href);
 
-      tokenManager.getToken().then(() => {
-        Router.replace('/play');
-      });
+      void tokenManager.getToken().then(() => Router.replace('/play'));
     }
   }, [tokenManager]);
 

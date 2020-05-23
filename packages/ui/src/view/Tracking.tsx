@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/camelcase */
 import { useEffect } from 'react';
 import { useAuth } from './auth/AuthProvider';
 import { useRouter } from 'next/router';

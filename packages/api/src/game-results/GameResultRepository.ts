@@ -25,7 +25,15 @@ export class GameResultRepository {
    * TODO: Make this stream results
    */
   async getPlayedAfter(date: Date): Promise<Array<WithId<GameResult>>> {
-    const result = await this.pool.query({
+    interface Row {
+      id: number;
+      puzzle_id: number;
+      user_id: string;
+      user_won: boolean;
+      played_at: Date;
+    }
+
+    const result = await this.pool.query<Row>({
       text:
         'SELECT id, puzzle_id, user_id, user_won, played_at FROM game_results WHERE played_at > $1 ORDER BY played_at ASC',
       values: [date],
