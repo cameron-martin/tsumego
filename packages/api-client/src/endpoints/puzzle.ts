@@ -22,19 +22,20 @@ type SolvePuzzleResponse =
 export class PuzzleApiClient {
   constructor(private readonly requester: Requester) {}
 
-  getRandom(): Promise<GetPuzzleResponse> {
-    return this.requester.request('GET', `/puzzle/random`);
+  getRandom() {
+    return this.requester.request<GetPuzzleResponse>('GET', `/puzzle/random`);
   }
 
-  get(id: string): Promise<GetPuzzleResponse> {
-    return this.requester.request('GET', `/puzzle/${id}`);
+  get(id: string) {
+    return this.requester.request<GetPuzzleResponse>('GET', `/puzzle/${id}`);
   }
 
-  solve(
-    id: string,
-    solution: readonly BoardPosition[],
-  ): Promise<SolvePuzzleResponse> {
-    return this.requester.request('POST', `/puzzle/${id}/solution`, solution);
+  solve(id: string, solution: readonly BoardPosition[]) {
+    return this.requester.request<SolvePuzzleResponse>(
+      'POST',
+      `/puzzle/${id}/solution`,
+      solution,
+    );
   }
 
   /**

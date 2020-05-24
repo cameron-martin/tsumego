@@ -15,6 +15,7 @@ import { RatingRepository } from './ratings/RatingRepository';
 import { Rating } from './ratings/Rating';
 import { sampleWinProbability } from './ratings/win-probability';
 import { rate } from './services/rate';
+import { Record, String } from 'runtypes';
 
 class NotAuthorized extends Error {}
 
@@ -29,8 +30,10 @@ const errorHandler: ErrorRequestHandler = function (err, req, res, next) {
     res.status(401).json({ message: err.message, stack: err.stack });
   } else if (err instanceof NotAuthorized) {
     res.status(403).json({ message: err.message, stack: err.stack });
-  } else {
+  } else if (err instanceof Error) {
     res.status(500).json({ message: err.message, stack: err.stack });
+  } else {
+    res.status(500).json({ message: 'Unknown error', stack: '' });
   }
 };
 
@@ -45,7 +48,8 @@ const puzzleRepository = new PuzzleRepository(pool);
 const gameResultRespository = new GameResultRepository(pool);
 const ratingRepository = new RatingRepository(pool);
 
-const cognitoIdpUri = `https://cognito-idp.${process.env.COGNITO_REGION}.amazonaws.com/${process.env.COGNITO_USER_POOL_ID}`;
+const cognitoIdpUri = `https://cognito-idp.${process.env
+  .COGNITO_REGION!}.amazonaws.com/${process.env.COGNITO_USER_POOL_ID!}`;
 
 const app = express();
 const router = Router();
@@ -121,6 +125,8 @@ router.post('/puzzle/:puzzleId/solution', async (req, res) => {
   res.json(response);
 });
 
+const PuzzleBody = Record({ file: String });
+
 router.post('/puzzle', async (req, res) => {
   const token = getToken(req);
 
@@ -128,7 +134,9 @@ router.post('/puzzle', async (req, res) => {
     throw new NotAuthorized();
   }
 
-  await puzzleRepository.create(Puzzle.create(loadSgf(req.body.file)));
+  const body = PuzzleBody.check(req.body);
+
+  await puzzleRepository.create(Puzzle.create(loadSgf(body.file)));
 
   res.status(201).end();
 });
@@ -169,7 +177,7 @@ router.post('/rate', async (req, res) => {
   res.json(await rate(ratingRepository, gameResultRespository));
 });
 
-router.get('/status', async (req, res) => {
+router.get('/status', (req, res) => {
   res.status(200).send('OK');
 });
 

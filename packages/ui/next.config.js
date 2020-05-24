@@ -32,6 +32,7 @@ module.exports = (phase) => {
         use: {
           loader: 'responsive-loader',
           options: {
+            // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
             adapter: require('responsive-loader/sharp'),
             sizes: [500, 1000, 2000, 4000],
             publicPath: `/_next/static/images/`,

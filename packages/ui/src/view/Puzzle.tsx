@@ -75,7 +75,7 @@ export default function Puzzle({ apiClient }: Props) {
   }, [apiClient.puzzle]);
 
   useEffect(() => {
-    loadPuzzle();
+    void loadPuzzle();
   }, [loadPuzzle]);
 
   useEffect(() => {
@@ -83,7 +83,7 @@ export default function Puzzle({ apiClient }: Props) {
       gameState.loadState === 'fulfilled' &&
       gameState.moveState === 'computers-turn'
     ) {
-      apiClient.puzzle
+      void apiClient.puzzle
         .solve(gameState.id, gameState.sequence)
         .then((response) => {
           if (response.type === 'continue') {
@@ -132,7 +132,7 @@ export default function Puzzle({ apiClient }: Props) {
   const handleNextPuzzle = useCallback(() => {
     setGameState({ loadState: 'pending' });
 
-    loadPuzzle();
+    void loadPuzzle();
   }, [loadPuzzle]);
 
   if (gameState.loadState === 'pending') {

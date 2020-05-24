@@ -26,7 +26,7 @@ interface State {
 
 const config = getConfigFromEnv();
 
-export default class MyApp extends App<{}, {}, State> {
+export default class MyApp extends App<unknown, unknown, State> {
   state = {
     authContainer: nullAuthContainer,
     tokenManager: null,
@@ -41,7 +41,7 @@ export default class MyApp extends App<{}, {}, State> {
     }
 
     const storage = new AuthStorageProxy(new WebAuthStorage(localStorage));
-    storage.load();
+    void storage.load();
 
     const tokenManager = new OAuth2AuthorisationCodeFlowTokenManager({
       clientId: config.cognitoClientId,
@@ -60,6 +60,7 @@ export default class MyApp extends App<{}, {}, State> {
   }
 
   render() {
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
     const { Component, pageProps } = this.props;
 
     return (

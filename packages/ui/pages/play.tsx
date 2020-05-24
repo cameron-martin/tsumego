@@ -12,7 +12,7 @@ export default function Index() {
 
   useEffect(() => {
     if (authState && !authState.userId) {
-      Router.replace('/');
+      void Router.replace('/');
     }
   }, [authState]);
 

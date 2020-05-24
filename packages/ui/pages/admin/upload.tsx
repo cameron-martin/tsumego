@@ -18,7 +18,7 @@ export default function Home() {
     (acceptedFiles: File[]) => {
       if (apiClient) {
         acceptedFiles.forEach((file) => {
-          apiClient.puzzle.create(file);
+          void apiClient.puzzle.create(file);
         });
       }
     },

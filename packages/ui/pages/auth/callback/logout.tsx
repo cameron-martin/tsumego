@@ -11,9 +11,7 @@ interface Props {
 export default function LogoutCallback({ tokenManager }: Props) {
   useEffect(() => {
     if (tokenManager != null) {
-      tokenManager.removeTokens().then(() => {
-        Router.replace('/');
-      });
+      void tokenManager.removeTokens().then(() => Router.replace('/'));
     }
   }, [tokenManager]);
 

@@ -14,7 +14,11 @@ export class Requester {
     private readonly middleware: Middleware[],
   ) {}
 
-  async request(method: 'POST' | 'GET', path: string, body?: unknown) {
+  async request<Result>(
+    method: 'POST' | 'GET',
+    path: string,
+    body?: unknown,
+  ): Promise<Result> {
     const request = new Request(this.host + path, {
       method,
       body: body && JSON.stringify(body),
@@ -26,9 +30,9 @@ export class Requester {
     const response = await this.handler(request);
 
     if (!response.ok) {
-      throw new Error('Got bad status code: ' + response.status);
+      throw new Error(`Got bad status code: ${response.status}`);
     }
 
-    return response.json();
+    return response.json() as Promise<Result>;
   }
 }

@@ -110,15 +110,20 @@ export class OAuth2AuthorisationCodeFlowTokenManager implements TokenManager {
       return null;
     }
 
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
     const responseBody = await response.json();
 
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment,  @typescript-eslint/no-unsafe-member-access
     const refreshToken = responseBody.refresh_token;
     await this.config.storage.setRefreshToken(refreshToken);
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
     this._refreshToken = Promise.resolve(refreshToken);
 
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access
     const token = responseBody.id_token;
     await this.config.storage.setAccessToken(token);
 
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-return
     return token;
   }
 

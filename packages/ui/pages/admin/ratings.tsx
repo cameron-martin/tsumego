@@ -19,7 +19,7 @@ export default function Ratings() {
 
   useEffect(() => {
     if (apiClient) {
-      apiClient.userRatings.getAll().then((ratings) => {
+      void apiClient.userRatings.getAll().then((ratings) => {
         setRatings(ratings);
       });
     }

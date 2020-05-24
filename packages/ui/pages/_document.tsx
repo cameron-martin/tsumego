@@ -7,7 +7,7 @@ const analytics = (
   <>
     <script
       async
-      src={`https://www.googletagmanager.com/gtag/js?id=${process.env.GA_ID}`}
+      src={`https://www.googletagmanager.com/gtag/js?id=${process.env.GA_ID!}`}
     />
     <script
       dangerouslySetInnerHTML={{

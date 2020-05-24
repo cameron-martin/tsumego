@@ -21,7 +21,15 @@ export class RatingRepository {
   }
 
   async getLatestForAllUsers(): Promise<Array<WithId<UserRating>>> {
-    const result = await this.pool.query({
+    interface Row {
+      id: number;
+      mean: number;
+      deviation: number;
+      rated_at: Date;
+      user_id: string;
+    }
+
+    const result = await this.pool.query<Row>({
       text:
         'SELECT DISTINCT ON (user_id) id, mean, deviation, rated_at, user_id FROM user_ratings ORDER BY user_id, rated_at DESC',
       values: [],
@@ -65,7 +73,14 @@ export class RatingRepository {
   }
 
   private async getOne(query: string | QueryConfig) {
-    const result = await this.pool.query(query);
+    interface Row {
+      id: number;
+      deviation: number;
+      mean: number;
+      rated_at: Date;
+    }
+
+    const result = await this.pool.query<Row>(query);
 
     if (result.rows.length === 0) {
       return null;

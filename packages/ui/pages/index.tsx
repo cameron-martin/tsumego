@@ -11,7 +11,7 @@ export default function Index() {
 
   useEffect(() => {
     if (authState && authState.userId) {
-      Router.replace('/play');
+      void Router.replace('/play');
     }
   }, [authState]);
 
