@@ -24,7 +24,7 @@
     "responsive-loader": "^1.2.0",
     "runtypes": "^4.2.0",
     "serverless": "^1.73.1",
-    "serverless-next.js": "^1.13.0",
+    "serverless-next.js": "^1.14.0",
     "sharp": "^0.25.4"
   }
 }
