@@ -5834,10 +5834,10 @@ express-jwt@^5.3.3:
     jsonwebtoken "^8.1.0"
     lodash.set "^4.0.0"
 
-express-promise-router@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/express-promise-router/-/express-promise-router-4.0.0.tgz#a4ba0f23801639a2801ef0efb4e86a8fe331c23a"
-  integrity sha512-h5uYgI2RNLzZlG58kEENFoVAPSxv/XfJBysD2IMit5RPO5BxxUAKsTDLumNI84oIPtVoQZLrgtlfDBnW/e6Czw==
+express-promise-router@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/express-promise-router/-/express-promise-router-4.0.1.tgz#7ed65473a12208ec1065c1358c398175b89d425c"
+  integrity sha512-kqan6QuMV7FdfN9b2uYpaKEJnxzfj57voI4IsMjgug5mBc6/hjuvoUT76Z/pvRqID2isl/NygTUe8S2MH2trMg==
   dependencies:
     is-promise "^4.0.0"
     lodash.flattendeep "^4.0.0"
