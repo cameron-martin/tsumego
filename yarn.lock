@@ -11451,10 +11451,10 @@ run-queue@^1.0.0, run-queue@^1.0.3:
   dependencies:
     aproba "^1.1.1"
 
-runtypes@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/runtypes/-/runtypes-4.2.0.tgz#6bb01a4683c1ac76015de8669df32a034c6cb0fe"
-  integrity sha512-s89DYbxI7qKSpDMmdKQCGg61nH45tYA5LJMR0pWfJ/1nwPdpww75fusQqGzXE7llpk+rwe8fNPSx78FRGKenJg==
+runtypes@^4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/runtypes/-/runtypes-4.3.0.tgz#7332acd86cb8332982e00d134d27a2e4fe701779"
+  integrity sha512-LXPlqYo6o72vpJcLrmcf9TMlGUxIYwM6cK0xwZU+ILdytXL+eMdFfHRl3me3Ylowuu9X3uCepDN9inmQrIeFHA==
 
 rxjs@^6.4.0, rxjs@^6.5.3:
   version "6.5.5"
