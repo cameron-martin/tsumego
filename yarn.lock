@@ -2205,6 +2205,11 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.4.tgz#38fd73ddfd9b55abb1e1b2ed578cb55bd7b7d339"
   integrity sha512-8+KAKzEvSUdeo+kmqnKrqgeE+LcA0tjYWFY7RPProVYwnqDjukzO+3b6dLD56rYX5TdWejnEOLJYOIeh4CXKuA==
 
+"@types/json-schema@^7.0.4":
+  version "7.0.5"
+  resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.5.tgz#dcce4430e64b443ba8945f0290fb564ad5bac6dd"
+  integrity sha512-7+2BITlgjgDhH0vvwZU/HZJVyk+2XUlvxXe8dFMedNX/aMkaOq++rMAFXc0tM7ij15QaWlbdQASBR9dihi+bDQ==
+
 "@types/jwt-decode@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@types/jwt-decode/-/jwt-decode-2.2.1.tgz#afdf5c527fcfccbd4009b5fd02d1e18241f2d2f2"
@@ -2817,7 +2822,7 @@ ajv-keywords@^3.1.0, ajv-keywords@^3.4.1:
   resolved "https://registry.yarnpkg.com/ajv-keywords/-/ajv-keywords-3.4.1.tgz#ef916e271c64ac12171fd8384eaae6b2345854da"
   integrity sha512-RO1ibKvd27e6FEShVFfPALuHI3WjSVNeK5FIsmme/LYRNxjKuNj+Dt7bucLa6NdSv3JcVTyMlm9kGR84z1XpaQ==
 
-ajv@^6.1.0, ajv@^6.10.0, ajv@^6.10.2, ajv@^6.12.0, ajv@^6.12.3, ajv@^6.5.5:
+ajv@^6.1.0, ajv@^6.10.0, ajv@^6.10.2, ajv@^6.12.0, ajv@^6.12.2, ajv@^6.12.3, ajv@^6.5.5:
   version "6.12.3"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.12.3.tgz#18c5af38a111ddeb4f2697bd78d68abc1cabd706"
   integrity sha512-4K0cK3L1hsqk9xIb2z9vs/XU+PGJZ9PNpJRDS9YLzmNdX6jmVPfamLvTJr0aDAusnHyCHO6MjzlkAsgtqp9teA==
@@ -11136,12 +11141,13 @@ responselike@1.0.2, responselike@^1.0.2:
   dependencies:
     lowercase-keys "^1.0.0"
 
-responsive-loader@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/responsive-loader/-/responsive-loader-1.2.0.tgz#89b98a11d0cb27fe6c17b0831350e1455c14ba31"
-  integrity sha512-ZbeiKySyCMkMLm747DlwvpRS6mk7MiJZiXmOY6KxE5P7d08av3jy2fbEpDDnuxWDruVUePoMzMg9hYGtBWFNxg==
+responsive-loader@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/responsive-loader/-/responsive-loader-2.0.0.tgz#929915399de828906def89293cce45ebfa03afa0"
+  integrity sha512-V82uI9YI0IvpBt9dLNY5xhuv9n9jaMgiTYBmOtnKaxJpfiybObObrDWWbr08L98MYPTA8/YeF99qqlTgG8WI+w==
   dependencies:
-    loader-utils "^1.1.0"
+    loader-utils "^2.0.0"
+    schema-utils "^2.7.0"
 
 restore-cursor@^2.0.0:
   version "2.0.0"
@@ -11335,7 +11341,7 @@ scheduler@^0.19.1:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
-schema-utils@2.6.6, schema-utils@^2.6.1, schema-utils@^2.6.6:
+schema-utils@2.6.6:
   version "2.6.6"
   resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-2.6.6.tgz#299fe6bd4a3365dc23d99fd446caff8f1d6c330c"
   integrity sha512-wHutF/WPSbIi9x6ctjGGk2Hvl0VOz5l3EKEuKbjPlB30mKZUzb9A5k9yEXRX3pwyqVLPvpfZZEllaFq/M718hA==
@@ -11351,6 +11357,15 @@ schema-utils@^1.0.0:
     ajv "^6.1.0"
     ajv-errors "^1.0.0"
     ajv-keywords "^3.1.0"
+
+schema-utils@^2.6.1, schema-utils@^2.6.6, schema-utils@^2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-2.7.0.tgz#17151f76d8eae67fbbf77960c33c676ad9f4efc7"
+  integrity sha512-0ilKFI6QQF5nxDZLFn2dMjvc4hjg/Wkg7rHd3jK6/A4a1Hl9VFdQWvgB1UMGoU94pad1P/8N7fMcEnLnSiju8A==
+  dependencies:
+    "@types/json-schema" "^7.0.4"
+    ajv "^6.12.2"
+    ajv-keywords "^3.4.1"
 
 seek-bzip@^1.0.5:
   version "1.0.5"
