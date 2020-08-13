@@ -20,7 +20,7 @@
     "next": "^9.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-dropzone": "^11.0.2",
+    "react-dropzone": "^11.0.3",
     "responsive-loader": "^2.0.0",
     "runtypes": "^4.3.0",
     "serverless": "^1.78.1",
