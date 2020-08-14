@@ -11119,10 +11119,10 @@ responselike@1.0.2, responselike@^1.0.2:
   dependencies:
     lowercase-keys "^1.0.0"
 
-responsive-loader@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/responsive-loader/-/responsive-loader-2.0.1.tgz#b89af71809776590aa9c5bc59712325c0557fc56"
-  integrity sha512-cqQREOb56qBGIoKLpRvJv1MDXLvoz7Pnc3gkivV4xa5gQlZQ30WSSrf7fuvHFLSK8baQcWUyRjyk1srv7PugBA==
+responsive-loader@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/responsive-loader/-/responsive-loader-2.0.2.tgz#2321a4ad6076f8d1777818b4d00719995086e7ed"
+  integrity sha512-5SiZLBHBn1EXwtXjVBMzGHYlekz641oAVZb39DB1btuxmrrNDWCroM3+zjw2F1vTix79BqIq6WWlTpuy1ZEd2Q==
   dependencies:
     loader-utils "^2.0.0"
     schema-utils "^2.7.0"
