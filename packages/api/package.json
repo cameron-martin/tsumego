@@ -24,7 +24,7 @@
     "lodash": "^4.17.20",
     "parsimmon": "^1.15.0",
     "pg": "^8.3.0",
-    "runtypes": "^4.3.0"
+    "runtypes": "^5.0.1"
   },
   "devDependencies": {
     "cross-env": "^7.0.2",
