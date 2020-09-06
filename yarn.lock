@@ -10140,16 +10140,13 @@ responselike@1.0.2, responselike@^1.0.2:
   dependencies:
     lowercase-keys "^1.0.0"
 
-responsive-loader@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/responsive-loader/-/responsive-loader-2.1.0.tgz#7ed2b941f01b0e3e3cac37b051efa2ae95ab3ba0"
-  integrity sha512-xho5Wum7ikov00aSMM+o/UIP0O65fzjpI7qnBK3HpXyTiVD+YLAfG5MWdoENp6HgNaTIeM9jHZMEUB0Q9rzP+Q==
+responsive-loader@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/responsive-loader/-/responsive-loader-2.1.1.tgz#462b34601fb1200740ab7aba05c99040dea22d64"
+  integrity sha512-5vv37eOR6M+fnUakZRkldR0Z/35MaCziap2re+eDiQPq6+1uy4onTk7aZ1OZM+iUAz6Ove6hnEBOfmRYHmq/6w==
   dependencies:
     loader-utils "^2.0.0"
     schema-utils "^2.7.1"
-  optionalDependencies:
-    jest "^26.4.2"
-    sharp "^0.26.0"
 
 restore-cursor@^2.0.0:
   version "2.0.0"
