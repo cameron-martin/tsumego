@@ -35,7 +35,7 @@
     "prettier": "^2.1.1",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.2",
-    "whatwg-fetch": "^3.4.0",
+    "whatwg-fetch": "^3.4.1",
     "wsrun": "^5.2.1"
   }
 }
