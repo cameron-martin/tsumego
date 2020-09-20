@@ -25,6 +25,6 @@
     "runtypes": "^5.0.1",
     "serverless": "^2.0.0",
     "serverless-next.js": "^1.14.0",
-    "sharp": "^0.26.0"
+    "sharp": "^0.26.1"
   }
 }
