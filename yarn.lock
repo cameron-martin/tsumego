@@ -7603,10 +7603,10 @@ jss@10.1.1, jss@^10.0.3:
     is-in-browser "^1.1.3"
     tiny-warning "^1.0.2"
 
-jstat@^1.9.3:
-  version "1.9.3"
-  resolved "https://registry.yarnpkg.com/jstat/-/jstat-1.9.3.tgz#6a0e60c3b87fd714b61e765b77fc6b035437ee34"
-  integrity sha512-/2JL4Xv6xfhN2+AEKQGTYr1LZTmBCR/5fHxJVvb9zWNsmKZfKrl3wYYK8SD/Z8kXkf+ZSusfumLZ4wDTHrWujA==
+jstat@^1.9.4:
+  version "1.9.4"
+  resolved "https://registry.yarnpkg.com/jstat/-/jstat-1.9.4.tgz#5b787bcbc6353f54904307f2a4e6d4a4a1897f39"
+  integrity sha512-IiTPlI7pcrsq41EpDzrghlA1fhiC9GXxNqO4k5ogsjsM1XAWQ8zESH/bZsExLVgQsYpXE+7c11kEbbuxTLUpJQ==
 
 jsx-ast-utils@^2.4.1:
   version "2.4.1"
