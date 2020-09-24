@@ -24,7 +24,9 @@
     "responsive-loader": "^2.1.1",
     "runtypes": "^5.0.1",
     "serverless": "^2.2.0",
-    "serverless-next.js": "^1.14.0",
     "sharp": "^0.26.1"
+  },
+  "devDependencies": {
+    "@sls-next/serverless-component": "1.16.0"
   }
 }

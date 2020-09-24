@@ -1,5 +1,5 @@
 tsumegoUi:
-  component: serverless-next.js
+  component: '@sls-next/serverless-component'
   inputs:
     build: false
     bucketName: tsumego-next
