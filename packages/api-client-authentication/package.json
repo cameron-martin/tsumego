@@ -5,6 +5,6 @@
   "dependencies": {
     "@tsumego/api-client": "*",
     "@types/jwt-decode": "^2.2.1",
-    "jwt-decode": "^2.2.0"
+    "jwt-decode": "^3.0.0"
   }
 }
