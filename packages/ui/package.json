@@ -17,7 +17,7 @@
     "fp-ts": "^2.8.3",
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.20",
-    "next": "^9.5.3",
+    "next": "^9.5.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-dropzone": "^11.2.0",
