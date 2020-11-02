@@ -27,6 +27,6 @@
     "sharp": "^0.26.2"
   },
   "devDependencies": {
-    "@sls-next/serverless-component": "1.17.0"
+    "@sls-next/serverless-component": "1.18.0"
   }
 }
