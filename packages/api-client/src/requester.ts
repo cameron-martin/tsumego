@@ -21,10 +21,13 @@ export class Requester {
   ): Promise<Result> {
     const request = new Request(this.host + path, {
       method,
-      body: body && JSON.stringify(body),
-      headers: body && {
-        'Content-Type': 'application/json',
-      },
+      body: body !== undefined ? JSON.stringify(body) : undefined,
+      headers:
+        body !== undefined
+          ? {
+              'Content-Type': 'application/json',
+            }
+          : undefined,
     });
 
     const response = await this.handler(request);
