@@ -4,7 +4,6 @@
   "main": "dist/index.js",
   "dependencies": {
     "@tsumego/api-client": "*",
-    "@types/jwt-decode": "^2.2.1",
-    "jwt-decode": "^3.0.0"
+    "jwt-decode": "^3.1.2"
   }
 }
