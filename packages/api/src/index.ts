@@ -74,6 +74,7 @@ app.use(
 
 app.use(bodyParser.json());
 
+// eslint-disable-next-line @typescript-eslint/no-misused-promises
 router.get('/puzzle/random', async (req, res) => {
   const token = getToken(req);
 
@@ -99,6 +100,7 @@ router.get('/puzzle/random', async (req, res) => {
   });
 });
 
+// eslint-disable-next-line @typescript-eslint/no-misused-promises
 router.post('/puzzle/:puzzleId/solution', async (req, res) => {
   const token = getToken(req);
 
@@ -127,6 +129,7 @@ router.post('/puzzle/:puzzleId/solution', async (req, res) => {
 
 const PuzzleBody = Record({ file: String });
 
+// eslint-disable-next-line @typescript-eslint/no-misused-promises
 router.post('/puzzle', async (req, res) => {
   const token = getToken(req);
 
@@ -141,6 +144,7 @@ router.post('/puzzle', async (req, res) => {
   res.status(201).end();
 });
 
+// eslint-disable-next-line @typescript-eslint/no-misused-promises
 router.get('/user-ratings', async (req, res) => {
   const token = getToken(req);
 
@@ -164,6 +168,7 @@ router.get('/user-ratings', async (req, res) => {
   );
 });
 
+// eslint-disable-next-line @typescript-eslint/no-misused-promises
 router.post('/rate', async (req, res) => {
   const token = getToken(req);
 
