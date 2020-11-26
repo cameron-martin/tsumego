@@ -2195,10 +2195,10 @@
     node-fetch "^2.6.0"
     shortid "^2.2.14"
 
-"@serverless/components@^3.4.0":
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/@serverless/components/-/components-3.4.0.tgz#50e47c04d6f5b4267c8b0b516e37f861ec44fc15"
-  integrity sha512-EtmHyWax2O4vJ+v769neFBTBh4xNqapgmUq/au3vkb/+BKt50ZE8YM4KnyMFG1PCoPaXKNWXqbIBnP92vJZaeA==
+"@serverless/components@^3.4.2":
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/@serverless/components/-/components-3.4.2.tgz#41005e80db35ebe622f730545bd95e80e8299bcb"
+  integrity sha512-yBQwN4Z0LqsYzA+SCTh6/LaGEPAu6lNAr32j2pjjZWCnDwpV1TKaSCNDTAPNSVk5L2/8exRpiEQUNM0NyTGWqA==
   dependencies:
     "@serverless/platform-client" "^3.1.1"
     "@serverless/platform-client-china" "^2.0.9"
@@ -3681,10 +3681,10 @@ aws-sdk@2.728.0:
     uuid "3.3.2"
     xml2js "0.4.19"
 
-aws-sdk@^2.387.0, aws-sdk@^2.488.0, aws-sdk@^2.702.0, aws-sdk@^2.796.0:
-  version "2.796.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.796.0.tgz#56aa4e894162c54804abd7f0afa6ca22264ae557"
-  integrity sha512-200ic1PfRhcoLqQJkdHuZx5Utd+FFPTHEFwFvAU6zKXkKTe4P+ZfSETkoLCqsN8ks61mvXevzeHviJt89BLGbw==
+aws-sdk@^2.387.0, aws-sdk@^2.488.0, aws-sdk@^2.702.0, aws-sdk@^2.799.0:
+  version "2.799.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.799.0.tgz#8b1a64c1a9f8ccf5794eb07bdd8051e4cb6adcfd"
+  integrity sha512-NYAoiNU+bJXhlJsC0rFqrmD5t5ho7/VxldmziP6HLPYHfOCI9Uvk6UVjfPmhLWPm0mHnIxhsHqmsNGyjhHNYmw==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -9915,12 +9915,12 @@ p-limit@^2.0.0, p-limit@^2.2.0:
   dependencies:
     p-try "^2.0.0"
 
-p-limit@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-3.0.2.tgz#1664e010af3cadc681baafd3e2a437be7b0fb5fe"
-  integrity sha512-iwqZSOoWIW+Ew4kAGUlN16J4M7OB3ysMLSZtnhmqx7njIHFPlxWBX8xo3lVTyFVq6mI/lL9qt2IsN1sHwaxJkg==
+p-limit@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-3.1.0.tgz#e1daccbe78d0d1388ca18c64fea38e3e57e3706b"
+  integrity sha512-TYOanM3wGwNGsZN2cVTYPArw454xnXj5qmWF1bEoAc4+cU/ol7GVh7odevjp1FNHduHc3KZMcFduxU5Xc6uJRQ==
   dependencies:
-    p-try "^2.0.0"
+    yocto-queue "^0.1.0"
 
 p-locate@^3.0.0:
   version "3.0.0"
@@ -11439,19 +11439,19 @@ serve-static@1.14.1:
     parseurl "~1.3.3"
     send "0.17.1"
 
-serverless@^2.12.0:
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/serverless/-/serverless-2.12.0.tgz#5e993a5c27c22b2cf603d8e97bafa7b7f619a1af"
-  integrity sha512-T36JRXVwIqB0FNV7h8n9vG2EnfwuznQnIH4ICmnfIZ2UcfE+cF2IBU98W1j6Pebh1qYUIM4uDZ7SnyvaGfGImw==
+serverless@^2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/serverless/-/serverless-2.13.0.tgz#f6c7d2760daf071a2b4323bbe2c4e3efb5d309de"
+  integrity sha512-MOz0JYlPrWGwuyVUIncyaNRSlwOzVUFj5T/ITRjtO5PYXUWr+BB+yhZ97KoOhuL/hVnQ7ZjsmYgOvzo8hHwv9w==
   dependencies:
     "@serverless/cli" "^1.5.2"
-    "@serverless/components" "^3.4.0"
+    "@serverless/components" "^3.4.2"
     "@serverless/enterprise-plugin" "^4.1.2"
     "@serverless/utils" "^2.0.0"
     ajv "^6.12.6"
     ajv-keywords "^3.5.2"
     archiver "^5.1.0"
-    aws-sdk "^2.796.0"
+    aws-sdk "^2.799.0"
     bluebird "^3.7.2"
     boxen "^4.2.0"
     cachedir "^2.3.0"
@@ -11460,6 +11460,7 @@ serverless@^2.12.0:
     d "^1.0.1"
     dayjs "^1.9.6"
     decompress "^4.2.1"
+    dotenv "^8.2.0"
     download "^8.0.0"
     essentials "^1.1.1"
     fastest-levenshtein "^1.0.12"
@@ -11481,7 +11482,7 @@ serverless@^2.12.0:
     ncjsm "^4.1.0"
     node-fetch "^2.6.1"
     object-hash "^2.0.3"
-    p-limit "^3.0.2"
+    p-limit "^3.1.0"
     promise-queue "^2.2.5"
     replaceall "^0.1.6"
     semver "^7.3.2"
@@ -13472,6 +13473,11 @@ yn@3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/yn/-/yn-3.1.1.tgz#1e87401a09d767c1d5eab26a6e4c185182d2eb50"
   integrity sha512-Ux4ygGWsu2c7isFWe8Yu1YluJmqVhxqK2cLXNQA5AcC3QfbGNpM7fu0Y8b/z16pXLnFxZYvWhd3fhBY9DLmC6Q==
+
+yocto-queue@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
+  integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
 zip-stream@^2.1.2:
   version "2.1.3"
