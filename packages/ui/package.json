@@ -21,7 +21,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-dropzone": "^11.2.4",
-    "responsive-loader": "^2.2.0",
+    "responsive-loader": "^2.2.1",
     "runtypes": "^5.0.1",
     "serverless": "^2.13.0",
     "sharp": "^0.26.3"
