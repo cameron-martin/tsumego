@@ -27,7 +27,7 @@
     "runtypes": "^5.0.1"
   },
   "devDependencies": {
-    "cross-env": "^7.0.2",
+    "cross-env": "^7.0.3",
     "dotenv": "^8.2.0",
     "nodemon": "^2.0.6"
   }
