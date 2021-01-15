@@ -23,7 +23,7 @@
     "react-dropzone": "^11.2.4",
     "responsive-loader": "^2.3.0",
     "runtypes": "^5.0.1",
-    "serverless": "^2.18.0",
+    "serverless": "^2.19.0",
     "sharp": "^0.27.0"
   },
   "devDependencies": {
