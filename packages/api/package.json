@@ -13,7 +13,7 @@
     "@types/express-jwt": "^6.0.0",
     "@types/lodash": "^4.14.168",
     "@types/parsimmon": "^1.10.6",
-    "@types/pg": "^7.14.8",
+    "@types/pg": "^7.14.9",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
