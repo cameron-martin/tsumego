@@ -2397,6 +2397,20 @@
     uuid "^8.3.2"
     write-file-atomic "^3.0.3"
 
+"@serverless/utils@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@serverless/utils/-/utils-3.0.0.tgz#558b04dab8027d010a0aebd28172252ecd749007"
+  integrity sha512-vY4oSLyANF+eMs24H+NGSrKxR5V/2n5l/PBL+J42uUfbcxjSHKx3bIzeKXSsaPkfvMHB6zD7tlkmgoCmkqPLUA==
+  dependencies:
+    chalk "^4.1.0"
+    inquirer "^7.3.3"
+    js-yaml "^4.0.0"
+    lodash "^4.17.20"
+    ncjsm "^4.1.0"
+    type "^2.1.0"
+    uuid "^8.3.2"
+    write-file-atomic "^3.0.3"
+
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
@@ -11499,15 +11513,15 @@ serve-static@1.14.1:
     parseurl "~1.3.3"
     send "0.17.1"
 
-serverless@^2.21.0:
-  version "2.21.0"
-  resolved "https://registry.yarnpkg.com/serverless/-/serverless-2.21.0.tgz#c35dbc9efe20a30e1a58e594373404ed59f8a516"
-  integrity sha512-ZXuBedU1MnEmK2EkedOQ7WPxHucoutUEDzOKQDLsJSCe7JZLOUbhiCLZRyIp/j7eojTq5u8jfL6k9VLD+XcdFA==
+serverless@^2.21.1:
+  version "2.21.1"
+  resolved "https://registry.yarnpkg.com/serverless/-/serverless-2.21.1.tgz#5f08c6d49f03cacc76cd162a9abed02e20affa7b"
+  integrity sha512-nL1iWlOoa91eWfcN8nO7PyIfZC5gibSxtB4V+ipVxIywxlVK19hNetkWus5vI7+399FN3fcCEZEbH89/+GiY6w==
   dependencies:
     "@serverless/cli" "^1.5.2"
     "@serverless/components" "^3.5.1"
     "@serverless/enterprise-plugin" "^4.4.2"
-    "@serverless/utils" "^2.2.0"
+    "@serverless/utils" "^3.0.0"
     ajv "^6.12.6"
     ajv-keywords "^3.5.2"
     archiver "^5.2.0"
