@@ -2164,10 +2164,10 @@
     node-fetch "^2.6.0"
     shortid "^2.2.14"
 
-"@serverless/components@^3.5.1":
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/@serverless/components/-/components-3.5.1.tgz#124493a9f8faa64b0fa345330620d1c72cc1c7d1"
-  integrity sha512-GRXdO4e2gWwVQ+RNdbffaym92cIcUHzYfIK3mxWv2zIL/4rKXz5YaptRj6hd3EST12/iBsEOktomtuCfG1i9RA==
+"@serverless/components@^3.6.0":
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/@serverless/components/-/components-3.6.1.tgz#5583467a335c840e3f85ef98d63918a0a12359ff"
+  integrity sha512-B6X+jV9zu8NPavTDiUVvRTOZeREUiJ8D1RT8BpKB6kJubPS6h/RTBjdPrt3Y+DQBX4AfMb9xa2G4L4rj2shHJQ==
   dependencies:
     "@serverless/platform-client" "^3.1.5"
     "@serverless/platform-client-china" "^2.1.0"
@@ -2186,7 +2186,6 @@
     got "^11.8.1"
     graphlib "^2.1.8"
     https-proxy-agent "^5.0.0"
-    ini "^1.3.8"
     inquirer-autocomplete-prompt "^1.3.0"
     js-yaml "^3.14.1"
     memoizee "^0.4.14"
@@ -2360,14 +2359,15 @@
     uuid "^8.3.2"
     write-file-atomic "^3.0.3"
 
-"@serverless/utils@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@serverless/utils/-/utils-3.0.0.tgz#558b04dab8027d010a0aebd28172252ecd749007"
-  integrity sha512-vY4oSLyANF+eMs24H+NGSrKxR5V/2n5l/PBL+J42uUfbcxjSHKx3bIzeKXSsaPkfvMHB6zD7tlkmgoCmkqPLUA==
+"@serverless/utils@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@serverless/utils/-/utils-3.1.0.tgz#99906d3640898a69bb3ef75a432a7b5a6960694a"
+  integrity sha512-HhmnTtfGt4gKCNGHg0q9pioltChh+dWbdA7y1aP7vNqjwpZ/pUDAqJf/M3GFozTnhlFpwCY9Ik1tOpDkgP3oiA==
   dependencies:
     chalk "^4.1.0"
     inquirer "^7.3.3"
     js-yaml "^4.0.0"
+    jwt-decode "^3.1.2"
     lodash "^4.17.20"
     ncjsm "^4.1.0"
     type "^2.1.0"
@@ -3491,10 +3491,10 @@ aws-sdk@2.728.0:
     uuid "3.3.2"
     xml2js "0.4.19"
 
-aws-sdk@^2.387.0, aws-sdk@^2.488.0, aws-sdk@^2.702.0, aws-sdk@^2.831.0:
-  version "2.831.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.831.0.tgz#02607cc911a2136e5aabe624c1282e821830aef2"
-  integrity sha512-lrOjbGFpjk2xpESyUx2PGsTZgptCy5xycZazPeakNbFO19cOoxjHx3xyxOHsMCYb3pQwns35UvChQT60B4u6cw==
+aws-sdk@^2.387.0, aws-sdk@^2.488.0, aws-sdk@^2.702.0, aws-sdk@^2.834.0:
+  version "2.835.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.835.0.tgz#4769360da8f807d956200c70ec81843e7a450c3f"
+  integrity sha512-codVDhqE6PD4P7m5j8T0o4jer2Gt/oy+QqU+0BhzeuH/ryT+03YJDw8mXlfMWlhQ+6ZQBMZ3+YT69/85VgR6IQ==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -6945,11 +6945,6 @@ ini@^1.3.5, ini@~1.3.0:
   version "1.3.7"
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.7.tgz#a09363e1911972ea16d7a8851005d84cf09a9a84"
   integrity sha512-iKpRpXP+CrP2jyrxvg1kMUpXDyRUFDWurxbnVT1vQPx+Wz9uCYsMIqYuSBLV+PAaZG/d7kRLKRFc9oDMsH+mFQ==
-
-ini@^1.3.8:
-  version "1.3.8"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
-  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inquirer-autocomplete-prompt@^1.3.0:
   version "1.3.0"
@@ -10773,19 +10768,19 @@ serve-static@1.14.1:
     parseurl "~1.3.3"
     send "0.17.1"
 
-serverless@^2.21.1:
-  version "2.21.1"
-  resolved "https://registry.yarnpkg.com/serverless/-/serverless-2.21.1.tgz#5f08c6d49f03cacc76cd162a9abed02e20affa7b"
-  integrity sha512-nL1iWlOoa91eWfcN8nO7PyIfZC5gibSxtB4V+ipVxIywxlVK19hNetkWus5vI7+399FN3fcCEZEbH89/+GiY6w==
+serverless@^2.22.0:
+  version "2.22.0"
+  resolved "https://registry.yarnpkg.com/serverless/-/serverless-2.22.0.tgz#fd06dd003a81dc0c763126d808c3669f87dbe94d"
+  integrity sha512-uXKeoPZfOrTU6ZpHUng7cYZfKQd8aFHfDsX11JHeznPGhBuq1KfF/14o2VEOoFPeTHTHKmHzkWbIKYhJHHBxuw==
   dependencies:
     "@serverless/cli" "^1.5.2"
-    "@serverless/components" "^3.5.1"
+    "@serverless/components" "^3.6.0"
     "@serverless/enterprise-plugin" "^4.4.2"
-    "@serverless/utils" "^3.0.0"
+    "@serverless/utils" "^3.1.0"
     ajv "^6.12.6"
     ajv-keywords "^3.5.2"
     archiver "^5.2.0"
-    aws-sdk "^2.831.0"
+    aws-sdk "^2.834.0"
     bluebird "^3.7.2"
     boxen "^5.0.0"
     cachedir "^2.3.0"
