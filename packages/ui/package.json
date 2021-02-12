@@ -11,7 +11,7 @@
     "@material-ui/icons": "^4.11.2",
     "@tsumego/api-client": "*",
     "@tsumego/api-client-authentication": "*",
-    "@types/react": "^17.0.1",
+    "@types/react": "^17.0.2",
     "@types/react-dom": "^17.0.1",
     "clsx": "^1.1.1",
     "fp-ts": "^2.9.5",
