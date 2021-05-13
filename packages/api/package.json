@@ -21,7 +21,7 @@
     "express-promise-router": "^4.0.1",
     "jstat": "^1.9.4",
     "jwks-rsa": "^1.12.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "parsimmon": "^1.16.0",
     "pg": "^8.5.1",
     "runtypes": "^5.0.1"
